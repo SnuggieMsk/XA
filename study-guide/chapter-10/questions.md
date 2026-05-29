@@ -15,13 +15,13 @@ A) Voting power in the entity  B) A share of the entity's dividend  C) Interest 
 </details>
 
 **Q2.** Periodic income earned from debt instruments is classified as:
-A) Capital gains  B) Interest income  C) Dividend income  D) Business turnover
+A) Capital gains  B) Dividend income  C) Business turnover  D) Interest income
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The workbook states periodic income from debt is "interest income"; the gain/loss on transfer or redemption is "capital gains".
+**Correct: D)** — The workbook states periodic income from debt is "interest income"; the gain/loss on transfer or redemption is "capital gains".
 - A) Wrong — capital gains arise only on transfer/redemption, not on periodic receipts.
-- C) Wrong — dividends come from shares (equity), not debt.
-- D) Wrong — "turnover" is a business-sales concept, unrelated to periodic debt income.
+- B) Wrong — dividends come from shares (equity), not debt.
+- C) Wrong — "turnover" is a business-sales concept, unrelated to periodic debt income.
 </details>
 
 **Q3.** Interest on securities, if not taxable as business income, is taxed under which head?
@@ -652,4 +652,383 @@ A) Always allowed  B) Allowed in certain cases  C) Never relevant  D) Mandatory 
 - A) and D) Wrong — it is not universally allowed/mandatory.
 - C) Wrong — it can be relevant in certain cases.
 </details>
+
+## 🔴 Tier 3 — Hard: Numerical & Scenario (Q71–Q100)
+
+**Q71.** Mr. A holds 1,000 bonds of face value Rs. 100 each, coupon 7.50% p.a., interest paid half-yearly. What is each half-yearly interest payment?
+A) Rs. 3,750  B) Rs. 7,500  C) Rs. 1,875  D) Rs. 750
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — **Formula: half-yearly interest = Face value × number × coupon × 6/12.** = 1,000 × 100 × 7.50% × 6/12 = 1,00,000 × 0.075 × 0.5 = **Rs. 3,750**.
+- B) Wrong — Rs. 7,500 is the full-year interest.
+- C) Wrong — Rs. 1,875 is a quarter's worth (3 months).
+- D) Wrong — Rs. 750 is far too small.
+</details>
+
+**Q72.** Same bonds (Q71), Mr. A follows the mercantile system. Interest accrues Jan–Mar 2024 (3 months). How much accrues for that quarter?
+A) Rs. 3,750  B) Rs. 1,875  C) Rs. 7,500  D) Rs. 937.50
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **Formula: interest = 1,00,000 × 7.50% × 3/12.** = 1,00,000 × 0.075 × 0.25 = **Rs. 1,875** for the 3-month period.
+- A) Wrong — Rs. 3,750 is 6 months.
+- C) Wrong — Rs. 7,500 is a full year.
+- D) Wrong — Rs. 937.50 would be 1.5 months.
+</details>
+
+**Q73.** Mr. A buys 400 listed bonds @ Rs. 1,200 each (01-01-2016), sells @ Rs. 2,000 each (31-07-2024). The full value of consideration is:
+A) Rs. 4,80,000  B) Rs. 8,00,000  C) Rs. 3,20,000  D) Rs. 12,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **Full value of consideration = number × sale price** = 400 × 2,000 = **Rs. 8,00,000**.
+- A) Wrong — Rs. 4,80,000 is the cost (400 × 1,200).
+- C) Wrong — Rs. 3,20,000 is the gain, not the consideration.
+- D) Wrong — Rs. 12,00,000 has no basis here.
+</details>
+
+**Q74.** Continuing Q73, the long-term capital gain is:
+A) Rs. 8,00,000  B) Rs. 4,80,000  C) Rs. 3,20,000  D) Rs. 1,20,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — **LTCG = Full value − Cost of acquisition** = 8,00,000 − (400 × 1,200 = 4,80,000) = **Rs. 3,20,000**. Held 8 yr 7 mth (>12 months, listed) → long-term.
+- A) and B) Wrong — these are the consideration and cost, not the gain.
+- D) Wrong — arithmetic does not support Rs. 1,20,000.
+</details>
+
+**Q75.** Continuing Q74, tax on the LTCG (ignoring surcharge/cess) is:
+A) Rs. 64,000  B) Rs. 40,000  C) Rs. 32,000  D) Rs. 96,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **Tax = LTCG × 12.50%** = 3,20,000 × 0.125 = **Rs. 40,000** (listed bond LTCG rate).
+- A) Wrong — Rs. 64,000 is 20%.
+- C) Wrong — Rs. 32,000 is 10%.
+- D) Wrong — Rs. 96,000 is 30%.
+</details>
+
+**Q76.** If the bonds in Q73–Q75 were UNLISTED instead, the Rs. 3,20,000 gain would be taxed:
+A) At 12.50% (LTCG)  B) As STCG at applicable slab rates  C) Exempt  D) At 20% with indexation
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Unlisted bonds are **always short-term**, so the Rs. 3,20,000 is **STCG taxed at slab rates** — no 12.50% benefit despite 8+ years.
+- A) Wrong — unlisted bonds never qualify as long-term.
+- C) Wrong — taxable.
+- D) Wrong — no indexation; slab rates apply.
+</details>
+
+**Q77.** Mr. A holds 400 bonds, face Rs. 1,000, coupon 7%, interest half-yearly. The half-yearly interest received on 30-06-2024 is:
+A) Rs. 28,000  B) Rs. 14,000  C) Rs. 7,000  D) Rs. 56,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **Formula = 400 × 1,000 × 7% × 6/12** = 4,00,000 × 0.07 × 0.5 = **Rs. 14,000**.
+- A) Wrong — Rs. 28,000 is the full-year interest.
+- C) Wrong — Rs. 7,000 is a quarter (3 months).
+- D) Wrong — Rs. 56,000 is double the annual interest.
+</details>
+
+**Q78.** Continuing Q77 (mercantile), interest accrued for April–June 2024 (3 months) is:
+A) Rs. 14,000  B) Rs. 7,000  C) Rs. 28,000  D) Rs. 3,500
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **= 4,00,000 × 7% × 3/12** = 4,00,000 × 0.07 × 0.25 = **Rs. 7,000** accrued for the quarter.
+- A) Wrong — Rs. 14,000 is 6 months.
+- C) Wrong — Rs. 28,000 is a full year.
+- D) Wrong — Rs. 3,500 would be 1.5 months.
+</details>
+
+**Q79.** Mr. A acquires a 9% listed bond, face Rs. 10,000, on 01-04-2024. Quarterly interest received for the quarter ending 30-06-2024 is:
+A) Rs. 900  B) Rs. 450  C) Rs. 225  D) Rs. 75
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — **Formula = Face × 9% × 1/4** = 10,000 × 0.09 × 0.25 = **Rs. 225** per quarter.
+- A) Wrong — Rs. 900 is the full-year interest.
+- B) Wrong — Rs. 450 is half a year.
+- D) Wrong — Rs. 75 is one month's interest.
+</details>
+
+**Q80.** Same 9% bond (Q79) sold 01-11-2024. Interest accrued for October 2024 (1 month, not yet received) is:
+A) Rs. 225  B) Rs. 75  C) Rs. 150  D) Rs. 900
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **= 10,000 × 9% × 1/12** = 10,000 × 0.09 ÷ 12 = **Rs. 75** for one month.
+- A) Wrong — Rs. 225 is a quarter.
+- C) Wrong — Rs. 150 would be 2 months.
+- D) Wrong — Rs. 900 is a full year.
+</details>
+
+**Q81.** The 9% bond (Q79–Q80) received two quarters' interest (Rs. 225 each) plus Rs. 75 accrued. Total taxable interest income is:
+A) Rs. 450  B) Rs. 525  C) Rs. 675  D) Rs. 300
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **Total interest = 225 + 225 + 75 = Rs. 525.** Two received quarters plus the one month accrued to date of sale.
+- A) Wrong — Rs. 450 omits the Rs. 75 accrual.
+- C) Wrong — Rs. 675 over-counts a quarter.
+- D) Wrong — Rs. 300 has no basis.
+</details>
+
+**Q82.** The 9% bond sold for Rs. 13,000 inclusive of Rs. 75 accrued interest. The adjusted sale consideration for capital gains is:
+A) Rs. 13,000  B) Rs. 12,925  C) Rs. 13,075  D) Rs. 12,775
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **Adjusted consideration = Sale price − accrued interest** = 13,000 − 75 = **Rs. 12,925**. The Rs. 75 is taxed separately as interest, so it is removed from the sale figure.
+- A) Wrong — that still includes the interest portion.
+- C) Wrong — you subtract, not add, the accrued interest.
+- D) Wrong — over-subtracts.
+</details>
+
+**Q83.** Continuing Q82, cost of acquisition was Rs. 10,500. The short-term capital gain is:
+A) Rs. 2,500  B) Rs. 2,425  C) Rs. 2,575  D) Rs. 2,500
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **STCG = Adjusted consideration − cost** = 12,925 − 10,500 = **Rs. 2,425** (held under 12 months → short-term, taxed at applicable rate).
+- A) and D) Wrong — Rs. 2,500 would ignore the interest carve-out (13,000 − 10,500).
+- C) Wrong — arithmetic does not support it.
+</details>
+
+**Q84.** XYZ Bank holds 40,000 Dated G-Secs, face Rs. 100, coupon 7.50%. Interest accrued for April–Dec 2024 (9 months) is:
+A) Rs. 3,00,000  B) Rs. 2,25,000  C) Rs. 1,50,000  D) Rs. 4,50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **= 40,000 × 100 × 7.50% × 9/12** = 40,00,000 × 0.075 × 0.75 = **Rs. 2,25,000**.
+- A) Wrong — Rs. 3,00,000 is a full year.
+- C) Wrong — Rs. 1,50,000 is 6 months.
+- D) Wrong — Rs. 4,50,000 doubles the figure.
+</details>
+
+**Q85.** XYZ Bank's 40,000 G-Secs were bought (issue price) at Rs. 125 each and sold at Rs. 150 each. The full value of consideration is:
+A) Rs. 50,00,000  B) Rs. 60,00,000  C) Rs. 40,00,000  D) Rs. 10,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **= 40,000 × 150** = **Rs. 60,00,000**.
+- A) Wrong — Rs. 50,00,000 is the cost (40,000 × 125).
+- C) Wrong — Rs. 40,00,000 would be at face value.
+- D) Wrong — Rs. 10,00,000 is the gain, not the consideration.
+</details>
+
+**Q86.** Continuing Q85, the capital gain is:
+A) Rs. 60,00,000  B) Rs. 50,00,000  C) Rs. 10,00,000  D) Rs. 5,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — **Gain = 60,00,000 − (40,000 × 125 = 50,00,000)** = **Rs. 10,00,000**.
+- A) and B) Wrong — these are consideration and cost.
+- D) Wrong — arithmetic gives Rs. 10,00,000, not Rs. 5,00,000.
+</details>
+
+**Q87.** In Q86, the G-Secs are UNLISTED and held 10 years. The Rs. 10,00,000 gain is taxed as:
+A) LTCG at 12.50%  B) STCG at applicable rate (always short-term)  C) Exempt  D) Interest income
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The workbook's example treats these unlisted Dated G-Secs as **always short-term irrespective of holding period**, taxed at the applicable rate.
+- A) Wrong — no long-term benefit applies in this example.
+- C) Wrong — taxable.
+- D) Wrong — it is a capital gain.
+</details>
+
+**Q88.** Mr. X buys 5,000 listed tax-free NABARD bonds @ Rs. 120, redeems @ Rs. 150. Full value of consideration is:
+A) Rs. 6,00,000  B) Rs. 7,50,000  C) Rs. 1,50,000  D) Rs. 3,75,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **= 5,000 × 150** = **Rs. 7,50,000**.
+- A) Wrong — Rs. 6,00,000 is the cost (5,000 × 120).
+- C) Wrong — Rs. 1,50,000 is the gain.
+- D) Wrong — no basis.
+</details>
+
+**Q89.** Continuing Q88, the long-term capital gain (held over 12 months, listed) is:
+A) Rs. 7,50,000  B) Rs. 6,00,000  C) Rs. 1,50,000  D) Rs. 30,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — **LTCG = 7,50,000 − (5,000 × 120 = 6,00,000)** = **Rs. 1,50,000**. (Interest on these bonds is exempt; only the gain is taxed.)
+- A) and B) Wrong — consideration and cost.
+- D) Wrong — Rs. 30,000 is the per-unit gain × 1,000, not 5,000.
+</details>
+
+**Q90.** Continuing Q89, the tax on the Rs. 1,50,000 LTCG (listed, >12 months) is:
+A) Rs. 18,750  B) Rs. 15,000  C) Rs. 30,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — **Tax = 1,50,000 × 12.50%** = **Rs. 18,750**.
+- B) Wrong — Rs. 15,000 is 10%.
+- C) Wrong — Rs. 30,000 is 20%.
+- D) Wrong — only interest is exempt; the gain is taxable.
+</details>
+
+**Q91.** Mr. A buys 1,000 units of a debt-oriented MF @ Rs. 150 (01-01-2017, an "Other MF"), sells @ Rs. 300 (15-03-2025). Full value of consideration is:
+A) Rs. 1,50,000  B) Rs. 3,00,000  C) Rs. 4,50,000  D) Rs. 1,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **= 1,000 × 300** = **Rs. 3,00,000**.
+- A) Wrong — that is the cost (1,000 × 150).
+- C) Wrong — no basis.
+- D) Wrong — no basis.
+</details>
+
+**Q92.** Continuing Q91, since held over 24 months (8+ years) the gain is long-term. The LTCG is:
+A) Rs. 3,00,000  B) Rs. 1,50,000  C) Rs. 4,50,000  D) Rs. 75,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **LTCG = 3,00,000 − (1,000 × 150 = 1,50,000)** = **Rs. 1,50,000**, taxed at 12.50%. Bought pre-April-2023, so it is an Other MF (not under Section 50AA).
+- A) Wrong — that is consideration.
+- C) Wrong — no basis.
+- D) Wrong — arithmetic gives Rs. 1,50,000.
+</details>
+
+**Q93.** Tax on the Rs. 1,50,000 LTCG in Q92 is:
+A) Rs. 18,750  B) Rs. 15,000  C) Rs. 30,000  D) Rs. 45,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — **Tax = 1,50,000 × 12.50%** = **Rs. 18,750** (Other MF, listed/long-term).
+- B) Wrong — 10%.
+- C) Wrong — 20%.
+- D) Wrong — 30%.
+</details>
+
+**Q94.** Had the fund in Q91 instead been an SMF Type 1 bought after 01-04-2023, the Rs. 1,50,000 gain would be:
+A) LTCG at 12.50%  B) STCG at slab rates (Section 50AA)  C) Exempt  D) Taxed at 20%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — An SMF Type 1 is governed by Section 50AA: **always STCG at slab rates**, regardless of the long holding period.
+- A) Wrong — no long-term benefit under 50AA.
+- C) Wrong — taxable.
+- D) Wrong — slab rates, not a flat 20%.
+</details>
+
+**Q95.** A resident gets Rs. 5,00,000 dividend from a debt MF, paid Rs. 1,50,000 interest. The maximum deductible interest is:
+A) Rs. 1,50,000  B) Rs. 1,00,000  C) Rs. 50,000  D) Rs. 75,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **Max deduction = 20% × dividend** = 20% × 5,00,000 = **Rs. 1,00,000** (capped, even though Rs. 1,50,000 paid).
+- A) Wrong — actual paid is above the cap.
+- C) Wrong — that is 10%.
+- D) Wrong — that is 15%.
+</details>
+
+**Q96.** Continuing Q95, the taxable dividend for the resident is:
+A) Rs. 5,00,000  B) Rs. 4,00,000  C) Rs. 3,50,000  D) Rs. 4,50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **Taxable dividend = dividend − allowed deduction** = 5,00,000 − 1,00,000 = **Rs. 4,00,000** (at slab rates).
+- A) Wrong — that ignores the allowed Rs. 1,00,000 deduction.
+- C) Wrong — would deduct Rs. 1,50,000, which exceeds the cap.
+- D) Wrong — would deduct only Rs. 50,000.
+</details>
+
+**Q97.** If the investor in Q95 were a NON-RESIDENT, the taxable dividend and rate would be:
+A) Rs. 4,00,000 at slab rates  B) Rs. 5,00,000 at 20% (subject to DTAA), no deduction  C) Rs. 5,00,000 at slab rates  D) Rs. 1,00,000 at 20%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A non-resident gets **no deduction**, so the full **Rs. 5,00,000 is taxed at 20%** (subject to DTAA).
+- A) Wrong — that is the resident treatment.
+- C) Wrong — non-resident dividend is at 20%, not slab.
+- D) Wrong — the whole dividend is taxed, not just Rs. 1,00,000.
+</details>
+
+**Q98.** A non-resident's LTCG on a listed debenture of an Indian public company purchased in foreign currency, gain Rs. 8,00,000, is taxed under Section 115E at:
+A) Rs. 1,60,000 (20%)  B) Rs. 1,00,000 (12.50%)  C) Rs. 80,000 (10%)  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **Tax = 8,00,000 × 12.50%** = **Rs. 1,00,000** (Section 115E rate, no indexation/forex benefit).
+- A) Wrong — 20% is not the 115E rate.
+- C) Wrong — 10% is not applicable.
+- D) Wrong — the gain is taxable.
+</details>
+
+**Q99.** An NRI under Chapter XII-A has LTCG of Rs. 6,00,000 and reinvests the ENTIRE net consideration in eligible assets within 6 months. The taxable LTCG is:
+A) Rs. 6,00,000  B) Rs. 3,00,000  C) Nil (fully exempt)  D) Rs. 75,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — When the **entire net consideration is reinvested** within 6 months, the **whole LTCG is exempt** → taxable LTCG is **Nil**.
+- A) Wrong — full exemption applies on complete reinvestment.
+- B) Wrong — that would be partial reinvestment.
+- D) Wrong — no tax arises on full reinvestment.
+</details>
+
+**Q100.** Mr. Z (NR, US resident) earns Rs. 10,00,000 interest from Indian debentures. India-USA DTAA Article 11 rate is 15%. Tax payable in India is:
+A) Rs. 3,00,000  B) Rs. 1,50,000  C) Rs. 2,00,000  D) Rs. 1,25,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Choosing the beneficial DTAA rate, **tax = 10,00,000 × 15%** = **Rs. 1,50,000** (and he gets a US tax credit for this).
+- A) Wrong — Rs. 3,00,000 is 30% (slab), higher and not beneficial.
+- C) Wrong — Rs. 2,00,000 is 20%.
+- D) Wrong — Rs. 1,25,000 is 12.50%, which is the capital-gains rate, not the interest DTAA rate.
+</details>
+
+## 🧩 Case Study
+
+**Scenario — Mr. Mehta's debt portfolio (FY 2024-25):**
+
+Mr. Mehta is a **resident individual** following the **mercantile system** of accounting. During FY 2024-25 the following events occur:
+
+1. He holds **2,000 listed bonds** of ABC Ltd., face value Rs. 1,000 each, **coupon 8% p.a.**, interest paid half-yearly (30 June and 31 December). He has held them since 01-01-2018.
+2. On **31-12-2024** he **sells all 2,000 bonds at Rs. 1,400 each** (price is ex-interest; the half-yearly interest to 31-12-2024 was separately received).
+3. He also holds **1,000 units of a debt-oriented mutual fund (an "Other MF")** bought on 01-02-2020 @ Rs. 200, sold on 01-02-2025 @ Rs. 320.
+4. He bought **500 units of an SMF Type 1** (a debt fund, ≥65% debt, bought 01-05-2023 @ Rs. 100) and sold them on 01-03-2025 @ Rs. 130.
+5. He received **Rs. 80,000 dividend (IDCW)** from the debt mutual fund and paid **Rs. 30,000 interest** on money borrowed to invest in it.
+
+---
+
+<details><summary>Sub-question 1: What is Mr. Mehta's taxable INTEREST income from the ABC Ltd. bonds for FY 2024-25? (assume both half-yearly payments fall in the year)</summary>
+
+**Answer: Rs. 1,60,000.**
+
+**Formula: annual interest = number × face value × coupon rate.**
+- Total face value = 2,000 × Rs. 1,000 = Rs. 20,00,000.
+- Annual interest = 20,00,000 × 8% = **Rs. 1,60,000**.
+
+He receives two half-yearly payments of Rs. 80,000 each (20,00,000 × 8% × 6/12) on 30 June and 31 December 2024. Both fall in FY 2024-25, so total interest = 80,000 + 80,000 = **Rs. 1,60,000**, taxed under **Income from Other Sources at slab rates**. Because the sale on 31-12-2024 is ex-interest (interest received separately), there is no accrued-interest carve-out to worry about here.
+</details>
+
+<details><summary>Sub-question 2: Compute the capital gain on the ABC Ltd. bonds and the tax on it.</summary>
+
+**Answer: LTCG Rs. 8,00,000; tax Rs. 1,00,000.**
+
+- **Period of holding:** 01-01-2018 to 31-12-2024 = about 7 years → more than 12 months, and the bonds are **listed** → **long-term capital asset**.
+- **Full value of consideration** = 2,000 × Rs. 1,400 = Rs. 28,00,000.
+- **Cost of acquisition** = 2,000 × Rs. 1,000 = Rs. 20,00,000.
+- **LTCG = 28,00,000 − 20,00,000 = Rs. 8,00,000.**
+- **Tax = LTCG × 12.50%** (listed bond rate, no indexation) = 8,00,000 × 0.125 = **Rs. 1,00,000**.
+
+Intuition: listed bonds held over a year get the concessional 12.50% rate, much lower than slab rates.
+</details>
+
+<details><summary>Sub-question 3: Compute the capital gain on the 1,000 debt MF units (the "Other MF") and the tax.</summary>
+
+**Answer: LTCG Rs. 1,20,000; tax Rs. 15,000.**
+
+- **Period of holding:** 01-02-2020 to 01-02-2025 = 5 years. This fund was bought **before 01-04-2023**, so it is an **"Other Mutual Fund"** (Section 50AA does not apply). For an Other MF, the long-term threshold is 24 months (unlisted) / 12 months (listed); 5 years easily clears it → **long-term**.
+- **Full value of consideration** = 1,000 × Rs. 320 = Rs. 3,20,000.
+- **Cost** = 1,000 × Rs. 200 = Rs. 2,00,000.
+- **LTCG = 3,20,000 − 2,00,000 = Rs. 1,20,000.**
+- **Tax = 1,20,000 × 12.50% = Rs. 15,000.**
+
+Intuition: pre-April-2023 debt funds still enjoy long-term treatment at 12.50%; the 50AA "always short-term" rule does not catch them.
+</details>
+
+<details><summary>Sub-question 4: Compute the capital gain on the 500 SMF Type 1 units and the tax treatment. Contrast with sub-question 3.</summary>
+
+**Answer: Gain Rs. 15,000, taxed as SHORT-TERM at slab rates (Section 50AA).**
+
+- **Full value of consideration** = 500 × Rs. 130 = Rs. 65,000.
+- **Cost** = 500 × Rs. 100 = Rs. 50,000.
+- **Gain = 65,000 − 50,000 = Rs. 15,000.**
+- This fund is an **SMF Type 1** (≥65% debt, bought after 01-04-2023), so **Section 50AA applies**: the Rs. 15,000 is **short-term capital gain irrespective of holding period**, taxed at **Mr. Mehta's slab rates** — no 12.50% benefit, no holding-period benefit, and cost of improvement is nil.
+
+**Contrast:** The Other MF in sub-question 3 (bought pre-April-2023) got the 12.50% long-term rate, whereas this otherwise-similar debt fund bought after 01-04-2023 is forced into short-term slab-rate taxation. Same asset class, very different tax — purely because of the **purchase date** crossing 01-04-2023.
+</details>
+
+<details><summary>Sub-question 5: Compute the taxable dividend (IDCW) from the debt mutual fund. How would it change if Mr. Mehta were a non-resident?</summary>
+
+**Answer (resident): taxable dividend Rs. 64,000. Non-resident: full Rs. 80,000 at 20%.**
+
+**Resident:**
+- **Max interest deduction = 20% × dividend** = 20% × 80,000 = Rs. 16,000.
+- He paid Rs. 30,000, but only Rs. 16,000 is allowed (capped at 20%).
+- **Taxable dividend = 80,000 − 16,000 = Rs. 64,000**, taxed at slab rates.
+
+**Non-resident:**
+- A non-resident gets **no deduction at all** (not even the 20% interest, nor Chapter VIA / 80C–80U).
+- The **entire Rs. 80,000 is taxable at 20%** (subject to DTAA) = tax of Rs. 16,000.
+
+Intuition: residents get a small (20%-capped) interest deduction against dividend; non-residents get nothing but a flat concessional 20% rate.
+</details>
+
+
 

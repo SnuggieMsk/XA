@@ -173,11 +173,11 @@ A) A bank cheque  B) A promissory note between friends  C) A credit card  D) A d
 </details>
 
 **Q20.** Under Section 145, interest on securities is computed according to the assessee's:
-A) Residential status  B) Method of accounting  C) Age  D) Tax slab
+A) Method of accounting  B) Residential status  C) Age  D) Tax slab
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 145 requires interest on securities to be computed in accordance with the method of accounting regularly employed by the assessee.
-- A), C), D) Wrong — residential status, age and slab do not decide the timing/basis of charge here.
+**Correct: A)** — Section 145 requires interest on securities to be computed in accordance with the method of accounting regularly employed by the assessee.
+- B), C), D) Wrong — residential status, age and slab do not decide the timing/basis of charge here.
 </details>
 
 **Q21.** Under the mercantile system of accounting, interest on securities is taxable on a:
@@ -190,30 +190,30 @@ A) Receipt basis  B) Accrual basis  C) Cash basis  D) Due-date-only basis
 </details>
 
 **Q22.** Under the cash system of accounting, interest on securities is taxable on a:
-A) Accrual basis  B) Receipt basis  C) Estimated basis  D) Notional basis
+A) Receipt basis  B) Accrual basis  C) Estimated basis  D) Notional basis
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Under the cash system, interest on securities is taxable on a receipt basis.
-- A) Wrong — accrual basis applies under the mercantile system.
+**Correct: A)** — Under the cash system, interest on securities is taxable on a receipt basis.
+- B) Wrong — accrual basis applies under the mercantile system.
 - C), D) Wrong — these are not recognised bases under the Act.
 </details>
 
 **Q23.** Which deduction is permissible against gross interest from securities?
-A) Personal living expenses  B) Collection charges  C) Income tax paid  D) Donations to friends
+A) Collection charges  B) Personal living expenses  C) Income tax paid  D) Donations to friends
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Collection charges are a permissible deduction against gross interest from securities (along with interest on borrowings to buy the securities and other revenue expenditure wholly and exclusively for earning that income).
-- A), C), D) Wrong — personal expenses, income tax and personal donations are not permissible deductions here.
+**Correct: A)** — Collection charges are a permissible deduction against gross interest from securities (along with interest on borrowings to buy the securities and other revenue expenditure wholly and exclusively for earning that income).
+- B), C), D) Wrong — personal expenses, income tax and personal donations are not permissible deductions here.
 </details>
 
 **Q24.** Interest on money borrowed to purchase securities is:
-A) Not deductible at all  B) Deductible against the interest income from securities  C) Deductible only up to ₹50,000  D) Added to the income
+A) Not deductible at all  B) Deductible only up to ₹50,000  C) Added to the income  D) Deductible against the interest income from securities
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Interest on borrowings obtained to purchase securities is a permissible deduction against interest income from securities.
+**Correct: D)** — Interest on borrowings obtained to purchase securities is a permissible deduction against interest income from securities.
 - A) Wrong — it is deductible.
-- C) Wrong — there is no ₹50,000 cap on this deduction.
-- D) Wrong — it is subtracted, not added.
+- B) Wrong — there is no ₹50,000 cap on this deduction.
+- C) Wrong — it is subtracted, not added.
 </details>
 
 **Q25.** If securities are held as stock-in-trade, profit on their sale is chargeable under:
@@ -226,11 +226,11 @@ A) Capital gains  B) IFOS  C) PGBP (business income)  D) Salaries
 </details>
 
 **Q26.** If securities are held as an investment, profit on their sale is chargeable under:
-A) PGBP  B) Capital gains  C) IFOS  D) House property
+A) Capital gains  B) PGBP  C) IFOS  D) House property
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — If securities are held as an investment, profit on sale is chargeable under capital gains.
-- A) Wrong — PGBP applies for stock-in-trade.
+**Correct: A)** — If securities are held as an investment, profit on sale is chargeable under capital gains.
+- B) Wrong — PGBP applies for stock-in-trade.
 - C), D) Wrong — neither IFOS nor house property covers this profit.
 </details>
 
@@ -260,11 +260,11 @@ A) The last day of the preceding month  B) The date on which tax is required to 
 </details>
 
 **Q30.** For non-residents, certain interest incomes are taxable at:
-A) Higher penal rates  B) Concessional rates  C) Zero rate always  D) A flat 30%
+A) Concessional rates  B) Higher penal rates  C) Zero rate always  D) A flat 30%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For non-residents, certain interest incomes are taxable at concessional rates (per the Special tax rates in Annexure 1).
-- A), D) Wrong — the workbook says concessional, not penal/flat 30%.
+**Correct: A)** — For non-residents, certain interest incomes are taxable at concessional rates (per the Special tax rates in Annexure 1).
+- B), D) Wrong — the workbook says concessional, not penal/flat 30%.
 - C) Wrong — it is concessional, not always zero.
 </details>
 
@@ -277,20 +277,20 @@ A) ₹10,000  B) ₹25,000  C) ₹50,000  D) ₹1,00,000
 </details>
 
 **Q32.** For the gift provisions, "movable property" is stated to include:
-A) Land and buildings  B) Shares and securities  C) Agricultural land only  D) Jewellery only
+A) Shares and securities  B) Land and buildings  C) Agricultural land only  D) Jewellery only
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For this provision, movable property shall include shares and securities.
-- A) Wrong — land and buildings are immovable property.
+**Correct: A)** — For this provision, movable property shall include shares and securities.
+- B) Wrong — land and buildings are immovable property.
 - C), D) Wrong — the workbook specifically mentions shares and securities here.
 </details>
 
 **Q33.** A gift received on the occasion of the marriage of the individual is:
-A) Always taxable  B) Not chargeable to tax  C) Taxable only if above ₹50,000  D) Taxable at a flat 30%
+A) Always taxable  B) Taxable only if above ₹50,000  C) Taxable at a flat 30%  D) Not chargeable to tax
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Income does not arise if money/property is received on the occasion of the marriage of the individual.
-- A), C), D) Wrong — the marriage exception is unconditional under this provision, so it is not taxable.
+**Correct: D)** — Income does not arise if money/property is received on the occasion of the marriage of the individual.
+- A), B), C) Wrong — the marriage exception is unconditional under this provision, so it is not taxable.
 </details>
 
 **Q34.** A gift received under a will or by way of inheritance is:

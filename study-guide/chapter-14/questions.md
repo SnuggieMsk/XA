@@ -679,3 +679,382 @@ A) Each take a full separate share  B) Together take one share, inherited jointl
 - C) Widows are Class I heirs, not excluded.
 - D) There is no such doubling rule.
 </details>
+
+## 🔴 Tier 3 — Hard: Scenario (Q71–Q100)
+
+**Q71.** A Hindu male, Anand, dies intestate. Survivors: widow, mother, and two sons. There are no pre-deceased children. How is his estate divided?
+A) Widow 1/2, rest split  B) Each of the four takes 1/4  C) Widow 1/3, mother 1/3, sons share 1/3  D) Sons take everything
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — All four are Class I heirs. Section 10: widow takes one share (Rule 1), and each surviving son and the mother take one share each (Rule 2). That is 4 equal shares: widow, mother, son, son. Each gets 1 ÷ 4 = 1/4.
+- A) The widow does not get a privileged 1/2 among living Class I heirs.
+- C) There are four claimants, not three; sons each count separately.
+- D) The widow and mother are also Class I heirs and cannot be excluded.
+</details>
+
+**Q72.** Hindu male Bhola dies intestate leaving a widow, one son, and the two children (a son and a daughter) of a PRE-DECEASED son. How is the estate split at the top level?
+A) Three equal shares to widow, son, and the pre-deceased son's branch  B) Everything to the surviving son  C) Widow 1/2, surviving son 1/2  D) Each grandchild gets a full share
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Section 10: widow = one share (Rule 1); surviving son = one share (Rule 2); the branch of the pre-deceased son takes one share between them (Rule 3). So 3 shares of 1/3 each. The pre-deceased son's branch's 1/3 is then split between his son and daughter (1/6 each).
+- B) The widow and the deceased son's branch cannot be excluded.
+- C) This ignores the pre-deceased son's branch entirely.
+- D) Grandchildren in a branch share ONE share between them, not a full share each.
+</details>
+
+**Q73.** Continuing Q72: what does each grandchild (the son and daughter of the pre-deceased son) actually receive?
+A) 1/3 each  B) 1/6 each  C) 1/2 each  D) Nothing — grandchildren are excluded
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The pre-deceased son's branch takes one share = 1/3 (from Q72). Under Section 10 Rule 4, within that branch the surviving son and daughter get equal proportions: 1/3 ÷ 2 = 1/6 each.
+- A) 1/3 is the whole branch's share, not each child's.
+- C) 1/2 each would consume the whole estate.
+- D) Children of a pre-deceased son are Class I heirs and definitely inherit.
+</details>
+
+**Q74.** Chandni, a Hindu woman, dies intestate. She is survived by her husband, one daughter, and her own mother and father. Under Section 15, who inherits her property?
+A) The husband and daughter only  B) The mother and father only  C) All four equally  D) Only the husband
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Section 15(a): a Hindu female's property goes first to her sons and daughters (and children of pre-deceased children) and her husband. The mother and father only come into the picture (clause c) if there are no heirs under clause (a). Since the daughter and husband exist, they inherit and the parents are excluded.
+- B) Parents are postponed to the children and husband.
+- C) The parents do not share alongside the first-category heirs.
+- D) The daughter is also a first-category heir under Section 15(a).
+</details>
+
+**Q75.** Deepak, a Hindu, dies intestate, unmarried, with no children and no living parents. He is survived by one brother and three sisters. How is his estate distributed?
+A) Brother takes all (male preference)  B) Brother and three sisters share equally (1/4 each)  C) Sisters share, brother excluded  D) It escheats to the Government
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — With no Class I heirs (no spouse, children, or mother) and no father, succession goes to Class II. Brother and sister sit in the SAME Class II entry (Entry II), so under Section 11 they share equally: 1 ÷ 4 = 1/4 each. This mirrors the workbook caselet.
+- A) There is no male-preference rule in Hindu Class II sharing.
+- C) The brother is in the same entry as the sisters and is not excluded.
+- D) Escheat is a Muslim-law concept; here Class II heirs exist.
+</details>
+
+**Q76.** Esha, a Hindu, dies intestate leaving only an adopted son and a brother. Who inherits?
+A) Brother only  B) Adopted son and brother equally  C) Adopted son only  D) Half each because adoption is "half blood"
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — An adopted child is treated as equivalent to a full-blood natural child and is a Class I heir. Class I heirs exclude all others (the brother is Class II). So the adopted son takes the entire estate.
+- A) The brother (Class II) is excluded when a Class I heir exists.
+- B) They are in different classes, so they do not share.
+- D) Adoption is treated as full blood, not half blood; the son does not split with a Class II heir.
+</details>
+
+**Q77.** Farhan, a Sunni Muslim, dies leaving a wife and two sons (no daughters, no parents). After the wife's fixed share, how is the remainder distributed among the sons?
+A) Wife 1/8, sons share the remaining 7/8 equally  B) Wife 1/4, sons share 3/4 equally  C) Wife takes nothing  D) Eldest son takes all
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — The couple has lineal descendants (the sons), so the wife takes 1/8. The residue (1 − 1/8 = 7/8) goes to the sons as residuaries; with no daughters they share equally: each son gets 7/16.
+- B) 1/4 is the wife's share only when there are NO descendants; here there are.
+- C) A widow is never excluded under Muslim law.
+- D) There is no eldest-takes-all rule.
+</details>
+
+**Q78.** Gulnaaz, a Muslim, dies leaving a husband and one son and one daughter. The husband's share is fixed first. What share does the husband take?
+A) 1/2  B) 1/4  C) 1/8  D) 2/3
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A husband takes 1/2 where the wife had no lineal descendants, and 1/4 otherwise. Here there are descendants (son and daughter), so the husband takes 1/4.
+- A) 1/2 applies only when there are no lineal descendants.
+- C) 1/8 is a wife's (not husband's) share with descendants.
+- D) 2/3 is the joint share of multiple daughters.
+</details>
+
+**Q79.** Continuing Q78: after the husband takes 1/4, the residue is shared by the son and daughter as residuaries. How much does the daughter get?
+A) Same as the son  B) Double the son  C) Half the son (son gets double)  D) Nothing
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — When both sons and daughters exist, daughters become residuary and the residue is split so each son gets double each daughter. The residue is 3/4. Split into 3 parts (son = 2, daughter = 1): daughter = 1/3 × 3/4 = 1/4; son = 2/3 × 3/4 = 1/2. So the daughter gets half of what the son gets.
+- A) Sons and daughters do not take equally under Muslim residuary rules.
+- B) The son, not the daughter, takes double.
+- D) The daughter is not excluded; she becomes a residuary.
+</details>
+
+**Q80.** A Muslim man with two sons but no daughters writes a Wasiyat trying to leave his entire estate to a charity. Is this valid?
+A) Yes, a Muslim can will away everything  B) No — a Muslim can will away at most 1/3 of net assets; the other 2/3 must go to heirs  C) Yes, but only if registered  D) No — Muslims cannot make Wills
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Muslim law permits disposing of no more than one-third of net assets by Will; the remaining two-thirds must be available for the heirs. Willing away the entire estate exceeds the limit.
+- A) The 1/3 cap prevents willing away everything.
+- C) Registration is not what cures the over-limit problem; the cap is substantive.
+- D) Muslims can make Wills (Wasiyat) up to the 1/3 limit.
+</details>
+
+**Q81.** A Muslim man marries during a terminal illness and dies of that illness without recovering or consummating the marriage. His widow's inheritance right is:
+A) Full 1/4 share  B) Full 1/8 share  C) No right of inheritance  D) Half of a son's share
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — If a Muslim man marries during an illness and dies of that condition without brief recovery or consummating the marriage, his widow has no right of inheritance.
+- A), B) These widow shares do not apply in this special situation.
+- D) Female-half-of-male is the general rule, but here the widow gets nothing.
+</details>
+
+**Q82.** Hari, a Hindu, dies intestate survived only by his father's father (paternal grandfather) and a sister. Who inherits?
+A) Grandfather and sister equally  B) Sister only  C) Father's father only  D) Neither — escheat
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Both are Class II heirs but in different entries. The sister is in Entry II; the father's father is in Entry IV. Under Section 9, the earlier entry (Entry II) is preferred, so the sister inherits to the exclusion of the grandfather.
+- A) Different entries do not share equally.
+- C) The grandfather is in a later entry and is excluded.
+- D) Escheat is a Muslim-law concept; Class II heirs exist here.
+</details>
+
+**Q83.** Isha appoints her brother as the nominee for her bank fixed deposit. On her death, her legal heirs (husband and son) claim the money. The nominee:
+A) Becomes the permanent owner of the FD  B) Holds the money as custodian and must pass it to the legal heirs  C) Can split it however he wishes  D) Inherits ahead of the husband and son
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A nominee's rights are limited to holding the asset as custodian until it is transferred to the rightful legal heirs (for assets like a bank FD).
+- A) A nominee is generally not the permanent owner.
+- C) The nominee cannot freely allocate; the asset belongs to the legal heirs.
+- D) The legal heirs, not the nominee, have the ownership right here.
+</details>
+
+**Q84.** Jay names his spouse as the nominee in his life insurance policy. Under the new Insurance Act, on Jay's death the spouse:
+A) Is only a custodian who must hand the money to other heirs  B) Is a beneficial nominee who can keep and consume the proceeds  C) Gets nothing because spouses cannot be nominees  D) Must share equally with Jay's brothers
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Under the new Insurance Act, if Parents, Spouse or Children are the nominee, they automatically become beneficial nominees and can consume the money too. So the spouse keeps the proceeds.
+- A) That custodian rule applies to ordinary nominations, not beneficial nominees under insurance.
+- C) Spouses certainly can be nominees.
+- D) Brothers do not get a forced share against a beneficial-nominee spouse here.
+</details>
+
+**Q85.** Karan, a Hindu, dies intestate with NO Class I heirs, NO Class II heirs, but a surviving relative connected to him wholly through males. This relative inherits as a/an:
+A) Cognate  B) Agnate  C) Sharer  D) Residuary
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Section 8 priority: when there is no Class I or Class II heir, the property goes to agnates (related wholly through males), before cognates.
+- A) A cognate is preferred only after agnates are exhausted.
+- C), D) Sharer/residuary are Muslim-law categories.
+</details>
+
+**Q86.** Two agnates compete to inherit. One has fewer degrees of ascent than the other. Under Section 12, who is preferred?
+A) The one with MORE degrees of ascent  B) The one with FEWER or no degrees of ascent  C) They always take equally  D) The younger one
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Section 12 Rule 1: of two heirs, the one with fewer or no degrees of ascent is preferred. (Rule 2 uses descent only if ascent is equal; Rule 3 lets them take together if neither is preferred.)
+- A) The opposite — fewer is better.
+- C) Equal sharing happens only when neither is preferable.
+- D) Age is irrelevant; degrees of ascent/descent decide.
+</details>
+
+**Q87.** Under Section 13, when computing degrees for agnates/cognates, the degrees of ascent or descent are counted:
+A) Excluding the intestate  B) Inclusive of the intestate, with every generation being one degree  C) Only from the heir's side  D) Counting only male links
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Section 13: degrees of ascent/descent are computed inclusive of the intestate, and every generation constitutes one degree.
+- A) The intestate IS included.
+- C) Computation runs from the intestate to the heir.
+- D) Counting male-only links defines agnate vs cognate, not the degree computation.
+</details>
+
+**Q88.** Lata's father dies intestate (Hindu). He has remarried; Lata is from his first marriage and her step-brother is from the second marriage. Lata and the step-brother are related by:
+A) Full blood  B) Half blood  C) Uterine blood  D) No relation at all
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Same father, different mothers = half-blood relationship. (Both are still children/Class I heirs of the father, so both inherit; the blood term describes their relationship to each other.)
+- A) Full blood would require the same mother too.
+- C) Uterine = same mother, different father — the reverse situation.
+- D) They share the father, so they are related.
+</details>
+
+**Q89.** A Hindu woman's two children, Meena and Naveen, have the same mother but different fathers (uterine). The mother dies intestate. Regarding inheriting from the MOTHER's estate:
+A) Both are excluded as uterine relatives  B) Both inherit as her own children under Section 15(a)  C) Only Meena inherits  D) Neither, because uterine relations never inherit
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The uterine-exclusion rule keeps uterine brothers/sisters out of the *Class I/Class II schedule* (for a male intestate). But here the mother is the intestate, and both children are HER own sons/daughters, who inherit first under Section 15(a) of a Hindu female's succession.
+- A), D) The exclusion applies to uterine siblings inheriting via the schedule, not to a mother's own children inheriting from her.
+- C) Both are her children, so both inherit.
+</details>
+
+**Q90.** Om, a Hindu, leaves a valid registered Will giving his house to his nephew, while his only son is alive. Which statement is correct?
+A) The son automatically overrides the Will and takes the house  B) The Will (testamentary succession) governs, so the nephew gets the house  C) Class I heir rules force the house to the son  D) The house escheats to the Government
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Class I/II rules apply to INTESTATE succession (no Will). Here Om made a valid Will, so testamentary succession under the Indian Succession Act, 1925 governs and the house passes to the nephew as Om directed.
+- A), C) Intestate Class I rules do not apply when there is a valid Will.
+- D) Escheat is irrelevant; there is a beneficiary.
+</details>
+
+**Q91.** Pooja's husband took a life insurance policy on his own life, expressed to be for the benefit of Pooja and their children, under the MWP Act. He later runs into heavy business debts and dies. Can his creditors claim the policy proceeds?
+A) Yes, it is part of his estate  B) No — it is a protected trust for the wife/children, outside his estate and creditors' reach  C) Yes, but only half  D) Only if the children are minors
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Under the MWP Act, such a policy is a trust for the wife/children; so long as any object of the trust remains, it is not subject to the husband's creditors and does not form part of his estate.
+- A) It is specifically excluded from his estate.
+- C), D) There is no half rule or minor-only condition; the protection is complete.
+</details>
+
+**Q92.** Qadir, a Muslim with no spouse, no children, no parents, and no other relatives whatsoever, dies. What happens to his property?
+A) It is divided among distant villagers  B) The Government inherits it through escheat  C) It is held forever by the court  D) It goes to the mosque automatically
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — When a deceased Muslim has no legal heir, the Government inherits the property through the process of escheat.
+- A), D) The estate does not pass to villagers or a mosque by default.
+- C) The court does not hold it indefinitely; escheat transfers it to the Government.
+</details>
+
+**Q93.** Ravi buys land and the seller's name is changed to Ravi's in the revenue records (mutation done). A relative later disputes ownership claiming an older sale deed. Which is the stronger proof of title?
+A) The mutation entry, since it is in revenue records  B) The sale deed / title document, because mutation is not proof of title  C) Neither has any value  D) The mutation entry, because it is government-issued
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Mutation is not proof to confer title; revenue proceedings are not judicial. The title (the sale deed) is the basis on which ownership is acquired, not the mutation entry.
+- A), D) A mutation entry, even if government-recorded, does not establish title.
+- C) The title document certainly has value.
+</details>
+
+**Q94.** Sneha, a Hindu, dies intestate leaving a son born of a void marriage and a brother. Does the son inherit?
+A) No, children of a void marriage are excluded  B) Yes — children of void/voidable marriages are entitled to succession (Sec 16(3), Hindu Marriage Act), and as a Class I heir he excludes the brother  C) Only half the estate; the brother takes the rest  D) Only if legitimised by court
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Children born of void or voidable marriages are entitled to succession by virtue of Section 16(3) of the Hindu Marriage Act and count among Class I heirs. A Class I heir excludes a Class II heir (the brother), so the son takes the whole estate.
+- A) Such children are NOT excluded.
+- C) The brother (Class II) does not share when a Class I heir exists.
+- D) No separate court legitimisation is required for this entitlement.
+</details>
+
+**Q95.** Tariq, a Shia Muslim, dies leaving heirs across two branches of descendants. The distribution method recognised for him divides property according to the branch (strip). This is called:
+A) Per capita distribution  B) Per strip (per stirpes) distribution  C) Escheat  D) Per share residuary
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The per strip distribution method is recognised in Shia law: property is distributed among heirs according to the branch (strip) they belong to, so the quantum depends on the branch and the number of persons in it.
+- A) Per capita (equal among all heirs) is mainly the Sunni method.
+- C) Escheat applies only when there is no heir.
+- D) "Per share residuary" is not a defined method here.
+</details>
+
+**Q96.** Uma, a Hindu, dies intestate. Survivors: widower (husband), no children. Under Section 15, after the first category (which is empty of children) the property goes to:
+A) Her mother and father immediately  B) The husband under clause (a), since clause (a) includes the husband  C) The Government  D) Her brothers and sisters first
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Section 15(a) covers "sons and daughters (including children of any pre-deceased son or daughter) AND the husband." Even with no children, the husband is included in the first category and inherits.
+- A) Parents come only in clause (c), after clause (a) heirs.
+- C) The Government is not relevant when a husband survives.
+- D) Siblings are not the first category for a Hindu female.
+</details>
+
+**Q97.** Vivek, a Hindu, dies intestate. Survivors: his mother and his father only (no spouse, no children). How is the estate divided?
+A) Father and mother equally  B) Mother takes all (Class I), father excluded (Class II)  C) Father takes all  D) Brothers inherit
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The mother is a Class I heir; the father is only a Class II heir. Section 8 gives Class I priority to the exclusion of all others. So the mother takes the entire estate and the father, though alive, is excluded.
+- A) They are in different classes, so no equal split.
+- C) The father is the lower (Class II) heir and is excluded.
+- D) Brothers (Class II) are excluded when a Class I heir exists.
+</details>
+
+**Q98.** Waheeda, a Muslim, dies leaving only daughters — three of them — and no sons and no spouse and no parents. As sharers, the daughters jointly take:
+A) 1/2  B) 1/3  C) 2/3  D) The whole estate equally as sharers
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Where the deceased leaves more than one daughter (and no sons to convert them to residuary), all daughters jointly take two-thirds (2/3) as sharers. (The remaining 1/3 would go to other heirs/residuaries per the rules.)
+- A) 1/2 is a SOLE daughter's share.
+- B) 1/3 is not the multiple-daughters share.
+- D) As sharers they take a fixed 2/3 jointly, not necessarily the whole estate.
+</details>
+
+**Q99.** Yusuf, a Muslim, dies. His apparent heir (a cousin) had actually died BEFORE Yusuf. Does the cousin's family inherit Yusuf's property through that cousin?
+A) Yes, by representation through the pre-deceased cousin  B) No — under Muslim law an heir who does not survive the ancestor acquires no right, so nothing passes through him  C) Yes, but only half  D) Only if there is a Will
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Under Muslim law, rights are fixed at the date of the ancestor's death; if the apparent heir does not survive the ancestor, no right of inheritance or share exists for him, so nothing passes through him.
+- A) Muslim law does not allow inheritance through a pre-deceased apparent heir here.
+- C) There is no half share; the right simply does not arise.
+- D) A Will (limited to 1/3) does not change this survivorship principle.
+</details>
+
+**Q100.** Zoya prepared (i) a Will distributing her flat, (ii) a living will for medical decisions, and (iii) nominated her son in her mutual funds. After her death the son (also her sole legal heir) claims the mutual fund money. Which is TRUE?
+A) The living will distributes the flat  B) The Will governs the flat; the nominee/son, being the sole legal heir, is entitled to the mutual fund money  C) The nomination overrides the Will for the flat  D) The mutual funds escheat to the Government
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The Will governs distribution of the flat (testamentary succession). For the mutual funds, the son is the nominee — and here he is also the sole legal heir, so he is entitled to keep the money (nominee holds for the legal heir, and he IS the legal heir).
+- A) A living will is only for medical/end-of-life decisions, not property distribution.
+- C) A nomination on mutual funds makes the son a custodian for the legal heir; it does not override a Will for a different asset (the flat).
+- D) Escheat (Muslim-law concept) is irrelevant; a legal heir exists.
+</details>
+
+## 🧩 Case Study
+
+**The Mehra Family**
+
+Mr. Rakesh Mehra, a Hindu, passes away suddenly. He had NOT written any Will. At the time of death, his estate consists of: a house and a bank account (gross estate), a car and household jewellery (residue estate), and an outstanding home loan (estate debt). He also held a life insurance policy taken on his own life, expressed under the Married Women's Property Act, 1874 to be for the benefit of his wife and children.
+
+His surviving family members are: his **wife** (Sunita), his **mother** (Kamla), **two sons** (Arjun and Bharat), and one **daughter** of a **pre-deceased son** (the granddaughter, Diya). His **father** (Mohan) is also alive. Rakesh's brother Suresh is alive too.
+
+Work through the following sub-questions.
+
+**Sub-question 1:** Which law governs the distribution of Rakesh's house and bank account, and why?
+
+<details><summary>Answer & Explanation</summary>
+
+**Answer: The Hindu Succession Act, 1956 (intestate succession).**
+
+Rakesh died **without a Will**, so he died **intestate**. The Indian Succession Act, 1925 (Section 30) defines this state, but the actual distribution follows the inheritance law of the deceased's religion. Because Rakesh is a **Hindu**, intestate succession is governed by the **Hindu Succession Act, 1956** (as amended in 2005). (The Indian Succession Act, 1925 would govern only his *testamentary* succession — but there is no Will here.)
+</details>
+
+**Sub-question 2:** Who qualifies as Rakesh's heirs for the house and bank account, and is his living father included?
+
+<details><summary>Answer & Explanation</summary>
+
+**Answer: The Class I heirs inherit — wife, mother, two sons, and the pre-deceased son's branch (granddaughter Diya). The father and brother are EXCLUDED.**
+
+Under **Section 8**, Class I heirs inherit first, to the **total exclusion** of all other heirs. Rakesh's Class I heirs are:
+- Wife (Sunita) — Class I
+- Mother (Kamla) — Class I
+- Son Arjun, Son Bharat — Class I
+- Daughter of a pre-deceased son (Diya) — Class I (she represents her deceased father's branch)
+
+His **father (Mohan) is only a Class II heir** (Entry I of Class II) and his **brother (Suresh) is also Class II** — both are excluded because Class I heirs exist. This is the classic "father is NOT a Class I heir" trap.
+</details>
+
+**Sub-question 3:** Compute the share of each heir in the house and bank account, showing the working.
+
+<details><summary>Answer & Explanation</summary>
+
+**Answer:**
+
+Apply **Section 10** rules. Count the shares:
+- Rule 1: The **widow** (Sunita) takes **one share**.
+- Rule 2: Each surviving **son** and the **mother** take **one share** each → Arjun (1), Bharat (1), Kamla (1).
+- Rule 3: The **branch of the pre-deceased son** takes **one share** between them → Diya's branch (1).
+
+Total shares = 1 (widow) + 1 (Arjun) + 1 (Bharat) + 1 (mother) + 1 (pre-deceased son's branch) = **5 shares.**
+
+So each share = **1/5.**
+- Sunita (wife) = **1/5**
+- Kamla (mother) = **1/5**
+- Arjun (son) = **1/5**
+- Bharat (son) = **1/5**
+- Pre-deceased son's branch = **1/5** → and since Diya is the only person in that branch, **Diya gets the full 1/5** (Section 10 Rule 4 splits a branch's share equally among its members; here there is just one member).
+
+Check: 1/5 × 5 = 1 (whole estate). ✓
+</details>
+
+**Sub-question 4:** What happens to the life insurance policy that Rakesh took for the benefit of his wife and children? Can it be used to pay off the outstanding home loan (his creditors)?
+
+<details><summary>Answer & Explanation</summary>
+
+**Answer: The policy proceeds are a protected trust for the wife and children and CANNOT be touched by his creditors or used to clear the home loan.**
+
+Under the **Married Women's Property Act, 1874**, a policy a man takes on his own life, expressed to be for the benefit of his wife and/or children, is **deemed a trust** for them. So long as any object of the trust remains, it is **not subject to the husband's control, not subject to his creditors, and does not form part of his estate**.
+
+Therefore the home-loan lender (a creditor) cannot claim the insurance money. The home loan, being **estate debt**, must be settled from the **rest of the estate** (e.g., the house, bank account, residue estate) — not from the MWP-protected policy. This shielding of the family payout from creditors is the central purpose of an MWP Act policy.
+</details>
+
+**Sub-question 5:** Suppose instead Rakesh had been **unmarried with no children, no mother, and no spouse**, surviving only by his **father** and **brother**. Who would inherit then?
+
+<details><summary>Answer & Explanation</summary>
+
+**Answer: The father alone inherits.**
+
+With **no Class I heirs** (no spouse, children, or mother), succession moves to **Class II** (Section 8 priority: Class I → Class II → agnates → cognates).
+- The **father** is in **Entry I** of Class II.
+- The **brother** is in **Entry II** of Class II.
+
+Under **Section 9**, an **earlier entry is preferred over a later entry**. So the father (Entry I) inherits to the **exclusion of the brother** (Entry II). The father takes the **entire estate**.
+
+(Contrast this with the workbook caselet where there was NO father — only a brother and sisters — so those siblings, being in the same Class II entry, shared equally under Section 11.)
+</details>
+

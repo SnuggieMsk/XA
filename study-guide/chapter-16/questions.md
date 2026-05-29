@@ -496,3 +496,216 @@ A) Choice paralysis  B) Herd trading / momentum that overcomes rational interven
 **Correct: B)** — Extrapolating trends with positive feedback, when widespread, results in herd trading that overwhelms rational contrarians — a momentum bubble driver. A) paralysis is inaction; C) status quo is doing nothing; D) mental accounting is money buckets.
 </details>
 
+## 🔴 Tier 3 — Hard: Scenario (Q71–Q100)
+
+**Q71.** Anand owns two stocks. Stock X (bought at ₹100, now ₹140) he sells immediately "to lock in the gain." Stock Y (bought at ₹100, now ₹60) he refuses to sell, telling his adviser, "It will surely bounce back to ₹100 — I just can't accept a loss." His adviser notes he becomes a cautious gambler with the loser but a nervous profit-taker with the winner. The single best label and its theoretical root are:
+A) Anchoring rooted in bounded rationality  B) Disposition effect rooted in prospect theory's loss aversion  C) Endowment bias rooted in ownership  D) Overconfidence rooted in self-attribution
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Selling the winner early and clinging to the loser is the disposition effect, which prospect theory explains: risk-averse over gains (grab them), risk-seeking over losses (gamble to recover), and losses hurt more than gains. A) anchoring (the ₹100 reference) is a look-alike clue, but the defining asymmetric sell/hold pattern is disposition; C) endowment requires over-valuing because of ownership, not the win/loss asymmetry; D) overconfidence would show as excessive trading and skill-claims, absent here.
+</details>
+
+**Q72.** Priya is a doctor who invests only in pharma stocks, trades several times a week, holds a very concentrated portfolio, and after three good years says, "I clearly understand this sector better than the market." Her returns actually track a sector-wide bull run. Identify the primary bias and the amplifier, and why it is NOT simply stereotyping.
+A) Stereotyping amplified by framing  B) Overconfidence amplified by self-attribution; not stereotyping because she over-rates her OWN ability, not a group characteristic  C) Endowment amplified by loss aversion  D) Status quo amplified by regret aversion
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Concentration, excessive trading, and crediting a bull run to personal skill is overconfidence amplified by self-attribution (confusing brains with a bull market). It is NOT stereotyping, because stereotyping judges investments by a group's representative characteristics (e.g., "famous manager = good company"), whereas Priya over-rates her own expertise. C) and D) describe inaction/ownership behaviours not seen here.
+</details>
+
+**Q73.** Sunil received ₹2 lakh as a Diwali bonus and a ₹2 lakh tax refund the same week. He invests the refund cautiously in an FD but blows the bonus on a speculative penny stock, saying "the bonus is "extra" money." His salary, meanwhile, goes only into safe instruments. What bias, and what is the cleanest one-line cure?
+A) Loss aversion; hold winners longer  B) Mental accounting; treat all money as fungible regardless of origin  C) Anchoring; ignore the purchase price  D) Framing; reword the investment options
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Treating bonus, refund, and salary as different "kinds" of money — taking more risk with perceived windfalls — is mental accounting. The cure (per Thaler) is to treat all money as fungible, the same regardless of origin or intended use. A), C) and D) name the wrong bias and wrong remedy; the tell-tale clue is the differential treatment of equal sums by source.
+</details>
+
+**Q74.** An adviser presents the SAME portfolio two ways to a client. Version 1: "This plan has a 90% chance of meeting your goal." Version 2: "This plan has a 10% chance of falling short." The client enthusiastically accepts Version 1 but hesitates at Version 2. Which bias is the client showing, and which prospect-theory phase does it relate to?
+A) Anchoring; the evaluation phase  B) Framing; the framing phase, where prospects are edited using heuristics before evaluation  C) Endowment; the ownership phase  D) Mental accounting; the budgeting phase
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Identical odds, opposite reactions based on wording, is framing bias, which operates in prospect theory's framing (editing) phase where prospects are pre-processed with heuristics. A) anchoring needs a numeric reference biasing later estimates; C) endowment needs ownership; D) mental accounting needs money buckets — none fit the gain-frame vs loss-frame switch.
+</details>
+
+**Q75.** Two investors regret different things. Investor A sold a stock that then doubled and is tormented by "the action I didn't take" (not buying back). Investor B bought a stock that crashed and is tormented by "the action I took." Per the workbook, who likely feels MORE intense regret, and what behaviour does this drive generally?
+A) A feels more; drives over-trading  B) B feels more (error of commission); drives a preference for the status quo (inaction)  C) Both feel identical regret  D) Neither feels regret because losses are ignored
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Investor B's regret is an error of commission (regret over an action taken), which is more intense than A's error of omission (regret over inaction). Because commission stings more, people generally prefer the status quo (doing nothing). A) misattributes intensity; C) contradicts the workbook; D) is false — regret is felt strongly here.
+</details>
+
+**Q76.** A wealthy family refuses to ever sell the shares of a textile mill founded by their late grandfather — even though the sector is declining and the holding wrecks their diversification — saying "those shares are part of who we are." Distinguish the operative bias from disposition effect.
+A) It is disposition effect, because they are holding a loser  B) It is endowment bias — over-valuing the asset due to ownership/inheritance — not disposition, which is specifically the asymmetric sell-winner/hold-loser trading pattern  C) It is choice paralysis  D) It is framing
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Refusing to sell inherited shares because ownership itself makes them feel specially valuable is endowment bias (the workbook's exact inherited-stock example). It differs from the disposition effect, which is defined by the asymmetric pattern of selling winners early and holding losers — there is no winner-selling here, just sentimental over-valuation of an owned asset. C) and D) do not fit.
+</details>
+
+**Q77.** During a tech mania, Rohan, a software engineer who reads every tech blog, pours his savings into tech IPOs convinced that "because I work in tech and follow it daily, I'll sense the top and exit before the crowd." Name the bubble-specific bias and explain why it is distinct from plain overconfidence.
+A) Momentum; it is the same as overconfidence  B) Illusion of control — familiarity/involvement creates a belief he can forecast and sell first, a specific manifestation tied to bubbles, beyond generic overconfidence in skill  C) Anchoring  D) Mental accounting
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Believing that familiarity, information access and active involvement let him forecast prices and exit before others is the illusion of control, a named bubble driver. While related to overconfidence, the workbook lists illusion of control specifically as the belief that one can control/forecast the outcome and beat the crowd's timing. A) momentum is the herd's trend-chasing; C) anchoring and D) mental accounting do not fit.
+</details>
+
+**Q78.** A relationship manager observes a client who: (i) keeps a separate "child's wedding" fund she manages over-cautiously, (ii) refuses to sell a falling stock to avoid "booking a loss," and (iii) judges every fund by its NAV five years ago. Match each behaviour to its bias in order.
+A) Anchoring; mental accounting; loss aversion  B) Mental accounting; loss aversion; anchoring  C) Loss aversion; anchoring; mental accounting  D) Framing; endowment; stereotyping
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — (i) separate, over-managed bucket = mental accounting; (ii) refusing to book a loss = loss aversion; (iii) judging by a past NAV = anchoring. B) lists them in the right order. A) and C) scramble the order; D) names three biases none of which match these exact behaviours.
+</details>
+
+**Q79.** An adviser wants to overcome a client's chronic indecision (the client never rebalances because every change "feels risky"). Drawing on the chapter, the MOST appropriate, evidence-based remedy is:
+A) Show the client even more fund options  B) Use a "nudge" / sensible default (e.g., pre-set auto-rebalancing), as Thaler used to overcome status-quo-driven inaction  C) Encourage more frequent emotional discussion of losses  D) Anchor the client to last year's prices
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The client's inaction is status quo bias; the workbook's cited remedy is a nudge / good default (Thaler's auto-enrolment example), so pre-set auto-rebalancing fits. A) more options worsens choice paralysis; C) dwelling on losses feeds loss aversion; D) deliberately anchoring introduces another bias.
+</details>
+
+**Q80.** Faced with 80 ELSS funds at tax-season deadline, Geeta keeps gathering "just a bit more data," misses the deadline, and invests nothing. Contrast the bias here with bounded rationality.
+A) Bounded rationality — she satisficed  B) Choice paralysis — too many options/too much information caused her to NOT decide; unlike bounded rationality where a person DOES pick a good-enough option  C) Overconfidence  D) Endowment
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Failing to decide because of option/information overload is choice paralysis. The key contrast with bounded rationality is that a boundedly-rational satisficer actually makes a good-enough choice quickly, whereas Geeta froze and chose nothing. A) is wrong because she did not satisfice; C) and D) do not fit the freeze.
+</details>
+
+**Q81.** A fund manager building a "fusion" portfolio screens for low P/E and P/BV, then for a high Piotroski Score, then for a strong price uptrend. He is surprised his portfolio needs frequent reshuffling. Which step causes this and what is the consequence?
+A) Step I (value); lower taxes  B) Step III (momentum), because momentum is short-term, forcing frequent rebalancing → higher transaction costs and tax  C) Step II (Piotroski); guaranteed returns  D) None — fusion portfolios never rebalance
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The momentum filter (Step III) captures a short-term phenomenon, so it demands frequent rebalancing, raising transaction costs and tax. A) value/Step I is the slow-changing leg; C) Piotroski/Step II is a fundamental filter that does not guarantee returns; D) is false — momentum forces reshuffling.
+</details>
+
+**Q82.** An investor argues, "Markets fully reflect all information, so a stock's price always equals the discounted value of its future cash flows — short-term swings are meaningless noise." Per the chapter, this view:
+A) Is the behavioural-finance view  B) Is the fundamental/standard-finance ("weighing machine") view; the behavioural side counters that short-term prices reflect collective investor behaviour ("voting machine")  C) Proves bubbles cannot exist  D) Describes mental accounting
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — That is the fundamental/standard-finance "weighing machine" stance; fusion investing adds the behavioural "voting machine" insight that short-term prices reflect collective behaviour. A) reverses it; C) is false (bubbles do occur); D) is unrelated.
+</details>
+
+**Q83.** Three friends react to a 30% market crash. Aman sells everything in a panic because "everyone is selling." Bina refuses to sell her crashed stocks, sure they'll recover. Chetan freezes and does nothing for weeks. Identify, in order, the dominant force/bias driving Aman, Bina, and Chetan.
+A) Herd behaviour; loss aversion (risk-seeking in losses); status quo/choice paralysis  B) Anchoring; framing; endowment  C) Overconfidence; mental accounting; stereotyping  D) Endowment; anchoring; framing
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Aman sells because others do = herd behaviour (the crash mechanism). Bina holds losers gambling to recover = loss aversion / risk-seeking in the loss domain. Chetan's frozen inaction = status quo bias / choice paralysis. B), C) and D) misassign biases that do not match these distinct reactions.
+</details>
+
+**Q84.** A new analyst is told a stock "was ₹2,000 last year" before doing any analysis; she then values it at ₹1,900, dismissing fundamentals suggesting ₹900. A colleague who never heard the ₹2,000 figure values it near ₹900. The first analyst's error and its mechanism:
+A) Framing — different wording  B) Anchoring — the initial ₹2,000 figure became a reference that distorted all subsequent judgment  C) Endowment — she owns the stock  D) Self-attribution — she credits her skill
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Over-relying on the pre-existing ₹2,000 figure so that all later analysis is seen "in light of the anchor" is anchoring. A) framing involves wording of equivalent facts, not a sticky number; C) endowment needs ownership (not stated); D) self-attribution is crediting wins to skill — irrelevant here.
+</details>
+
+**Q85.** Why, per the chapter, do some market anomalies persist for long periods even though rational traders could profit by exploiting them?
+A) Regulators ban exploiting them  B) Arbitrageurs face a synchronisation problem and differing incentives, so coordinated correction fails  C) Anomalies are illegal to trade  D) There are no rational traders
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Anomalies/bubbles persist because arbitrageurs cannot coordinate selling (synchronisation problem) and have differing incentives to time the market. A) and C) invent a legal ban; D) is false — rational traders exist but cannot coordinate.
+</details>
+
+**Q86.** A client says: "I rate myself a far-above-average investor, I underestimate how much I could lose, and feedback from my recent wins makes me even surer of myself." This self-reinforcing loop most directly blurs which distinction, and which anomaly does the chapter say it can create?
+A) Blurs value vs growth; creates choice paralysis  B) Blurs skill vs luck; overconfidence makes investors underestimate risk and trade too often, creating anomalies  C) Blurs gains vs losses; creates endowment  D) Blurs domestic vs foreign; creates framing
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Overconfidence (with its feedback loop) blurs the line between skill and luck and leads investors to underestimate risk and over-trade — behaviours the chapter says generate market anomalies. A), C) and D) name wrong distinctions and wrong outcomes.
+</details>
+
+**Q87.** A regulator-style question: which set of conditions, per Keith Redhead, would make a speculative bubble LEAST likely?
+A) Many inexperienced traders, high uncertainty, easy borrowing, hard short-selling  B) Few inexperienced traders, low uncertainty about true value, hard borrowing, easy short-selling  C) High uncertainty and easy leverage  D) Difficult short-selling and small-chance/high-payoff bets
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Redhead's bubble-prone conditions are MANY inexperienced traders, HIGH uncertainty, easy borrowing, and difficult short-selling. The LEAST bubble-prone scenario reverses all of these — option B). A), C) and D) each list bubble-PROMOTING conditions.
+</details>
+
+**Q88.** An investor refuses to invest abroad, holding only Indian large-caps because "I know these companies, so they feel safe," even though this concentrates her risk. The chapter names this tendency, and it is rooted in:
+A) Mental accounting; fungibility  B) Home bias; familiarity making perceived risk feel lower (a deviation from rational diversification)  C) Anchoring; a past price  D) Framing; question wording
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Preferring domestic companies because familiarity lowers perceived risk is home bias, listed as a real-life deviation from standard finance's diversification logic. A) mental accounting is about money buckets; C) anchoring needs a sticky number; D) framing needs differential wording.
+</details>
+
+**Q89.** A behaviour-finance instructor warns that bounded rationality must NOT be confused with irrationality. The best justification is:
+A) Bounded rationality always produces the optimal answer  B) Bounded rationality is rational decision-making under boundary conditions (limited time/info/ability) — the person still reasons, just with thumb rules to reach a satisficing answer  C) Bounded rationality means ignoring all information  D) Bounded rationality is the same as intuition
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Bounded rationality is rational decision-making under boundary conditions; the person reasons using manageable information and thumb rules to reach a satisficing solution — it is not irrational. A) overstates it (it satisfices, not optimises); C) is false (some info is processed); D) is wrong — it sits between rationality and pure intuition.
+</details>
+
+**Q90.** Two scenarios: (1) "Save 200 of 600 people for sure" vs "1/3 chance to save all 600." (2) "400 of 600 will die for sure" vs "2/3 chance all 600 die." The outcomes are identical, yet people pick the sure option in (1) and the gamble in (2). This famous demonstration shows:
+A) Anchoring alone  B) Framing combined with prospect theory — gain-framed choices invite risk-aversion, loss-framed choices invite risk-seeking, even with identical outcomes  C) Mental accounting  D) Endowment
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Identical outcomes producing opposite choices based on gain-vs-loss wording is framing, and the gain-frame-risk-averse / loss-frame-risk-seeking switch is exactly prospect theory. A) anchoring needs a numeric reference; C) and D) involve money buckets/ownership, neither present here.
+</details>
+
+**Q91.** A client over the years (i) takes credit for wins and blames the market for losses, and (ii) only reads news that confirms his existing view while ignoring contrary data. The chapter says these behaviours combine to cause investors to:
+A) Diversify optimally  B) Trade too often, helping create market anomalies  C) Always satisfice  D) Avoid all risk
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Self-attribution (credit wins/blame others) plus following confirming information and ignoring conflicting data lead investors to trade too often, which the chapter says creates anomalies. A), C) and D) describe rational/cautious behaviour, the opposite of these biases' effect.
+</details>
+
+**Q92.** An adviser must explain why a "good company" is not always a "good stock." Which underlying behavioural pitfall does an investor who equates the two most likely commit?
+A) Choice paralysis  B) Stereotyping — using representative characteristics (famous, well-managed) as a proxy for a good investment regardless of price  C) Status quo  D) Loss aversion
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Assuming a well-known, well-managed company is automatically a good stock uses representative characteristics as a shortcut — stereotyping. A) paralysis is freezing; C) status quo is inaction; D) loss aversion is clinging to losers — none capture the "good company = good stock" confusion.
+</details>
+
+**Q93.** A momentum-driven bubble is building: prices keep rising, attracting more buyers; analysts publish "new-age" theories to justify valuations; cheap loans fund more buying. A lone rational fund manager shorts the asset early and gets badly hurt before the eventual crash. Which chapter concept best explains the manager's pain?
+A) Mental accounting  B) Herd trading overcoming rational intervention, plus the arbitrageur's synchronisation problem — mispricing can persist and worsen before correcting  C) Framing  D) Endowment
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Widespread extrapolation produces herd trading that overwhelms rational contrarians, and arbitrageurs face a synchronisation problem, so the bubble can persist/worsen and hurt early shorts before correcting. A), C) and D) are individual decision biases unrelated to this market-level dynamic.
+</details>
+
+**Q94.** Which of the following correctly orders the bounded-rationality decision steps (Herbert Simon)?
+A) Pick satisficing solution → apply thumb rules → process manageable info  B) Process only manageable information → apply rules of thumb/quick approaches → select a satisfactory and sufficient (satisficing) solution  C) Process all information → optimise → verify  D) Use pure intuition → ignore information → optimise
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Simon's steps are: process only manageable information, apply thumb rules/quick approaches, then select a satisficing solution. A) reverses the order; C) describes full rationality (process all, optimise); D) describes pure intuition, not bounded rationality.
+</details>
+
+**Q95.** An investor holds a stock at a loss and says, "If I sell now I lock in the loss; but if I hold, there's still a chance to recover — I'd rather gamble than accept the certain loss." Map this to the precise prospect-theory premise.
+A) Risk-averse about gains  B) Risk-seeking about losses — in the loss domain people prefer the gamble over a certain loss  C) Choices judged in absolute terms  D) Gains hurt more than losses
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Preferring to gamble rather than accept a certain loss is being risk-seeking about losses, a core prospect-theory premise. A) is the gain-domain behaviour; C) contradicts the reference-point premise; D) reverses the loss-aversion premise (losses hurt more, not gains).
+</details>
+
+**Q96.** A client treats his "emergency fund," "vacation fund," and "stock portfolio" as totally separate, refusing to touch the vacation fund even when his portfolio offers a far better opportunity and he could replenish it later. Beyond naming the bias, why is this sub-optimal per the chapter?
+A) It is optimal because budgeting is good  B) Mental accounting treats money as less fungible than it really is, so segregating buckets blocks portfolio-level optimisation  C) It is anchoring to a price  D) It is framing of a question
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Mental accounting makes him treat fungible money as non-fungible buckets, preventing him from optimising across his whole portfolio — the chapter's stated downside. A) wrongly calls it optimal; C) and D) name the wrong biases.
+</details>
+
+**Q97.** An emotional bias and a cognitive error can produce similar-looking actions. A client never rebalances. If the cause is "deciding feels emotionally risky and I fear regret," vs "there are too many options and too much data to process," the two diagnoses are respectively:
+A) Anchoring vs framing  B) Status quo / regret aversion (emotional) vs choice paralysis (cognitive overload)  C) Endowment vs loss aversion  D) Overconfidence vs self-attribution
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Fear-of-regret-driven inaction is status quo / regret aversion (an emotional bias), whereas freezing due to option/information overload is choice paralysis (a cognitive/processing issue). The same "no rebalancing" outcome has two different roots. A), C) and D) pair biases that do not match these two causes.
+</details>
+
+**Q98.** A portfolio manager claims fusion investing is a guaranteed money-machine. Based strictly on the chapter, the most accurate critique is:
+A) It always beats the market  B) Although intuitively appealing, market data is insufficient to conclusively prove it works, and momentum's frequent rebalancing adds transaction costs and tax  C) It ignores valuation entirely  D) It cannot be implemented
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The chapter explicitly cautions that fusion investing seems good intuitively but market data is insufficient to prove it, and momentum-driven rebalancing raises transaction costs and tax. A) overclaims; C) is false (Step I uses valuation); D) is false (it is implementable via the three steps).
+</details>
+
+**Q99.** A first-time investor in a frothy market exhibits ALL of: low experience, betting on a thinly-understood asset where true value is highly uncertain, expecting a small chance of a huge payoff, and funding the bet with a loan. Per Keith Redhead, this individual is:
+A) Well protected against bubbles  B) Exhibiting exactly the profile of conditions under which speculative bubbles are most likely to emerge  C) Behaving like a rational arbitrageur  D) Demonstrating endowment bias
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Inexperience, high uncertainty about true value, small-chance/high-payoff bets, and borrowing to finance purchases are precisely Redhead's bubble-prone conditions. A) is the opposite; C) an arbitrageur corrects mispricing, not chases it; D) endowment needs ownership-driven over-valuation, not described here.
+</details>
+
+**Q100.** A disciplined adviser builds checklists and standard processes for every client decision. The chapter's rationale for this practice is best stated as:
+A) Biases can be completely eliminated by willpower alone  B) While it is impossible to be fully unbiased, maintaining discipline and checklists helps mitigate biases  C) Checklists guarantee optimal returns  D) Cognitive errors cannot be reduced by vigilance
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The chapter states it is impossible to be fully unbiased, but discipline and checklists help mitigate biases. A) overclaims (biases cannot be fully eliminated); C) checklists do not guarantee returns; D) is false — the chapter says vigilance reduces cognitive errors.
+</details>
+
+

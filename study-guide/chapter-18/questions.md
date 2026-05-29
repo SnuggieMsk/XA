@@ -496,3 +496,215 @@ A) Rise and fall together  B) Do not rise and fall together  C) Are all from the
 **Correct: B)** — Diversification works only if investments do not rise and fall together (low/negative correlation). Assets that move together (A), share one sector (C) or are all equities (D) provide little real diversification.
 </details>
 
+## 🔴 Tier 3 — Hard: Scenario (Q71–Q100)
+
+**Q71.** Anil, 32, earns Rs. 30 lakh a year, has no dependents and large savings, and tells you confidently that volatility excites him. However, his entire net worth is parked in a single unlisted startup he founded. As his adviser, your most accurate assessment is:
+A) His high ability and willingness mean no action is needed  B) Despite high willingness and income, his portfolio is dangerously concentrated and lacks diversification/liquidity  C) He should put even more into the startup  D) He should move everything to FDs immediately
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Profiling looks beyond willingness: although his income and appetite are high, holding 100% in one illiquid asset is extreme concentration (like Jayesh) with no diversification or liquidity cushion. So "no action" (A) ignores the concentration risk, adding more (C) worsens it, and shifting everything to FDs (D) over-corrects and ignores his genuine growth capacity.
+</details>
+
+**Q72.** Meena, 45, single income, supports aging parents and two children, has a home loan, and a modest emergency fund. She insists she wants "maximum returns, all equity." Reconciling capacity and tolerance, the adviser should:
+A) Follow her stated wish and go 100% equity  B) Explain that her ability to absorb losses is limited by dependents and the loan, so a more balanced allocation is suitable despite her high stated willingness  C) Refuse to advise her  D) Put everything in gold
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Her many dependents and a loan limit her ability/capacity even though willingness is high; the suitable allocation must respect both, so a balanced mix is appropriate. Blindly going all-equity (A) ignores capacity, refusing to advise (C) is unhelpful, and all-gold (D) gives no income/growth balance.
+</details>
+
+**Q73.** A client's questionnaire score classifies him as "Aggressive," but in conversation he confesses he lost sleep and panic-sold during the last market fall. The adviser should:
+A) Ignore the conversation and trust only the score  B) Recognise the questionnaire may not fully capture his true tolerance and treat his loss-aversion as a real signal to moderate the allocation  C) Increase his equity to "toughen him up"  D) Cancel his account
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Tools have limitations and investors may misreport; real behaviour (panic-selling) is strong evidence of lower true tolerance, so the allocation should be moderated. Blindly trusting the score (A) ignores the tool's limits, increasing equity (C) ignores his distress, and cancelling (D) is unwarranted.
+</details>
+
+**Q74.** Required-return logic: Priya needs Rs. 50 lakh in 10 years and currently has Rs. 25 lakh. She can take only moderate risk. Roughly, her money must double in 10 years. The needed annual growth (using the rule of 72) is closest to:
+A) About 7.2% per year  B) About 2% per year  C) About 20% per year  D) About 50% per year
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Doubling means the rule of 72 gives required return ≈ 72 ÷ years = 72 ÷ 10 ≈ 7.2% per year. 2% (B) would barely grow the corpus, while 20% (C) or 50% (D) would double the money far faster than 10 years. A balanced portfolio targeting ~7% suits a moderate investor.
+</details>
+
+**Q75.** Continuing Q74: if Priya instead needed Rs. 1 crore (four times her Rs. 25 lakh) in 10 years, the required return would be much higher, creating a conflict because:
+A) Her required return now demands aggressive risk her moderate tolerance may not support  B) Required return has no link to risk  C) She should simply lower the goal to zero  D) She can guarantee the return with an FD
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Quadrupling in 10 years needs roughly 15% a year (money doubles in ~5 years per rule of 72), which demands aggressive equity-heavy risk that her moderate tolerance may not support — a capacity/tolerance vs required-return conflict. Required return is tightly linked to risk (B wrong), zeroing the goal (C) is absurd, and an FD cannot deliver ~15% safely (D).
+</details>
+
+**Q76.** When required return exceeds what a client's risk tolerance can prudently support, the adviser's best response is to:
+A) Quietly invest more aggressively than the client's tolerance  B) Discuss options such as saving more, extending the time horizon, or moderating the goal  C) Guarantee the higher return  D) Tell the client risk does not matter
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — When the required return is unrealistic for the client's tolerance, the honest path is to re-examine the plan: save more, extend the horizon, or trim the goal. Secretly over-risking (A) breaches suitability, guarantees are impossible (C), and dismissing risk (D) is reckless.
+</details>
+
+**Q77.** Sameer, 28, single, secure job, very high willingness, is being matched to the "young BPO employee, no dependents" model (50% equity, 20% sector, 10% gold ETF, 10% diversified debt/FD, 10% short-term/liquid). His combined equity-type exposure (equity + sector funds) is:
+A) 50%  B) 60%  C) 70%  D) 80%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Equity 50% + sector funds 20% = 70% equity-type exposure, fitting his high-risk profile. 50% (A) counts only diversified equity, 60% (B) and 80% (D) miscount the slices that total 70%.
+</details>
+
+**Q78.** Reena follows the "moderate young family" model: 35% equity, 10% sector, 15% gold ETF, 30% diversified debt/FD, 10% liquid/short-term. Her total exposure to growth-oriented assets (equity + sector + gold) is:
+A) 45%  B) 60%  C) 75%  D) 35%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Growth-oriented = equity 35% + sector 10% + gold 15% = 60%. 45% (A) omits gold, 35% (D) counts only diversified equity, and 75% (C) over-adds debt that is not growth-oriented.
+</details>
+
+**Q79.** A "conservative" single-income family with grown-up unsettled children is given: 35% equity, 15% gold ETF, 10% gilt fund, 20% diversified debt/FD, 20% short-term/liquid. Their total fixed-income/cash allocation (gilt + diversified debt/FD + short-term/liquid) is:
+A) 30%  B) 40%  C) 50%  D) 60%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Gilt 10% + diversified debt/FD 20% + short-term/liquid 20% = 50% in fixed income/cash, with the rest in equity and gold. 30% (A) and 40% (B) drop one slice, while 60% (D) wrongly adds the gold portion.
+</details>
+
+**Q80.** A 72-year-old couple's model is 15% equity index, 5% gold ETF, 35% debt-oriented hybrid/MIS/SCSS, 30% diversified debt/FD, 15% liquid/savings. If the adviser learns one spouse needs frequent medical withdrawals, which adjustment is most consistent with the chapter's logic?
+A) Increase equity to chase higher returns  B) Ensure adequate liquid/short-term allocation for ready access while keeping the bulk safe  C) Move all funds into illiquid real estate  D) Stop reviewing the portfolio
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Medical needs demand ready liquidity, so the adviser should keep enough in liquid/short-term assets while the bulk stays safe — matching the objective (liquidity) to the asset. More equity (A) adds volatility they cannot bear, illiquid real estate (C) blocks access, and stopping reviews (D) is poor practice.
+</details>
+
+**Q81.** Vikram, an experienced investor with a Rs. 5 crore surplus, wants to take frequent market-timing bets on sectors. The chapter's guidance suggests he should:
+A) Apply tactical calls to the entire Rs. 5 crore  B) Limit the size of the portfolio used for frequent tactical calls and keep the major portion strategically allocated  C) Avoid all equity  D) Only use dynamic models and never decide himself
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Even seasoned investors should cap the slice used for frequent tactical calls and keep the bulk aligned to a strategic allocation. Betting the whole corpus (A) is reckless, avoiding equity (C) ignores his profile, and forcing only models (D) is not required.
+</details>
+
+**Q82.** A client insists his adviser should "guarantee" he will never lose money yet also double his money in three years. The adviser should explain that:
+A) This is achievable with the right stock pick  B) Such a goal is internally contradictory — high required return demands risk, and capital can fall; no return can be guaranteed  C) He should sign a no-loss contract  D) Gold guarantees doubling
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Doubling in three years needs roughly 24% a year (rule of 72: 72÷3), which requires high risk and therefore the possibility of loss — so a no-loss guarantee plus that return is contradictory. A magic stock (A), a no-loss contract (C) and gold guarantees (D) are all false promises.
+</details>
+
+**Q83.** Two clients have identical incomes and savings (same capacity), but one is calm about losses and the other is highly anxious. The chapter implies their suitable allocations should:
+A) Be identical because capacity is identical  B) Differ, because willingness/psyche differs even when capacity is the same  C) Both be 100% equity  D) Both avoid equity entirely
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Willingness is psychological and differs between them, so the anxious client warrants a less risky allocation even with identical capacity — both dimensions matter. Identical allocations (A) ignore psyche, and forcing all-equity (C) or no-equity (D) on both ignores their differences.
+</details>
+
+**Q84.** A client's goals are: an emergency fund (immediate), a house down-payment (3 years), and retirement (25 years). The most suitable structuring is:
+A) All three goals in equity for maximum returns  B) Match each goal to suitable assets — liquid/cash for emergency, lower-risk for the 3-year goal, growth assets for the 25-year goal  C) All three in FDs  D) All three in a single sector fund
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Different time horizons need different assets: liquidity for the emergency fund, safer assets for the near-term down-payment, and growth (equity) for the far-off retirement. All-equity (A) endangers near goals, all-FD (C) starves the long goal of growth, and one sector fund (D) is dangerous concentration.
+</details>
+
+**Q85.** A client was profiled three years ago as moderate. Since then he married, had a child, and took a large home loan. Per SEBI Reg 16, the adviser should:
+A) Keep the old profile unchanged  B) Update the risk profile because family composition and liabilities have changed  C) Wait ten years before any update  D) Delete his records
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Reg 16 recommends updating the profile on special events such as changes in family composition and liabilities — exactly what happened. Keeping the old profile (A), waiting ten years (C), or deleting records (D) all conflict with the requirement to update.
+</details>
+
+**Q86.** An adviser wants to offer a "free trial" of advice before the client commits. Under SEBI Reg 16, this is permissible only if:
+A) The client pays a deposit  B) The risk profile has been communicated to the client and the client's consent on it is obtained  C) The adviser keeps the profile secret  D) The trial lasts under 7 days
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — No free trial may be offered without communicating the risk profile to the client and obtaining their consent on it. A deposit (A), secrecy (C), and a 7-day limit (D) are not the conditions specified.
+</details>
+
+**Q87.** A questionnaire asks: "You agree that aggressive equity investing is always the smartest choice, don't you?" The adviser should reject this question because it is:
+A) Fair and clear  B) A leading question, which Reg 16 prohibits  C) Too short  D) Written in simple language
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The wording pushes the client toward one answer, making it a leading question, which Reg 16 forbids. It is not fair/clear (A), the problem is not length (C), and simple language (D) is not the issue — the bias is.
+</details>
+
+**Q88.** A young aggressive investor's equity holdings have surged so equity is now 70% of a portfolio designed for 50%. Under strategic asset allocation, the adviser should:
+A) Leave it because equity is performing well  B) Rebalance back toward the originally envisaged allocation  C) Increase equity further to ride the trend  D) Sell everything
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Strategic allocation is periodically rebalanced back to the original envisaged mix, regardless of recent performance. Leaving it (A) or adding more (C) chases performance (that is tactical), and selling everything (D) abandons the plan.
+</details>
+
+**Q89.** A client demands the adviser increase his equity weight purely because "experts on TV say markets will boom." A strictly strategic adviser would respond that:
+A) Strategic allocation does not raise weights on expected performance; only a change in his goals/horizon/risk profile would  B) TV experts must always be followed  C) He should go 100% equity today  D) Risk profiling is irrelevant here
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Under strategic allocation, weights change only when fundamentals (goals, horizon, risk profile) change, not on performance forecasts — that would be a tactical call. Following TV (B) and going all-equity (C) are forecast-driven, and profiling always matters (D).
+</details>
+
+**Q90.** A client with negatively-correlated assets (equity and gold) sees equity drop 20% while gold rises 15% in the same year. This outcome demonstrates:
+A) That diversification failed  B) That holding low/negatively-correlated assets cushioned the portfolio's overall fall  C) That he should hold only equity  D) That gold always rises
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A rise in gold offsetting a fall in equity is exactly the cushioning benefit of low/negative correlation — diversification working as intended (echoing 2007–09). It did not fail (A), all-equity (C) would have hurt more, and gold does not always rise (D).
+</details>
+
+**Q91.** A 60-year-old retiree's required income is Rs. 6 lakh a year from a Rs. 1 crore corpus. The withdrawal rate is:
+A) 6%  B) 16%  C) 0.6%  D) 60%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Withdrawal rate = annual need ÷ corpus = 6,00,000 ÷ 1,00,00,000 = 6%. 16% (B), 0.6% (C) and 60% (D) misplace the decimal or invert the ratio. A 6% income need suggests an income-oriented (debt-heavy) allocation suited to his conservative stage.
+</details>
+
+**Q92.** Continuing Q91: to sustainably meet a 6% income need with low risk, the retiree's allocation should lean toward:
+A) Aggressive sector funds  B) Income-generating assets such as debt instruments, deposits, and debt-oriented hybrids, with limited equity  C) A single growth stock  D) Illiquid real estate only
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A retiree needing regular income with low risk should hold mainly income-generating debt/deposit/hybrid assets, with only limited equity for some growth. Sector funds (A) and a single stock (C) are too volatile, and illiquid real estate only (D) cannot provide reliable monthly income.
+</details>
+
+**Q93.** An investor's stated willingness is aggressive, capacity is high, but the goal (a wedding) is just 18 months away. The dominant factor for THIS goal's allocation is:
+A) His aggressive willingness  B) The short time horizon, which calls for lower-risk, liquid assets despite his appetite  C) His high capacity  D) Recent market forecasts
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A short 18-month horizon means there is no time to recover from a market fall, so this goal needs lower-risk, liquid assets regardless of his appetite or capacity. Willingness (A) and capacity (C) matter for long goals, and forecasts (D) should not drive strategic allocation.
+</details>
+
+**Q94.** A client holds 90% real estate and 10% cash, and complains both about low income and being unable to access funds quickly. The two distinct problems are:
+A) Too much equity and too much debt  B) Lack of regular income from real estate and poor liquidity due to concentration  C) Over-diversification and high taxes  D) Currency risk and inflation risk only
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Real estate generates little regular income (like Harmeet's gold) and is hard to sell quickly (like Jayesh), so concentration causes both an income gap and a liquidity gap. There is no equity/debt issue (A), it is not over-diversification (C), and the core issue is concentration, not just currency/inflation (D).
+</details>
+
+**Q95.** A client says: "Just pick me the single best-performing stock; allocation is a waste of time." Drawing on the chapter, the adviser should explain that:
+A) Stock selection explains performance better than allocation  B) Research suggests asset allocation and investment policy explain performance better than stock selection, and concentration is risky  C) One stock is always safest  D) Allocation only matters for beginners
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The chapter cites research that asset allocation/investment policy explain performance better than stock selection, and a single stock is dangerous concentration. So A is reversed, one stock is not safest (C), and allocation matters for all investors (D).
+</details>
+
+**Q96.** A moderate investor's adviser uses a dynamic asset allocation model that shifts to debt when equity valuations are high. The client asks why the adviser isn't "using judgement." The correct explanation is:
+A) Dynamic allocation deliberately removes the subjective element using pre-defined triggers  B) The adviser is lazy  C) Judgement is illegal  D) Dynamic allocation ignores valuations
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Dynamic allocation uses pre-defined models and triggers (e.g., valuations) precisely to remove subjectivity, so reduced discretion is by design. It is not laziness (B), judgement is not illegal (C), and dynamic models are driven by valuations, not blind to them (D).
+</details>
+
+**Q97.** An investor's profile changes from aggressive to conservative after a serious illness reduces his earning ability and increases medical expenses. The adviser should reallocate by:
+A) Keeping the aggressive 70% equity mix  B) Shifting toward safer income/liquid assets to match his now-lower capacity and need for funds  C) Adding sector funds for higher returns  D) Doing nothing until next year
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A drop in earning ability plus rising medical needs lowers capacity and raises liquidity needs, so the portfolio should shift to safer income/liquid assets (and the profile updated per Reg 16). Keeping 70% equity (A) or adding sector funds (C) ignores the change, and waiting a year (D) delays a needed update.
+</details>
+
+**Q98.** Two assets are perfectly positively correlated. Combining them in a portfolio will:
+A) Provide strong diversification benefits  B) Provide little diversification because they rise and fall together  C) Guarantee a profit  D) Always reduce returns to zero
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Perfectly positively correlated assets move together, so combining them gives little diversification benefit (the goal is low/negative correlation). They do not diversify well (A), cannot guarantee profit (C), and do not force returns to zero (D).
+</details>
+
+**Q99.** A client has a high required return but very low tolerance and refuses to extend his horizon or save more. The adviser's most professional course is to:
+A) Override his tolerance and invest aggressively anyway  B) Clearly inform him the goal is likely unachievable within his risk comfort, and document the suitability mismatch rather than mis-sell risk  C) Promise the return anyway  D) Pick random aggressive funds without telling him
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — When required return cannot be reconciled with low tolerance and the client won't adjust, the adviser must be honest about the mismatch and not push unsuitable risk — suitability is the core of Reg 16. Overriding tolerance (A), promising returns (C) and secretly going aggressive (D) all breach the duty of suitability.
+</details>
+
+**Q100.** Putting it together: which statement best captures sound risk profiling and asset allocation from this chapter?
+A) Match the portfolio only to the client's willingness, ignoring capacity and goals  B) Reconcile willingness, ability/capacity, required return and time horizon, then diversify across low/negatively-correlated assets, and review/rebalance periodically  C) Always go 100% equity for everyone young  D) Chase the best-performing asset each year
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Good practice reconciles willingness, ability, required return and horizon; diversifies across low/negatively-correlated assets; and reviews/rebalances periodically. Ignoring capacity and goals (A), forcing all-equity on the young (C), and chasing last year's winner (D) all violate the chapter's principles.
+</details>
+

@@ -808,3 +808,360 @@ A) Both are exempt  B) Both are taxable  C) Interest is taxable as other sources
 Intuition: Two cash flows, two treatments: you pay tax on the coupon, but the gold appreciation on redemption is free.
 </details>
 
+## 🔴 Tier 3 — Hard: Numerical & Scenario (Q71–Q100)
+
+**Q71.** ESOP: FMV on exercise = Rs. 6,500; predetermined price = Rs. 500; 100 shares exercised. The perquisite taxed as salary is:
+A) Rs. 5,00,000  B) Rs. 6,00,000  C) Rs. 6,50,000  D) Rs. 60,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Perquisite = (FMV on exercise − price paid) × shares = (6,500 − 500) × 100 = 6,000 × 100 = Rs. 6,00,000.
+- A) Wrong: Rs. 5,00,000 uses Rs. 5,000 difference, miscomputing 6,500 − 1,500.
+- C) Wrong: Rs. 6,50,000 = 6,500 × 100, ignoring the price paid.
+- D) Wrong: Rs. 60,000 misplaces a zero.
+
+Intuition: This is the workbook's own example — the discount (Rs. 6,000/share) across 100 shares.
+</details>
+
+**Q72.** Continuing Q71: those 100 ESOP shares (listed, STT paid) are later sold at Rs. 9,000 each. The cost of acquisition per share for capital gains is:
+A) Rs. 500  B) Rs. 6,500  C) Rs. 9,000  D) Rs. 6,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Cost of acquisition = FMV on exercise date = Rs. 6,500 per share.
+- A) Wrong: Rs. 500 is what the employee paid, but that would double-tax the perquisite.
+- C) Wrong: Rs. 9,000 is the sale price, not the cost.
+- D) Wrong: Rs. 6,000 was the perquisite per share, not the cost.
+
+Intuition: The exercise-date FMV (Rs. 6,500) was already taxed as salary, so it becomes the cost going forward.
+</details>
+
+**Q73.** Continuing Q72: capital gain per share on sale at Rs. 9,000 is:
+A) Rs. 8,500  B) Rs. 2,500  C) Rs. 3,000  D) Rs. 9,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Capital gain = Sale price − Cost (exercise FMV) = 9,000 − 6,500 = Rs. 2,500 per share.
+- A) Wrong: Rs. 8,500 wrongly uses Rs. 500 (price paid) as cost.
+- C) Wrong: Rs. 3,000 = 9,000 − 6,000, mistakenly using the perquisite figure.
+- D) Wrong: Rs. 9,000 ignores any cost.
+
+Intuition: Only the rise from the already-taxed exercise FMV (6,500) to the sale price (9,000) is the capital gain.
+</details>
+
+**Q74.** Mr. X bought 100 SGBs at nominal value Rs. 4,25,000. SGB interest is 2.5% p.a. on nominal value. The annual interest taxable is:
+A) Rs. 4,250  B) Rs. 8,500  C) Rs. 10,625  D) Rs. 21,250
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Interest = 4,25,000 × 2.5% = Rs. 10,625 per year.
+- A) Wrong: Rs. 4,250 uses 1%.
+- B) Wrong: Rs. 8,500 uses 2%.
+- D) Wrong: Rs. 21,250 uses 5%.
+
+Intuition: 2.5% of Rs. 4.25 lakh = Rs. 10,625, taxed as other sources each year.
+</details>
+
+**Q75.** Mr. X (Q74) sells the SGBs on 01-08-2024, with 95 days elapsed since the last coupon (29-04-2024). The accrued interest carved out of the sale price is (use 365-day year):
+A) Rs. 2,765  B) Rs. 5,313  C) Rs. 10,625  D) Rs. 1,062
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Accrued interest = Nominal × 2.5% × (days/365) = 4,25,000 × 2.5% × 95/365 = 10,625 × 95/365 ≈ Rs. 2,765.
+- B) Wrong: Rs. 5,313 ≈ half-year interest (182 days), not 95 days.
+- C) Wrong: Rs. 10,625 is full-year interest.
+- D) Wrong: Rs. 1,062 understates the period.
+
+Intuition: Only 95 of 365 days' worth of the 2.5% coupon has accrued — that fraction is interest income, removed from the gain.
+</details>
+
+**Q76.** Mr. X (Q75) sells for Rs. 7,50,000 (gross). After removing accrued interest of Rs. 2,765, the sale price for capital gains is:
+A) Rs. 7,52,765  B) Rs. 7,47,235  C) Rs. 7,50,000  D) Rs. 3,22,235
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Sale price for capital gain = 7,50,000 − 2,765 = Rs. 7,47,235.
+- A) Wrong: adding the interest is the wrong direction.
+- C) Wrong: Rs. 7,50,000 is the gross consideration before carving out interest.
+- D) Wrong: Rs. 3,22,235 is the resulting capital gain, not the sale price.
+
+Intuition: Strip out the interest first; what is left is the true consideration for the bond itself.
+</details>
+
+**Q77.** Mr. X (Q76) had a cost of acquisition of Rs. 4,25,000 and held over 12 months. The long-term capital gain and its tax rate are:
+A) Rs. 3,22,235 at 12.50%  B) Rs. 3,25,000 at 20%  C) Rs. 3,22,235 at slab  D) Rs. 1,25,000 exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — LTCG = 7,47,235 − 4,25,000 = Rs. 3,22,235, taxed at 12.50% (secondary-market sale; held over 12 months).
+- B) Wrong: wrong gain figure and 20% is the equity short-term rate.
+- C) Wrong: slab applies to short-term, not this long-term gain.
+- D) Wrong: SGBs are not equity; the Rs. 1.25 lakh shield (112A) does not apply.
+
+Intuition: Sale (not redemption) by an individual is taxable; over 12 months → flat 12.50% LTCG on Rs. 3,22,235.
+</details>
+
+**Q78.** If Mr. X instead sells the SGBs for Rs. 7,92,000 on 29-10-2024 (the day after the interest due date), the sale price for capital gains is:
+A) Rs. 7,92,000 (no interest to carve out)  B) Rs. 7,89,235  C) Rs. 7,85,858  D) Rs. 8,02,625
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Because the sale is right after the interest due date, no interest has accrued since the last coupon, so the full Rs. 7,92,000 is the sale price for capital gains.
+- B), C) Wrong: these carve out interest that has not accrued.
+- D) Wrong: adds interest that does not exist here.
+
+Intuition: Just after the coupon date, the "interest meter" has reset to zero — nothing to subtract.
+</details>
+
+**Q79.** Continuing Q78: cost was Rs. 4,25,000, held over 12 months. The long-term capital gain is:
+A) Rs. 3,22,235  B) Rs. 3,67,000  C) Rs. 7,92,000  D) Rs. 4,25,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — LTCG = 7,92,000 − 4,25,000 = Rs. 3,67,000, taxed at 12.50%.
+- A) Wrong: Rs. 3,22,235 was the gain in the earlier (01-08-2024) scenario.
+- C) Wrong: Rs. 7,92,000 is the full sale price, not the gain.
+- D) Wrong: Rs. 4,25,000 is the cost.
+
+Intuition: No interest carve-out this time, so the entire price above cost (Rs. 3,67,000) is the gain.
+</details>
+
+**Q80.** Mr. A buys 10,000 gold ETF units at Rs. 30 (01-03-2018) and sells at Rs. 50 (25-03-2025). The long-term capital gain is:
+A) Rs. 5,00,000  B) Rs. 3,00,000  C) Rs. 2,00,000  D) Rs. 8,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Sale value = 10,000 × 50 = Rs. 5,00,000; cost = 10,000 × 30 = Rs. 3,00,000; LTCG = 5,00,000 − 3,00,000 = Rs. 2,00,000 (taxed at 12.50%; bought before 01-04-2023, held over 7 years).
+- A) Wrong: Rs. 5,00,000 is the sale value, not the gain.
+- B) Wrong: Rs. 3,00,000 is the cost.
+- D) Wrong: Rs. 8,00,000 wrongly adds rather than subtracts.
+
+Intuition: Gain = (sell − buy) × units = (50 − 30) × 10,000 = Rs. 2,00,000.
+</details>
+
+**Q81.** Mr. A buys 5,000 equity index ETF units at Rs. 200 (01-05-2019) and sells at Rs. 300 (01-08-2024) with STT paid. The taxable LTCG (after the 112A exemption) and rate are:
+A) Rs. 5,00,000 at 12.50%; taxable above Rs. 1,25,000 so Rs. 3,75,000 at 12.50%  B) Rs. 5,00,000 fully at 20%  C) Rs. 1,00,000 at slab  D) Exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Gain = (300 − 200) × 5,000 = Rs. 5,00,000. Under Section 112A, the first Rs. 1,25,000 is exempt, so Rs. 3,75,000 is taxed at 12.50%.
+- B) Wrong: 20% is the short-term equity rate; this is long-term.
+- C) Wrong: slab does not apply to equity LTCG.
+- D) Wrong: only Rs. 1.25 lakh is shielded, not the whole gain.
+
+Intuition: Equity index ETF LTCG = equity treatment: subtract the Rs. 1.25 lakh free slice, tax the rest at 12.50%.
+</details>
+
+**Q82.** Mr. Gopal: basic Rs. 6,00,000 p.a.; DA forming part of retirement = Rs. 1,20,000. Employer NPS contribution = Rs. 90,000. Under the new regime, the 80CCD(2) deduction for the employer's contribution (cap 14% of salary) is:
+A) Rs. 1,00,800  B) Rs. 90,000  C) Rs. 72,000  D) Rs. 50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Salary = 6,00,000 + 1,20,000 = Rs. 7,20,000. Cap = 14% × 7,20,000 = Rs. 1,00,800, but the deduction is limited to the *actual* contribution of Rs. 90,000 (the lower of the two).
+- A) Wrong: Rs. 1,00,800 is the cap, not the actual lower contribution.
+- C) Wrong: Rs. 72,000 = 10% × 7,20,000 (old-regime cap), not the new regime.
+- D) Wrong: Rs. 50,000 is the 80CCD(1B) figure, not 80CCD(2).
+
+Intuition: Deduction = lower of (actual contribution, % cap). Here Rs. 90,000 < Rs. 1,00,800, so Rs. 90,000.
+</details>
+
+**Q83.** Same data as Q82 but under the *old* regime (employer cap 10% of salary Rs. 7,20,000). The 80CCD(2) deduction is:
+A) Rs. 90,000  B) Rs. 1,00,800  C) Rs. 72,000  D) Rs. 50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Old-regime cap = 10% × 7,20,000 = Rs. 72,000. Since actual contribution Rs. 90,000 exceeds the cap, the deduction is limited to Rs. 72,000 (the lower).
+- A) Wrong: Rs. 90,000 exceeds the old-regime 10% cap.
+- B) Wrong: Rs. 1,00,800 is the 14% (new-regime) cap.
+- D) Wrong: Rs. 50,000 is the 80CCD(1B) limit.
+
+Intuition: Old regime caps employer NPS at 10%, so only Rs. 72,000 of the Rs. 90,000 is deductible.
+</details>
+
+**Q84.** Mr. X's basic salary is Rs. 50,00,000. Employer contributes 14% to NPS = Rs. 7,00,000 and 12% to EPF = Rs. 6,00,000. The employer welfare contribution in excess of Rs. 7,50,000 (taxed as perquisite) is:
+A) Rs. 5,50,000  B) Rs. 6,00,000  C) Rs. 7,00,000  D) Rs. 13,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Total employer welfare contribution = EPF 6,00,000 + NPS 7,00,000 = Rs. 13,00,000. Excess over Rs. 7,50,000 = 13,00,000 − 7,50,000 = Rs. 5,50,000, taxed as a perquisite.
+- B), C) Wrong: these are the individual EPF/NPS amounts, not the excess.
+- D) Wrong: Rs. 13,00,000 is the total, before subtracting the Rs. 7.5 lakh threshold.
+
+Intuition: Add up all employer welfare contributions; only the part above the Rs. 7.5 lakh cap is taxed as a perk.
+</details>
+
+**Q85.** Category-I AIF (a trust) earns business income Rs. 20 lakh, capital gains Rs. 15 lakh, other sources Rs. 5 lakh. Mr. X holds 30%. The amount taxed at the AIF level is:
+A) Rs. 20 lakh (business income at MMR)  B) Rs. 40 lakh  C) Rs. 6 lakh  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Only business income is taxed at the AIF; as a trust it is taxed at MMR on Rs. 20 lakh. Capital gains and other sources pass through to unit-holders.
+- B) Wrong: capital gains and other sources are not taxed at the AIF.
+- C) Wrong: Rs. 6 lakh is Mr. X's share of the pass-through income.
+- D) Wrong: business income is taxable at the AIF.
+
+Intuition: Business income stays and is taxed at the fund (MMR for a trust); the rest flows through.
+</details>
+
+**Q86.** Continuing Q85: Mr. X's (30%) taxable income passed through from the AIF (capital gains + other sources) is:
+A) Rs. 6,00,000  B) Rs. 4,50,000  C) Rs. 1,50,000  D) Rs. 12,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Capital gains share = 30% × 15,00,000 = Rs. 4,50,000; other sources share = 30% × 5,00,000 = Rs. 1,50,000. Total = Rs. 6,00,000. (Business income share is exempt to him under 10(23FBB).)
+- B) Wrong: Rs. 4,50,000 is only the capital gains share.
+- C) Wrong: Rs. 1,50,000 is only the other-sources share.
+- D) Wrong: Rs. 12,00,000 wrongly includes his share of business income.
+
+Intuition: He pays tax only on the pass-through streams (CG + other) in his 30% proportion = Rs. 6 lakh.
+</details>
+
+**Q87.** In Q86, the other-sources income (Rs. 5 lakh) was NOT actually paid to investors during the year. Mr. X's Rs. 1,50,000 share is:
+A) Not taxable this year  B) Deemed credited to him on the last day of the year and taxable  C) Taxed at the AIF level  D) Exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Even if not paid, the income is deemed credited to investors on the last day of the previous year, so Mr. X's Rs. 1,50,000 is taxable this year.
+- A) Wrong: the deeming provision pulls it into this year.
+- C) Wrong: other income passes through to investors, not taxed at the AIF.
+- D) Wrong: it is taxable.
+
+Intuition: You cannot defer tax by keeping money inside the fund — the law deems you received it at year-end.
+</details>
+
+**Q88.** Mr. X has an endowment policy of Rs. 60,00,000 taken on 01-04-2024 with premium Rs. 6,00,000 per year. The 10%-of-sum-assured test is met (6L = 10% of 60L), but maturity proceeds are taxable because:
+A) Premium exceeds 20% of sum assured  B) Aggregate premium exceeds Rs. 5,00,000 (policy on/after 01-04-2023)  C) The policy is a ULIP  D) It is a Keyman policy
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For endowment policies on/after 01-04-2023, if premium exceeds Rs. 5,00,000 the maturity proceeds are taxable as other sources even if the 10% test is satisfied. Here Rs. 6,00,000 > Rs. 5,00,000.
+- A) Wrong: the 10% test is met; 20% is for old policies.
+- C) Wrong: it is an endowment policy, not a ULIP.
+- D) Wrong: it is not a Keyman policy.
+
+Intuition: The new Rs. 5 lakh premium rule overrides the old 10% test for big endowments after Apr-2023.
+</details>
+
+**Q89.** For the policy in Q88, the maturity proceeds (including bonus) are taxable as other sources after deducting:
+A) Nothing  B) The sum assured  C) The aggregate premiums paid (not previously claimed as deduction)  D) 12.50% of proceeds
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Taxable amount = maturity proceeds (incl. bonus) minus the aggregate premiums paid that were not already claimed as deduction in earlier years.
+- A) Wrong: you may net off the premiums actually paid.
+- B) Wrong: the sum assured is not deducted; the premiums are.
+- D) Wrong: there is no flat 12.50% deduction.
+
+Intuition: You are taxed only on the *net gain*, so the premiums you paid in (and never deducted) are subtracted first.
+</details>
+
+**Q90.** A REIT distributes interest income (received from its SPV) of Rs. 50,000 to a resident unit-holder. The TDS deducted under Section 194LBA is:
+A) Rs. 2,500  B) Rs. 5,000  C) Rs. 10,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Resident TDS rate is 10%; TDS = 10% × 50,000 = Rs. 5,000.
+- A) Wrong: Rs. 2,500 is 5% (the non-resident interest rate).
+- C) Wrong: Rs. 10,000 is 20%, which is not the 194LBA rate.
+- D) Wrong: TDS does apply to SPV interest distributed to unit-holders.
+
+Intuition: SPV interest is pass-through and taxable to the unit-holder, so the REIT withholds 10% (resident).
+</details>
+
+**Q91.** The same REIT distributes Rs. 50,000 of SPV interest to a *non-resident* unit-holder (not a foreign company). The TDS rate is:
+A) 5%  B) 10%  C) 30%  D) 35%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — For interest from SPV, the non-resident TDS rate under 194LBA is 5% (subject to more beneficial DTAA).
+- B) Wrong: 10% is the resident rate for interest.
+- C) Wrong: 30% is the non-resident rate for *rental* income.
+- D) Wrong: 35% is the foreign-company rate for *rental* income.
+
+Intuition: Interest to non-residents is encouraged with a low 5% withholding to attract foreign capital.
+</details>
+
+**Q92.** A REIT distributes *rental* income to a non-resident unit-holder that is a foreign company. The TDS rate under 194LBA is:
+A) 5%  B) 10%  C) 30%  D) 35%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: D)** — For rental income distributed to a foreign company, the rate is 35%; for any other non-resident it is 30%; for residents it is 10%.
+- A) Wrong: 5% is the non-resident interest rate.
+- B) Wrong: 10% is the resident rate.
+- C) Wrong: 30% applies to non-residents other than foreign companies.
+
+Intuition: Rental income to a foreign *company* carries the highest 35% withholding.
+</details>
+
+**Q93.** Mr. Y, a salaried employee under the *old* regime, contributes Rs. 1,80,000 to NPS himself; his salary is Rs. 12,00,000 and he has already used Rs. 1,50,000 of 80C with other investments. His additional NPS deduction (over the 1.5 lakh cap) is limited to:
+A) Rs. 1,80,000  B) Rs. 1,20,000  C) Rs. 50,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — The 80C/80CCC/80CCD(1) basket (Rs. 1.5 lakh) is already exhausted, so only the additional 80CCD(1B) deduction is available, capped at Rs. 50,000.
+- A) Wrong: only Rs. 50,000 extra is allowed, not the full Rs. 1.8 lakh.
+- B) Wrong: 10% of salary = Rs. 1,20,000 would be the 80CCD(1) ceiling, but that basket is already full.
+- D) Wrong: the Rs. 50,000 additional room (80CCD(1B)) is still available.
+
+Intuition: With the Rs. 1.5 lakh basket full, the only extra NPS room left is the Rs. 50,000 under 80CCD(1B).
+</details>
+
+**Q94.** A senior citizen receives Rs. 25,000 per month under a notified reverse mortgage scheme for several years. The annual amount received is:
+A) Taxable as other sources  B) Taxable as capital gains  C) Exempt under Section 10(43)  D) Taxable as pension
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Amounts received under a notified reverse mortgage (lump sum or instalments) are exempt under Section 10(43).
+- A), B), D) Wrong: it is a loan, not income, so no head applies.
+
+Intuition: Monthly reverse-mortgage payouts are loan disbursements — tax-free however they are received.
+</details>
+
+**Q95.** A high-premium ULIP's equity-oriented fund (held over 1 year) shows a gain of Rs. 4,00,000. Since equity ULIP funds do not get the Rs. 1.25 lakh 112A exemption framing here, the workbook treats the LTCG at:
+A) 20%  B) 12.50%  C) Slab  D) Exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Equity-oriented funds within high-premium ULIPs are taxed at the concessional 12.50% for long-term gains (long-term period = 1 year).
+- A) Wrong: 20% is the *short-term* rate for these funds.
+- C) Wrong: slab applies to non-equity ULIP short-term gains.
+- D) Wrong: high-premium ULIP gains are taxable.
+
+Intuition: The equity fund inside the ULIP is taxed like equity: 12.50% long-term, 20% short-term.
+</details>
+
+**Q96.** A *non-equity* fund within a high-premium ULIP is sold after 8 months with a gain of Rs. 1,00,000. This short-term gain is taxed at:
+A) 20%  B) 12.50%  C) Slab/normal rates  D) Exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Gains on non-equity funds in a high-premium ULIP follow normal capital-gains taxation: normal (slab) rates for short term and 12.50% for long term.
+- A) Wrong: 20% is for *equity* ULIP funds (short term).
+- B) Wrong: 12.50% would be the long-term, not short-term, rate.
+- D) Wrong: the gain is taxable.
+
+Intuition: Non-equity ULIP funds behave like ordinary non-equity assets — short term at slab, long term at 12.50%.
+</details>
+
+**Q97.** Mr. Z holds REIT units bought after 31-01-2018 (no grandfathering), sells listed units (STT paid) held 10 months with a gain of Rs. 2,00,000. The tax is:
+A) 12.50% under 112A  B) 20% under 111A  C) Slab rate  D) Exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Listed units held 10 months (≤12 months) → short-term; with STT paid, STCG is taxed at 20% under Section 111A.
+- A) Wrong: 112A (12.50%) is for long-term gains.
+- C) Wrong: slab applies only where STT is not paid.
+- D) Wrong: it is taxable.
+
+Intuition: Sold within 12 months on the exchange with STT → the special 20% short-term rate.
+</details>
+
+**Q98.** A Category-III AIF set up as a company earns trading profits. These profits are taxed:
+A) Pass-through to unit-holders  B) At the company AIF level like a normal company (no pass-through)  C) Exempt under 115UB  D) At MMR as a trust
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Category-III AIFs have no pass-through; taxed like a normal company/trust/LLP as applicable — here, as a company.
+- A) Wrong: only Cat-I/II get pass-through.
+- C) Wrong: 115UB applies to Cat-I/II, not Cat-III.
+- D) Wrong: it is a company, taxed at company rates, not trust MMR.
+
+Intuition: Category-III is just an ordinary taxpayer — taxed on its own profits at its entity rate.
+</details>
+
+**Q99.** Mr. P (individual) holds SGBs and opts for premature redemption in year 6. The capital gain on this premature redemption is:
+A) Taxable at 12.50%  B) Taxable at slab  C) Not taxable — redemption by an individual is not a transfer  D) Taxable at 20%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Redemption by an individual — whether at maturity or premature (after year 5) — is not a transfer under Section 47, so no capital gain arises.
+- A), B), D) Wrong: there is no transfer, so no capital gain at any rate for an individual.
+
+Intuition: The Section 47 exemption covers *both* maturity and premature redemption for individuals — only a secondary-market sale is taxed.
+</details>
+
+**Q100.** A life insurance policy issued on 01-06-2010 (between 01-04-2003 and 31-03-2012) has an annual premium exceeding 20% of the sum assured. The maturity proceeds are:
+A) Exempt under 10(10D)  B) Taxable (10(10D) exemption lost due to premium > 20% of sum assured)  C) Taxed as capital gains at 12.50%  D) Always exempt regardless
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For policies issued 01-04-2003 to 31-03-2012, the 10(10D) exemption is lost if premium in any year exceeds 20% of the sum assured, so the maturity proceeds are taxable.
+- A) Wrong: the exemption is lost because the 20% threshold is breached.
+- C) Wrong: there is no flat capital-gains rate for this; it loses exemption (death proceeds would still be exempt).
+- D) Wrong: only death proceeds are always exempt; maturity proceeds here are taxable.
+
+Intuition: Older policies (2003–2012) use a 20% premium test; breach it and the maturity payout becomes taxable.
+</details>
+
+

@@ -81,13 +81,13 @@ A) More than 12 months  B) More than 24 months  C) More than 36 months  D) Alway
 </details>
 
 **Q9.** Which of the following is ALWAYS treated as a short-term capital asset irrespective of holding period?
-A) Listed equity shares  B) Depreciable asset  C) Immovable property  D) Physical gold
+A) Listed equity shares  B) Physical gold  C) Immovable property  D) Depreciable asset
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A **depreciable asset** is always treated as a short-term capital asset regardless of how long it is held.
+**Correct: D)** — A **depreciable asset** is always treated as a short-term capital asset regardless of how long it is held.
 - A) Listed equity is long-term after 12 months.
+- B) Physical gold is long-term after 24 months.
 - C) Immovable property is long-term after 24 months.
-- D) Physical gold is long-term after 24 months.
 </details>
 
 **Q10.** Gains from Market Linked Debentures (MLDs) acquired on or after 1 April 2023 are taxed as:
@@ -126,12 +126,12 @@ A) Exchange of one asset for another  B) Sale of land  C) Relinquishment of righ
 </details>
 
 **Q14.** The redemption of which instrument by an individual is NOT regarded as a transfer?
-A) Zero coupon bonds  B) Sovereign Gold Bonds issued by the RBI  C) Listed debentures  D) Market Linked Debentures
+A) Zero coupon bonds  B) Market Linked Debentures  C) Listed debentures  D) Sovereign Gold Bonds issued by the RBI
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Redemption of **Sovereign Gold Bonds** issued by the RBI, by an individual, is not regarded as transfer.
+**Correct: D)** — Redemption of **Sovereign Gold Bonds** issued by the RBI, by an individual, is not regarded as transfer.
 - A) Redemption/maturity of zero-coupon bonds IS a transfer.
-- C), D) Redemption of these instruments is a taxable event.
+- B), C) Redemption of these instruments is a taxable event.
 </details>
 
 **Q15.** While computing capital gains, which of the following is NOT deductible from the full value of consideration?
@@ -189,12 +189,12 @@ A) LIFO  B) FIFO  C) Weighted average  D) Specific identification
 </details>
 
 **Q21.** The period of holding of bonus shares is reckoned from:
-A) Date of purchase of original shares  B) Date of allotment of bonus shares  C) Date of board approval  D) 01-04-2001
+A) Date of purchase of original shares  B) 01-04-2001  C) Date of board approval  D) Date of allotment of bonus shares
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Period of holding of bonus shares runs from the **date of allotment of the bonus shares**.
+**Correct: D)** — Period of holding of bonus shares runs from the **date of allotment of the bonus shares**.
 - A) Original shares' purchase date is not used for bonus shares.
-- C), D) These are not relevant dates.
+- B), C) These are not relevant dates.
 </details>
 
 **Q22.** Short-term capital gains under Section 111A are taxed at:
@@ -217,12 +217,12 @@ A) 10%  B) 12.5%  C) 20%  D) Slab rate
 </details>
 
 **Q24.** Under Section 112A, the annual exemption available on long-term capital gains from STT-paid equity is:
-A) ₹1,00,000  B) ₹1,25,000  C) ₹2,00,000  D) ₹50,00,000
+A) ₹1,00,000  B) ₹2,00,000  C) ₹50,00,000  D) ₹1,25,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — LTCG on listed equity/equity-oriented funds/business-trust units (STT-paid) exceeding **₹1,25,000** is taxed at 12.5%; the first ₹1,25,000 is effectively exempt.
+**Correct: D)** — LTCG on listed equity/equity-oriented funds/business-trust units (STT-paid) exceeding **₹1,25,000** is taxed at 12.5%; the first ₹1,25,000 is effectively exempt.
 - A) ₹1,00,000 was the earlier exemption limit.
-- C), D) These are not the 112A figures.
+- B), C) These are not the 112A figures.
 </details>
 
 **Q25.** Which exemption allows reinvestment of long-term capital gains in bonds of NHAI or REC?
@@ -272,12 +272,12 @@ A) NHAI/REC bonds  B) Agricultural land  C) One residential house in India  D) U
 </details>
 
 **Q30.** Under Section 54, if capital gains do not exceed ₹2 crore, the assessee may invest in:
-A) Up to 5 houses  B) Two residential houses instead of one  C) Any number of houses  D) Only commercial property
+A) Up to 5 houses  B) Any number of houses  C) Only commercial property  D) Two residential houses instead of one
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — If capital gains do not exceed ₹2 crore, the new capital asset can be **two houses** instead of one (a once-in-a-lifetime option).
-- A), C) There is no 5-house or unlimited option.
-- D) Section 54 requires residential houses, not commercial property.
+**Correct: D)** — If capital gains do not exceed ₹2 crore, the new capital asset can be **two houses** instead of one (a once-in-a-lifetime option).
+- A), B) There is no 5-house or unlimited option.
+- C) Section 54 requires residential houses, not commercial property.
 </details>
 
 **Q31.** The base date used for taking Fair Market Value as cost of acquisition (for assets acquired earlier) is:
@@ -310,12 +310,12 @@ A) Section 54  B) Section 50AA  C) Section 112A  D) Section 2(14)
 </details>
 
 **Q34.** When sale consideration is received in kind, the full value of consideration is taken as:
-A) The book value of the asset given  B) Fair market value of the asset received  C) Nil  D) The cost of acquisition
+A) The book value of the asset given  B) Nil  C) The cost of acquisition  D) Fair market value of the asset received
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — If consideration is received in kind, the **fair market value** of such assets is taken as the full value of consideration.
+**Correct: D)** — If consideration is received in kind, the **fair market value** of such assets is taken as the full value of consideration.
 - A) Book value is not used.
-- C), D) Neither nil nor cost of acquisition applies.
+- B), C) Neither nil nor cost of acquisition applies.
 </details>
 
 **Q35.** The "Capital Gains Account Scheme (CAGS)" allows a taxpayer to:
@@ -369,12 +369,12 @@ A) Short-term, because he held it only 3 months  B) Long-term, because the previ
 </details>
 
 **Q40.** Mr. Khan converts his preference shares into equity shares of the same company. For computing the holding period of the equity shares:
-A) Period starts fresh from conversion date  B) Period of preference shares is included  C) It is always short-term  D) It is always long-term
+A) Period starts fresh from conversion date  B) It is always short-term  C) It is always long-term  D) Period of preference shares is included
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The period for which the **preference shares were held is included** in the holding period of the equity shares (and the conversion itself is not a transfer).
+**Correct: D)** — The period for which the **preference shares were held is included** in the holding period of the equity shares (and the conversion itself is not a transfer).
 - A) Period does not restart.
-- C), D) Classification still depends on the total holding period.
+- B), C) Classification still depends on the total holding period.
 </details>
 
 **Q41.** An assessee sells land/building (long-term) and wants the simplest one-instrument exemption with a 6-month window. He should use:
@@ -433,12 +433,12 @@ A) Section 54EC — 2 years  B) Section 54 (purchase) — 1 year before and 2 ye
 </details>
 
 **Q47.** Units of a Specified Mutual Fund (a scheme investing 65%+ in debt) acquired in May 2023 and sold after 40 months produce a gain that is:
-A) Long-term at 12.5%  B) Short-term (always), taxed at slab rate  C) Long-term at 20% with indexation  D) Exempt
+A) Long-term at 12.5%  B) Long-term at 20% with indexation  C) Exempt  D) Short-term (always), taxed at slab rate
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Specified Mutual Funds (65%+ debt) acquired on/after 1 April 2023 are **always short-term** under Section 50AA, regardless of the 40-month holding; taxed at slab rate.
-- A), C) Never long-term.
-- D) Not exempt.
+**Correct: D)** — Specified Mutual Funds (65%+ debt) acquired on/after 1 April 2023 are **always short-term** under Section 50AA, regardless of the 40-month holding; taxed at slab rate.
+- A), B) Never long-term.
+- C) Not exempt.
 </details>
 
 **Q48.** Mr. Bose gifts a capital asset to his son. At the moment of the gift:
@@ -514,12 +514,12 @@ A) Taxable as STCG  B) Taxable as LTCG  C) Not regarded as transfer (no capital 
 </details>
 
 **Q56.** Investment-adviser fees paid by a client are generally:
-A) Always deductible from capital gains  B) Most likely NOT deductible unless directly connected to the transfer  C) Deductible only for LTCG  D) Deductible like STT
+A) Always deductible from capital gains  B) Deductible only for LTCG  C) Deductible like STT  D) Most likely NOT deductible unless directly connected to the transfer
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Adviser fees are **most likely not deductible** unless directly related to the specific asset and directly connected with the transfer (like stamp duty/brokerage).
-- A), C) Not generally deductible.
-- D) STT itself is not deductible, so this is a poor comparison.
+**Correct: D)** — Adviser fees are **most likely not deductible** unless directly related to the specific asset and directly connected with the transfer (like stamp duty/brokerage).
+- A), B) Not generally deductible.
+- C) STT itself is not deductible, so this is a poor comparison.
 </details>
 
 **Q57.** Right shares' period of holding is counted from:
@@ -580,13 +580,13 @@ A) Section 54  B) Section 54GB  C) Section 54G  D) Section 115F
 </details>
 
 **Q63.** Distribution of assets in kind by a company to its shareholders at liquidation is:
-A) A transfer taxable in the company's hands  B) Not a transfer by the company, but shareholders are taxed under Section 46  C) Always exempt for everyone  D) Taxed only as business income
+A) A transfer taxable in the company's hands  B) Always exempt for everyone  C) Taxed only as business income  D) Not a transfer by the company, but shareholders are taxed under Section 46
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Distribution in kind on liquidation is **not a transfer by the company**, but the **shareholders are liable** for capital gains under Section 46.
+**Correct: D)** — Distribution in kind on liquidation is **not a transfer by the company**, but the **shareholders are liable** for capital gains under Section 46.
 - A) The company is not taxed on it as a transfer.
-- C) Shareholders are still taxed.
-- D) It is capital gains for the shareholder, not business income.
+- B) Shareholders are still taxed.
+- C) It is capital gains for the shareholder, not business income.
 </details>
 
 **Q64.** Conversion of Gold into an Electronic Gold Receipt (EGR) is:

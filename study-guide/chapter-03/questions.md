@@ -79,11 +79,11 @@ A) On partial or full exhaustion  B) Automatically every month  C) Only if no cl
 </details>
 
 **Q9.** "No claim bonus" (NCB) refers to:
-A) A penalty for claiming  B) The benefit of lower premiums in subsequent years for each claim-free year  C) The deductible amount  D) The survival period
+A) The benefit of lower premiums in subsequent years for each claim-free year  B) A penalty for claiming  C) The deductible amount  D) The survival period
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — NCB is the benefit of lower premiums enjoyed in subsequent years for each year of no claims; it can also be offered as additional bonus cover.
-- A) is wrong — it is a reward, not a penalty.
+**Correct: A)** — NCB is the benefit of lower premiums enjoyed in subsequent years for each year of no claims; it can also be offered as additional bonus cover.
+- B) is wrong — it is a reward, not a penalty.
 - C) and D) are wrong — those are unrelated terms (deductible and survival period).
 </details>
 
@@ -106,12 +106,12 @@ A) Fire  B) Theft  C) Wilful destruction and normal wear and tear  D) Man-made d
 </details>
 
 **Q12.** Valuables such as jewellery, art and antiques typically require:
-A) No cover at all  B) An add-on or separate insurance policy  C) Only third-party cover  D) A keyman policy
+A) No cover at all  B) Only third-party cover  C) An add-on or separate insurance policy  D) A keyman policy
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — These valuables typically require an add-on or separate insurance policy beyond the standard property cover.
+**Correct: C)** — These valuables typically require an add-on or separate insurance policy beyond the standard property cover.
 - A) is wrong — they can be covered, just not by the base policy automatically.
-- C) and D) are wrong — third-party and keyman covers are unrelated to insuring household valuables.
+- B) and D) are wrong — third-party and keyman covers are unrelated to insuring household valuables.
 </details>
 
 **Q13.** Property insurance is normally taken along with a:
@@ -123,31 +123,31 @@ A) Travel booking  B) Home loan, as the lender insists on it  C) Motor policy  D
 </details>
 
 **Q14.** Health insurance claims are typically allowed for:
-A) Cosmetic procedures only  B) "In-patient" and domiciliary treatments per policy terms  C) Routine dental check-ups only  D) Any expense without limit
+A) Cosmetic procedures only  B) Routine dental check-ups only  C) Any expense without limit  D) "In-patient" and domiciliary treatments per policy terms
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Claims are typically allowed only for "in-patient" treatments and domiciliary treatments, according to the terms of the policy (plus day-care for some procedures).
-- A) and C) are wrong — these are not the stated claimable categories.
-- D) is wrong — claims are subject to the sum insured and sub-limits, not unlimited.
+**Correct: D)** — Claims are typically allowed only for "in-patient" treatments and domiciliary treatments, according to the terms of the policy (plus day-care for some procedures).
+- A) and B) are wrong — these are not the stated claimable categories.
+- C) is wrong — claims are subject to the sum insured and sub-limits, not unlimited.
 </details>
 
 **Q15.** An "in-patient" is a patient who:
-A) Is treated only at home  B) Is admitted in a hospital requiring at least overnight or 24 hours of stay  C) Visits the OPD briefly  D) Buys medicines from a pharmacy
+A) Is admitted in a hospital requiring at least overnight or 24 hours of stay  B) Is treated only at home  C) Visits the OPD briefly  D) Buys medicines from a pharmacy
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — An in-patient is one admitted in a hospital for treatment requiring at least overnight or 24 hours of stay.
-- A) is wrong — home treatment is "domiciliary".
+**Correct: A)** — An in-patient is one admitted in a hospital for treatment requiring at least overnight or 24 hours of stay.
+- B) is wrong — home treatment is "domiciliary".
 - C) and D) are wrong — brief OPD visits and pharmacy purchases are not in-patient hospitalisation.
 </details>
 
 **Q16.** "Domiciliary treatment" means:
-A) Treatment at a foreign hospital  B) Patients treated at home when not in a condition to be moved to hospital  C) Treatment only for accidents  D) Day-care surgery
+A) Treatment at a foreign hospital  B) Day-care surgery  C) Patients treated at home when not in a condition to be moved to hospital  D) Treatment only for accidents
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Domiciliary treatment is when patients are treated at home because they are not in a condition to be moved to the hospital.
+**Correct: C)** — Domiciliary treatment is when patients are treated at home because they are not in a condition to be moved to the hospital.
 - A) is wrong — location abroad is a separate "global coverage" issue.
-- C) is wrong — domiciliary is not accident-specific.
-- D) is wrong — day-care is a distinct category for procedures that need hospitalisation but allow same-day release.
+- B) is wrong — day-care is a distinct category for procedures that need hospitalisation but allow same-day release.
+- D) is wrong — domiciliary is not accident-specific.
 </details>
 
 **Q17.** Why do many health policies now cover "day care treatment"?
@@ -159,31 +159,31 @@ A) Because hospitals charge less  B) Because advancement of technology lets the 
 </details>
 
 **Q18.** The "cashless facility" in health insurance means:
-A) The insurer pays cash to the insured upfront  B) Bills are directly settled with the hospital and the insured need not pay upfront, up to the approved sum  C) No premium is charged  D) Claims are paid only after the policy ends
+A) The insurer pays cash to the insured upfront  B) No premium is charged  C) Claims are paid only after the policy ends  D) Bills are directly settled with the hospital and the insured need not pay upfront, up to the approved sum
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Under the cashless facility, bills are settled directly with the hospital and the insured is not required to pay upfront, up to the sum approved for this facility.
+**Correct: D)** — Under the cashless facility, bills are settled directly with the hospital and the insured is not required to pay upfront, up to the sum approved for this facility.
 - A) is wrong — the insurer pays the hospital, not cash to the insured.
-- C) and D) are wrong — premiums are still charged and claims are settled during the policy, not after it ends.
+- B) and C) are wrong — premiums are still charged and claims are settled during the policy, not after it ends.
 </details>
 
 **Q19.** A "family floater" policy:
-A) Covers only the eldest member  B) Covers multiple family members under the same policy up to the sum insured  C) Is a defined benefit policy  D) Covers only travel risks
+A) Covers multiple family members under the same policy up to the sum insured  B) Covers only the eldest member  C) Is a defined benefit policy  D) Covers only travel risks
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A family floater policy covers multiple family members under the same policy up to the sum insured.
-- A) is wrong — it covers multiple members, not just one.
+**Correct: A)** — A family floater policy covers multiple family members under the same policy up to the sum insured.
+- B) is wrong — it covers multiple members, not just one.
 - C) is wrong — health insurance (including floaters) is an indemnity policy.
 - D) is wrong — it is health cover, not travel cover.
 </details>
 
 **Q20.** Under health insurance portability, what can be transferred when switching insurers?
-A) The premium already paid  B) Benefits of no-claim, bonus and time-bound exclusions for existing conditions  C) The hospital network only  D) Nothing
+A) The premium already paid  B) The hospital network only  C) Benefits of no-claim, bonus and time-bound exclusions for existing conditions  D) Nothing
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Portability lets the benefits of no-claim, bonus and time-bound exclusions for existing conditions be transferred when the insured switches insurer — provided the previous policy was maintained without a break.
+**Correct: C)** — Portability lets the benefits of no-claim, bonus and time-bound exclusions for existing conditions be transferred when the insured switches insurer — provided the previous policy was maintained without a break.
 - A) is wrong — paid premium is not transferred.
-- C) is wrong — the network is not what portability transfers.
+- B) is wrong — the network is not what portability transfers.
 - D) is wrong — portability exists precisely so credits are not lost.
 </details>
 

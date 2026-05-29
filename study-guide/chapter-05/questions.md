@@ -25,11 +25,11 @@ A) 3.67%  B) 8.33%  C) 0.5%  D) 12%
 </details>
 
 **Q3.** The EPS portion of the employer's contribution is subject to a ceiling based on a monthly salary of:
-A) Rs. 21,000  B) Rs. 25,000  C) Rs. 15,000  D) Rs. 30,000
+A) Rs. 21,000  B) Rs. 25,000  C) Rs. 30,000  D) Rs. 15,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — EPS is **subject to a ceiling of Rs. 15,000 monthly salary**, so the maximum EPS contribution is 8.33% × 15,000 = Rs. 1,250.
-- A), B) and D) are plausible salary figures but are not the statutory EPS ceiling stated in the workbook.
+**Correct: D)** — EPS is **subject to a ceiling of Rs. 15,000 monthly salary**, so the maximum EPS contribution is 8.33% × 15,000 = Rs. 1,250.
+- A), B) and C) are plausible salary figures but are not the statutory EPS ceiling stated in the workbook.
 </details>
 
 **Q4.** New women employees may contribute EPF at a reduced rate for the first three years of employment. That rate is:
@@ -52,13 +52,13 @@ A) 1st April  B) 31st March  C) 31st December  D) 30th June
 </details>
 
 **Q6.** Who decides the EPF interest rate?
-A) RBI  B) SEBI  C) Central Board of Trustees (CBT) with the Ministry of Finance  D) PFRDA
+A) RBI  B) SEBI  C) PFRDA  D) Central Board of Trustees (CBT) with the Ministry of Finance
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — The EPF interest rate is decided by the **Central Board of Trustees (CBT) in concurrence with the Ministry of Finance**, and announced by EPFO.
+**Correct: D)** — The EPF interest rate is decided by the **Central Board of Trustees (CBT) in concurrence with the Ministry of Finance**, and announced by EPFO.
 - A) RBI sets monetary policy, not EPF rates.
 - B) SEBI regulates securities markets.
-- D) PFRDA regulates NPS/APY, not EPF.
+- C) PFRDA regulates NPS/APY, not EPF.
 </details>
 
 **Q7.** A PPF account has a lock-in period of:
@@ -88,12 +88,12 @@ A) EET  B) ETE  C) EEE (Exempt-Exempt-Exempt)  D) TEE
 </details>
 
 **Q10.** Who is eligible to open a PPF account?
-A) NRIs only  B) Only Indian residents  C) HUFs  D) Foreign nationals
+A) NRIs only  B) HUFs  C) Foreign nationals  D) Only Indian residents
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Only an **Indian resident** can open a PPF account. NRIs cannot open one (existing holders who become NRI may continue contributing but cannot extend tenure).
+**Correct: D)** — Only an **Indian resident** can open a PPF account. NRIs cannot open one (existing holders who become NRI may continue contributing but cannot extend tenure).
 - A) NRIs are specifically *not* eligible to open new accounts.
-- C) and D) are not eligible to open PPF accounts.
+- B) and C) are not eligible to open PPF accounts.
 </details>
 
 **Q11.** The minimum continuous service required to be eligible for gratuity (in normal cases) is:
@@ -126,12 +126,12 @@ A) (15 × last drawn salary × tenure) ÷ 30  B) (15 × last drawn salary × ten
 </details>
 
 **Q14.** For employees **not covered** under the Gratuity Act, gratuity is calculated by dividing by:
-A) 26  B) 30  C) 15  D) 12
+A) 26  B) 15  C) 12  D) 30
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For employees not covered, the divisor is **30**: Gratuity = (15 × last drawn salary × tenure) ÷ 30, counting only fully completed years.
+**Correct: D)** — For employees not covered, the divisor is **30**: Gratuity = (15 × last drawn salary × tenure) ÷ 30, counting only fully completed years.
 - A) 26 is used for *covered* employees.
-- C) and D) are not divisors used in either formula.
+- B) and C) are not divisors used in either formula.
 </details>
 
 **Q15.** The maximum statutory limit on tax-exempt gratuity for private-sector employees is:
@@ -179,12 +179,12 @@ A) SEBI  B) IRDAI  C) PFRDA  D) RBI
 </details>
 
 **Q20.** The All Citizens model of NPS is open to Indian citizens aged between:
-A) 18–60 years  B) 18–70 years  C) 21–65 years  D) 25–75 years
+A) 18–60 years  B) 21–65 years  C) 25–75 years  D) 18–70 years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The All Citizens model is a voluntary scheme open to citizens aged **18–70 years**.
+**Correct: D)** — The All Citizens model is a voluntary scheme open to citizens aged **18–70 years**.
 - A) 18–60 is incorrect; the upper age was extended.
-- C) and D) are not the stated age band.
+- B) and C) are not the stated age band.
 </details>
 
 **Q21.** Which NPS account type is the default/mandatory one?
@@ -198,13 +198,13 @@ A) Tier I  B) Tier II  C) Tier III  D) Both are mandatory
 </details>
 
 **Q22.** The additional exclusive NPS tax deduction available under Section 80CCD(1B) is:
-A) Rs. 1.5 lakh  B) Rs. 50,000  C) Rs. 2 lakh  D) Rs. 25,000
+A) Rs. 1.5 lakh  B) Rs. 2 lakh  C) Rs. 25,000  D) Rs. 50,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 80CCD(1B) allows an extra **Rs. 50,000** deduction exclusively for NPS, over and above the Rs. 1.5 lakh under 80C/80CCD(1).
+**Correct: D)** — Section 80CCD(1B) allows an extra **Rs. 50,000** deduction exclusively for NPS, over and above the Rs. 1.5 lakh under 80C/80CCD(1).
 - A) Rs. 1.5 lakh is the 80C/80CCD(1) limit.
-- C) Rs. 2 lakh is the *total* subscriber deduction (1.5 lakh + 50,000).
-- D) Rs. 25,000 is not an NPS limit.
+- B) Rs. 2 lakh is the *total* subscriber deduction (1.5 lakh + 50,000).
+- C) Rs. 25,000 is not an NPS limit.
 </details>
 
 **Q23.** The four asset classes in NPS are Equity (E), Corporate Debt (C), Government Securities (G) and:
@@ -665,3 +665,360 @@ A) Gold, real estate, equities  B) EPF, NPS, Superannuation and Gratuity  C) SCS
 - A) These are asset classes, not the salaried "core" benefits.
 - C) and D) are distribution/standalone products, not the employment-linked core.
 </details>
+
+## 🔴 Tier 3 — Hard: Numerical & Scenario (Q71–Q100)
+
+**Q71.** An employee's Basic + DA is Rs. 30,000. What is the employee's monthly EPF contribution?
+A) Rs. 1,250  B) Rs. 2,350  C) Rs. 3,600  D) Rs. 1,100
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Formula: *Employee contribution = 12% × (Basic + DA)*. = 0.12 × 30,000 = **Rs. 3,600**. The whole amount goes to the EPF account.
+- A) Rs. 1,250 is the EPS portion (8.33% × 15,000 cap).
+- B) Rs. 2,350 is the employer's EPF slice after EPS (3,600 − 1,250).
+- D) Rs. 1,100 has no basis here.
+</details>
+
+**Q72.** For the same employee (Basic+DA = Rs. 30,000), how much of the employer's contribution goes to EPS, given the Rs. 15,000 salary ceiling?
+A) Rs. 2,499  B) Rs. 1,250  C) Rs. 3,600  D) Rs. 2,350
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — EPS = 8.33% of salary, but capped at Rs. 15,000 salary. Formula: *EPS = 8.33% × 15,000* = **Rs. 1,250** (rounded). Because actual salary (30,000) exceeds the ceiling, the ceiling applies.
+- A) Rs. 2,499 ≈ 8.33% × 30,000 — wrong because the Rs. 15,000 ceiling is ignored.
+- C) Rs. 3,600 is the total employee/employer 12% figure.
+- D) Rs. 2,350 is the employer's EPF (non-EPS) slice.
+</details>
+
+**Q73.** Continuing Q72: how much of the employer's 12% (Rs. 3,600) goes into the EPF account (not EPS)?
+A) Rs. 1,250  B) Rs. 2,350  C) Rs. 1,101  D) Rs. 3,600
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The employer's total is 12% × 30,000 = Rs. 3,600. Of this, EPS takes Rs. 1,250 (capped). The remainder goes to EPF: 3,600 − 1,250 = **Rs. 2,350**. (This matches the workbook's worked example.)
+- A) Rs. 1,250 is the EPS portion, not the EPF portion.
+- C) Rs. 1,101 is incorrect.
+- D) Rs. 3,600 is the whole employer contribution, before the EPS split.
+</details>
+
+**Q74.** A's last drawn basic pay is Rs. 60,000/month, service is 20 years 7 months, and he is **covered** under the Gratuity Act. What is his gratuity?
+A) Rs. 6.00 lakh  B) Rs. 6.92 lakh  C) Rs. 7.26 lakh  D) Rs. 7.50 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Formula: *(15 × last drawn salary × tenure) ÷ 26*. Tenure rounds up to 21 (7 months > 6). = (15 × 60,000 × 21) ÷ 26 = 18,90,00,000 ÷ 26 = **Rs. 7,26,923 ≈ Rs. 7.26 lakh**.
+- A) Rs. 6 lakh is the *not-covered* result (÷30, tenure 20).
+- B) Rs. 6.92 lakh wrongly uses tenure 20 with ÷26.
+- D) Rs. 7.50 lakh does not match the formula.
+</details>
+
+**Q75.** Same A (Basic Rs. 60,000, 20 years 7 months) but **not covered** under the Act. What is his gratuity?
+A) Rs. 6.00 lakh  B) Rs. 6.30 lakh  C) Rs. 7.26 lakh  D) Rs. 5.40 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Formula: *(15 × last drawn salary × tenure) ÷ 30*, counting only completed years (20, dropping 7 months). = (15 × 60,000 × 20) ÷ 30 = 1,80,00,000 ÷ 30 = **Rs. 6,00,000 = Rs. 6 lakh**.
+- B) Rs. 6.30 lakh wrongly uses tenure 21.
+- C) Rs. 7.26 lakh is the *covered* result.
+- D) Rs. 5.40 lakh is incorrect.
+</details>
+
+**Q76.** An employee covered under the Act has last drawn salary Rs. 40,000 and 10 completed years of service. Calculate gratuity.
+A) Rs. 2,00,000  B) Rs. 2,30,769  C) Rs. 2,40,000  D) Rs. 3,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — *(15 × 40,000 × 10) ÷ 26* = 60,00,000 ÷ 26 = **Rs. 2,30,769**.
+- A) Rs. 2,00,000 wrongly divides by 30.
+- C) Rs. 2,40,000 ignores the ÷26 (treats it as half-month × years × something).
+- D) Rs. 3,00,000 is unrelated to the formula.
+</details>
+
+**Q77.** A retiree's NPS corpus at age 60 is Rs. 50 lakh. Using the minimum mandatory annuity rule, how much must buy an annuity and how much can be taken as lump sum?
+A) Annuity Rs. 20 lakh, lump sum Rs. 30 lakh  B) Annuity Rs. 30 lakh, lump sum Rs. 20 lakh  C) Annuity Rs. 40 lakh, lump sum Rs. 10 lakh  D) Annuity Rs. 25 lakh, lump sum Rs. 25 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — At retirement, **minimum 40%** must annuitise and **up to 60%** is lump sum. Annuity = 40% × 50 lakh = **Rs. 20 lakh**; lump sum = 60% × 50 lakh = **Rs. 30 lakh**.
+- B) reverses the proportions.
+- C) uses 80%/20% (the pre-retirement rule).
+- D) splits 50/50, which is not the rule.
+</details>
+
+**Q78.** A subscriber resigns at age 45 with an NPS corpus of Rs. 10 lakh. What is the minimum annuity purchase and the lump sum?
+A) Annuity Rs. 4 lakh, lump sum Rs. 6 lakh  B) Annuity Rs. 8 lakh, lump sum Rs. 2 lakh  C) Annuity Rs. 6 lakh, lump sum Rs. 4 lakh  D) Entire Rs. 10 lakh lump sum
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For *pre-retirement* exit (corpus above Rs. 2.5 lakh), at least **80%** must annuitise. Annuity = 80% × 10 lakh = **Rs. 8 lakh**; lump sum = 20% × 10 lakh = **Rs. 2 lakh**.
+- A) and C) use the 40%/60% retirement rule, which does not apply before retirement.
+- D) Full lump sum is allowed only if corpus ≤ Rs. 2.5 lakh.
+</details>
+
+**Q79.** Mr. A has 8,000 units; NAV is Rs. 10. He withdraws Rs. 5,000 via SWP. How many units are sold and how many remain?
+A) 250 sold, 7,750 remain  B) 500 sold, 7,500 remain  C) 1,000 sold, 7,000 remain  D) 500 sold, 8,500 remain
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — *Units sold = withdrawal ÷ NAV* = 5,000 ÷ 10 = **500 units**. Remaining = 8,000 − 500 = **7,500** (the workbook's exact example).
+- A) 250 sold would be at NAV Rs. 20, not Rs. 10.
+- C) 1,000 sold would be at NAV Rs. 5.
+- D) Units must reduce, not rise.
+</details>
+
+**Q80.** Next month Mr. A's NAV rises to Rs. 20. He again withdraws Rs. 5,000. How many units are sold this time, and what remains (starting from 7,500)?
+A) 500 sold, 7,000 remain  B) 250 sold, 7,250 remain  C) 250 sold, 7,500 remain  D) 100 sold, 7,400 remain
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Units sold = 5,000 ÷ 20 = **250 units**. Remaining = 7,500 − 250 = **7,250**. Intuition: a higher NAV means fewer units are needed for the same rupee withdrawal.
+- A) 500 sold would be at NAV Rs. 10.
+- C) wrongly leaves 7,500 (forgets to subtract).
+- D) is arithmetically wrong.
+</details>
+
+**Q81.** An investor's equity-fund SWP generates Rs. 1,80,000 of long-term capital gains in a year. Given the Rs. 1.25 lakh LTCG exemption, what amount is taxed at 12.5%?
+A) Rs. 1,80,000  B) Rs. 1,25,000  C) Rs. 55,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — LTCG on equity is taxed at 12.5% after a **Rs. 1.25 lakh annual exemption**. Taxable = 1,80,000 − 1,25,000 = **Rs. 55,000**.
+- A) Rs. 1,80,000 ignores the exemption.
+- B) Rs. 1,25,000 is the exempt amount, not the taxable amount.
+- D) Nil would apply only if gains were ≤ Rs. 1.25 lakh.
+</details>
+
+**Q82.** Continuing Q81: what is the tax payable on the Rs. 55,000 of taxable LTCG (ignoring cess)?
+A) Rs. 5,500  B) Rs. 6,875  C) Rs. 11,000  D) Rs. 7,500
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Tax = 12.5% × 55,000 = **Rs. 6,875**.
+- A) Rs. 5,500 uses 10%.
+- C) Rs. 11,000 uses 20% (the short-term equity rate).
+- D) Rs. 7,500 does not match 12.5% of 55,000.
+</details>
+
+**Q83.** Mr. B has USD 500,000 laddered into five bonds of USD 100,000 maturing in years 1–5. When the year-1 bond matures, where does he reinvest the proceeds to keep the ladder intact?
+A) In a new 1-year bond  B) In a new 5-year bond (longest end)  C) He spends it  D) In a 3-year bond
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — To keep the ladder intact, the maturing piece is reinvested at the **longest end (5 years out)**. The bond that was 2 years away is now 1 year away, and so on — preserving the staggered structure.
+- A) A 1-year bond would not extend the ladder.
+- C) Spending it breaks the ladder.
+- D) A 3-year bond would create a gap in the ladder.
+</details>
+
+**Q84.** PMVVY: for the minimum monthly pension of Rs. 1,000, the purchase price is Rs. 1.5 lakh. By proportion, what purchase price gives the maximum Rs. 10,000/month pension?
+A) Rs. 7.5 lakh  B) Rs. 10 lakh  C) Rs. 15 lakh  D) Rs. 30 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Pension scales linearly: Rs. 1,000/month ↔ Rs. 1.5 lakh, so Rs. 10,000/month ↔ 10 × 1.5 lakh = **Rs. 15 lakh** (the workbook's stated maximum purchase price).
+- A) and B) under-fund the maximum pension.
+- D) Rs. 30 lakh is the SCSS cap, not PMVVY's.
+</details>
+
+**Q85.** A senior citizen exits SCSS after 2.5 years. His deposit was Rs. 20 lakh. What premature-closure penalty applies and what is the penalty amount?
+A) 1.5%, Rs. 30,000  B) 1%, Rs. 20,000  C) 2%, Rs. 40,000  D) No penalty
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For exit **between 2 and less than 5 years**, the penalty is **1%** of the deposit. = 1% × 20,00,000 = **Rs. 20,000**.
+- A) 1.5% (Rs. 30,000) applies only between 1 and 2 years.
+- C) 2% is the POMIS penalty, not SCSS.
+- D) Premature exit after 1 year does carry a penalty.
+</details>
+
+**Q86.** A POMIS account is closed after 2 years. Deposit was Rs. 5 lakh. What deduction applies?
+A) 1% = Rs. 5,000  B) 2% = Rs. 10,000  C) 1.5% = Rs. 7,500  D) No deduction
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — POMIS closure **after 1 year but before 3 years** carries a **2% deduction on principal**. = 2% × 5,00,000 = **Rs. 10,000**.
+- A) 1% applies only between 3 and 5 years.
+- C) 1.5% is an SCSS penalty rate, not POMIS.
+- D) A deduction does apply after the first year.
+</details>
+
+**Q87.** A reverse mortgage borrower's eligible loan is Rs. 24 lakh. He wants the maximum lump sum for medical needs. Given the 50%/Rs. 15 lakh rule, how much can he take?
+A) Rs. 24 lakh  B) Rs. 15 lakh  C) Rs. 12 lakh  D) Rs. 50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — The lump sum is restricted to **50% of the eligible loan, capped at Rs. 15 lakh**. 50% × 24 lakh = Rs. 12 lakh, which is below the Rs. 15 lakh cap, so the limit is **Rs. 12 lakh**.
+- A) Rs. 24 lakh ignores the 50% rule.
+- B) Rs. 15 lakh would apply only if 50% exceeded Rs. 15 lakh (i.e., loan > Rs. 30 lakh).
+- D) Rs. 50,000 is the monthly payment cap, not the lump-sum cap.
+</details>
+
+**Q88.** A UPS subscriber's last 12-month average basic pay is Rs. 80,000, with 25+ years of service. What is the monthly assured payout?
+A) Rs. 30,000  B) Rs. 40,000  C) Rs. 48,000  D) Rs. 60,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — UPS assured payout = **50% of the 12-month average basic pay** (after ≥25 years). = 50% × 80,000 = **Rs. 40,000/month**.
+- A) Rs. 30,000 would be 37.5%.
+- C) Rs. 48,000 would be 60% (that is the *family/spouse* share rate, applied to the payout, not the basic pay).
+- D) Rs. 60,000 would be 75%.
+</details>
+
+**Q89.** Continuing Q88: on the subscriber's death, what monthly family payout does the spouse receive (60% of the admissible payout)?
+A) Rs. 20,000  B) Rs. 24,000  C) Rs. 40,000  D) Rs. 48,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Family payout = **60% of the admissible payout** = 60% × 40,000 = **Rs. 24,000/month**.
+- A) Rs. 20,000 is 50% of the payout.
+- C) Rs. 40,000 is the full admissible payout (no reduction).
+- D) Rs. 48,000 wrongly applies 60% to the Rs. 80,000 basic, not to the Rs. 40,000 payout.
+</details>
+
+**Q90.** An employee's own EPF + VPF contribution in a year is Rs. 3 lakh. On how much of the contribution is the interest taxable?
+A) On the full Rs. 3 lakh  B) On Rs. 50,000  C) On nothing  D) On Rs. 2.5 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Interest is taxable only on the **excess over Rs. 2.5 lakh**. Excess = 3,00,000 − 2,50,000 = **Rs. 50,000**, so interest on that Rs. 50,000 is taxable.
+- A) The full Rs. 3 lakh is wrong; only the excess counts.
+- C) "Nothing" would be true only if contribution ≤ Rs. 2.5 lakh.
+- D) Rs. 2.5 lakh is the exempt threshold, not the taxable portion.
+</details>
+
+**Q91.** An employer's aggregate contribution to EPF + NPS + Superannuation in a year is Rs. 9 lakh. How much is treated as a taxable perquisite?
+A) Rs. 9 lakh  B) Rs. 7.5 lakh  C) Rs. 1.5 lakh  D) Nothing
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — The aggregate is a perquisite only to the extent it **exceeds Rs. 7.5 lakh**. Excess = 9,00,000 − 7,50,000 = **Rs. 1.5 lakh** (plus interest/dividend thereon).
+- A) The whole Rs. 9 lakh is not perquisite; only the excess is.
+- B) Rs. 7.5 lakh is the exempt threshold, not the taxable excess.
+- D) "Nothing" would apply only if the aggregate were ≤ Rs. 7.5 lakh.
+</details>
+
+**Q92.** A salaried NPS subscriber has Basic+DA of Rs. 12,00,000/year. His own NPS contribution deduction under 80CCD(1) is limited to 10% of Basic+DA. What is that ceiling?
+A) Rs. 1,00,000  B) Rs. 1,20,000  C) Rs. 1,50,000  D) Rs. 2,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For salaried employees, the 80CCD(1) deduction is limited to **10% of Basic+DA** = 10% × 12,00,000 = **Rs. 1,20,000** (also subject to the overall Rs. 1.5 lakh 80C cap).
+- A) Rs. 1,00,000 uses a wrong percentage.
+- C) Rs. 1.5 lakh is the overall 80C cap, not the 10% limit here.
+- D) Rs. 2 lakh is the total including 80CCD(1B).
+</details>
+
+**Q93.** Continuing Q92: with the extra 80CCD(1B), what is the maximum total deduction this subscriber can claim on his own NPS contribution (assuming he contributes enough)?
+A) Rs. 1,20,000  B) Rs. 1,50,000  C) Rs. 1,70,000  D) Rs. 2,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — He can claim up to Rs. 1,20,000 under 80CCD(1) (capped at 10% of Basic+DA) **plus** Rs. 50,000 under 80CCD(1B) = **Rs. 1,70,000**.
+- A) Rs. 1,20,000 omits the extra Rs. 50,000.
+- B) Rs. 1.5 lakh ignores both the 10% limit and 80CCD(1B).
+- D) Rs. 2 lakh assumes the full Rs. 1.5 lakh under 80CCD(1), but here it is capped at Rs. 1.2 lakh.
+</details>
+
+**Q94.** An employer's NPS contribution for a private-sector employee is eligible under 80CCD(2) up to what percentage of Basic+DA (as per Budget 2024)?
+A) 10%  B) 12%  C) 14%  D) 27%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Per Budget 2024, the employer's NPS contribution deduction under 80CCD(2) is up to **14% of (Basic+DA)** for both government and other employers.
+- A) 10% was the older limit for non-government employees.
+- B) 12% is the EPF rate.
+- D) 27% is the PF+superannuation cap, not the NPS employer deduction.
+</details>
+
+**Q95.** A 33-year-old chooses the NPS Auto Choice **Moderate** Life Cycle Fund (age ≤35 row: E 50, C 30, G 20). If his contribution is Rs. 1,00,000, how much goes to equity?
+A) Rs. 20,000  B) Rs. 30,000  C) Rs. 50,000  D) Rs. 75,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — At age ≤35 the Moderate fund allocates **50% to equity**. = 50% × 1,00,000 = **Rs. 50,000**.
+- A) Rs. 20,000 is the G (government) allocation (20%).
+- B) Rs. 30,000 is the C (corporate debt) allocation (30%).
+- D) Rs. 75,000 (75%) is the Aggressive fund's equity, not Moderate.
+</details>
+
+**Q96.** A PPF account balance at the end of the preceding year is Rs. 8 lakh; at the end of the 4th year preceding the withdrawal it was Rs. 6 lakh. What is the maximum partial withdrawal?
+A) Rs. 4 lakh  B) Rs. 3 lakh  C) Rs. 8 lakh  D) Rs. 6 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Maximum = **lower of** 50% of preceding-year balance (50% × 8 lakh = Rs. 4 lakh) **or** 50% of the 4th-preceding-year balance (50% × 6 lakh = Rs. 3 lakh). The lower is **Rs. 3 lakh**.
+- A) Rs. 4 lakh is the higher of the two 50% figures, not the lower.
+- C) and D) ignore the 50% rule entirely.
+</details>
+
+**Q97.** Central Government retirement gratuity for 33+ years of qualifying service equals 16½ times Basic+DA. If Basic+DA = Rs. 1,00,000, what is the gratuity, applying the cap?
+A) Rs. 16,50,000  B) Rs. 20,00,000  C) Rs. 33,00,000  D) Rs. 16,50,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Gratuity = 16.5 × Basic+DA = 16.5 × 1,00,000 = **Rs. 16,50,000**. This is below the Rs. 20 lakh cap, so the full Rs. 16.5 lakh is payable.
+- B) Rs. 20 lakh is the cap, which is not reached here.
+- C) Rs. 33 lakh uses the wrong multiple.
+- D) is a decimal-place error.
+</details>
+
+**Q98.** A government employee dies after 7 years of qualifying service (death-gratuity table: 5 to <11 years = 12 × basic pay). If basic pay = Rs. 50,000, the death gratuity is:
+A) Rs. 3,00,000  B) Rs. 6,00,000  C) Rs. 10,00,000  D) Rs. 1,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For 5 to <11 years, the rate is **12 × basic pay** = 12 × 50,000 = **Rs. 6,00,000**.
+- A) Rs. 3,00,000 uses 6× (the 1-to-<5-years rate).
+- C) Rs. 10,00,000 uses 20× (the 11-to-<20-years rate).
+- D) Rs. 1,00,000 uses 2× (the <1-year rate).
+</details>
+
+**Q99.** A retiree splits Rs. 50 lakh: he must annuitise the minimum at age 60. He chooses "lifetime without return of purchase price." Compared with "lifetime with return of purchase price," his monthly annuity will be:
+A) Lower  B) Higher  C) The same  D) Zero
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — "Without return of purchase price" pays a **higher** annuity because the insurer keeps the principal on death (no refund liability), so it can pay more each month.
+- A) "Lower" describes the "with return" option.
+- C) The two options pay different amounts.
+- D) The annuity is not zero in either case.
+</details>
+
+**Q100.** A debt-fund SWP (post 1 April 2023) generates Rs. 40,000 of gains for an investor in the 30% tax slab. What is the approximate tax on the gain (ignoring cess)?
+A) Rs. 4,000  B) Rs. 5,000  C) Rs. 12,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Debt-fund gains (post 1 April 2023) are taxed at the **investor's slab rate**, regardless of holding period. = 30% × 40,000 = **Rs. 12,000**.
+- A) Rs. 4,000 uses 10%.
+- B) Rs. 5,000 uses 12.5% (an equity rate).
+- D) Debt-fund gains are not exempt.
+</details>
+
+## 🧩 Case Study
+
+**Scenario:** Mr. Suresh, aged 58, retires from a private company **covered under the Payment of Gratuity Act, 1972**, after **30 years and 8 months** of continuous service. His last drawn salary (Basic + DA) is **Rs. 80,000/month**. Over his career he built an **NPS Tier I corpus of Rs. 60 lakh** and an **EPF balance**. He also holds **mutual fund units** from which he plans to run a Systematic Withdrawal Plan (SWP) in retirement, and he is considering parking **Rs. 30 lakh** in the Senior Citizens' Savings Scheme (SCSS) once he turns 60. His adviser walks him through the numbers.
+
+<details><summary>Q1. What tenure will be used for Suresh's gratuity, and what is his gratuity amount?</summary>
+
+**Tenure:** Since he is **covered** under the Act, a part-year of more than 6 months rounds up. 8 months > 6 months, so tenure = **31 years**.
+
+**Formula:** Gratuity = (15 × last drawn salary × tenure) ÷ 26.
+= (15 × 80,000 × 31) ÷ 26
+= 3,72,00,000 ÷ 26
+= **Rs. 14,30,769 (≈ Rs. 14.31 lakh)**.
+
+**Intuition:** The "15/26" means the law pays roughly 15 days of salary for each year served, treating a month as 26 working days. Since Rs. 14.31 lakh is below the Rs. 20 lakh statutory cap, the entire amount is tax-exempt.
+</details>
+
+<details><summary>Q2. At retirement, how must Suresh split his Rs. 60 lakh NPS corpus, and how much is the tax-free lump sum?</summary>
+
+**Rule (exit at/after age 60):** minimum **40%** must buy an annuity; up to **60%** can be taken as a lump sum.
+
+- Annuity portion = 40% × 60,00,000 = **Rs. 24,00,000**.
+- Lump sum = 60% × 60,00,000 = **Rs. 36,00,000**.
+
+**Tax:** The lump sum up to 60% is **tax-free under Section 10(12A)**, so the full Rs. 36 lakh is tax-free. The annuity income he later receives **will be taxable** as income in the year it is due. (His corpus exceeds Rs. 5 lakh, so the "withdraw entire corpus" option does not apply.)
+</details>
+
+<details><summary>Q3. Suresh's EPF own contribution in his final year was Rs. 2.8 lakh. Is the interest fully tax-free? How is his EPF withdrawal taxed?</summary>
+
+**Interest taxability:** Interest is exempt only on own contribution up to **Rs. 2.5 lakh/year**. His Rs. 2.8 lakh exceeds this by **Rs. 30,000** (2,80,000 − 2,50,000), so interest **on that Rs. 30,000 excess is taxable**.
+
+**Withdrawal taxability:** He has completed **30+ years** of continuous service — well beyond the **5-year** threshold — so the **EPF withdrawal itself is fully tax-free**.
+
+**Intuition:** The 5-year rule rewards long-term savers; only the interest on the *high* (>Rs. 2.5 lakh) annual contributions loses its exemption.
+</details>
+
+<details><summary>Q4. Suresh runs an equity-fund SWP and books Rs. 2,00,000 of long-term capital gains in a year. What is his tax?</summary>
+
+**Rule:** Equity LTCG (holding > 12 months) is taxed at **12.5%**, after a **Rs. 1.25 lakh annual exemption**.
+
+- Taxable LTCG = 2,00,000 − 1,25,000 = **Rs. 75,000**.
+- Tax = 12.5% × 75,000 = **Rs. 9,375** (ignoring cess).
+
+**Intuition:** Only the gain *portion* of each SWP redemption is taxed (not the whole withdrawal), and the first Rs. 1.25 lakh of equity LTCG each year escapes tax. Remember: in an SWP units are *sold*, so the fund value falls — unlike FD interest where the corpus stays intact.
+</details>
+
+<details><summary>Q5. At 60, Suresh deposits Rs. 30 lakh in SCSS but must exit after 3 years for an emergency. What penalty applies, and how is the interest taxed?</summary>
+
+**Deposit check:** Rs. 30 lakh equals the **maximum SCSS limit**, so the deposit is valid.
+
+**Premature-closure penalty:** Exit **between 2 and less than 5 years** carries a **1% penalty on the deposit**.
+- Penalty = 1% × 30,00,000 = **Rs. 30,000**.
+
+**Tax on interest:** SCSS **interest is fully taxable**; since his annual interest comfortably exceeds **Rs. 50,000**, **TDS applies** on the interest earned. (The Rs. 30 lakh investment itself qualified for 80C deduction only up to Rs. 1.5 lakh.)
+
+**Intuition:** SCSS gives quarterly income and 80C benefit on entry, but the income is taxed — unlike PPF's fully exempt (EEE) treatment.
+</details>
+

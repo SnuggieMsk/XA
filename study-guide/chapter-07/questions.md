@@ -385,12 +385,12 @@ A) Resident (60+ days and 365+ in 4 years)  B) Non-resident  C) RNOR automatical
 </details>
 
 **Q41.** An HUF's control and management is partly in India (one decision taken in India) during the year. The HUF is:
-A) Non-resident  B) Resident  C) Always RNOR  D) Exempt
+A) Non-resident  B) Always RNOR  C) Resident  D) Exempt
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — An HUF is resident in every case except where control and management is wholly outside India. If even a single decision is taken in India, part of control is in India, so it is resident.
+**Correct: C)** — An HUF is resident in every case except where control and management is wholly outside India. If even a single decision is taken in India, part of control is in India, so it is resident.
 - A) Non-resident requires control wholly outside India.
-- C) RNOR needs the Karta to satisfy a separate test.
+- B) RNOR needs the Karta to satisfy a separate test.
 - D) Residence does not grant exemption.
 </details>
 
@@ -441,11 +441,11 @@ A) Capped at ₹2,00,000  B) Capped at ₹30,000  C) Not available  D) Fully ded
 </details>
 
 **Q47.** Pre-construction period interest on a house loan is allowed as a deduction in:
-A) One lump sum in the year of acquisition  B) 5 equal instalments starting from the year of acquisition/completion  C) 10 equal instalments  D) Not allowed at all
+A) 5 equal instalments starting from the year of acquisition/completion  B) One lump sum in the year of acquisition  C) 10 equal instalments  D) Not allowed at all
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Pre-construction interest (for the period prior to the FY of acquisition) is allowed in 5 equal instalments starting from the year the property is acquired/constructed.
-- A) It is spread, not lump sum.
+**Correct: A)** — Pre-construction interest (for the period prior to the FY of acquisition) is allowed in 5 equal instalments starting from the year the property is acquired/constructed.
+- B) It is spread, not lump sum.
 - C) 5 instalments, not 10.
 - D) It is allowed, just deferred.
 </details>
@@ -479,11 +479,11 @@ A) 8 years vs 4 years  B) 4 years vs 8 years  C) 4 years vs 4 years  D) Indefini
 </details>
 
 **Q51.** A long-term capital loss (LTCL) can be set off against:
-A) Any income head  B) Only long-term capital gains  C) Any capital gain (STCG or LTCG)  D) Salary income
+A) Only long-term capital gains  B) Any income head  C) Any capital gain (STCG or LTCG)  D) Salary income
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — LTCL can be set off only against long-term capital gains, not even against short-term capital gains.
-- A) Capital losses cannot be set off inter-head.
+**Correct: A)** — LTCL can be set off only against long-term capital gains, not even against short-term capital gains.
+- B) Capital losses cannot be set off inter-head.
 - C) That rule applies to short-term capital loss, not long-term.
 - D) Capital losses can never be set off against salary.
 </details>
@@ -506,13 +506,13 @@ A) House property income  B) Capital gains  C) Salary and gambling income  D) Ot
 </details>
 
 **Q54.** Unabsorbed depreciation can be carried forward for:
-A) 4 years  B) 8 years  C) Any number of years (indefinitely)  D) Cannot be carried forward
+A) 4 years  B) 8 years  C) Cannot be carried forward  D) Any number of years (indefinitely)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Unabsorbed depreciation can be carried forward for any number of years and set off against any income except salary.
+**Correct: D)** — Unabsorbed depreciation can be carried forward for any number of years and set off against any income except salary.
 - A) 4 years applies to speculative loss.
 - B) 8 years applies to normal business loss.
-- D) It can be carried forward indefinitely.
+- C) It can be carried forward indefinitely, not barred.
 </details>
 
 **Q55.** A loss under the head 'Income from Other Sources' (non-gambling):
@@ -544,11 +544,11 @@ A) Allowed up to ₹2,00,000  B) Not allowed (but deemed to have been set off)  
 </details>
 
 **Q58.** A carried-forward house property loss can be set off in subsequent years only against:
-A) Salary  B) Any income  C) Income from house property  D) Capital gains
+A) Income from house property  B) Any income  C) Salary  D) Capital gains
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — A carried-forward house-property loss (carried up to 8 years) can be set off only against income from house property in subsequent years.
-- A), B), D) Carried-forward house-property loss is restricted to the same head.
+**Correct: A)** — A carried-forward house-property loss (carried up to 8 years) can be set off only against income from house property in subsequent years.
+- B), C), D) Carried-forward house-property loss is restricted to the same head.
 </details>
 
 **Q59.** Under Section 60, if a person transfers the income from an asset WITHOUT transferring the asset itself, the income is taxed in the hands of:
@@ -690,11 +690,11 @@ A) Non-resident  B) RNOR  C) ROR  D) Exempt
 </details>
 
 **Q73.** Continuing Q72, by FY 2026-27 (after two full resident years), Mr. Vilayati's status becomes:
-A) RNOR still  B) ROR  C) Non-resident  D) Deemed resident
+A) ROR  B) RNOR still  C) Non-resident  D) Deemed resident
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — By FY 2026-27 he stays >182 days (resident). For NOR: he is NOT non-resident in 9 of 10 years (he was resident in FY 2024-25 and 2025-26) and he has now spent more than 730 days in the preceding 7 years. He fails BOTH NOR conditions → ROR.
-- A) He no longer satisfies either NOR condition.
+**Correct: A)** — By FY 2026-27 he stays >182 days (resident). For NOR: he is NOT non-resident in 9 of 10 years (he was resident in FY 2024-25 and 2025-26) and he has now spent more than 730 days in the preceding 7 years. He fails BOTH NOR conditions → ROR.
+- B) He no longer satisfies either NOR condition.
 - C) >182 days means resident.
 - D) Deemed resident needs the >₹15 lakh/no-foreign-tax test, not these facts.
 </details>
@@ -737,13 +737,13 @@ A) ₹16,35,000  B) ₹16,60,000  C) ₹17,10,000  D) ₹15,00,000
 </details>
 
 **Q78.** Mr. B (old regime): employee EPF ₹21,600 + PPF ₹1,50,000 under 80C, NPS 80CCD(1B) ₹50,000, employer NPS 80CCD(2) at 10% of ₹15,00,000. The 80CCD(2) deduction is:
-A) ₹1,50,000  B) ₹2,10,000  C) ₹50,000  D) ₹1,71,600
+A) ₹2,10,000  B) ₹50,000  C) ₹1,71,600  D) ₹1,50,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Old-regime 80CCD(2) for a private employee = 10% of salary = 10% × ₹15,00,000 = ₹1,50,000 (even though employer actually contributed ₹2,10,000, the deduction is capped at 10%).
-- B) ₹2,10,000 is the new-regime cap (14%), not old (10%).
-- C) ₹50,000 is the 80CCD(1B) figure.
-- D) ₹1,71,600 is not a relevant figure.
+**Correct: D)** — Old-regime 80CCD(2) for a private employee = 10% of salary = 10% × ₹15,00,000 = ₹1,50,000 (even though employer actually contributed ₹2,10,000, the deduction is capped at 10%).
+- A) ₹2,10,000 is the new-regime cap (14%), not old (10%).
+- B) ₹50,000 is the 80CCD(1B) figure.
+- C) ₹1,71,600 is not a relevant figure.
 </details>
 
 **Q79.** Mr. B (old regime): Taxable salary ₹16,60,000 less total deductions = ₹1,50,000 (80C) + ₹50,000 (80CCD(1B)) + ₹1,50,000 (80CCD(2)) = ₹3,50,000. Taxable income is:

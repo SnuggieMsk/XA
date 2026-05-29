@@ -21,11 +21,11 @@ A) and B) describe investment-cum-insurance policies which combine death and sur
 </details>
 
 **Q3.** The person whose life is being insured is called the:
-A) Proposer  B) Insured  C) Nominee  D) Assignee
+A) Proposer  B) Nominee  C) Insured  D) Assignee
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The "insured" is the person whose life is covered, and can be an individual, minor or joint lives.
-A) The proposer/policyholder is the buyer when different from the insured. C) The nominee receives the money on a death claim. D) An assignee is someone to whom the policy interest is transferred.
+**Correct: C)** — The "insured" is the person whose life is covered, and can be an individual, minor or joint lives.
+A) The proposer/policyholder is the buyer when different from the insured. B) The nominee receives the money on a death claim. D) An assignee is someone to whom the policy interest is transferred.
 </details>
 
 **Q4.** If the person buying the policy is different from the person whose life is insured, the buyer must have:
@@ -37,11 +37,11 @@ A), C) and D) are not the defining requirement for a proposer who is different f
 </details>
 
 **Q5.** "Sum assured" in a life insurance contract refers to:
-A) The premium paid each year  B) The amount being insured  C) The bonus added at maturity  D) The surrender value
+A) The amount being insured  B) The premium paid each year  C) The bonus added at maturity  D) The surrender value
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The sum assured is the amount being insured.
-A) Premium is the cost paid for the cover. C) Bonus is an extra amount added to the sum assured in investment-cum-insurance policies. D) Surrender value is the cash value returned if a policy is given up.
+**Correct: A)** — The sum assured is the amount being insured.
+B) Premium is the cost paid for the cover. C) Bonus is an extra amount added to the sum assured in investment-cum-insurance policies. D) Surrender value is the cash value returned if a policy is given up.
 </details>
 
 **Q6.** For a life insurance product with a term of MORE than 10 years, the minimum sum assured for an individual BELOW 45 years of age must be at least:
@@ -77,19 +77,19 @@ A) Maturity happens at the end of the term, not from non-payment. C) Paid-up is 
 </details>
 
 **Q10.** With effect from September 22, 2025, all life insurance/reinsurance policies are:
-A) Subject to 18% GST  B) Exempted from GST  C) Taxed at 5% GST  D) Subject to TDS
+A) Subject to 18% GST  B) Taxed at 5% GST  C) Subject to TDS  D) Exempted from GST
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — All life insurance/reinsurance policies are exempted from Goods and Services Tax (GST) with effect from September 22, 2025.
-A) and C) are incorrect GST rates; the policies are exempt, not taxed. D) TDS is a different concept (tax deducted at source) and not what changed here.
+**Correct: D)** — All life insurance/reinsurance policies are exempted from Goods and Services Tax (GST) with effect from September 22, 2025.
+A) and B) are incorrect GST rates; the policies are exempt, not taxed. C) TDS is a different concept (tax deducted at source) and not what changed here.
 </details>
 
 **Q11.** A bonus in a life insurance policy is relevant only to:
-A) Pure term policies  B) Investment-cum-insurance policies  C) Mortgage insurance  D) Group insurance
+A) Pure term policies  B) Mortgage insurance  C) Investment-cum-insurance policies  D) Group insurance
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Bonus is an amount added to the sum assured and is relevant only to investment-cum-insurance policies.
-A) Pure term policies have no investment component and pay no bonus. C) Mortgage insurance is a reducing-cover term variant with no bonus. D) Group insurance is a pricing arrangement, not a bonus-paying structure.
+**Correct: C)** — Bonus is an amount added to the sum assured and is relevant only to investment-cum-insurance policies.
+A) Pure term policies have no investment component and pay no bonus. B) Mortgage insurance is a reducing-cover term variant with no bonus. D) Group insurance is a pricing arrangement, not a bonus-paying structure.
 </details>
 
 **Q12.** A guaranteed bonus in an investment-cum-insurance policy is typically:
@@ -101,11 +101,11 @@ B) It is part of guaranteed benefits, not tied solely to death. C) Daily NAV app
 </details>
 
 **Q13.** A reversionary bonus is declared:
-A) At a fixed rate every year guaranteed  B) At the discretion of the insurer, based on its performance, for participating policies  C) Only for pure term policies  D) Only for single-premium ULIPs
+A) At a fixed rate every year guaranteed  B) Only for pure term policies  C) Only for single-premium ULIPs  D) At the discretion of the insurer, based on its performance, for participating policies
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Reversionary bonus is based on the insurer's performance, declared at its discretion, after the guaranteed-bonus period, for participating policies.
-A) It is not guaranteed — that is the guaranteed bonus. C) Term policies pay no bonus. D) ULIPs use NAV, not reversionary bonus.
+**Correct: D)** — Reversionary bonus is based on the insurer's performance, declared at its discretion, after the guaranteed-bonus period, for participating policies.
+A) It is not guaranteed — that is the guaranteed bonus. B) Term policies pay no bonus. C) ULIPs use NAV, not reversionary bonus.
 </details>
 
 **Q14.** The premium for participating policies, compared to non-participating policies, is:
@@ -117,19 +117,19 @@ A) and B) are wrong because the right to share in surplus comes at extra cost. D
 </details>
 
 **Q15.** For a traditional investment-cum-insurance policy with a term of 10 years or more, surrender value is acquired only after the policy has been in force for at least:
-A) 1 year  B) 2 years  C) 3 years  D) 5 years
+A) 1 year  B) 3 years  C) 2 years  D) 5 years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — A traditional investment-cum-insurance policy in force for at least 3 years (with full premiums paid) may acquire a surrender value.
-A) and B) 1 or 2 years is too short (2 years applies only if the term is less than 10 years). D) 5 years is the ULIP lock-in, a different concept.
+**Correct: B)** — A traditional investment-cum-insurance policy in force for at least 3 years (with full premiums paid) may acquire a surrender value.
+A) and C) 1 or 2 years is too short (2 years applies only if the term is less than 10 years). D) 5 years is the ULIP lock-in, a different concept.
 </details>
 
 **Q16.** For a traditional investment-cum-insurance policy whose term is LESS than 10 years, surrender value is acquired after the policy has been in force for at least:
-A) 1 year  B) 2 years  C) 3 years  D) 4 years
+A) 2 years  B) 1 year  C) 3 years  D) 4 years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — If the term is less than 10 years, surrender value can be acquired after the policy has been in force for at least 2 years (with full premiums paid).
-A) 1 year is too short. C) 3 years applies to longer-term policies. D) 4 years is not a defined threshold.
+**Correct: A)** — If the term is less than 10 years, surrender value can be acquired after the policy has been in force for at least 2 years (with full premiums paid).
+B) 1 year is too short. C) 3 years applies to longer-term policies. D) 4 years is not a defined threshold.
 </details>
 
 **Q17.** The minimum surrender value of a traditional policy will be at least __ of all premiums paid, going up to __ in the last two years.
@@ -141,11 +141,11 @@ C) 70% to 90% is the range for single-premium policies, not regular-premium trad
 </details>
 
 **Q18.** For a SINGLE premium policy, the guaranteed surrender value ranges from:
-A) 30% to 90%  B) 70% (within first three years) to 90% (last two years)  C) 50% to 100%  D) 90% to 100%
+A) 30% to 90%  B) 50% to 100%  C) 90% to 100%  D) 70% (within first three years) to 90% (last two years)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For a single premium policy, the guaranteed surrender value ranges from 70% of total premium paid if surrendered within the first three years to 90% in the last two years.
-A) 30% to 90% is for regular-premium traditional policies. C) and D) are not specified ranges.
+**Correct: D)** — For a single premium policy, the guaranteed surrender value ranges from 70% of total premium paid if surrendered within the first three years to 90% in the last two years.
+A) 30% to 90% is for regular-premium traditional policies. B) and C) are not specified ranges.
 </details>
 
 **Q19.** For ULIPs, the discontinuation charge levied when surrendering before 5 years is a maximum of:
@@ -157,19 +157,19 @@ A), B) and D) are not the specified maximum charge.
 </details>
 
 **Q20.** In a Unit-Linked Insurance Plan (ULIP), the savings/investment portion has a lock-in of:
-A) 3 years  B) 5 years  C) 7 years  D) 10 years
+A) 3 years  B) 7 years  C) 5 years  D) 10 years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — ULIPs have a lock-in of 5 years; the surrender value is paid only at the end of the lock-in period.
-A), C) and D) are not the ULIP lock-in period.
+**Correct: C)** — ULIPs have a lock-in of 5 years; the surrender value is paid only at the end of the lock-in period.
+A), B) and D) are not the ULIP lock-in period.
 </details>
 
 **Q21.** Making a policy "paid-up" means:
-A) The full sum assured continues unchanged  B) The sum assured is proportionately reduced to the ratio of premiums paid to total premiums due  C) The policy is cancelled with no value  D) The premium is waived for life
+A) The full sum assured continues unchanged  B) The policy is cancelled with no value  C) The premium is waived for life  D) The sum assured is proportionately reduced to the ratio of premiums paid to total premiums due
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A paid-up policy has its sum assured proportionately reduced in the same proportion that premiums paid bear to total premiums due.
-A) The sum assured is reduced, not unchanged. C) A paid-up policy retains a reduced value. D) Waiver of premium is a separate rider concept.
+**Correct: D)** — A paid-up policy has its sum assured proportionately reduced in the same proportion that premiums paid bear to total premiums due.
+A) The sum assured is reduced, not unchanged. B) A paid-up policy retains a reduced value. C) Waiver of premium is a separate rider concept.
 </details>
 
 **Q22.** Nomination in a life insurance policy:
@@ -181,27 +181,27 @@ A) and C) wrongly restrict changes. D) Nomination is a general right, not limite
 </details>
 
 **Q23.** The economic value attached to a human life, used to size insurance cover, is called the:
-A) Net Asset Value  B) Human Life Value (HLV)  C) Surrender Value  D) Sum Assured
+A) Net Asset Value  B) Surrender Value  C) Human Life Value (HLV)  D) Sum Assured
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Human Life Value (HLV) is the present value of expected income over the working life available for dependents.
-A) NAV is the per-unit value of a ULIP fund. C) Surrender value is the cash returned on giving up a policy. D) Sum assured is the insured amount, an output not the valuation method.
+**Correct: C)** — Human Life Value (HLV) is the present value of expected income over the working life available for dependents.
+A) NAV is the per-unit value of a ULIP fund. B) Surrender value is the cash returned on giving up a policy. D) Sum assured is the insured amount, an output not the valuation method.
 </details>
 
 **Q24.** HLV is defined as the present value of:
-A) All future premiums  B) The expected income over the working life available for dependents  C) The surrender value over time  D) The bonus declared each year
+A) All future premiums  B) The surrender value over time  C) The bonus declared each year  D) The expected income over the working life available for dependents
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — HLV is the present value of the expected income over the working life of the individual that is available for the dependents.
-A), C) and D) are not the definition of HLV; HLV is about income replacement value.
+**Correct: D)** — HLV is the present value of the expected income over the working life of the individual that is available for the dependents.
+A), B) and C) are not the definition of HLV; HLV is about income replacement value.
 </details>
 
 **Q25.** The two basic assumptions in the simple HLV calculation are:
-A) Mortality rate and bonus rate  B) Increase in current income (inflation) and post-tax return on the sum assured  C) Premium and term  D) Sum assured and surrender value
+A) Increase in current income (inflation) and post-tax return on the sum assured  B) Mortality rate and bonus rate  C) Premium and term  D) Sum assured and surrender value
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — HLV needs only two assumptions: how much current income increases (inflation, e.g., 6%) and the post-tax return on the sum assured (e.g., 8%).
-A), C) and D) are not the two assumptions used in the HLV calculation.
+**Correct: A)** — HLV needs only two assumptions: how much current income increases (inflation, e.g., 6%) and the post-tax return on the sum assured (e.g., 8%).
+B), C) and D) are not the two assumptions used in the HLV calculation.
 </details>
 
 **Q26.** Term insurance is best described as:
