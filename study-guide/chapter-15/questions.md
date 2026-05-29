@@ -618,10 +618,10 @@ A) Son  B) Daughter-in-law  C) Mother-in-law  D) Father-in-law
 </details>
 
 **Q88.** A settlor wants to safeguard assets from creditors and beneficiaries' claims and pursue multiple objectives. The chapter suggests setting up a/an ______.
-A) revocable trust  B) irrevocable discretionary trust (or multiple trusts)  C) joint holding  D) public charitable trust
+A) revocable trust  B) joint holding  C) public charitable trust  D) irrevocable discretionary trust (or multiple trusts)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — To safeguard assets against creditors' and beneficiaries' claims and achieve various objectives, a settlor may set up an **irrevocable discretionary trust** (or multiple trusts). A) A revocable trust does not protect assets. C) Joint holding offers no creditor shield. D) A public charitable trust serves the public, not asset protection for the family.
+**Correct: D)** — To safeguard assets against creditors' and beneficiaries' claims and achieve various objectives, a settlor may set up an **irrevocable discretionary trust** (or multiple trusts). A) A revocable trust does not protect assets. B) Joint holding offers no creditor shield. C) A public charitable trust serves the public, not asset protection for the family.
 </details>
 
 **Q89.** A trust directs that income from property be accumulated for 25 years after the testator's death via his Will. What does the law say?
@@ -646,10 +646,10 @@ A) Trust deed  B) Power of Attorney  C) Will  D) Family settlement
 </details>
 
 **Q92.** A person dies without making any valid Will (intestate). Which document do the legal heirs need to lay claim to the deceased's debts and securities?
-A) Probate  B) Succession certificate  C) Codicil  D) Letters testamentary
+A) Probate  B) Codicil  C) Succession certificate  D) Letters testamentary
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — When a person dies **intestate** (no Will), heirs need a **succession certificate** from a civil court to claim debts and securities. A) Probate is issued only when there IS a Will. C) A codicil amends a Will (which does not exist here). D) "Letters testamentary" is not the document used in intestacy in this chapter.
+**Correct: C)** — When a person dies **intestate** (no Will), heirs need a **succession certificate** from a civil court to claim debts and securities. A) Probate is issued only when there IS a Will. B) A codicil amends a Will (which does not exist here). D) "Letters testamentary" is not the document used in intestacy in this chapter.
 </details>
 
 **Q93.** An executor's very first responsibility, before disbursing assets, is to ______.
@@ -667,10 +667,10 @@ A) The Will becomes invalid  B) Probate is granted to the minor immediately  C) 
 </details>
 
 **Q95.** A "public-cum-private" trust applies part of its income for public purposes and part to private persons. How is the private portion treated for tax?
-A) Fully exempt like a charitable trust  B) Assessable as a private trust and not exempt from income tax  C) Taxed only on the trustee at 5%  D) Never taxed in India
+A) Fully exempt like a charitable trust  B) Taxed only on the trustee at 5%  C) Never taxed in India  D) Assessable as a private trust and not exempt from income tax
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — In a **public-cum-private trust**, the portion of income going to private persons is **assessable as a private trust and not exempt** from income tax. A) is wrong — only the public portion may get charitable exemptions. C) and D) are incorrect — the private portion is taxable per private-trust rules.
+**Correct: D)** — In a **public-cum-private trust**, the portion of income going to private persons is **assessable as a private trust and not exempt** from income tax. A) is wrong — only the public portion may get charitable exemptions. B) and C) are incorrect — the private portion is taxable per private-trust rules.
 </details>
 
 **Q96.** Two spouses purchase a property as joint tenants. One spouse wants to leave his share to a child by Will. Can he?

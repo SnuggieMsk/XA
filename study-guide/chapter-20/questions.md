@@ -509,10 +509,10 @@ A) ₹10,00,000  B) ₹12,00,000  C) ₹1,00,000  D) ₹14,00,000
 </details>
 
 **Q5.2.** The **real (inflation-adjusted) return** for the income-replacement PV is: *(Medium)*
-A) 4.00%  B) 3.77%  C) 16.00%  D) 0.93%
+A) 4.00%  B) 16.00%  C) 0.93%  D) 3.77%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Real return = (1.10/1.06) − 1 = 1.0377 − 1 = **3.77%**. **A)** is the simple difference (10% − 6%). **C)** wrongly adds. **D)** corresponds to 9%/8%, not these figures.
+**Correct: D)** — Real return = (1.10/1.06) − 1 = 1.0377 − 1 = **3.77%**. **A)** is the simple difference (10% − 6%). **B)** wrongly adds. **C)** corresponds to 9%/8%, not these figures.
 </details>
 
 **Q5.3.** The **corpus to replace 22 years of income** (PV of ₹12,00,000 at 3.77%) is closest to: *(Hard)*
@@ -543,10 +543,10 @@ A) ₹1,72,00,000  B) ₹1,62,00,000  C) ₹2,32,00,000  D) ₹1,22,00,000
 The Iyers hold a **family floater base policy of ₹5,00,000** and a **super top-up of ₹15,00,000 with a ₹5,00,000 deductible** (aggregate basis). During the policy year the family has hospitalisation bills of **₹3,00,000, ₹4,00,000 and ₹6,00,000** (in that order). One claim additionally carries a **10% co-pay** clause on the base policy only. Treat the bills as fully admissible (no other exclusions) unless a deductible/co-pay applies.
 
 **Q6.1.** After the **first bill (₹3,00,000)**, how much of the base sum insured remains? *(Easy)*
-A) ₹5,00,000  B) ₹2,00,000  C) NIL  D) ₹3,00,000
+A) ₹5,00,000  B) NIL  C) ₹3,00,000  D) ₹2,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Base ₹5,00,000 pays the ₹3,00,000 bill, leaving **₹2,00,000**. **A)** ignores that a claim was paid. **C)** wrongly exhausts the whole base. **D)** confuses the amount paid with the amount remaining.
+**Correct: D)** — Base ₹5,00,000 pays the ₹3,00,000 bill, leaving **₹2,00,000**. **A)** ignores that a claim was paid. **B)** wrongly exhausts the whole base. **C)** confuses the amount paid with the amount remaining.
 </details>
 
 **Q6.2.** After the **second bill (₹4,00,000)**, what does the **base** pay, and what is left for the insured to fund before the super top-up triggers? *(Medium)*
@@ -666,10 +666,10 @@ A) Tactical asset allocation  B) Strategic asset allocation  C) Dynamic hedging 
 Mr. and Mrs. Gupta (both 45, Indian citizens) return to India after 20 years in the USA. They own a **US house given on rent**, hold **US tax-deferred retirement accounts** (taxed only on withdrawal in the US), each has a **USD 1 million** US life policy valid 15 more years, and an **employer US health policy** (worldwide cover, including India) that lapses at year-end unless renewed.
 
 **Q9.1.** Once they become **residents** of India, their **US rental income** is: *(Medium)*
-A) Not taxable in India  B) Taxable in India with credit for US tax paid  C) Taxable in India with no foreign tax credit  D) Taxable only in the US
+A) Not taxable in India  B) Taxable only in the US  C) Taxable in India with credit for US tax paid  D) Taxable in India with no foreign tax credit
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Residents are taxed on **global income**; the DTAA gives a **foreign tax credit** for US tax. **A)** ignores global-income taxation. **C)** denies the available credit. **D)** ignores Indian residence.
+**Correct: C)** — Residents are taxed on **global income**; the DTAA gives a **foreign tax credit** for US tax. **A)** ignores global-income taxation. **B)** ignores Indian residence. **D)** denies the available credit.
 </details>
 
 **Q9.2.** Income **accruing** in their US tax-deferred retirement accounts, if **notified under Section 89A**, is taxed in India: *(Hard)*

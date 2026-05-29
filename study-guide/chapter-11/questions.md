@@ -61,10 +61,10 @@ A) NSDL and CDSL  B) BSE and NSE  C) MCX and NCDEX  D) SEBI and RBI
 </details>
 
 **Q9.** Stamp duty on listed securities has been levied at unified rates across India with effect from:
-A) 1 April 2018  B) 1 April 2020  C) 1 October 2004  D) 31 January 2018
+A) 1 April 2018  B) 1 October 2004  C) 31 January 2018  D) 1 April 2020
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — From 1 April 2020 stamp duty on listed securities is levied at unified rates across India (the same rate applies even to off-market transactions). A), C) and D) are other significant dates in the chapter (Sec 112A came in 2018; STT-acquisition relief applies to shares before 01-10-2004; grandfathering FMV date is 31-01-2018) but not the stamp-duty unification date.
+**Correct: D)** — From 1 April 2020 stamp duty on listed securities is levied at unified rates across India (the same rate applies even to off-market transactions). A), B) and C) are other significant dates in the chapter (Sec 112A came in 2018; STT-acquisition relief applies to shares before 01-10-2004; grandfathering FMV date is 31-01-2018) but not the stamp-duty unification date.
 </details>
 
 **Q10.** For listed equity shares, the holding period to qualify as a long-term capital asset is more than:
@@ -89,10 +89,10 @@ A) LIFO  B) Weighted average  C) FIFO  D) Specific identification
 </details>
 
 **Q13.** FIFO under Section 45(2A) for Demat securities is applied:
-A) Across all accounts combined  B) Account-wise  C) Only to physical shares  D) Only on the exchange's records
+A) Across all accounts combined  B) Only to physical shares  C) Only on the exchange's records  D) Account-wise
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Where an investor has more than one security account, FIFO is applied account-wise, because securities in another account cannot be treated as sold when a different account is debited. A) is wrong as accounts are not combined. C) is wrong — FIFO is specifically for Demat (electronic) holdings. D) is incorrect; it is applied per the investor's Demat accounts.
+**Correct: D)** — Where an investor has more than one security account, FIFO is applied account-wise, because securities in another account cannot be treated as sold when a different account is debited. A) is wrong as accounts are not combined. B) is wrong — FIFO is specifically for Demat (electronic) holdings. C) is incorrect; it is applied per the investor's Demat accounts.
 </details>
 
 **Q14.** Long-term capital gains on listed equity shares under Section 112A are exempt up to an aggregate of how much per year?

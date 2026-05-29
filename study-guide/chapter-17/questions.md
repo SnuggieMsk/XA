@@ -597,24 +597,24 @@ A) Trust the questionnaire absolutely  B) Ignore the conversation  C) Re-take th
 </details>
 
 **Q85.** An NRI-aspiring client wants global exposure but believes "Indians can't legally invest abroad." The adviser should correct this by explaining:
-A) The LRS permits up to USD 250,000/year, and Indian MFs offer S&P 500/Nasdaq 100 access  B) It is indeed illegal  C) Only the ultra-rich can do it secretly  D) Foreign investing always loses money
+A) It is indeed illegal  B) The LRS permits up to USD 250,000/year, and Indian MFs offer S&P 500/Nasdaq 100 access  C) Only the ultra-rich can do it secretly  D) Foreign investing always loses money
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — LRS (USD 250,000/year) and Indian global MF schemes make it legal and accessible. B), C) and D) are false. Behavioural logic: correcting the knowledge gap dismantles the home country bias.
+**Correct: B)** — LRS (USD 250,000/year) and Indian global MF schemes make it legal and accessible. A), C) and D) are false. Behavioural logic: correcting the knowledge gap dismantles the home country bias.
 </details>
 
 **Q86.** A client agreed to an asset-allocation policy in calm times but now, mid-rally, wants to override it. The value of having set the policy in advance is that it:
-A) Acts as a pre-committed nudge restraining emotion-driven changes  B) Can be ignored whenever convenient  C) Guarantees the highest return  D) Eliminates the need for an adviser
+A) Can be ignored whenever convenient  B) Guarantees the highest return  C) Acts as a pre-committed nudge restraining emotion-driven changes  D) Eliminates the need for an adviser
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — A pre-committed policy nudges the client to resist emotional overrides. B) defeats its purpose. C) overpromises. D) is false. Behavioural logic: pre-commitment binds the calm self against the emotional self.
+**Correct: C)** — A pre-committed policy nudges the client to resist emotional overrides. A) defeats its purpose. B) overpromises. D) is false. Behavioural logic: pre-commitment binds the calm self against the emotional self.
 </details>
 
 **Q87.** A client wants "excitement and quick action" from investing and is bored by SIPs. Echoing the chapter, the adviser should reframe by saying:
-A) Good investing is deliberately dull; thrills belong in Las Vegas, and patience compounds wealth  B) Trade intraday for the adrenaline  C) Excitement raises long-term returns  D) Boredom means the plan is wrong
+A) Trade intraday for the adrenaline  B) Excitement raises long-term returns  C) Boredom means the plan is wrong  D) Good investing is deliberately dull; thrills belong in Las Vegas, and patience compounds wealth
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Investing should be dull (Samuelson); thrills are for gambling, not portfolios. B), C) and D) feed action bias. Behavioural logic: the desire for excitement is the action bias the adviser must defuse.
+**Correct: D)** — Investing should be dull (Samuelson); thrills are for gambling, not portfolios. A), B) and C) feed action bias. Behavioural logic: the desire for excitement is the action bias the adviser must defuse.
 </details>
 
 **Q88.** A client is convinced an endowment-type policy is the best "investment" because it bundles savings and insurance and saves tax. The adviser's strongest counter-illustration is:

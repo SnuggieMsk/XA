@@ -683,13 +683,13 @@ A) Rs. 6 lakh  B) Rs. 1 lakh  C) Rs. 0  D) Rs. 4 lakh
 </details>
 
 **Q75.** Continuing the **Top-up** case, 3rd claim Rs. 2 lakh (Base exhausted). What is paid?
-A) Rs. 2 lakh from Top-up  B) Nothing — claim is below the Rs. 5 lakh per-claim threshold  C) Rs. 2 lakh from Base  D) Rs. 5 lakh
+A) Rs. 2 lakh from Top-up  B) Rs. 2 lakh from Base  C) Rs. 5 lakh  D) Nothing — claim is below the Rs. 5 lakh per-claim threshold
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The Base is exhausted. For the Top-up, each claim must individually exceed the Rs. 5 lakh threshold. Rs. 2 lakh < Rs. 5 lakh, so **nothing** is payable; Top-up limit stays at Rs. 9 lakh.
+**Correct: D)** — The Base is exhausted. For the Top-up, each claim must individually exceed the Rs. 5 lakh threshold. Rs. 2 lakh < Rs. 5 lakh, so **nothing** is payable; Top-up limit stays at Rs. 9 lakh.
 - A) is wrong — the per-claim threshold is not crossed.
-- C) is wrong — the Base has no limit left.
-- D) is wrong — no such amount is payable.
+- B) is wrong — the Base has no limit left.
+- C) is wrong — no such amount is payable.
 </details>
 
 **Q76.** Continuing the **Top-up** case, 4th claim Rs. 4 lakh (Base exhausted). What is paid?
@@ -750,12 +750,12 @@ A) Rs. 4 lakh from the Super Top-up; balance left Nil  B) Nothing  C) Rs. 4 lakh
 </details>
 
 **Q82.** Across the same four claims (Rs. 15 lakh total) under the **Super Top-up**, total PAID is:
-A) Rs. 6 lakh  B) Rs. 15 lakh  C) Rs. 10 lakh  D) Rs. 5 lakh
+A) Rs. 6 lakh  B) Rs. 10 lakh  C) Rs. 5 lakh  D) Rs. 15 lakh
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Base Rs. 5 lakh (Rs. 3 + Rs. 2) + Super Top-up Rs. 10 lakh (Rs. 4 + Rs. 2 + Rs. 4) = **Rs. 15 lakh**. The aggregate threshold was crossed only once, so all claims got paid.
+**Correct: D)** — Base Rs. 5 lakh (Rs. 3 + Rs. 2) + Super Top-up Rs. 10 lakh (Rs. 4 + Rs. 2 + Rs. 4) = **Rs. 15 lakh**. The aggregate threshold was crossed only once, so all claims got paid.
 - A) is the Top-up total — the contrast the workbook highlights.
-- C) and D) are single components.
+- B) and C) are single components.
 </details>
 
 **Q83.** On Rs. 15 lakh of claims, the Top-up paid Rs. 6 lakh and the Super Top-up paid Rs. 15 lakh. The extra amount the Super Top-up paid is:

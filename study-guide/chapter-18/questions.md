@@ -506,10 +506,10 @@ A) His high ability and willingness mean no action is needed  B) Despite high wi
 </details>
 
 **Q72.** Meena, 45, single income, supports aging parents and two children, has a home loan, and a modest emergency fund. She insists she wants "maximum returns, all equity." Reconciling capacity and tolerance, the adviser should:
-A) Follow her stated wish and go 100% equity  B) Explain that her ability to absorb losses is limited by dependents and the loan, so a more balanced allocation is suitable despite her high stated willingness  C) Refuse to advise her  D) Put everything in gold
+A) Follow her stated wish and go 100% equity  B) Refuse to advise her  C) Explain that her ability to absorb losses is limited by dependents and the loan, so a more balanced allocation is suitable despite her high stated willingness  D) Put everything in gold
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Her many dependents and a loan limit her ability/capacity even though willingness is high; the suitable allocation must respect both, so a balanced mix is appropriate. Blindly going all-equity (A) ignores capacity, refusing to advise (C) is unhelpful, and all-gold (D) gives no income/growth balance.
+**Correct: C)** — Her many dependents and a loan limit her ability/capacity even though willingness is high; the suitable allocation must respect both, so a balanced mix is appropriate. Blindly going all-equity (A) ignores capacity, refusing to advise (B) is unhelpful, and all-gold (D) gives no income/growth balance.
 </details>
 
 **Q73.** A client's questionnaire score classifies him as "Aggressive," but in conversation he confesses he lost sleep and panic-sold during the last market fall. The adviser should:

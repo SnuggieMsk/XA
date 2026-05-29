@@ -350,10 +350,10 @@ A) More life insurance  B) A debt fund  C) PPF  D) Personal accident insurance
 </details>
 
 **Q50.** Between a company deposit and a company debenture of the same company, an investor who wants **slightly higher return and accepts higher risk** should pick:
-A) Company debenture  B) Company deposit  C) Neither  D) Both equally
+A) Company deposit  B) Company debenture  C) Neither  D) Both equally
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A **company deposit** is unsecured, so it carries higher risk and tends to offer a slightly higher return than a debenture of the same company. The debenture (A) is secured, lower risk, lower return. C and D ignore the trade-off. Higher return for higher risk = the unsecured deposit.
+**Correct: A)** — A **company deposit** is unsecured, so it carries higher risk and tends to offer a slightly higher return than a debenture of the same company. The debenture (B) is secured, lower risk, lower return. C and D ignore the trade-off. Higher return for higher risk = the unsecured deposit.
 </details>
 
 **Q51.** An investor wants index exposure as an **actual long-term/lifetime investment** rather than a short derivative position. Which fits?
@@ -364,10 +364,10 @@ A) Index futures  B) Index options  C) Index fund  D) None
 </details>
 
 **Q52.** A trader wants index exposure where the **maximum loss is limited to the premium paid**. Which fits?
-A) Index futures  B) Index options (buyer)  C) Index fund  D) ETF
+A) Index options (buyer)  B) Index futures  C) Index fund  D) ETF
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For an **index option buyer**, the maximum risk equals the option premium paid. Index futures (A) carry risk equivalent to buying the underlying index fund (no premium cap on loss). An index fund (C) and ETF (D) carry full market risk of the underlying. Capped loss = option premium = option buyer.
+**Correct: A)** — For an **index option buyer**, the maximum risk equals the option premium paid. Index futures (B) carry risk equivalent to buying the underlying index fund (no premium cap on loss). An index fund (C) and ETF (D) carry full market risk of the underlying. Capped loss = option premium = option buyer.
 </details>
 
 **Q53.** Which best describes how a Gold ETF and Gold Fund differ in pricing?
@@ -378,10 +378,10 @@ A) Both price intraday  B) ETF prices intraday; gold fund at end-of-day NAV  C) 
 </details>
 
 **Q54.** A client wants a debt route where **safety is enhanced by diversification across many instruments** rather than holding a single bond. Best fit?
-A) A single debt instrument  B) Open-ended debt fund  C) Bank FD  D) Company deposit
+A) A single debt instrument  B) Company deposit  C) Bank FD  D) Open-ended debt fund
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — An **open-ended debt fund** diversifies across many instruments, giving relatively higher safety for the same level of rated instruments. A single debt instrument (A) is concentrated. A bank FD (C) is safe but is a single deposit, not diversified market instruments. A company deposit (D) is a single unsecured exposure. Diversification = debt fund.
+**Correct: D)** — An **open-ended debt fund** diversifies across many instruments, giving relatively higher safety for the same level of rated instruments. A single debt instrument (A) is concentrated. A bank FD (C) is safe but is a single deposit, not diversified market instruments. A company deposit (B) is a single unsecured exposure. Diversification = debt fund.
 </details>
 
 **Q55.** Which product is **not regulated by SEBI for concentration**, allowing a normally concentrated portfolio?
