@@ -60,22 +60,22 @@ A) The bonus for no claims  B) The portion of the claim that is met by the insur
 </details>
 
 **Q7.** Under the "restore" benefit in health insurance, the sum insured is restored to 100%:
-A) Only when reduced due to a claim  B) In case of either partial or full exhaustion  C) Only at renewal  D) Never
+A) In case of either partial or full exhaustion  B) Only when reduced due to a claim  C) Only at renewal  D) Never
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — In a restoration benefit, the insurer restores the sum insured to 100% in case of *either partial or full* exhaustion.
-- A) is wrong — that describes "recharge", which refills only when the sum gets reduced by a claim.
+**Correct: A)** — In a restoration benefit, the insurer restores the sum insured to 100% in case of *either partial or full* exhaustion.
+- B) is wrong — that describes "recharge", which refills only when the sum gets reduced by a claim.
 - C) and D) are wrong — restore happens on exhaustion within the policy period, not only at renewal, and not never.
 </details>
 
 **Q8.** Under the "recharge" benefit, the sum insured is restored to 100%:
-A) On partial or full exhaustion  B) Only when it gets reduced due to a claim  C) Automatically every month  D) Only if no claim is made
+A) On partial or full exhaustion  B) Automatically every month  C) Only if no claim is made  D) Only when it gets reduced due to a claim
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Recharge refills the sum insured to 100% *only when it gets reduced due to a claim*.
+**Correct: D)** — Recharge refills the sum insured to 100% *only when it gets reduced due to a claim*.
 - A) is wrong — that is the "restore" benefit (partial or full exhaustion).
-- C) is wrong — there is no monthly auto-refill described.
-- D) is wrong — recharge is triggered by a claim reducing the sum, not by the absence of claims.
+- B) is wrong — there is no monthly auto-refill described.
+- C) is wrong — recharge is triggered by a claim reducing the sum, not by the absence of claims.
 </details>
 
 **Q9.** "No claim bonus" (NCB) refers to:

@@ -294,11 +294,11 @@ A) Income from House Property  B) Capital Gains  C) Business/Profession or Other
 </details>
 
 **Q32.** Standard deduction from net annual value of a let-out house property under section 24(a) is:
-A) 10% of NAV  B) 20% of NAV  C) 30% of NAV  D) 50% of NAV
+A) 10% of NAV  B) 20% of NAV  C) 50% of NAV  D) 30% of NAV
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — A standard deduction of up to 30% of the net annual value is available under section 24(a).
-- A), B), D) are not the prescribed rate; it is 30%.
+**Correct: D)** — A standard deduction of up to 30% of the net annual value is available under section 24(a).
+- A), B), C) are not the prescribed rate; it is 30%.
 </details>
 
 **Q33.** Sections 60 to 64 of the Income Tax Act deal with:
@@ -346,11 +346,11 @@ A) Not taxable in India  B) Taxable in India because ROR is taxed on worldwide i
 </details>
 
 **Q37.** Same facts as Q36, but Mr. A is RNOR. The US bank interest is:
-A) Taxable in India  B) Not taxable in India (foreign income not from India-controlled business)  C) Taxed at MMR  D) Clubbed with his spouse
+A) Not taxable in India (foreign income not from India-controlled business)  B) Taxable in India  C) Taxed at MMR  D) Clubbed with his spouse
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — An RNOR is taxed on Indian income plus foreign income only if derived from a business controlled from / profession set up in India. Passive US bank interest is not such income, so it is not taxable in India.
-- A) Wrong for an RNOR (it would be right only for an ROR).
+**Correct: A)** — An RNOR is taxed on Indian income plus foreign income only if derived from a business controlled from / profession set up in India. Passive US bank interest is not such income, so it is not taxable in India.
+- B) Wrong for an RNOR (it would be right only for an ROR).
 - C) Rate is irrelevant since the income is not taxable at all.
 - D) Clubbing applies to specified transfers, not to one's own foreign interest.
 </details>

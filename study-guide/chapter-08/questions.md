@@ -52,13 +52,13 @@ A) Wearing apparel  B) Refrigerator  C) Archaeological collections  D) Televisio
 </details>
 
 **Q6.** Agricultural land of which type is NOT a capital asset?
-A) Urban agricultural land in India  B) Rural agricultural land in India  C) Agricultural land in a foreign country  D) Land within prescribed municipal limits
+A) Urban agricultural land in India  B) Land within prescribed municipal limits  C) Agricultural land in a foreign country  D) Rural agricultural land in India
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Rural agricultural land situated in India** is excluded from the definition of capital asset.
+**Correct: D)** — **Rural agricultural land situated in India** is excluded from the definition of capital asset.
 - A) Urban agricultural land in India IS a capital asset.
+- B) Land within prescribed limits of municipalities IS a capital asset.
 - C) Agricultural land in a foreign country IS a capital asset.
-- D) Land within prescribed limits of municipalities IS a capital asset.
 </details>
 
 **Q7.** As a general rule (for transfers on/after 23 July 2024), a capital asset is "long-term" if held for:

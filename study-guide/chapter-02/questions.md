@@ -13,11 +13,11 @@ A) Survival benefit is the opposite — it pays when the insured *survives* a sp
 </details>
 
 **Q2.** Term insurance policies provide for:
-A) Only survival benefit  B) Both death and survival benefit  C) Only death benefit  D) Only a guaranteed bonus
+A) Only survival benefit  B) Both death and survival benefit  C) Only a guaranteed bonus  D) Only death benefit
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Term insurance is pure risk cover; it pays only if the insured dies during the term, i.e., only death benefit.
-A) and B) describe investment-cum-insurance policies which combine death and survival features. D) Bonuses are relevant only to investment-cum-insurance policies, not pure term plans.
+**Correct: D)** — Term insurance is pure risk cover; it pays only if the insured dies during the term, i.e., only death benefit.
+A) and B) describe investment-cum-insurance policies which combine death and survival features. C) Bonuses are relevant only to investment-cum-insurance policies, not pure term plans.
 </details>
 
 **Q3.** The person whose life is being insured is called the:

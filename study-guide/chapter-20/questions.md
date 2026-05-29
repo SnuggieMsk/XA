@@ -1,231 +1,301 @@
-# Chapter 20: Case Studies — Questionnaire
+# Chapter 20: Case Studies — 100-Question Bank (40 MCQs + 12 Full Cases)
 
-## 📝 Multiple Choice Questions
+> **How case-based questions work in the real exam.** NISM Series X-B (Investment Adviser Level 2) gives **60 marks (40% of the paper) as case studies**. The standard pattern is **6 cases × 5 sub-questions × 2 marks = 60 marks**. Each case is a realistic caselet (a household's data) followed by 5 MCQs that test whether you can pull data out of the story and apply a formula.
+>
+> **The 5-step method — use it on every sub-question:**
+> 1. **Read the data** — write down every number (current cost, inflation, return, years, existing cover, timing "start vs end of year").
+> 2. **Identify what's asked** — future value? present value/corpus? insurance need? a return (RATE)? an allocation %? a tax amount?
+> 3. **Apply the formula** — pick the Excel function (FV / PV / PMT / RATE) or the tax rule.
+> 4. **Compute** — do the arithmetic step by step; mind the Excel sign convention (outflows negative).
+> 5. **Pick the option** — match your number to the closest option.
+>
+> ⚠️ **Negative marking:** the exam deducts **25% of the marks for a wrong answer**. So a wrong case sub-question costs you 0.5 mark on top of the 2 you miss. If you can eliminate two options, an educated guess is usually worth it; a blind guess on a question you cannot narrow is not.
+>
+> 🔑 **Formula you will reuse constantly — real (inflation-adjusted) return:**
+> Real return = (1 + investment return) ÷ (1 + inflation) − 1. Use it whenever an income/expense stream **rises with inflation** every year.
 
-**Q1.** The EMI for a loan can be worked out using which MS Excel function?
-A) PV  B) NPV  C) EMI  D) PMT
+---
+
+## 📝 Standalone MCQs (Q1–Q40)
+
+**Q1.** A loan EMI in MS Excel is calculated using which function? *(Easy)*
+A) FV  B) PV  C) PMT  D) RATE
 <details><summary>Answer & Explanation</summary>
 
-**Correct: D)** — `PMT(rate, nper, pv)` gives the level instalment (EMI). There is no "EMI" function; PV/NPV serve other purposes.
+**Correct: C)** — **PMT(rate, nper, pv)** returns the level periodic instalment that repays a loan, which is exactly what an EMI is. **A) FV** grows a single sum or stream forward in time. **B) PV** discounts a future stream to today (used for corpus). **D) RATE** solves for the implied interest rate, not the instalment.
 </details>
 
-**Q2.** Which of the following depends on the market?
-A) Strategic asset allocation  B) Tactical asset allocation  C) Investor risk profile  D) None
+**Q2.** Which type of asset allocation depends on the market view at a point in time? *(Easy)*
+A) Strategic asset allocation  B) Tactical asset allocation  C) Investor risk profile  D) Goal-based allocation
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Tactical allocation is a call on likely market behaviour. Strategic allocation is goal-aligned and the risk profile is about the investor, not the market.
+**Correct: B)** — **Tactical** allocation deliberately tilts the portfolio toward/away from asset classes based on short-term **market** views, then reverts. **A) Strategic** allocation is the long-term policy mix set from the investor's risk profile and goals, not the market. **C)** A risk profile is an investor characteristic, not an allocation method. **D)** Goal-based allocation is driven by goal horizon, again not by market timing.
 </details>
 
-**Q3.** To compute the future cost of a goal that inflates each year, you use:
-A) PV(inflation, n,, -cost)  B) FV(inflation, n,, -cost)  C) RATE(n, cost)  D) PMT(inflation, n, cost)
+**Q3.** The "real" (inflation-adjusted) return used to discount an inflating expense stream is given by: *(Medium)*
+A) Return − Inflation  B) Return + Inflation  C) (1+Return)/(1+Inflation) − 1  D) (1+Inflation)/(1+Return) − 1
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — `FV(inflation, n,, -current_cost)` grows today's cost forward at the inflation rate.
+**Correct: C)** — The exact real return is **(1+Return)/(1+Inflation) − 1**. Example: return 9%, inflation 8% → (1.09/1.08) − 1 = **0.93%**. **A)** Return − Inflation (the simple difference) is only a rough approximation and the exam uses the exact form. **B)** Adding them is wrong — inflation reduces, not increases, real return. **D)** Inverts numerator and denominator, giving a wrong figure.
 </details>
 
-**Q4.** The inflation-adjusted (real) return when investment return is 9% and inflation is 8% is approximately:
-A) 1.00%  B) 17.00%  C) 0.93%  D) −0.93%
+**Q4.** A future cost of education due in 5 years, with current cost ₹15,00,000 and inflation 15% p.a., is found by: *(Easy)*
+A) PV(15%,5,,-1500000)  B) FV(15%,5,,-1500000)  C) PMT(15%,5,1500000)  D) RATE(5,,1500000)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — (1.09/1.08) − 1 = 0.0093 ≈ **0.93%**. Note it is NOT simply 9% − 8%.
+**Correct: B)** — A **future cost** means growing today's amount forward, which is **FV**. =FV(15%,5,,−1500000) = 15,00,000 × 1.15⁵ ≈ **₹30,17,036**. **A) PV** would discount it backward (smaller number, wrong direction). **C) PMT** computes an instalment, irrelevant here. **D) RATE** finds an interest rate, not a future value.
 </details>
 
-**Q5.** Ms. T invests Rs.60,000 in a 10% asset using 1.4× leverage. How much own funds did she invest?
-A) Rs.35,000  B) Rs.25,000  C) Rs.42,857  D) Rs.17,143
+**Q5.** Under Section 112A, long-term capital gains on listed equity shares/equity mutual funds are taxed at what rate, and with what annual exemption? *(Medium)*
+A) 10% above ₹1 lakh  B) 12.5% above ₹1.25 lakh  C) 20% above ₹1 lakh  D) 15% with no exemption
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Own funds = total exposure / leverage = 60,000 / 1.4 = **Rs.42,857**. The rest (Rs.17,143) is borrowed.
+**Correct: B)** — Post the 2024 change, **LTCG u/s 112A is taxed at 12.5%** on gains **exceeding ₹1.25 lakh** in a financial year (no indexation for these listed equity assets). **A)** 10%/₹1 lakh was the old rate before the change. **C)** 20% is the STCG rate u/s 111A, not LTCG. **D)** There is an exemption, and 15% is neither the LTCG nor current STCG rate.
 </details>
 
-**Q6.** (Same caselet) Interest paid at 9% on the borrowed amount is closest to:
-A) Rs.2,250  B) Rs.5,400  C) Rs.1,543  D) Rs.3,500
+**Q6.** Short-term capital gains on listed equity shares (held ≤12 months) under Section 111A are taxed at: *(Medium)*
+A) 12.5%  B) 15%  C) 20%  D) Slab rate
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Borrowed = 17,143; interest = 9% × 17,143 ≈ **Rs.1,543**. (Pick the closest workbook option.)
+**Correct: C)** — **STCG u/s 111A is now taxed at 20%** (raised from the earlier 15%). **A) 12.5%** is the LTCG rate u/s 112A. **B) 15%** was the old STCG rate before the change. **D) Slab rate** applies to STCG on assets *not* covered by 111A (e.g., most debt funds/other assets), not to listed equity STCG.
 </details>
 
-**Q7.** A 45-year-old single earning member with a home loan and car loan, and goals due now, is best categorised as:
+**Q7.** For listed equity shares, the holding period that separates short-term from long-term is: *(Easy)*
+A) 12 months  B) 24 months  C) 36 months  D) 6 months
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Listed equity shares and equity-oriented mutual fund units become **long-term after 12 months**. **B) 24 months** is the threshold for immovable property and unlisted shares. **C) 36 months** was the old threshold for debt/other assets. **D) 6 months** is not a capital-gains threshold.
+</details>
+
+**Q8.** Mr. A sells listed equity shares after 18 months for a gain of ₹3,00,000 (his only such gain). His LTCG tax (ignoring cess) is: *(Hard)*
+A) ₹18,750  B) ₹21,875  C) ₹37,500  D) ₹30,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Held 18 months (>12) → **LTCG u/s 112A**. Taxable gain = total gain − ₹1.25 lakh exemption = 3,00,000 − 1,25,000 = **₹1,75,000**. Tax = 12.5% × 1,75,000 = **₹21,875**. **A) ₹18,750** = 12.5% × 1,50,000 (wrongly using a ₹1.5 lakh exemption). **C) ₹37,500** = 12.5% × 3,00,000 (forgot the exemption). **D) ₹30,000** = 10% × 3,00,000 (old rate, no exemption).
+</details>
+
+**Q9.** Mr. B has STCG of ₹2,00,000 on listed shares (held 8 months) under Section 111A. His tax (ignoring cess) is: *(Medium)*
+A) ₹25,000  B) ₹30,000  C) ₹40,000  D) ₹18,750
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — STCG u/s 111A is taxed at a **flat 20%**: 20% × 2,00,000 = **₹40,000**. **A) ₹25,000** = 12.5% (LTCG rate, wrong). **B) ₹30,000** = 15% (old STCG rate). **D) ₹18,750** mixes the LTCG rate and an exemption that does not apply to listed-equity STCG.
+</details>
+
+**Q10.** The maximum deduction available under Section 80C in a financial year (old tax regime) is: *(Easy)*
+A) ₹1,00,000  B) ₹1,25,000  C) ₹1,50,000  D) ₹2,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Section **80C caps deductions at ₹1,50,000** (LIC premium, PPF, ELSS, principal repayment of home loan, etc.). **A) ₹1,00,000** was the old pre-2014 limit. **B) ₹1,25,000** is the LTCG exemption figure, not 80C. **D) ₹2,00,000** is the home-loan interest cap u/s 24(b), a separate deduction.
+</details>
+
+**Q11.** The corpus needed today to fund an inflation-rising annual expense for n years is best found with: *(Medium)*
+A) FV using nominal return  B) PV using the real (inflation-adjusted) return  C) PMT using inflation  D) RATE using the return
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A corpus is a **present value**, and because the expense **rises with inflation** every year you discount at the **real return**: =PV(real return, n, −expense). **A)** FV grows forward — wrong direction for a corpus. **C)** PMT gives an instalment. **D)** RATE solves for a rate, not an amount.
+</details>
+
+**Q12.** Today's annual expense is ₹4,80,000; retirement is 8 years away; inflation 10%. The expense in the first year of retirement is closest to: *(Medium)*
+A) ₹8,64,000  B) ₹10,28,923  C) ₹9,60,000  D) ₹11,31,815
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — =FV(10%,8,,−480000) = 4,80,000 × 1.10⁸ = 4,80,000 × 2.1436 = **₹10,28,923**. **A) ₹8,64,000** = only one period of growth. **C) ₹9,60,000** = simply doubling, no compounding. **D) ₹11,31,815** = 9 years of growth (1.10⁹), one year too many.
+</details>
+
+**Q13.** Continuing Q12 (expense ₹10,28,923 at retirement, beginning-of-year), retirement return 11%, inflation 10%, for 15 years — the corpus required is closest to: *(Hard)*
+A) ₹1,38,61,919  B) ₹1,44,96,632  C) ₹1,52,39,389  D) ₹1,52,54,894
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Real return = (1.11/1.10) − 1 = **0.91%**. Corpus = PV(0.91%, 15, −10,28,923, , 1), where **type=1** means the expense is drawn at the **beginning** of each year → **₹1,44,96,632**. **A), C), D)** are distractors arising from using a wrong return, the wrong type flag, or 14/16 years instead of 15.
+</details>
+
+**Q14.** In Excel financial functions, money you **pay out** is entered as: *(Easy)*
+A) Positive  B) Negative  C) Zero  D) Either, it makes no difference
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Outflows (premiums, contributions, the expense you fund) are entered as **negative**; inflows are positive. That is why functions show =FV(8%,8,,−1200000). **A)** Positive is for money received. **C)** Zero means no cash flow. **D)** It does matter — a wrong sign flips the result.
+</details>
+
+**Q15.** A retirement corpus is built from annual contributions, each grown at the **investment** rate for the years remaining to retirement, then summed. This is an application of: *(Medium)*
+A) PV of an annuity  B) FV of each cash flow then summing  C) RATE  D) PMT
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Each contribution is moved **forward** to retirement at the investment rate (FV) and all the future values are **added**. **A) PV** discounts backward — wrong direction for accumulating a corpus. **C) RATE** finds a rate. **D) PMT** finds a level instalment, but here the contributions grow each year, so they are not level.
+</details>
+
+**Q16.** An existing retirement corpus of ₹12,00,000 invested at 8% for 8 years grows to (use FV): *(Medium)*
+A) ₹19,33,000  B) ₹22,21,116  C) ₹24,00,000  D) ₹20,57,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — =FV(8%,8,,−1200000) = 12,00,000 × 1.08⁸ = 12,00,000 × 1.8509 = **₹22,21,116**. **A)** uses too few years/lower factor. **C)** is just doubling. **D)** uses roughly 7 years of growth.
+</details>
+
+**Q17.** Mr. C, 45, single earning member, has a home loan and a car loan and goals due soon. Based only on his circumstances, his **capacity** to take risk is best described as: *(Medium)*
 A) Conservative  B) Moderate  C) Liquidity seeker  D) Aggressive
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Loans and near-term goals limit risk-taking, but a good income gives some ability → moderate profile.
+**Correct: B)** — A good income but a sole earner with two loans and near-term goals balances out to a **moderate** risk capacity — neither very safe nor very aggressive. **A) Conservative** understates his good income and growth need. **C) Liquidity seeker** is not a standard risk-profile label. **D) Aggressive** ignores his liabilities and dependent family.
 </details>
 
-**Q8.** Funds from a matured FD must be parked briefly until used for a child's education. Best option?
-A) Large-cap equity  B) Current account  C) Alternative investments  D) Short-term fixed deposit
+**Q18.** Money that must be parked for a **short period** until a daughter's education fee is paid should go into: *(Easy)*
+A) Large-cap equity  B) A current account  C) Alternative investments  D) Short-term fixed deposit
 <details><summary>Answer & Explanation</summary>
 
-**Correct: D)** — A short-term FD ensures liquidity and some return for a near-term need; equity/alternatives risk capital, and a current account earns nothing.
+**Correct: D)** — A **short-term FD** preserves capital and gives some return for a near-term, must-pay goal. **A) Equity** can fall just when the money is needed. **B) Current account** earns nothing. **C) Alternatives** are illiquid/risky and unsuitable for a short horizon.
 </details>
 
-**Q9.** A grandparent in her late 60s wants to fund a 5-year-old grandchild's college (≈13 years away). Best fund?
-A) Target maturity debt fund  B) Short-term debt fund  C) Large-and-mid-cap equity fund  D) Arbitrage fund
+**Q19.** A Will made by a living person comes into legal effect: *(Easy)*
+A) On registration  B) On the testator's death  C) When the first beneficiary claims  D) On the executor's appointment
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — With a long horizon, equity exposure is appropriate **irrespective of the investor's age**. The goal's time-frame drives the choice.
+**Correct: B)** — A Will is a declaration that takes effect **only on the death** of the testator and can be revised any time before then. **A)** Registration is optional and does not make it operative. **C)** A beneficiary cannot claim while the testator lives. **D)** The executor acts only after death.
 </details>
 
-**Q10.** A Will takes legal effect:
-A) When registered  B) Only on the death of the testator  C) When the heir is a Class-1 heir  D) Immediately on signing
+**Q20.** A mother wants to give her daughter money immediately from her own mutual funds (which a Will bequeaths to the daughter). The cleanest, tax-free way is: *(Medium)*
+A) Hand over a copy of the registered Will to redeem the units  B) Make the daughter a joint holder first  C) The mother redeems the units herself and gifts the cash to the daughter  D) Nothing can be done while the mother is alive
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A Will operates only on death and can be changed beforehand. So an heir cannot borrow against the property using the Will while the testator is alive.
+**Correct: C)** — A Will is inoperative while the mother lives, so **she (the holder) redeems and gifts** the cash; a gift from mother to daughter is a **relative**, hence **tax-free**. **A)** A Will gives no current redemption right. **B)** Adding a joint holder is slow and unnecessary. **D)** Is too absolute — a gift solves it immediately.
 </details>
 
-**Q11.** How can a mother give her daughter immediate access to money she intends her to have via a Will?
-A) Give a copy of the registered Will  B) Make the daughter a joint holder, the only way  C) Redeem the investment herself and gift the money (tax-free)  D) None of these
+**Q21.** A target-maturity debt fund is recommended for a goal because it gives the investor: *(Medium)*
+A) Guaranteed equity-like returns  B) Visibility on likely returns if held to maturity  C) Daily capital protection  D) Tax-free income
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — The Will operates only on death. As primary holder, the mother redeems and gifts the money — a gift to a relative is tax-free and gives immediate access.
+**Correct: B)** — A target-maturity fund holds bonds maturing around a set date, so an investor holding to maturity has reasonable **visibility on the likely yield**. **A)** Debt funds do not promise equity-like returns. **C)** NAV still fluctuates day to day. **D)** Returns are taxable.
 </details>
 
-**Q12.** A base policy of Rs.3L and a Top-up of Rs.10L with Rs.5L deductible; a single bill of Rs.4L. Out-of-pocket?
-A) Rs.3L  B) Rs.2L  C) Rs.1L  D) NIL
+**Q22.** For a goal that is **15+ years** away, even an investor in her late 60s can suitably use: *(Medium)*
+A) A liquid fund only  B) A short-term debt fund only  C) A large-and-mid-cap equity fund  D) A current account
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Base pays Rs.3L, you pay Rs.1L; the top-up does not trigger because the single bill (Rs.4L) is below the Rs.5L deductible.
+**Correct: C)** — Suitability is driven by **goal horizon**, not just age. A 15-year horizon justifies **equity** (large-and-mid-cap) for growth. **A), B)** Pure debt under-delivers over 15 years and risks falling short. **D)** A current account erodes value to inflation.
 </details>
 
-**Q13.** Base Rs.3L + Super Top-up Rs.10L with Rs.3L deductible; bills of Rs.2L, Rs.3L, Rs.4L. Out-of-pocket?
-A) Rs.6L  B) Rs.3L  C) Rs.1L  D) NIL
+**Q23.** A health **top-up** policy (as opposed to a super top-up) is triggered when: *(Medium)*
+A) The aggregate of all claims in the year crosses the deductible  B) A single claim crosses the deductible  C) The base policy is exhausted, regardless of amount  D) The insured turns 60
 <details><summary>Answer & Explanation</summary>
 
-**Correct: D)** — Base covers the first Rs.3L. A Super Top-up uses **aggregate** claims, so once total crosses the Rs.3L deductible it pays the rest → NIL out-of-pocket.
+**Correct: B)** — A plain **top-up** considers each claim **individually**; it pays only when **one single claim** exceeds the deductible. **A)** describes a **super top-up** (aggregate basis). **C)** Exhausting the base does not by itself trigger a top-up. **D)** Age is irrelevant to the trigger.
 </details>
 
-**Q14.** A claim of Rs.50,000 with a 5% co-pay and Rs.10,000 deductible. Insurer reimburses:
-A) Rs.38,000  B) Rs.50,000  C) Rs.37,500  D) Rs.40,000
+**Q24.** A health **super top-up** policy is triggered when: *(Medium)*
+A) A single claim crosses the deductible  B) The aggregate of all claims in the year crosses the deductible  C) The base policy is renewed  D) The first hospitalisation occurs
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — 50,000 − 10,000 (deductible) − 2,000 (5% of 40,000) = **Rs.38,000**.
+**Correct: B)** — A **super top-up** adds up **all claims in the policy year**; once that **aggregate** crosses the deductible, it pays — which is why it is more useful than a plain top-up. **A)** is the plain top-up rule. **C), D)** are not triggers.
 </details>
 
-**Q15.** The highest-interest **government scheme** fixed-income option for a senior citizen is:
-A) Senior Citizen Savings Scheme (SCSS)  B) PSU bank FD for senior citizens  C) Corporate FD  D) Liquid fund
+**Q25.** A claim of ₹50,000 on a policy with a ₹10,000 deductible and 5% co-pay is reimbursed as: *(Hard)*
+A) ₹38,000  B) ₹40,000  C) ₹37,500  D) ₹42,500
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — SCSS is the government scheme; PSU bank FDs are bank products, not government schemes.
+**Correct: A)** — Reimbursement = Claim − Deductible − Co-pay, where co-pay is **5% of (claim − deductible)**. = 50,000 − 10,000 − 5%×(40,000) = 50,000 − 10,000 − 2,000 = **₹38,000**. **B)** forgets the co-pay. **C)** applies 5% to the full 50,000 then subtracts wrongly. **D)** subtracts only the co-pay, ignoring the deductible.
+</details>
+
+**Q26.** Base health policy ₹3 lakh + top-up ₹10 lakh with ₹5 lakh deductible. A **single** bill of ₹4 lakh arrives. Out-of-pocket cost is: *(Hard)*
+A) NIL  B) ₹1 lakh  C) ₹3 lakh  D) ₹4 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Base pays ₹3 lakh; the remaining ₹1 lakh is borne by the insured because the **single** claim (₹4 lakh) is **below the ₹5 lakh deductible**, so the top-up does not trigger → **₹1 lakh out of pocket**. **A)** wrongly assumes the top-up pays. **C)** ignores the base policy. **D)** ignores the base entirely.
+</details>
+
+**Q27.** Base ₹3 lakh + **super** top-up ₹10 lakh with ₹3 lakh deductible. Three bills in the year: ₹2L, ₹3L, ₹4L. Out-of-pocket cost is: *(Hard)*
+A) ₹6 lakh  B) ₹3 lakh  C) ₹1 lakh  D) NIL
+<details><summary>Answer & Explanation</summary>
+
+**Correct: D)** — Base ₹3L covers the first claims up to ₹3L; once **aggregate** claims cross the ₹3L deductible, the **super top-up** pays the rest of all bills → **NIL** out of pocket. **A) ₹6 lakh** is the answer for a *plain* top-up (no single bill ≥ deductible). **B), C)** mis-track the aggregate logic.
+</details>
+
+**Q28.** A person resident in India under FEMA who already holds a life insurance policy bought abroad: *(Medium)*
+A) Must surrender it immediately  B) May continue it and pay premiums from foreign income or by remitting from India  C) Cannot pay any further premiums  D) Must convert it to an Indian policy
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Indian law permits a returning resident to **keep an existing foreign life policy**, paying premiums from foreign income (e.g., rent) or by remitting funds. **A), C)** wrongly force surrender or block premiums. **D)** No such conversion requirement exists.
+</details>
+
+**Q29.** After becoming a resident of India, an individual's **rental income from a US property** is: *(Medium)*
+A) Not taxable in India at all  B) Taxable in India with credit for tax paid in the US  C) Taxable in India with no foreign tax credit  D) Taxable only in the US
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A resident is taxed on **global income** in India, but **double taxation is relieved** by a foreign tax credit for the US tax paid. **A)** ignores global-income taxation. **C)** denies the credit that the DTAA provides. **D)** ignores Indian residence.
+</details>
+
+**Q30.** Income accruing in a US tax-deferred retirement account, where the account is **notified under Section 89A**, is taxed in India: *(Hard)*
+A) Every year as it accrues  B) Only in the year of withdrawal, with credit for US tax  C) Never  D) At a flat 30% on accrual
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **Section 89A** lets a specified person defer Indian tax on such an account to the **year of withdrawal**, matching the US timing, with **credit for US tax**. **A)** describes the mismatch 89A removes. **C)** It is taxed, just deferred. **D)** No such flat rate applies.
+</details>
+
+**Q31.** The government scheme offering senior citizens a high fixed rate of interest is: *(Easy)*
+A) Public sector bank FD  B) Senior Citizen Savings Scheme (SCSS)  C) Equity Linked Savings Scheme  D) Unit Linked Insurance Plan
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **SCSS** is a **government** small-savings scheme for those 60+ offering an attractive fixed rate. **A)** A PSU-bank FD is a bank product, not a government scheme. **C) ELSS** is an equity tax-saver, not fixed income. **D) ULIP** is an insurance-investment product, not a fixed-income scheme.
+</details>
+
+**Q32.** Ms. T invests ₹60,000 in a 10% asset using **1.4× leverage**, borrowing at 9%. Her **own funds** are: *(Hard)*
+A) ₹35,000  B) ₹25,000  C) ₹42,857  D) ₹17,143
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Leverage 1.4× means total exposure = 1.4 × own funds. So own funds = total ÷ 1.4 = 60,000 ÷ 1.4 = **₹42,857**. **A), B)** do not satisfy 1.4× of own funds = 60,000. **D) ₹17,143** is the **borrowed** part (60,000 − 42,857), not own funds.
+</details>
+
+**Q33.** Continuing Q32, the **interest** Ms. T pays (borrowing ₹17,143 at 9%) is closest to: *(Medium)*
+A) ₹2,250  B) ₹5,400  C) ₹1,543  D) ₹3,500
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Borrowed amount = 60,000 − 42,857 = ₹17,143; interest = 9% × 17,143 = **₹1,543**. **A), B), D)** use wrong borrowed amounts (e.g., applying 9% to 60,000 gives 5,400, which double-counts own funds as borrowed).
+</details>
+
+**Q34.** Continuing Q32–Q33, Ms. T's **net return in rupees** (asset earns 10% on ₹60,000, less interest of ₹1,543) is closest to: *(Hard)*
+A) ₹6,000  B) ₹4,457  C) ₹2,850  D) ₹3,750
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Gross earning = 10% × 60,000 = ₹6,000; net = 6,000 − 1,543 = **₹4,457**. **A) ₹6,000** ignores interest. **C), D)** use the wrong interest figure (e.g., borrowing 25,000–42,857 instead of 17,143).
+</details>
+
+**Q35.** Continuing Q32–Q34, Ms. T's **return on equity** (net ₹4,457 on own funds ₹42,857) is closest to: *(Hard)*
+A) 1%  B) 10.4%  C) 10.9%  D) 11.4%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Return on equity = net return ÷ own funds = 4,457 ÷ 42,857 = **10.4%**. Leverage lifted the 10% asset return slightly because the asset yield (10%) exceeds the borrowing cost (9%). **A) 1%** is the spread per rupee, not ROE. **C), D)** overstate the lift.
+</details>
+
+**Q36.** The recommended insurance-need formula (income-replacement / HLV method) is: *(Medium)*
+A) PV of future income (real return) + liabilities + lump-sum goals − existing cover  B) Annual income × age  C) 10 × annual premium  D) Sum of all past incomes
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — The **need** is the present value of the income to be replaced (discounted at the real return), **plus** outstanding liabilities and lump-sum goals (children's corpus), **minus** existing cover/earmarked assets. **B), C), D)** are arbitrary rules of thumb with no actuarial basis.
+</details>
+
+**Q37.** Adil's spouse needs ₹3,00,000/year (today's value) for 30 years; inflation 6%, return 8%. The corpus to fund this income (PV at the real return) is closest to: *(Hard)*
+A) ₹68,24,712  B) ₹90,00,000  C) ₹50,00,000  D) ₹37,50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Real return = (1.08/1.06) − 1 = **1.89%**. Corpus = PV(1.89%, 30, −3,00,000) = **₹68,24,712**. **B)** overstates by ignoring discounting. **C), D)** are far too low (they undercount the 30-year stream).
+</details>
+
+**Q38.** Continuing Q37, Adil also wants ₹10 lakh for his child and has a ₹30 lakh home loan; existing cover is ₹50 lakh. **Additional** cover needed is closest to: *(Hard)*
+A) ₹44 lakh  B) ₹58 lakh  C) ₹69 lakh  D) ₹81 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Total need = income corpus 68,24,712 + child corpus 10,00,000 + loan 30,00,000 = **₹1,08,24,712**; less existing cover ₹50,00,000 = **₹58,24,712 ≈ ₹58 lakh**. **A)** forgets a component. **C), D)** double-count or omit the existing cover deduction.
+</details>
+
+**Q39.** Bose pays ₹6,000/year for 20 years; a pure term plan of the same cover costs ₹150/year. Maturity value ₹2,00,000. The return on the **investment portion** (₹5,850/year → ₹2,00,000) using RATE is closest to: *(Hard)*
+A) 1.7%  B) 3.6%  C) 5.3%  D) 6.1%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Strip out the insurance cost: investment premium = 6,000 − 150 = ₹5,850/year. =RATE(20, −5850, , 200000) = **5.3%**. **A), B)** understate (they use the full ₹6,000 or wrong nper). **D)** overstates the implied yield.
+</details>
+
+**Q40.** Jaspreet spends ₹50,000/month now, retires in 20 years, wants 25 years of inflation-adjusted income; inflation 8%, retirement return 9%. The corpus required at retirement is closest to: *(Hard)*
+A) ₹1.5 crore  B) ₹6.2 crore  C) ₹4.8 crore  D) ₹3.5 crore
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Annual expense now = ₹6,00,000. At retirement: FV(8%,20,,−600000) = **₹27,96,574**. Real return = (1.09/1.08) − 1 = **0.93%**. Corpus = PV(0.93%, 25, −27,96,574) = **₹6.22 crore**. **A), C), D)** result from skipping the FV step or using nominal instead of real return.
 </details>
 
 ---
-
-## 🧩 Case Study 1 — Comprehensive Retirement Plan (Mr. Verma)
-
-**Scenario.** Mr. Verma is **50**, retiring at **60**. His current household expenses are **Rs.50,000/month**. He wants the **same lifestyle (inflation-adjusted)** for **25 years** in retirement. He has a retirement corpus that will be **Rs.20 lakh** at the end of this year, invested in debt at **8%**, plus monthly contributions (own + employer) of **Rs.12,000** growing **10%** each year. He has **existing life cover of Rs.60 lakh** and an outstanding **home loan of Rs.25 lakh**. Inflation **7%**; expected return in retirement **9%**; long-term return on equity **12%**. Ignore tax.
-
-**Q1.** What will his annual living expense be at the start of retirement (age 60)?
-<details><summary>Worked Answer</summary>
-
-Current annual expense = 50,000 × 12 = **Rs.6,00,000**.
-Grow 10 years at 7%: `=FV(7%, 10,, -600000)` = 6,00,000 × 1.07¹⁰ ≈ 6,00,000 × 1.9672 ≈ **Rs.11,80,300**.
-</details>
-
-**Q2.** What corpus does he need at 60 to fund 25 years of that inflation-adjusted lifestyle (expenses at the start of each year)?
-<details><summary>Worked Answer</summary>
-
-Real return = `(1+9%)/(1+7%) − 1` = 1.09/1.07 − 1 = **1.8692%**.
-Corpus = `=PV(1.8692%, 25, -1180300,, 1)` (type 1 = start of year).
-PV of an annuity-due ≈ 1,180,300 × [factor ≈ 20.06] ≈ **Rs.2.37 crore** (≈ Rs.2,36,80,000).
-</details>
-
-**Q3.** If his retirement contributions of Rs.12,000/month (growing 10%) on an Rs.20 lakh base earning 8% are projected to reach about **Rs.1.14 crore** by 60, is his retirement on track?
-<details><summary>Worked Answer</summary>
-
-The contribution side accumulates to roughly **Rs.1.14 crore** (this mirrors the source's Harish case: same Rs.10k–12k contribution / 8% / 10%-growth pattern reaching ≈ Rs.1.14 crore over 15 yrs; over 10 yrs it's lower, so treat Rs.1.14 cr as the projected figure given). Against a **need of ≈ Rs.2.37 crore**, he is **under-funded by roughly Rs.1.2 crore**. He must **save more**, **increase equity exposure** for the long horizon, or **reduce the target lifestyle** — exactly the kind of corrective decision a periodic review surfaces.
-</details>
-
-**Q4.** How much **additional life insurance** should Mr. Verma carry today to protect his family's income for his remaining 10 working years (use income replacement)?
-<details><summary>Worked Answer</summary>
-
-1. Current annual income proxy = expense Rs.6,00,000 (use income if given; here use expense to be replaced).
-2. Real return = `(1+12%)/(1+7%) − 1` = 1.12/1.07 − 1 = **4.6729%** (using the long-term equity return for the replacement corpus).
-3. Corpus to replace income for 10 years: `=PV(4.6729%, 10, -600000)` ≈ **Rs.46,90,000**.
-4. Add home loan **Rs.25,00,000** → total need ≈ **Rs.71,90,000**.
-5. Subtract existing cover **Rs.60,00,000** → **additional cover ≈ Rs.11,90,000 (≈ Rs.12 lakh)**.
-
-(If you replace income for more years or at a lower return, the need rises — show your assumptions in the exam.)
-</details>
-
-**Q5.** As Mr. Verma is now 50 with retirement 10 years away, what asset-allocation guidance do you give, and how often should the plan be reviewed?
-<details><summary>Worked Answer</summary>
-
-Keep a **strategic asset allocation** aligned to his goal: given a 10-year horizon to retirement plus a 25-year drawdown, he can still hold meaningful **equity** for growth (he's under-funded, so growth matters), tapering toward **debt** as 60 approaches to protect the corpus (like Jayant shifting to safety near a goal). The retirement contributions are wisely in debt for stability close to the goal, but the **shortfall** argues for adding equity in the accumulation portfolio now. **Review at least once a year** and on any life event, checking goal relevance, on-track status and performance, and rebalance back to target.
-</details>
-
----
-
-## 🧩 Case Study 2 — Goal Funding & Insurance (Mrs. Nair)
-
-**Scenario.** Mrs. Nair, **38**, has two goals: (1) **Son's college** in **Year 6**, current cost **Rs.12,00,000** (lump sum), inflation **12%**; (2) **Retirement** at 60. She has a **corpus of Rs.40 lakh** earning **8%**. She earns **Rs.70,000/month**, wants income replacement for her **22 remaining working years** (inflation 6%, return 10%), and has **no existing life cover**. She also asks about parking Rs.5 lakh she needs in 8 months for the college admission deposit. Ignore tax.
-
-**Q1.** What is the future cost of the son's college in Year 6?
-<details><summary>Worked Answer</summary>
-
-`=FV(12%, 6,, -1200000)` = 12,00,000 × 1.12⁶ = 12,00,000 × 1.9738 ≈ **Rs.23,68,600**.
-</details>
-
-**Q2.** Will the Rs.40 lakh corpus (8%) comfortably cover the Year-6 college cost, and how much remains?
-<details><summary>Worked Answer</summary>
-
-Corpus grows: `=FV(8%, 6,, -4000000)` = 40,00,000 × 1.08⁶ = 40,00,000 × 1.5869 ≈ **Rs.63,47,000**.
-After paying ≈ Rs.23,68,600 for college, remaining ≈ **Rs.39,78,400**. Yes — the corpus comfortably covers the goal, leaving roughly the original amount to continue compounding toward retirement.
-</details>
-
-**Q3.** How much life insurance should Mrs. Nair take, given no existing cover (income replacement for 22 years)?
-<details><summary>Worked Answer</summary>
-
-1. Current annual income = 70,000 × 12 = **Rs.8,40,000**.
-2. Real return = `(1+10%)/(1+6%) − 1` = 1.10/1.06 − 1 = **3.7736%**.
-3. Corpus to replace income for 22 years: `=PV(3.7736%, 22, -840000)` ≈ **Rs.1,24,00,000**.
-4. She has **no existing cover** and (assume) no loans here → **required cover ≈ Rs.1.24 crore**.
-
-She should take a **pure term plan** of about Rs.1.25 crore — large cover at low cost, the essential first step of the plan.
-</details>
-
-**Q4.** Where should she park the Rs.5 lakh needed in 8 months for the admission deposit?
-<details><summary>Worked Answer</summary>
-
-In a **short-term fixed deposit** (or a liquid / ultra-short-term fund) — the objective is **liquidity and capital preservation** for a near-term, certain outflow. Equity or alternatives are wrong here because an 8-month horizon gives no time to recover from a fall.
-</details>
-
-**Q5.** How would you describe the investment policy of holding the entire Rs.40 lakh corpus at an 8% blended return, and what would you change?
-<details><summary>Worked Answer</summary>
-
-An 8% blended return implies a **debt-heavy, somewhat conservative** mix. For the **near-term college goal (6 years)** that conservatism is appropriate. But the **retirement portion** has a long (22-year) horizon and could carry **more equity** for growth. The fix: **separate the corpus by goal** — keep the college portion conservative and progressively safer as Year 6 nears, while allocating the long-term retirement portion more aggressively (more equity) in line with her ability and the long horizon. Review at least annually and rebalance.
-</details>
-
----
-
-## 🧩 Case Study 3 — Retired Couple, Tax & Health (Mr. & Mrs. Pillai)
-
-**Scenario.** Mr. Pillai (62) is recently retired with a pension of **Rs.5,00,000/year** received **in advance**, adjusting only **50%** with inflation. Mrs. Pillai (59) receives the pension for life if he predeceases her. They have **Rs.50 lakh** in retirement dues and own their home. They returned to India two years ago after working abroad; they hold a **foreign tax-deferred retirement account** and a **worldwide health policy** expiring this year. They want **Rs.1,20,000/year** (inflation 6%) for travel and to cover the **inflation-adjustment shortfall** in the pension. Plan horizon **~25 years**; discounting rate **5%**.
-
-**Q1.** Because the pension only adjusts 50% for inflation, what kind of calculation funds the shortfall, and what timing applies?
-<details><summary>Worked Answer</summary>
-
-Each year the **unfunded half of inflation** grows the gap, plus the Rs.1.2 lakh travel amount. You compute the **present value of this growing stream** over ~25 years at the 5% discount rate, with **payments at the beginning of the year** (advance), i.e. `PV(..., type=1)`. (This mirrors the source Mr. Smart case where the shortfall PV came to ≈ Rs.80 lakh.)
-</details>
-
-**Q2.** If the required corpus to fund the shortfall exceeds the Rs.50 lakh available, what does that imply?
-<details><summary>Worked Answer</summary>
-
-It means Rs.50 lakh is **insufficient at a low (5%) return**. They can only meet the requirement if the corpus **earns a higher rate** (in the source's parallel case, ~9.22% p.a.). Practically: invest the corpus for a higher (but suitable) return, trim the discretionary travel budget, or accept partial funding. The adviser quantifies the required return and the trade-offs.
-</details>
-
-**Q3.** What is the highest-interest **government scheme** fixed-income option for the couple, and a key limit?
-<details><summary>Worked Answer</summary>
-
-**Senior Citizen Savings Scheme (SCSS)** — the government scheme suited to senior citizens. (PSU bank FDs for senior citizens are bank products, not government schemes, even if their rate looks attractive.) SCSS has an investment ceiling and a fixed tenure; use it for the safe, income-generating slice of the portfolio.
-</details>
-
-**Q4.** Income from their foreign tax-deferred retirement account — how is it taxed in India?
-<details><summary>Worked Answer</summary>
-
-If the account is **notified under Section 89A**, India taxes the income **in the year of withdrawal** (aligning with the foreign country's treatment) and gives **credit for the foreign tax** paid. This removes the mismatch of India otherwise taxing the yearly accrual.
-</details>
-
-**Q5.** Their worldwide health policy expires this year. What do you advise?
-<details><summary>Worked Answer</summary>
-
-Even though they have employer/worldwide cover history, they should **buy a fresh Indian health policy** to **build a no-claim history locally**, and ensure continuous cover at older ages (when fresh policies get harder/costlier). If the worldwide policy can be renewed and is cost-effective, continuing it **alongside** a local policy is ideal. The principle: maintain adequate health cover and a local claim record, even at extra cost.
-</details>

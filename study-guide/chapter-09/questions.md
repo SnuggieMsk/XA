@@ -130,13 +130,13 @@ A) Equity shareholders  B) Preference shareholders  C) Both equity and preferenc
 </details>
 
 **Q15.** "Interest on securities" is defined under which section?
-A) Section 2(22)  B) Section 2(28B)  C) Section 2(h)  D) Section 56(2)
+A) Section 2(22)  B) Section 56(2)  C) Section 2(h)  D) Section 2(28B)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 2(28B) defines "interest on securities".
+**Correct: D)** — Section 2(28B) defines "interest on securities".
 - A) Wrong — 2(22) defines dividend.
+- B) Wrong — 56(2) deals with deemed income / specific IFOS items.
 - C) Wrong — 2(h) is in the SCRA, 1956 (definition of "securities"), not the Income Tax Act.
-- D) Wrong — 56(2) deals with deemed income / specific IFOS items.
 </details>
 
 **Q16.** Interest on securities is taxable under IFOS only if it is not in the nature of:
@@ -149,11 +149,11 @@ A) Salary income  B) Capital gains  C) Business income  D) Exempt income
 </details>
 
 **Q17.** Under Section 2(28B), interest on which of these is "interest on securities"?
-A) A personal loan to a friend  B) Interest on any security of the central or state government  C) Interest on a savings bank account  D) Interest on a fixed deposit with a bank
+A) Interest on any security of the central or state government  B) A personal loan to a friend  C) Interest on a savings bank account  D) Interest on a fixed deposit with a bank
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Interest on any security of the central or state government is "interest on securities" under Section 2(28B)(a).
-- A), C), D) Wrong — personal loans, savings accounts and bank FDs are not "securities" under this definition.
+**Correct: A)** — Interest on any security of the central or state government is "interest on securities" under Section 2(28B)(a).
+- B), C), D) Wrong — personal loans, savings accounts and bank FDs are not "securities" under this definition.
 </details>
 
 **Q18.** Since "security" is not defined in the Income Tax Act, the reference is taken from which law?
@@ -165,11 +165,11 @@ A) Companies Act, 2013  B) Section 2(h) of the Securities Contracts (Regulation)
 </details>
 
 **Q19.** Which of the following is listed as a "security" from which interest on securities can arise?
-A) A bank cheque  B) A debenture or debenture stock  C) A promissory note between friends  D) A credit card
+A) A bank cheque  B) A promissory note between friends  C) A credit card  D) A debenture or debenture stock
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Debentures or debenture stock are among the securities listed (bonds, debentures/debenture stock, security receipt, government securities, pooled investment vehicle).
-- A), C), D) Wrong — a cheque, a private promissory note and a credit card are not in the listed securities.
+**Correct: D)** — Debentures or debenture stock are among the securities listed (bonds, debentures/debenture stock, security receipt, government securities, pooled investment vehicle).
+- A), B), C) Wrong — a cheque, a private promissory note and a credit card are not in the listed securities.
 </details>
 
 **Q20.** Under Section 145, interest on securities is computed according to the assessee's:
