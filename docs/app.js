@@ -22,6 +22,11 @@
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c];
     }) + "</pre>";
   }
+  function inlineMd(src) {
+    src = src || "";
+    if (window.marked && marked.parseInline) { try { return marked.parseInline(src); } catch (e) {} }
+    return esc(src);
+  }
 
   // ---------- Number helpers ----------
   function inr(x) {
@@ -73,6 +78,16 @@
     // Default to the light reading theme; only use dark if the user chose it.
     applyTheme(saved === "dark" ? "dark" : "light");
   })();
+
+  // ---------- Reading text size ----------
+  var FKEY = "nismxb_readscale", readScale = 1;
+  function applyScale(s) {
+    readScale = Math.max(0.85, Math.min(1.45, Math.round(s * 100) / 100));
+    // rem-based reading text scales; fixed-px chrome stays put
+    document.documentElement.style.fontSize = (16 * readScale).toFixed(2) + "px";
+    try { localStorage.setItem(FKEY, String(readScale)); } catch (e) {}
+  }
+  (function initScale() { var s; try { s = parseFloat(localStorage.getItem(FKEY)); } catch (e) {} applyScale(isFinite(s) && s ? s : 1); })();
 
   // ---------- Helpers ----------
   function chapterByNum(num) { for (var i = 0; i < CH.length; i++) if (CH[i].num === num) return CH[i]; return null; }
@@ -590,16 +605,157 @@
     contentEl.innerHTML = viewTabs(num, "notes") + '<div class="markdown-body">' + md(c.notes) + "</div>";
     bindMarkRead(num, "notes");
   }
-  function renderQuestions(num) {
-    var c = chapterByNum(num);
-    contentEl.innerHTML = viewTabs(num, "questions")
-      + '<div class="quiz-tools"><button id="expandAll">▾ Reveal all answers</button>'
-      + '<button id="collapseAll">▸ Hide all answers</button><button id="toTop">↑ Back to top</button></div>'
-      + '<div class="markdown-body" id="quizBody">' + md(c.questions) + "</div>";
-    bindMarkRead(num, "questions");
+  // ----- Interactive quiz: parse markdown question bank into structured MCQs -----
+  function parseBlocks(text) {
+    var out = [], re = /\*\*Q([\w-]+)\.\*\*\s*([\s\S]*?)\r?\n(A\)[^\n]*B\)[^\n]*C\)[^\n]*D\)[^\n]*)\r?\n<details>[\s\S]*?<\/summary>([\s\S]*?)<\/details>/g, m;
+    while ((m = re.exec(text))) {
+      var optline = m[3], expl = m[4].trim();
+      var om = optline.match(/A\)\s*([\s\S]*?)\s*B\)\s*([\s\S]*?)\s*C\)\s*([\s\S]*?)\s*D\)\s*([\s\S]*)/);
+      if (!om) continue;
+      var cm = expl.match(/\*\*Correct:\s*([A-D])\)/i);
+      if (!cm) continue;
+      out.push({ id: m[1], q: m[2].trim(), options: [om[1], om[2], om[3], om[4]].map(function (s) { return s.trim(); }), correct: "ABCD".indexOf(cm[1].toUpperCase()), expl: expl });
+    }
+    return out;
+  }
+  function parseQuiz(src) {
+    var caseIdx = src.search(/\n##\s*🧩/);
+    var head = caseIdx > -1 ? src.slice(0, caseIdx) : src;
+    var caseMd = caseIdx > -1 ? src.slice(caseIdx) : "";
+    var tiers = [], parts = head.split(/\n(?=##\s)/);
+    parts.forEach(function (part) {
+      var hm = part.match(/^##\s*(.*)/), title = hm ? hm[1] : "";
+      var cls = "mix", dot = "📝", label = "MCQs";
+      if (/easy/i.test(title) || /🟢/.test(title)) { cls = "easy"; dot = "🟢"; label = "Easy"; }
+      else if (/medium/i.test(title) || /🟡/.test(title)) { cls = "med"; dot = "🟡"; label = "Medium"; }
+      else if (/hard/i.test(title) || /🔴/.test(title)) { cls = "hard"; dot = "🔴"; label = "Hard"; }
+      else if (/standalone/i.test(title)) { cls = "mix"; dot = "📝"; label = "Skill MCQs"; }
+      var qs = parseBlocks(part);
+      if (qs.length) tiers.push({ cls: cls, dot: dot, label: label, questions: qs });
+    });
+    if (!tiers.length) { var qs = parseBlocks(head); if (qs.length) tiers.push({ cls: "mix", dot: "📝", label: "Questions", questions: qs }); }
+    return { tiers: tiers, caseMd: caseMd };
+  }
+
+  var quizCtx = null;
+  function qCard(q, t) {
+    var opts = "";
+    ["A", "B", "C", "D"].forEach(function (L, i) {
+      opts += '<button class="q-opt" data-i="' + i + '"><span class="q-letter">' + L + '</span><span class="q-otext">' + inlineMd(q.options[i]) + "</span></button>";
+    });
+    return '<div class="q-card" data-tier="' + t.cls + '" data-qid="' + q.id + '" data-correct="' + q.correct + '">'
+      + '<div class="q-head"><span class="q-num">Q' + q.id + '</span><span class="q-tierlabel ' + t.cls + '">' + t.dot + " " + t.label + "</span></div>"
+      + '<div class="q-text">' + inlineMd(q.q) + "</div>"
+      + '<div class="q-opts">' + opts + "</div>"
+      + '<div class="q-expl markdown-body" hidden>' + md(q.expl) + "</div></div>";
+  }
+  function renderTierCards(parsed) {
+    var h = "";
+    parsed.tiers.forEach(function (t) {
+      h += '<div class="q-tier-head ' + t.cls + '">' + t.dot + " " + esc(t.label) + ' <span class="q-tier-count">' + t.questions.length + " questions</span></div>";
+      t.questions.forEach(function (q) { h += qCard(q, t); });
+    });
+    return h;
+  }
+  function correctMap() { var map = {}; quizCtx.parsed.tiers.forEach(function (t) { t.questions.forEach(function (q) { map[q.id] = q.correct; }); }); return map; }
+  function saveQuiz() { try { localStorage.setItem(quizCtx.qkey, JSON.stringify(quizCtx.saved)); } catch (e) {} }
+  function applyAnswer(card, chosen, restore) {
+    card.classList.add("answered");
+    var correct = parseInt(card.dataset.correct, 10);
+    card.querySelectorAll(".q-opt").forEach(function (o, idx) {
+      o.disabled = true;
+      if (idx === correct) o.classList.add("correct");
+      if (idx === chosen && chosen !== correct) o.classList.add("wrong");
+      if (idx === chosen) o.classList.add("chosen");
+    });
+    card.querySelector(".q-expl").hidden = false;
+    if (!restore) {
+      var fl = chosen === correct ? "flash-ok" : "flash-no";
+      card.classList.add(fl); setTimeout(function () { card.classList.remove(fl); }, 700);
+    }
+  }
+  function updateQuizScore() {
+    var map = correctMap(), ans = Object.keys(quizCtx.saved).length, correct = 0;
+    Object.keys(quizCtx.saved).forEach(function (qid) { if (quizCtx.saved[qid] === map[qid]) correct++; });
+    var pctv = ans ? Math.round(correct / ans * 100) : 0;
+    var setT = function (id, v) { var e = document.getElementById(id); if (e) e.textContent = v; };
+    setT("qAns", ans); setT("qCorrect", correct);
+    var pe = document.getElementById("qPct"); if (pe) pe.textContent = ans ? "(" + pctv + "%)" : "";
+    var fill = document.getElementById("qFill"); if (fill) fill.style.width = (quizCtx.total ? ans / quizCtx.total * 100 : 0) + "%";
+    var done = document.getElementById("qDone");
+    if (done) done.hidden = !(ans === quizCtx.total && quizCtx.total > 0);
+    if (ans === quizCtx.total && quizCtx.total > 0) {
+      var msg = pctv >= 80 ? "🏆 Excellent — exam-ready on this chapter!" : pctv >= 60 ? "👍 Good — review the ones you missed." : "📚 Keep going — re-read the notes and retry.";
+      var d2 = document.getElementById("qDoneMsg"); if (d2) d2.innerHTML = "You scored <b>" + correct + "/" + quizCtx.total + " (" + pctv + "%)</b>. " + msg;
+    }
+  }
+  function shuffleQuiz() {
+    quizCtx.parsed.tiers.forEach(function (t) {
+      for (var i = t.questions.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var tmp = t.questions[i]; t.questions[i] = t.questions[j]; t.questions[j] = tmp; }
+    });
+    var list = document.getElementById("qList"); list.innerHTML = renderTierCards(quizCtx.parsed);
+    Object.keys(quizCtx.saved).forEach(function (qid) { var card = list.querySelector('.q-card[data-qid="' + qid + '"]'); if (card) applyAnswer(card, quizCtx.saved[qid], true); });
+  }
+  function toggleReading() {
+    var c = chapterByNum(quizCtx.num);
+    var wrap = document.getElementById("quizInteractive");
+    wrap.outerHTML = '<div id="quizReading"><div class="quiz-tools"><button id="qInteractive">🎯 Back to interactive</button>'
+      + '<button id="expandAll">▾ Reveal all</button><button id="collapseAll">▸ Hide all</button><button id="toTop">↑ Top</button></div>'
+      + '<div class="markdown-body" id="quizBody">' + md(c.questions) + "</div></div>";
+    document.getElementById("qInteractive").onclick = function () { renderQuestions(quizCtx.num); };
     var body = document.getElementById("quizBody");
     document.getElementById("expandAll").onclick = function () { body.querySelectorAll("details").forEach(function (d) { d.open = true; }); };
     document.getElementById("collapseAll").onclick = function () { body.querySelectorAll("details").forEach(function (d) { d.open = false; }); };
+    document.getElementById("toTop").onclick = function () { window.scrollTo({ top: 0, behavior: "smooth" }); };
+  }
+  function renderQuestions(num) {
+    var c = chapterByNum(num), parsed = parseQuiz(c.questions);
+    var total = parsed.tiers.reduce(function (a, t) { return a + t.questions.length; }, 0);
+    if (!total) { // fallback to reading mode if parsing fails
+      contentEl.innerHTML = viewTabs(num, "questions") + '<div class="markdown-body">' + md(c.questions) + "</div>";
+      bindMarkRead(num, "questions"); return;
+    }
+    var qkey = "nismxb_quiz_" + num, saved = {};
+    try { saved = JSON.parse(localStorage.getItem(qkey)) || {}; } catch (e) {}
+    quizCtx = { num: num, parsed: parsed, saved: saved, qkey: qkey, total: total };
+
+    var counts = { easy: 0, med: 0, hard: 0, mix: 0 };
+    parsed.tiers.forEach(function (t) { counts[t.cls] += t.questions.length; });
+    var chips = '<div class="q-filters"><button class="q-chip active" data-f="all">All (' + total + ")</button>";
+    if (counts.easy) chips += '<button class="q-chip" data-f="easy">🟢 Easy (' + counts.easy + ")</button>";
+    if (counts.med) chips += '<button class="q-chip" data-f="med">🟡 Medium (' + counts.med + ")</button>";
+    if (counts.hard) chips += '<button class="q-chip" data-f="hard">🔴 Hard (' + counts.hard + ")</button>";
+    if (counts.mix) chips += '<button class="q-chip" data-f="mix">📝 MCQs (' + counts.mix + ")</button>";
+    chips += "</div>";
+    var bar = '<div class="q-scorebar"><div class="q-score-text">📊 <b id="qAns">0</b>/' + total + ' answered · <b id="qCorrect">0</b> correct <span id="qPct" class="q-pct"></span></div>'
+      + '<div class="q-progress"><div id="qFill" class="q-progress-fill"></div></div>'
+      + '<div id="qDone" class="q-done" hidden><span id="qDoneMsg"></span></div></div>';
+    var tools = '<div class="quiz-tools"><button id="qShuffle">🔀 Shuffle</button><button id="qReset">↺ Reset answers</button><button id="qReading">📄 Reading mode</button><button id="toTop">↑ Top</button></div>';
+    var tip = '<div class="q-tip">💡 Tap an option to lock your answer — you\'ll instantly see the right choice and a full explanation. Mind the <b>25% negative marking</b>: guess only when you can eliminate options.</div>';
+    var caseHtml = parsed.caseMd ? '<div class="q-case markdown-body"><div class="q-case-tag">🧩 Worked Case Study — read & learn the method</div>' + md(parsed.caseMd.replace(/^##\s*🧩[^\n]*\n/, "")) + "</div>" : "";
+    contentEl.innerHTML = viewTabs(num, "questions")
+      + '<div id="quizInteractive">' + chips + bar + tip + tools + '<div id="qList">' + renderTierCards(parsed) + "</div>" + caseHtml + "</div>";
+    bindMarkRead(num, "questions");
+
+    var root = document.getElementById("quizInteractive"), list = document.getElementById("qList");
+    Object.keys(saved).forEach(function (qid) { var card = list.querySelector('.q-card[data-qid="' + qid + '"]'); if (card) applyAnswer(card, saved[qid], true); });
+    updateQuizScore();
+    list.addEventListener("click", function (e) {
+      var btn = e.target.closest(".q-opt"); if (!btn) return;
+      var card = btn.closest(".q-card"); if (card.classList.contains("answered")) return;
+      var i = parseInt(btn.dataset.i, 10);
+      applyAnswer(card, i, false); quizCtx.saved[card.dataset.qid] = i; saveQuiz(); updateQuizScore();
+    });
+    root.querySelectorAll(".q-chip").forEach(function (ch) {
+      ch.addEventListener("click", function () {
+        root.querySelectorAll(".q-chip").forEach(function (x) { x.classList.remove("active"); });
+        ch.classList.add("active");
+        list.className = ""; if (ch.dataset.f !== "all") list.classList.add("filter-" + ch.dataset.f);
+      });
+    });
+    document.getElementById("qReset").onclick = function () { if (confirm("Clear your saved answers for this chapter?")) { quizCtx.saved = {}; saveQuiz(); renderQuestions(num); } };
+    document.getElementById("qShuffle").onclick = shuffleQuiz;
+    document.getElementById("qReading").onclick = toggleReading;
     document.getElementById("toTop").onclick = function () { window.scrollTo({ top: 0, behavior: "smooth" }); };
   }
   function parseFlashcards(src) {
@@ -713,6 +869,9 @@
   overlay.addEventListener("click", closeSidebar);
 
   document.getElementById("themeBtn").addEventListener("click", function () { applyTheme(document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark"); });
+  var fu = document.getElementById("fontUp"), fd = document.getElementById("fontDown");
+  if (fu) fu.addEventListener("click", function () { applyScale(readScale + 0.1); });
+  if (fd) fd.addEventListener("click", function () { applyScale(readScale - 0.1); });
   document.getElementById("resetProgress").addEventListener("click", function () { if (confirm("Reset all progress checkmarks?")) { progress = {}; saveProgress(progress); refreshChecks(); updateProgressUI(); } });
 
   document.addEventListener("keydown", function (e) {
