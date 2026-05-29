@@ -531,21 +531,21 @@ A) Indian policies tend to be cheaper than similar foreign-company policies  B) 
 </details>
 
 **Q59.** A bank manager wants to protect the bank from a cashier embezzling money. The right policy is:
-A) D&O liability  B) Fidelity insurance  C) Keyman insurance  D) Property insurance
+A) D&O liability  B) Keyman insurance  C) Fidelity insurance  D) Property insurance
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Fidelity insurance covers employer losses from an employee's forgery, fraud or dishonesty — taken where employees handle large sums of cash or valuables.
+**Correct: C)** — Fidelity insurance covers employer losses from an employee's forgery, fraud or dishonesty — taken where employees handle large sums of cash or valuables.
 - A) is wrong — D&O covers directors' personal liability, not employee theft.
-- C) is wrong — keyman covers loss of a key person's life.
+- B) is wrong — keyman covers loss of a key person's life.
 - D) is wrong — property insurance covers assets, not employee dishonesty.
 </details>
 
 **Q60.** A company wants protection against financial loss if its star CEO dies suddenly. The right policy is:
-A) Critical illness  B) Keyman insurance  C) Fidelity insurance  D) Personal accident
+A) Critical illness  B) Fidelity insurance  C) Personal accident  D) Keyman insurance
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Keyman insurance is a life policy a company buys on a key executive; the company is the beneficiary and pays the premium, protecting against the loss of that person's life.
-- A), C) and D) are wrong — these do not insure the company against the death of its key person with the company as beneficiary.
+**Correct: D)** — Keyman insurance is a life policy a company buys on a key executive; the company is the beneficiary and pays the premium, protecting against the loss of that person's life.
+- A), B) and C) are wrong — these do not insure the company against the death of its key person with the company as beneficiary.
 </details>
 
 **Q61.** A doctor wants cover against patient lawsuits alleging professional negligence. The right policy is:
@@ -557,12 +557,12 @@ A) Liability (professional indemnity) insurance  B) Property insurance  C) Trave
 </details>
 
 **Q62.** A company director faces a shareholder claim alleging a wrongful act in his duties. The relevant policy is:
-A) Keyman  B) D&O liability insurance  C) Fidelity  D) Property
+A) Keyman  B) Fidelity  C) D&O liability insurance  D) Property
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — D&O liability insurance covers directors against personal liability and defence costs from claims (e.g. shareholder claims) alleging a wrongful act in their duties.
+**Correct: C)** — D&O liability insurance covers directors against personal liability and defence costs from claims (e.g. shareholder claims) alleging a wrongful act in their duties.
 - A) is wrong — keyman insures the company on the director's life.
-- C) is wrong — fidelity is employee dishonesty.
+- B) is wrong — fidelity is employee dishonesty.
 - D) is wrong — property covers assets.
 </details>
 

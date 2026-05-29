@@ -229,10 +229,10 @@ A) Every year as it accrues  B) Only in the year of withdrawal, with credit for 
 </details>
 
 **Q31.** The government scheme offering senior citizens a high fixed rate of interest is: *(Easy)*
-A) Public sector bank FD  B) Senior Citizen Savings Scheme (SCSS)  C) Equity Linked Savings Scheme  D) Unit Linked Insurance Plan
+A) Public sector bank FD  B) Equity Linked Savings Scheme  C) Unit Linked Insurance Plan  D) Senior Citizen Savings Scheme (SCSS)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **SCSS** is a **government** small-savings scheme for those 60+ offering an attractive fixed rate. **A)** A PSU-bank FD is a bank product, not a government scheme. **C) ELSS** is an equity tax-saver, not fixed income. **D) ULIP** is an insurance-investment product, not a fixed-income scheme.
+**Correct: D)** — **SCSS** is a **government** small-savings scheme for those 60+ offering an attractive fixed rate. **A)** A PSU-bank FD is a bank product, not a government scheme. **B) ELSS** is an equity tax-saver, not fixed income. **C) ULIP** is an insurance-investment product, not a fixed-income scheme.
 </details>
 
 **Q32.** Ms. T invests ₹60,000 in a 10% asset using **1.4× leverage**, borrowing at 9%. Her **own funds** are: *(Hard)*
@@ -334,10 +334,10 @@ A) ₹2,10,000  B) ₹2,00,000  C) ₹1,50,000  D) ₹1,00,000
 </details>
 
 **Q1.3.** Including 80C (₹1,50,000), 80CCD(1B) NPS (₹50,000) and 80D (₹22,000), the total of these three Chapter VI-A deductions is: *(Medium)*
-A) ₹2,00,000  B) ₹2,22,000  C) ₹2,32,000  D) ₹2,82,000
+A) ₹2,00,000  B) ₹2,32,000  C) ₹2,22,000  D) ₹2,82,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — 80C 1,50,000 + 80CCD(1B) 50,000 + 80D 22,000 = **₹2,22,000**. The NPS ₹50,000 under 80CCD(1B) is **over and above** the 80C cap, so it is added in full; 80D health premium ₹22,000 is within its ₹25,000 limit. **A)** omits the 80D amount. **C)** adds ₹10,000 too much. **D)** wrongly counts the full ₹2,10,000 of 80C.
+**Correct: C)** — 80C 1,50,000 + 80CCD(1B) 50,000 + 80D 22,000 = **₹2,22,000**. The NPS ₹50,000 under 80CCD(1B) is **over and above** the 80C cap, so it is added in full; 80D health premium ₹22,000 is within its ₹25,000 limit. **A)** omits the 80D amount. **B)** adds ₹10,000 too much. **D)** wrongly counts the full ₹2,10,000 of 80C.
 </details>
 
 **Q1.4.** After also claiming the home-loan interest (Sec 24b, self-occupied, capped at ₹2,00,000), Mr. Rao's **net taxable income** is: *(Hard)*
@@ -376,10 +376,10 @@ A) Only the 20-month shares  B) The 20-month shares and the 15-month MF units  C
 </details>
 
 **Q2.2.** Her **total long-term** capital gain (before the exemption) is: *(Easy)*
-A) ₹2,00,000  B) ₹2,40,000  C) ₹3,00,000  D) ₹3,40,000
+A) ₹2,00,000  B) ₹3,00,000  C) ₹2,40,000  D) ₹3,40,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — LTCG = 2,00,000 (shares) + 40,000 (MF) = **₹2,40,000**. **A)** omits the MF gain. **C)** wrongly adds the short-term ₹1,00,000. **D)** adds everything regardless of holding period.
+**Correct: C)** — LTCG = 2,00,000 (shares) + 40,000 (MF) = **₹2,40,000**. **A)** omits the MF gain. **B)** wrongly adds the short-term ₹1,00,000. **D)** adds everything regardless of holding period.
 </details>
 
 **Q2.3.** Her **LTCG tax** under Section 112A (12.5% above the ₹1.25 lakh exemption) is: *(Medium)*

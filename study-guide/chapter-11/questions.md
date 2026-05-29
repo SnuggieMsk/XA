@@ -229,10 +229,10 @@ A) 12 months  B) 24 months  C) 36 months  D) 48 months
 </details>
 
 **Q33.** F&O (derivatives) income, when traded as business, is generally treated as:
-A) Speculative business income  B) Non-speculative business income  C) Capital gains  D) Salary income
+A) Capital gains  B) Salary income  C) Speculative business income  D) Non-speculative business income
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 43(5) excludes exchange-traded derivatives from "speculative", so F&O income/loss is treated as normal (non-speculative) business income, even without delivery. A) is wrong because of the 43(5) exclusion. C) is wrong — F&O is business income, not capital gains. D) salary is unrelated.
+**Correct: D)** — Section 43(5) excludes exchange-traded derivatives from "speculative", so F&O income/loss is treated as normal (non-speculative) business income, even without delivery. C) is wrong because of the 43(5) exclusion. A) is wrong — F&O is business income, not capital gains. B) salary is unrelated.
 </details>
 
 **Q34.** Under bonus stripping (Section 94(8)), the ignored loss on the original units becomes the:
@@ -252,10 +252,10 @@ A) Allowed against LTCG covered under Section 112A  B) Not allowed against LTCG 
 ## 🟡 Tier 2 — Medium: Application (Q36–Q70)
 
 **Q36.** Mr. A buys listed equity shares and sells them after 10 months (STT paid on both legs). The gain is:
-A) LTCG taxed at 12.50%  B) STCG taxed at 20% under Section 111A  C) STCG taxed at slab rates  D) Exempt
+A) LTCG taxed at 12.50%  B) STCG taxed at slab rates  C) Exempt  D) STCG taxed at 20% under Section 111A
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Listed shares held 10 months (≤12) are short-term; with STT paid, STCG is taxed at 20% under Section 111A. A) needs >12 months holding to be long-term. C) slab rates apply only when STT/listing conditions fail. D) is wrong — STCG on equity is not exempt.
+**Correct: D)** — Listed shares held 10 months (≤12) are short-term; with STT paid, STCG is taxed at 20% under Section 111A. A) needs >12 months holding to be long-term. B) slab rates apply only when STT/listing conditions fail. C) is wrong — STCG on equity is not exempt.
 </details>
 
 **Q37.** Mr. B sells listed equity shares held for 18 months with STT paid. His total 112A LTCG for the year is ₹90,000. Tax on this LTCG is:
@@ -294,10 +294,10 @@ A) At slab rates always  B) Under Section 112A  C) As business income  D) Exempt
 </details>
 
 **Q42.** The conversion of a share warrant into shares is treated for tax purposes as:
-A) A non-taxable event  B) A transfer of the share warrant  C) Dividend income  D) A forfeiture
+A) A non-taxable event  B) Dividend income  C) A forfeiture  D) A transfer of the share warrant
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Conversion of a warrant into shares is treated as a transfer of the warrant; capital gain = FMV of shares (Sec 50D) minus the strike price. A) is wrong — it is a taxable transfer. C) and D) are unrelated events.
+**Correct: D)** — Conversion of a warrant into shares is treated as a transfer of the warrant; capital gain = FMV of shares (Sec 50D) minus the strike price. A) is wrong — it is a taxable transfer. B) and C) are unrelated events.
 </details>
 
 **Q43.** On conversion of a listed warrant into shares after 14 months, the resulting gain is:
@@ -315,10 +315,10 @@ A) The strike price  B) The upfront 25% paid  C) The fair market value of the sh
 </details>
 
 **Q45.** On a simple transfer (sale) of a share warrant to another person, the cost of acquisition is:
-A) FMV of underlying shares  B) The upfront payment/price paid for the warrant  C) The strike price  D) Nil
+A) FMV of underlying shares  B) The strike price  C) Nil  D) The upfront payment/price paid for the warrant
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — On transfer of the warrant itself, gain = sale price minus the upfront price paid for the warrant. A) FMV of shares applies on conversion, not on a plain transfer. C) strike price applies to conversion. D) nil cost is not correct here.
+**Correct: D)** — On transfer of the warrant itself, gain = sale price minus the upfront price paid for the warrant. A) FMV of shares applies on conversion, not on a plain transfer. B) strike price applies to conversion. C) nil cost is not correct here.
 </details>
 
 **Q46.** A non-resident receives dividend from a domestic company. Which is true?

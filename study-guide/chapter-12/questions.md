@@ -517,12 +517,12 @@ Intuition: The new regime strips most personal deductions but keeps the employer
 </details>
 
 **Q46.** Where NPS withdrawal is used in the same year to buy an annuity plan, the tax treatment is:
-A) The withdrawal is taxed but the annuity is exempt  B) No tax on the amount used to buy the annuity; the annuity income is taxed when received  C) Both fully exempt  D) Both fully taxable
+A) The withdrawal is taxed but the annuity is exempt  B) Both fully exempt  C) No tax on the amount used to buy the annuity; the annuity income is taxed when received  D) Both fully taxable
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — No tax on the withdrawn amount used to purchase the annuity; the annuity/pension income received later is taxable.
+**Correct: C)** — No tax on the withdrawn amount used to purchase the annuity; the annuity/pension income received later is taxable.
 - A) Wrong: reversed — the purchase is exempt, the income is taxed.
-- C) Wrong: the eventual annuity income is taxable.
+- B) Wrong: the eventual annuity income is taxable.
 - D) Wrong: the purchase itself is not taxed.
 
 Intuition: Rolling money into an annuity is tax-neutral; you pay tax later as you actually receive pension.
@@ -589,12 +589,12 @@ Intuition: "Listed = liquid = shorter 12-month threshold," like listed shares.
 </details>
 
 **Q52.** The TDS rate under Section 194LBA on rental income distributed by a REIT to a *resident* unit-holder is:
-A) 5%  B) 10%  C) 20%  D) 30%
+A) 5%  B) 20%  C) 10%  D) 30%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — REITs deduct TDS at 10% for resident unit-holders on rental, dividend (from SPV) and interest (from SPV) distributions.
+**Correct: C)** — REITs deduct TDS at 10% for resident unit-holders on rental, dividend (from SPV) and interest (from SPV) distributions.
 - A) Wrong: 5% applies to interest distributed to a non-resident.
-- C) Wrong: no 20% rate under 194LBA.
+- B) Wrong: no 20% rate under 194LBA.
 - D) Wrong: 30% applies to rental distributed to a non-resident (other than foreign company).
 
 Intuition: Residents face a flat 10% withholding; non-residents face higher, income-specific rates.
@@ -649,11 +649,11 @@ Intuition: Since business *income* is taxed at the AIF, business *losses* logica
 </details>
 
 **Q57.** Non-business losses of an AIF can be passed to a unit-holder only if the unit has been held for at least:
-A) 6 months  B) 12 months  C) 24 months  D) 36 months
+A) 6 months  B) 24 months  C) 12 months  D) 36 months
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Non-business losses pass through except where the unit has not been held for at least 12 months.
-- A), C), D) Wrong: the threshold stated is 12 months.
+**Correct: C)** — Non-business losses pass through except where the unit has not been held for at least 12 months.
+- A), B), D) Wrong: the threshold stated is 12 months.
 
 Intuition: A minimum 12-month holding prevents short-term "loss shopping" by investors who briefly buy units.
 </details>
@@ -1131,12 +1131,12 @@ Intuition: Sold within 12 months on the exchange with STT → the special 20% sh
 </details>
 
 **Q98.** A Category-III AIF set up as a company earns trading profits. These profits are taxed:
-A) Pass-through to unit-holders  B) At the company AIF level like a normal company (no pass-through)  C) Exempt under 115UB  D) At MMR as a trust
+A) Pass-through to unit-holders  B) Exempt under 115UB  C) At the company AIF level like a normal company (no pass-through)  D) At MMR as a trust
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Category-III AIFs have no pass-through; taxed like a normal company/trust/LLP as applicable — here, as a company.
+**Correct: C)** — Category-III AIFs have no pass-through; taxed like a normal company/trust/LLP as applicable — here, as a company.
 - A) Wrong: only Cat-I/II get pass-through.
-- C) Wrong: 115UB applies to Cat-I/II, not Cat-III.
+- B) Wrong: 115UB applies to Cat-I/II, not Cat-III.
 - D) Wrong: it is a company, taxed at company rates, not trust MMR.
 
 Intuition: Category-III is just an ordinary taxpayer — taxed on its own profits at its entity rate.

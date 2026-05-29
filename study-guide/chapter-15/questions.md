@@ -499,10 +499,10 @@ A) registered with SEBI  B) authenticated/attested by the Indian Embassy/Consula
 ## 🔴 Tier 3 — Hard: Scenario & Numerical (Q71–Q100)
 
 **Q71.** Trust ABC reports total income of ₹1,00,000: interest income ₹50,000 and dividends ₹50,000. Trustee fees are ₹20,000, realized capital gains are ₹20,000, and it gets an exemption of ₹20,000. What is the trust's **taxable income**?
-A) ₹1,00,000  B) ₹80,000  C) ₹60,000  D) ₹1,20,000
+A) ₹1,00,000  B) ₹60,000  C) ₹1,20,000  D) ₹80,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Taxable Income = interest + dividends + capital gains − fees − exemptions. Plugging in: ₹50,000 + ₹50,000 + ₹20,000 − ₹20,000 − ₹20,000 = **₹80,000**. Note capital gains are ADDED in the taxable-income formula. A) ₹1,00,000 ignores the gains, fees and exemption netting. C) ₹60,000 wrongly subtracts the gains. D) ₹1,20,000 forgets to subtract fees/exemptions.
+**Correct: D)** — Taxable Income = interest + dividends + capital gains − fees − exemptions. Plugging in: ₹50,000 + ₹50,000 + ₹20,000 − ₹20,000 − ₹20,000 = **₹80,000**. Note capital gains are ADDED in the taxable-income formula. A) ₹1,00,000 ignores the gains, fees and exemption netting. B) ₹60,000 wrongly subtracts the gains. C) ₹1,20,000 forgets to subtract fees/exemptions.
 </details>
 
 **Q72.** Using the same Trust ABC figures (taxable income ₹80,000, capital gains ₹20,000, exemption ₹20,000), what is the **Distributable Net Income (DNI)**?
@@ -513,10 +513,10 @@ A) ₹40,000  B) ₹60,000  C) ₹80,000  D) ₹1,20,000
 </details>
 
 **Q73.** In the DNI formula, if a trust has a capital **loss** instead of a capital gain, the loss is ______.
-A) ignored entirely  B) added in place of the capital gains term  C) multiplied by the tax rate  D) subtracted twice
+A) ignored entirely  B) multiplied by the tax rate  C) subtracted twice  D) added in place of the capital gains term
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The chapter states that if there is a capital loss, it is **added** to the formula, replacing the capital gains term (DNI = Taxable Income + Capital Loss + Exemptions). A) is wrong — the loss is not ignored. C) and D) invent operations not in the formula. (Note: in the *taxable income* formula, capital losses are subtracted — the treatment differs between the two formulas.)
+**Correct: D)** — The chapter states that if there is a capital loss, it is **added** to the formula, replacing the capital gains term (DNI = Taxable Income + Capital Loss + Exemptions). A) is wrong — the loss is not ignored. B) and C) invent operations not in the formula. (Note: in the *taxable income* formula, capital losses are subtracted — the treatment differs between the two formulas.)
 </details>
 
 **Q74.** Rajesh creates a determinate trust for his father and mother (equal beneficial interest). The trust's net annual value is ₹5,40,000, shared equally. Father separately receives a monthly pension of ₹40,000. What is the father's gross pension (salary) income for the year?
@@ -562,10 +562,10 @@ A) Only his surviving brothers  B) Only his surviving sisters  C) Surviving brot
 </details>
 
 **Q80.** A settlor wants to retain control over assets and over distribution of income/capital gains from the trust. Which structure achieves this, and what is the tax consequence?
-A) Irrevocable trust; taxed in beneficiary's hands  B) Revocable trust; income taxed in the settlor's hands  C) Public trust; fully exempt  D) Discretionary trust; taxed in beneficiary's hands
+A) Irrevocable trust; taxed in beneficiary's hands  B) Public trust; fully exempt  C) Discretionary trust; taxed in beneficiary's hands  D) Revocable trust; income taxed in the settlor's hands
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A **revocable trust** lets the settlor keep control over assets and distributions; because assets are not considered "given away," the **income is taxed in the settlor's hands**. A) An irrevocable trust means giving up control. C) A public trust is for charity/religion, not personal control. D) A discretionary trust gives discretion to trustees and is taxed at MMR, not the settlor.
+**Correct: D)** — A **revocable trust** lets the settlor keep control over assets and distributions; because assets are not considered "given away," the **income is taxed in the settlor's hands**. A) An irrevocable trust means giving up control. B) A public trust is for charity/religion, not personal control. C) A discretionary trust gives discretion to trustees and is taxed at MMR, not the settlor.
 </details>
 
 **Q81.** A business owner wants to transfer business interest into a vehicle that generates a fixed income stream for years, keeps control with the family during the term, and lets the business survive across generations or pass to beneficiaries after a defined term. Which tool?

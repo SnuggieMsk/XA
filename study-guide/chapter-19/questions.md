@@ -315,24 +315,24 @@ A) Gold fund  B) Physical gold  C) Gold ETF  D) Sovereign Gold Bond
 </details>
 
 **Q45.** An investor wants property-type exposure that is **diversified across many properties, professionally managed, and relatively liquid**. Best fit?
-A) Direct real estate  B) REIT/InvIT  C) Physical gold  D) Company deposit
+A) Direct real estate  B) Company deposit  C) Physical gold  D) REIT/InvIT
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **REITs/InvITs** spread exposure over many properties/projects, are professionally managed, allow a lower minimum, and (being listed) have relatively better liquidity. Direct real estate (A) is concentrated, lumpy and illiquid. Gold (C) and a company deposit (D) are not property exposure. Diversified + liquid property = REIT/InvIT.
+**Correct: D)** — **REITs/InvITs** spread exposure over many properties/projects, are professionally managed, allow a lower minimum, and (being listed) have relatively better liquidity. Direct real estate (A) is concentrated, lumpy and illiquid. Gold (C) and a company deposit (B) are not property exposure. Diversified + liquid property = REIT/InvIT.
 </details>
 
 **Q46.** An investor wants **instant liquidity** for their parked savings even at the cost of some penalty. Which fits best?
-A) FMP  B) Bank fixed deposit  C) Closed-ended AIF  D) Sovereign Gold Bond
+A) Bank fixed deposit  B) FMP  C) Closed-ended AIF  D) Sovereign Gold Bond
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A **bank FD** offers instant liquidity from the bank (though with possible interest clawback or premature penalty). An FMP (A) is listed but effectively very illiquid. A closed-ended AIF (C) has lock-in and poor liquidity. An SGB (D) only redeems with RBI after 5 years. Instant access = bank FD.
+**Correct: A)** — A **bank FD** offers instant liquidity from the bank (though with possible interest clawback or premature penalty). An FMP (B) is listed but effectively very illiquid. A closed-ended AIF (C) has lock-in and poor liquidity. An SGB (D) only redeems with RBI after 5 years. Instant access = bank FD.
 </details>
 
 **Q47.** A debt investor wants **better post-tax returns by withdrawing amounts that have a large capital element**. Which approach does the workbook suggest?
-A) Bank FD  B) Open-ended debt fund growth option  C) FMP held to maturity  D) Company deposit
+A) Bank FD  B) Company deposit  C) FMP held to maturity  D) Open-ended debt fund growth option
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The workbook says post-tax returns can be better by investing in an **open-ended debt fund growth scheme and withdrawing needed amounts**, since each withdrawal has a large element of capital (not just interest). FD (A) interest is fully taxed. FMP (C) is held to maturity. Company deposit (D) interest is taxed. Growth-option withdrawals are the tax-efficient route.
+**Correct: D)** — The workbook says post-tax returns can be better by investing in an **open-ended debt fund growth scheme and withdrawing needed amounts**, since each withdrawal has a large element of capital (not just interest). FD (A) interest is fully taxed. FMP (C) is held to maturity. Company deposit (B) interest is taxed. Growth-option withdrawals are the tax-efficient route.
 </details>
 
 **Q48.** An income-earner with dependents needs cover against **death from any cause**. Which is essential?

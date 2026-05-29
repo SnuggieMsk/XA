@@ -475,7 +475,6 @@ A) 25% of his own contributions  B) 25% of the total corpus  C) 40% of the corpu
 - C) 40% relates to annuitisation at exit.
 - D) Employer contributions are explicitly excluded from the partial-withdrawal base.
 </details>
-</details>
 
 **Q51.** An investor at age 28 wants the most aggressive NPS Auto Choice option. Which life-cycle fund, and what is its equity cap?
 A) Conservative LC — 25%  B) Moderate LC — 50%  C) Aggressive LC — 75%  D) Aggressive LC — 100%

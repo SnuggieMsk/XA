@@ -548,24 +548,24 @@ A) Help him sell everything fast  B) Short the market with him  C) Tell him to a
 </details>
 
 **Q78.** Lata wants the "best education abroad" for her son and is ready to empty her retirement fund, 8 years from her own retirement. The adviser's objective intervention is to:
-A) Quantify the retirement compromise and propose a partial education loan repayable by the son later  B) Empty the retirement fund as she wishes  C) Refuse to fund education at all  D) Tell her retirement doesn't matter
+A) Empty the retirement fund as she wishes  B) Quantify the retirement compromise and propose a partial education loan repayable by the son later  C) Refuse to fund education at all  D) Tell her retirement doesn't matter
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Show the size of the retirement compromise and offer a partial education loan. B) sacrifices her future. C) ignores a real goal. D) is wrong advice. Behavioural logic: objective trade-off analysis helps an emotional parent decide well.
+**Correct: B)** — Show the size of the retirement compromise and offer a partial education loan. A) sacrifices her future. C) ignores a real goal. D) is wrong advice. Behavioural logic: objective trade-off analysis helps an emotional parent decide well.
 </details>
 
 **Q79.** A new client only buys insurance in March for tax and has Rs 50 lakh of loans but just Rs 5 lakh of life cover. The adviser's priority is:
-A) Establish adequate, appropriate cover first (the foundation), explaining tax saving merely reduces the cost  B) Buy another tax-saving endowment policy  C) Focus only on his March tax deadline  D) Tell him insurance is optional
+A) Buy another tax-saving endowment policy  B) Focus only on his March tax deadline  C) Establish adequate, appropriate cover first (the foundation), explaining tax saving merely reduces the cost  D) Tell him insurance is optional
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — His cover is grossly inadequate; adequate protection is the first step, with tax saving as a bonus. B) repeats the tax-first error. C) is narrow. D) is dangerous given his loans. Behavioural logic: protection must match liabilities, not the tax calendar.
+**Correct: C)** — His cover is grossly inadequate; adequate protection is the first step, with tax saving as a bonus. A) repeats the tax-first error. B) is narrow. D) is dangerous given his loans. Behavioural logic: protection must match liabilities, not the tax calendar.
 </details>
 
 **Q80.** Rohit boasts that his "gut" picked three winners last year (he ignores his many losers) and wants to ditch his adviser's plan. This combines overconfidence with selective memory of wins. The adviser should:
-A) Gently show that wins were partly luck and not reliably repeatable, and protect the asset allocation  B) Congratulate his proven skill and let him go solo  C) Match his bets with margin  D) Tell him to invest only abroad
+A) Congratulate his proven skill and let him go solo  B) Match his bets with margin  C) Tell him to invest only abroad  D) Gently show that wins were partly luck and not reliably repeatable, and protect the asset allocation
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Remembering wins and forgetting losses fuels overconfidence; the adviser tempers it and guards the allocation. B), C) and D) feed the bias or misdiagnose. Behavioural logic: luck is not skill, and skill is rarely consistently repeatable.
+**Correct: D)** — Remembering wins and forgetting losses fuels overconfidence; the adviser tempers it and guards the allocation. A), B) and C) feed the bias or misdiagnose. Behavioural logic: luck is not skill, and skill is rarely consistently repeatable.
 </details>
 
 **Q81.** An adviser wants to ensure clients "buy low and sell high" without relying on willpower during volatile markets. The best structural solution is:

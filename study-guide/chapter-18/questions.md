@@ -399,17 +399,17 @@ A) Hold mostly debt with little equity  B) Keep everything in a savings account 
 </details>
 
 **Q57.** The main reason different asset classes provide diversification is that their returns:
-A) Always move together  B) Do not rise and fall together because they are driven by different factors  C) Are guaranteed by SEBI  D) Are always equal
+A) Always move together  B) Are guaranteed by SEBI  C) Are always equal  D) Do not rise and fall together because they are driven by different factors
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Asset classes are driven by different economic factors, so they do not rise and fall together; a fall in one can be cushioned by a rise in another. Moving together (A) and being equal (D) defeat diversification, and SEBI does not guarantee returns (C).
+**Correct: D)** — Asset classes are driven by different economic factors, so they do not rise and fall together; a fall in one can be cushioned by a rise in another. Moving together (A) and being equal (C) defeat diversification, and SEBI does not guarantee returns (B).
 </details>
 
 **Q58.** International research cited in the chapter suggests portfolio performance is better explained by:
-A) Stock selection within an asset class  B) Asset allocation and investment policy  C) The broker chosen  D) The number of trades made
+A) Stock selection within an asset class  B) The broker chosen  C) The number of trades made  D) Asset allocation and investment policy
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Research suggests asset allocation and investment policy explain performance better than picking individual securities (stock selection, A). The broker (C) and trade count (D) are not the explanation cited.
+**Correct: D)** — Research suggests asset allocation and investment policy explain performance better than picking individual securities (stock selection, A). The broker (B) and trade count (C) are not the explanation cited.
 </details>
 
 **Q59.** A portfolio review should help answer all of the following EXCEPT:
@@ -427,17 +427,17 @@ A) Save more for the goal or divert funds from a less important goal  B) Do noth
 </details>
 
 **Q61.** A client says "there is no right answer" frustrates her in a risk questionnaire and she keeps trying to pick the 'best' option. The adviser should explain that:
-A) She should guess the adviser's preferred answer  B) Honest answers matter because the tool reflects her true preferences, not a correct answer  C) The questionnaire is pointless  D) She must choose the most aggressive option
+A) She should guess the adviser's preferred answer  B) The questionnaire is pointless  C) Honest answers matter because the tool reflects her true preferences, not a correct answer  D) She must choose the most aggressive option
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — There is genuinely no right answer; the tool only helps if she answers truthfully about her own preferences. Guessing the adviser's choice (A), calling it pointless (C) or forcing aggressiveness (D) all defeat the purpose.
+**Correct: C)** — There is genuinely no right answer; the tool only helps if she answers truthfully about her own preferences. Guessing the adviser's choice (A), calling it pointless (B) or forcing aggressiveness (D) all defeat the purpose.
 </details>
 
 **Q62.** A 55-year-old with two children still in college and a home loan, but a secure government job, is best described as having:
-A) High willingness and high ability  B) Reduced ability due to dependents and a loan, regardless of any willingness  C) No need for asset allocation  D) An automatically aggressive profile
+A) High willingness and high ability  B) No need for asset allocation  C) An automatically aggressive profile  D) Reduced ability due to dependents and a loan, regardless of any willingness
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Dependents and a loan reduce ability to absorb losses, even if a secure job helps a little. So ability is constrained (B). It is not unconstrained high ability (A), everyone needs allocation (C), and the profile is not automatically aggressive (D).
+**Correct: D)** — Dependents and a loan reduce ability to absorb losses, even if a secure job helps a little. So ability is constrained (D). It is not unconstrained high ability (A), everyone needs allocation (B), and the profile is not automatically aggressive (C).
 </details>
 
 **Q63.** Which combination best illustrates an "efficient" asset allocation per the chapter?
