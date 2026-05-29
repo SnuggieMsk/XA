@@ -26,10 +26,10 @@ A) FV  B) PV  C) PMT  D) RATE
 </details>
 
 **Q2.** Which type of asset allocation depends on the market view at a point in time? *(Easy)*
-A) Strategic asset allocation  B) Tactical asset allocation  C) Investor risk profile  D) Goal-based allocation
+A) Strategic asset allocation  B) Goal-based allocation  C) Tactical asset allocation  D) Investor risk profile
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Tactical** allocation deliberately tilts the portfolio toward/away from asset classes based on short-term **market** views, then reverts. **A) Strategic** allocation is the long-term policy mix set from the investor's risk profile and goals, not the market. **C)** A risk profile is an investor characteristic, not an allocation method. **D)** Goal-based allocation is driven by goal horizon, again not by market timing.
+**Correct: C)** — **Tactical** allocation deliberately tilts the portfolio toward/away from asset classes based on short-term **market** views, then reverts. **A) Strategic** allocation is the long-term policy mix set from the investor's risk profile and goals, not the market. **B)** Goal-based allocation is driven by goal horizon, not by market timing. **D)** A risk profile is an investor characteristic, not an allocation method.
 </details>
 
 **Q3.** The "real" (inflation-adjusted) return used to discount an inflating expense stream is given by: *(Medium)*
@@ -40,10 +40,10 @@ A) Return − Inflation  B) Return + Inflation  C) (1+Return)/(1+Inflation) − 
 </details>
 
 **Q4.** A future cost of education due in 5 years, with current cost ₹15,00,000 and inflation 15% p.a., is found by: *(Easy)*
-A) PV(15%,5,,-1500000)  B) FV(15%,5,,-1500000)  C) PMT(15%,5,1500000)  D) RATE(5,,1500000)
+A) PV(15%,5,,-1500000)  B) PMT(15%,5,1500000)  C) RATE(5,,1500000)  D) FV(15%,5,,-1500000)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A **future cost** means growing today's amount forward, which is **FV**. =FV(15%,5,,−1500000) = 15,00,000 × 1.15⁵ ≈ **₹30,17,036**. **A) PV** would discount it backward (smaller number, wrong direction). **C) PMT** computes an instalment, irrelevant here. **D) RATE** finds an interest rate, not a future value.
+**Correct: D)** — A **future cost** means growing today's amount forward, which is **FV**. =FV(15%,5,,−1500000) = 15,00,000 × 1.15⁵ ≈ **₹30,17,036**. **A) PV** would discount it backward (smaller number, wrong direction). **B) PMT** computes an instalment, irrelevant here. **C) RATE** finds an interest rate, not a future value.
 </details>
 
 **Q5.** Under Section 112A, long-term capital gains on listed equity shares/equity mutual funds are taxed at what rate, and with what annual exemption? *(Medium)*
@@ -68,10 +68,10 @@ A) 12 months  B) 24 months  C) 36 months  D) 6 months
 </details>
 
 **Q8.** Mr. A sells listed equity shares after 18 months for a gain of ₹3,00,000 (his only such gain). His LTCG tax (ignoring cess) is: *(Hard)*
-A) ₹18,750  B) ₹21,875  C) ₹37,500  D) ₹30,000
+A) ₹18,750  B) ₹37,500  C) ₹30,000  D) ₹21,875
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Held 18 months (>12) → **LTCG u/s 112A**. Taxable gain = total gain − ₹1.25 lakh exemption = 3,00,000 − 1,25,000 = **₹1,75,000**. Tax = 12.5% × 1,75,000 = **₹21,875**. **A) ₹18,750** = 12.5% × 1,50,000 (wrongly using a ₹1.5 lakh exemption). **C) ₹37,500** = 12.5% × 3,00,000 (forgot the exemption). **D) ₹30,000** = 10% × 3,00,000 (old rate, no exemption).
+**Correct: D)** — Held 18 months (>12) → **LTCG u/s 112A**. Taxable gain = total gain − ₹1.25 lakh exemption = 3,00,000 − 1,25,000 = **₹1,75,000**. Tax = 12.5% × 1,75,000 = **₹21,875**. **A) ₹18,750** = 12.5% × 1,50,000 (wrongly using a ₹1.5 lakh exemption). **B) ₹37,500** = 12.5% × 3,00,000 (forgot the exemption). **C) ₹30,000** = 10% × 3,00,000 (old rate, no exemption).
 </details>
 
 **Q9.** Mr. B has STCG of ₹2,00,000 on listed shares (held 8 months) under Section 111A. His tax (ignoring cess) is: *(Medium)*
@@ -124,10 +124,10 @@ A) PV of an annuity  B) FV of each cash flow then summing  C) RATE  D) PMT
 </details>
 
 **Q16.** An existing retirement corpus of ₹12,00,000 invested at 8% for 8 years grows to (use FV): *(Medium)*
-A) ₹19,33,000  B) ₹22,21,116  C) ₹24,00,000  D) ₹20,57,000
+A) ₹19,33,000  B) ₹24,00,000  C) ₹22,21,116  D) ₹20,57,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — =FV(8%,8,,−1200000) = 12,00,000 × 1.08⁸ = 12,00,000 × 1.8509 = **₹22,21,116**. **A)** uses too few years/lower factor. **C)** is just doubling. **D)** uses roughly 7 years of growth.
+**Correct: C)** — =FV(8%,8,,−1200000) = 12,00,000 × 1.08⁸ = 12,00,000 × 1.8509 = **₹22,21,116**. **A)** uses too few years/lower factor. **B)** is just doubling. **D)** uses roughly 7 years of growth.
 </details>
 
 **Q17.** Mr. C, 45, single earning member, has a home loan and a car loan and goals due soon. Based only on his circumstances, his **capacity** to take risk is best described as: *(Medium)*
@@ -173,17 +173,17 @@ A) A liquid fund only  B) A short-term debt fund only  C) A large-and-mid-cap eq
 </details>
 
 **Q23.** A health **top-up** policy (as opposed to a super top-up) is triggered when: *(Medium)*
-A) The aggregate of all claims in the year crosses the deductible  B) A single claim crosses the deductible  C) The base policy is exhausted, regardless of amount  D) The insured turns 60
+A) The aggregate of all claims in the year crosses the deductible  B) The insured turns 60  C) A single claim crosses the deductible  D) The base policy is exhausted, regardless of amount
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A plain **top-up** considers each claim **individually**; it pays only when **one single claim** exceeds the deductible. **A)** describes a **super top-up** (aggregate basis). **C)** Exhausting the base does not by itself trigger a top-up. **D)** Age is irrelevant to the trigger.
+**Correct: C)** — A plain **top-up** considers each claim **individually**; it pays only when **one single claim** exceeds the deductible. **A)** describes a **super top-up** (aggregate basis). **B)** Age is irrelevant to the trigger. **D)** Exhausting the base does not by itself trigger a top-up.
 </details>
 
 **Q24.** A health **super top-up** policy is triggered when: *(Medium)*
-A) A single claim crosses the deductible  B) The aggregate of all claims in the year crosses the deductible  C) The base policy is renewed  D) The first hospitalisation occurs
+A) A single claim crosses the deductible  B) The base policy is renewed  C) The first hospitalisation occurs  D) The aggregate of all claims in the year crosses the deductible
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A **super top-up** adds up **all claims in the policy year**; once that **aggregate** crosses the deductible, it pays — which is why it is more useful than a plain top-up. **A)** is the plain top-up rule. **C), D)** are not triggers.
+**Correct: D)** — A **super top-up** adds up **all claims in the policy year**; once that **aggregate** crosses the deductible, it pays — which is why it is more useful than a plain top-up. **A)** is the plain top-up rule. **B), C)** are not triggers.
 </details>
 
 **Q25.** A claim of ₹50,000 on a policy with a ₹10,000 deductible and 5% co-pay is reimbursed as: *(Hard)*
@@ -194,10 +194,10 @@ A) ₹38,000  B) ₹40,000  C) ₹37,500  D) ₹42,500
 </details>
 
 **Q26.** Base health policy ₹3 lakh + top-up ₹10 lakh with ₹5 lakh deductible. A **single** bill of ₹4 lakh arrives. Out-of-pocket cost is: *(Hard)*
-A) NIL  B) ₹1 lakh  C) ₹3 lakh  D) ₹4 lakh
+A) NIL  B) ₹3 lakh  C) ₹4 lakh  D) ₹1 lakh
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Base pays ₹3 lakh; the remaining ₹1 lakh is borne by the insured because the **single** claim (₹4 lakh) is **below the ₹5 lakh deductible**, so the top-up does not trigger → **₹1 lakh out of pocket**. **A)** wrongly assumes the top-up pays. **C)** ignores the base policy. **D)** ignores the base entirely.
+**Correct: D)** — Base pays ₹3 lakh; the remaining ₹1 lakh is borne by the insured because the **single** claim (₹4 lakh) is **below the ₹5 lakh deductible**, so the top-up does not trigger → **₹1 lakh out of pocket**. **A)** wrongly assumes the top-up pays. **B)** ignores the base policy. **C)** ignores the base entirely.
 </details>
 
 **Q27.** Base ₹3 lakh + **super** top-up ₹10 lakh with ₹3 lakh deductible. Three bills in the year: ₹2L, ₹3L, ₹4L. Out-of-pocket cost is: *(Hard)*
@@ -208,10 +208,10 @@ A) ₹6 lakh  B) ₹3 lakh  C) ₹1 lakh  D) NIL
 </details>
 
 **Q28.** A person resident in India under FEMA who already holds a life insurance policy bought abroad: *(Medium)*
-A) Must surrender it immediately  B) May continue it and pay premiums from foreign income or by remitting from India  C) Cannot pay any further premiums  D) Must convert it to an Indian policy
+A) Must surrender it immediately  B) Cannot pay any further premiums  C) May continue it and pay premiums from foreign income or by remitting from India  D) Must convert it to an Indian policy
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Indian law permits a returning resident to **keep an existing foreign life policy**, paying premiums from foreign income (e.g., rent) or by remitting funds. **A), C)** wrongly force surrender or block premiums. **D)** No such conversion requirement exists.
+**Correct: C)** — Indian law permits a returning resident to **keep an existing foreign life policy**, paying premiums from foreign income (e.g., rent) or by remitting funds. **A), B)** wrongly force surrender or block premiums. **D)** No such conversion requirement exists.
 </details>
 
 **Q29.** After becoming a resident of India, an individual's **rental income from a US property** is: *(Medium)*

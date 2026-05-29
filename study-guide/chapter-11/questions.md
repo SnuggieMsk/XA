@@ -138,10 +138,10 @@ A) The lowest price quoted that day  B) The average price that day  C) The face 
 </details>
 
 **Q20.** LTCG on unlisted equity shares is taxed at:
-A) 10%  B) 12.50%  C) 20%  D) Slab rates
+A) 10%  B) 20%  C) 12.50%  D) Slab rates
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — LTCG on unlisted equity shares is taxable at 12.50% (plus surcharge and cess) under Section 112. A) 10% is outdated. C) 20% is the STCG 111A rate (which needs STT/listing — unavailable for unlisted). D) slab rates apply to *short-term* unlisted gains, not long-term.
+**Correct: C)** — LTCG on unlisted equity shares is taxable at 12.50% (plus surcharge and cess) under Section 112. A) 10% is outdated. B) 20% is the STCG 111A rate (which needs STT/listing — unavailable for unlisted). D) slab rates apply to *short-term* unlisted gains, not long-term.
 </details>
 
 **Q21.** Short-term capital gain on unlisted equity shares is taxed at:
@@ -159,10 +159,10 @@ A) Voting on every resolution  B) Repayment of capital on winding-up  C) Free bo
 </details>
 
 **Q23.** A share warrant gives the holder:
-A) An obligation to buy shares  B) A right to subscribe to equity shares at a pre-determined price on/after a pre-determined time  C) A guaranteed dividend  D) Ownership of the company immediately
+A) An obligation to buy shares  B) A guaranteed dividend  C) Ownership of the company immediately  D) A right to subscribe to equity shares at a pre-determined price on/after a pre-determined time
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A share warrant is an option giving the holder a *right* (not an obligation) to subscribe to equity shares at a pre-determined strike price on or after a set time. A) is wrong because it is a right, not an obligation. C) warrants do not pay dividends. D) ownership arises only when the warrant is exercised into shares.
+**Correct: D)** — A share warrant is an option giving the holder a *right* (not an obligation) to subscribe to equity shares at a pre-determined strike price on or after a set time. A) is wrong because it is a right, not an obligation. B) warrants do not pay dividends. C) ownership arises only when the warrant is exercised into shares.
 </details>
 
 **Q24.** A warrant holder is required to pay upfront at least what percentage of the strike price (per SEBI ICDR Regulation 13)?
@@ -215,10 +215,10 @@ A) ₹1,00,000  B) ₹1,25,000  C) ₹1,50,000  D) ₹2,00,000
 </details>
 
 **Q31.** A Systematic Transfer Plan (STP) can transfer money between:
-A) Two banks  B) Two mutual fund schemes of the same AMC  C) Any two AMCs  D) Equity and debt of different fund houses
+A) Two banks  B) Any two AMCs  C) Equity and debt of different fund houses  D) Two mutual fund schemes of the same AMC
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — An STP transfers a fixed amount between two mutual fund schemes of the same Asset Management Company (AMC). A) banks are not involved. C) and D) are wrong because STP works only within the same AMC, not across fund houses.
+**Correct: D)** — An STP transfers a fixed amount between two mutual fund schemes of the same Asset Management Company (AMC). A) banks are not involved. B) and C) are wrong because STP works only within the same AMC, not across fund houses.
 </details>
 
 **Q32.** Units of an equity-oriented fund are treated as long-term capital assets if held for more than:
@@ -280,10 +280,10 @@ A) Sale of listed equity held 2 years  B) Gain on F&O trading on a recognised ex
 </details>
 
 **Q40.** Compared with listed equity shares, unlisted equity shares differ mainly in that they:
-A) Have no capital gains tax  B) Use a 24-month long-term threshold and STCG at slab rates  C) Are always exempt up to ₹1.25 lakh  D) Are taxed only on dividend
+A) Have no capital gains tax  B) Are always exempt up to ₹1.25 lakh  C) Are taxed only on dividend  D) Use a 24-month long-term threshold and STCG at slab rates
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Unlisted shares use a 24-month (not 12-month) long-term threshold, and their STCG is taxed at slab rates (since 111A's 20% needs listing/STT). A) is wrong — they are taxable. C) is wrong — the ₹1.25 lakh exemption (112A) needs listing/STT, generally unavailable for unlisted. D) is wrong — capital gains are also taxed.
+**Correct: D)** — Unlisted shares use a 24-month (not 12-month) long-term threshold, and their STCG is taxed at slab rates (since 111A's 20% needs listing/STT). A) is wrong — they are taxable. B) is wrong — the ₹1.25 lakh exemption (112A) needs listing/STT, generally unavailable for unlisted. C) is wrong — capital gains are also taxed.
 </details>
 
 **Q41.** When unlisted equity shares are offered for sale under an IPO, the gain is taxed:
@@ -322,10 +322,10 @@ A) FMV of underlying shares  B) The upfront payment/price paid for the warrant  
 </details>
 
 **Q46.** A non-resident receives dividend from a domestic company. Which is true?
-A) Slab rates apply with full deductions  B) Taxed at special rates, no expenditure deduction, no Chapter VIA  C) Always exempt  D) Taxed only under DTAA at 30%
+A) Slab rates apply with full deductions  B) Always exempt  C) Taxed only under DTAA at 30%  D) Taxed at special rates, no expenditure deduction, no Chapter VIA
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For non-residents, dividend is taxed at special rates (subject to DTAA), with no expenditure deduction and no Chapter VIA (80C–80U) deductions. A) is the resident treatment (with a capped interest deduction). C) is wrong — it is taxable. D) misstates DTAA — most DTAAs give 5%–15%, not a flat 30%.
+**Correct: D)** — For non-residents, dividend is taxed at special rates (subject to DTAA), with no expenditure deduction and no Chapter VIA (80C–80U) deductions. A) is the resident treatment (with a capped interest deduction). B) is wrong — it is taxable. C) misstates DTAA — most DTAAs give 5%–15%, not a flat 30%.
 </details>
 
 **Q47.** Under most DTAAs India has signed, dividend in the source country is taxed in the range of:
@@ -448,10 +448,10 @@ A) 12.50%  B) Slab rates  C) Exempt  D) 20%
 </details>
 
 **Q64.** If STT is NOT paid at the time of transfer of equity-oriented MF units, the LTCG is taxed at:
-A) Exempt  B) 12.50% (without the ₹1.25 lakh exemption)  C) 20%  D) Slab rates
+A) Exempt  B) 20%  C) Slab rates  D) 12.50% (without the ₹1.25 lakh exemption)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Even where STT is not paid at transfer, LTCG on equity-oriented MF units is still taxed at 12.50% — but it loses the ₹1.25 lakh exemption that Section 112A grants when STT is paid. A) is wrong — it is taxable. C) is the STCG rate. D) slab rates do not apply to this LTCG.
+**Correct: D)** — Even where STT is not paid at transfer, LTCG on equity-oriented MF units is still taxed at 12.50% — but it loses the ₹1.25 lakh exemption that Section 112A grants when STT is paid. A) is wrong — it is taxable. B) is the STCG rate. C) slab rates do not apply to this LTCG.
 </details>
 
 **Q65.** For a unit of an equity-oriented MF that was NOT listed on a recognised exchange as on 31-01-2018, the FMV for grandfathering is taken as:
@@ -462,10 +462,10 @@ A) The highest quoted price  B) The net asset value (NAV) as on that date  C) Th
 </details>
 
 **Q66.** A resident individual has other income of ₹1,85,000 and LTCG on unlisted shares of ₹2,50,000 (basic exemption ₹2,50,000). The LTCG actually charged to tax is:
-A) ₹2,50,000  B) ₹1,85,000  C) ₹65,000  D) Nil
+A) ₹2,50,000  B) ₹65,000  C) ₹1,85,000  D) Nil
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A resident individual can use the unused basic exemption against 111A/112/112A gains. Shortfall = ₹2,50,000 − ₹1,85,000 = ₹65,000. This ₹65,000 absorbs part of the LTCG, so only ₹2,50,000 − ₹65,000 = ₹1,85,000 of LTCG is taxed. A) ignores the absorption. C) wrongly taxes only the shortfall. D) is wrong — some LTCG remains taxable.
+**Correct: C)** — A resident individual can use the unused basic exemption against 111A/112/112A gains. Shortfall = ₹2,50,000 − ₹1,85,000 = ₹65,000. This ₹65,000 absorbs part of the LTCG, so only ₹2,50,000 − ₹65,000 = ₹1,85,000 of LTCG is taxed. A) ignores the absorption. B) wrongly taxes only the shortfall. D) is wrong — some LTCG remains taxable.
 </details>
 
 **Q67.** Which of these is treated as an "Over-The-Counter" (OTC) derivative rather than exchange-traded?
@@ -506,10 +506,10 @@ A) STCG ₹2,000  B) LTCG ₹2,000  C) STCG ₹15,000  D) LTCG ₹15,000
 </details>
 
 **Q72.** Same Mr. X bought 1,000 listed shares at ₹120 on 01-10-2023 and sold them at ₹135 on 01-08-2024 (STT paid). What is the gain and applicable section?
-A) LTCG ₹15,000, Sec 112A  B) STCG ₹15,000, Sec 111A  C) STCG ₹2,000, Sec 111A  D) LTCG ₹15,000, Sec 112
+A) LTCG ₹15,000, Sec 112A  B) STCG ₹2,000, Sec 111A  C) STCG ₹15,000, Sec 111A  D) LTCG ₹15,000, Sec 112
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Holding = Oct-2023 to Aug-2024 = 10 months (≤12) → short-term. Gain = (₹135 − ₹120) × 1,000 = ₹15,000. With STT paid, STCG falls under Section 111A (20%). A) and D) wrongly treat it as long-term. C) uses the wrong difference.
+**Correct: C)** — Holding = Oct-2023 to Aug-2024 = 10 months (≤12) → short-term. Gain = (₹135 − ₹120) × 1,000 = ₹15,000. With STT paid, STCG falls under Section 111A (20%). A) and D) wrongly treat it as long-term. B) uses the wrong difference.
 </details>
 
 **Q73.** An equity share was bought on 01-01-2017 at ₹100, FMV on 31-01-2018 was ₹200, and it was sold on 01-01-2025 at ₹250. What is the LTCG?

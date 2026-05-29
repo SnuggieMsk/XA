@@ -745,35 +745,35 @@ A) and B) describe partial payouts. D) "higher of" is another structure, not Typ
 </details>
 
 **Q93.** In Option 2 (ULIP), what happens if the monthly premium is not paid within the grace period during the first 5 years?
-A) Nothing changes  B) The entire contract moves to a discontinued policy account and insurance coverage stops  C) The policy becomes paid-up with full cover  D) The investment continues normally
+A) Nothing changes  B) The policy becomes paid-up with full cover  C) The investment continues normally  D) The entire contract moves to a discontinued policy account and insurance coverage stops
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — In the first 5 years the two contracts are indivisible; non-payment within the grace period moves the entire contract to a discontinued policy account and the insurance coverage stops.
-A) and D) ignore the consequence. C) ULIPs do not become full-cover paid-up here.
+**Correct: D)** — In the first 5 years the two contracts are indivisible; non-payment within the grace period moves the entire contract to a discontinued policy account and the insurance coverage stops.
+A) and C) ignore the consequence. B) ULIPs do not become full-cover paid-up here.
 </details>
 
 **Q94.** A 60-year-old wealthy investor wants to put a large lump sum into a ULIP mainly for investment, and does not really need insurance cover. The adviser should note that:
-A) The ULIP is ideal because of guaranteed returns  B) The mortality charge becomes an additional unnecessary cost, and qualifying for 10× cover may be costly/difficult  C) ULIPs have no charges for older investors  D) Insurance is always required regardless of needs
+A) The ULIP is ideal because of guaranteed returns  B) ULIPs have no charges for older investors  C) Insurance is always required regardless of needs  D) The mortality charge becomes an additional unnecessary cost, and qualifying for 10× cover may be costly/difficult
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Where insurance is not required, the ULIP's mortality (insurance) charge is just an extra cost; older wealthy investors often don't need large cover and find the 10× requirement hard/costly to obtain on health grounds.
-A) ULIP returns are market-linked, not guaranteed. C) Charges still apply. D) The workbook stresses cover should be needs-driven.
+**Correct: D)** — Where insurance is not required, the ULIP's mortality (insurance) charge is just an extra cost; older wealthy investors often don't need large cover and find the 10× requirement hard/costly to obtain on health grounds.
+A) ULIP returns are market-linked, not guaranteed. B) Charges still apply. C) The workbook stresses cover should be needs-driven.
 </details>
 
 **Q95.** A client buys term insurance for Rs. 8 crore where telescopic rates cap at Rs. 2 crore per insurer. He buys four Rs. 2 crore policies from the same insurer. Five years later his need falls to Rs. 4 crore. What is the practical benefit of this structure?
-A) He must surrender all policies  B) He can simply let two of the four policies lapse, keeping Rs. 4 crore cover  C) He gets a refund of all premiums  D) He must buy a new policy
+A) He must surrender all policies  B) He gets a refund of all premiums  C) He must buy a new policy  D) He can simply let two of the four policies lapse, keeping Rs. 4 crore cover
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Splitting into four Rs. 2 crore policies lets him drop (let lapse) two policies as his need declines, retaining exactly Rs. 4 crore — the flexibility the workbook highlights.
-A) He need not surrender all. C) Term plans give no premium refund. D) No new purchase is needed.
+**Correct: D)** — Splitting into four Rs. 2 crore policies lets him drop (let lapse) two policies as his need declines, retaining exactly Rs. 4 crore — the flexibility the workbook highlights.
+A) He need not surrender all. B) Term plans give no premium refund. C) No new purchase is needed.
 </details>
 
 **Q96.** An investor takes a bank loan against the security of his investment-cum-insurance policy after a past loan default. Apart from liquidity, what additional benefit does the workbook mention?
-A) It increases the sum assured  B) It is a good way to rebuild a damaged credit score  C) It makes the policy tax-free  D) It waives future premiums
+A) It is a good way to rebuild a damaged credit score  B) It increases the sum assured  C) It makes the policy tax-free  D) It waives future premiums
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Taking a loan from a bank/NBFC against the security of an investment-cum-insurance policy is a good way to rebuild a credit score after a past default.
-A), C) and D) are not benefits the workbook attributes to such a loan.
+**Correct: A)** — Taking a loan from a bank/NBFC against the security of an investment-cum-insurance policy is a good way to rebuild a credit score after a past default.
+B), C) and D) are not benefits the workbook attributes to such a loan.
 </details>
 
 **Q97.** A married man buys a MWPA policy naming his wife. He later divorces her and wants to change the nominee to his new spouse. Under the MWP Act:

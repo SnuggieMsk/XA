@@ -794,13 +794,13 @@ A) Rs. 3,00,000  B) Rs. 1,50,000  C) Rs. 4,50,000  D) Rs. 2,25,000
 </details>
 
 **Q85.** XYZ Bank's 40,000 G-Secs were bought (issue price) at Rs. 125 each and sold at Rs. 150 each. The full value of consideration is:
-A) Rs. 50,00,000  B) Rs. 60,00,000  C) Rs. 40,00,000  D) Rs. 10,00,000
+A) Rs. 50,00,000  B) Rs. 40,00,000  C) Rs. 10,00,000  D) Rs. 60,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **= 40,000 × 150** = **Rs. 60,00,000**.
+**Correct: D)** — **= 40,000 × 150** = **Rs. 60,00,000**.
 - A) Wrong — Rs. 50,00,000 is the cost (40,000 × 125).
-- C) Wrong — Rs. 40,00,000 would be at face value.
-- D) Wrong — Rs. 10,00,000 is the gain, not the consideration.
+- B) Wrong — Rs. 40,00,000 would be at face value.
+- C) Wrong — Rs. 10,00,000 is the gain, not the consideration.
 </details>
 
 **Q86.** Continuing Q85, the capital gain is:
@@ -813,23 +813,23 @@ A) Rs. 60,00,000  B) Rs. 50,00,000  C) Rs. 10,00,000  D) Rs. 5,00,000
 </details>
 
 **Q87.** In Q86, the G-Secs are UNLISTED and held 10 years. The Rs. 10,00,000 gain is taxed as:
-A) LTCG at 12.50%  B) STCG at applicable rate (always short-term)  C) Exempt  D) Interest income
+A) LTCG at 12.50%  B) Exempt  C) Interest income  D) STCG at applicable rate (always short-term)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The workbook's example treats these unlisted Dated G-Secs as **always short-term irrespective of holding period**, taxed at the applicable rate.
+**Correct: D)** — The workbook's example treats these unlisted Dated G-Secs as **always short-term irrespective of holding period**, taxed at the applicable rate.
 - A) Wrong — no long-term benefit applies in this example.
-- C) Wrong — taxable.
-- D) Wrong — it is a capital gain.
+- B) Wrong — taxable.
+- C) Wrong — it is a capital gain.
 </details>
 
 **Q88.** Mr. X buys 5,000 listed tax-free NABARD bonds @ Rs. 120, redeems @ Rs. 150. Full value of consideration is:
-A) Rs. 6,00,000  B) Rs. 7,50,000  C) Rs. 1,50,000  D) Rs. 3,75,000
+A) Rs. 6,00,000  B) Rs. 1,50,000  C) Rs. 3,75,000  D) Rs. 7,50,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **= 5,000 × 150** = **Rs. 7,50,000**.
+**Correct: D)** — **= 5,000 × 150** = **Rs. 7,50,000**.
 - A) Wrong — Rs. 6,00,000 is the cost (5,000 × 120).
-- C) Wrong — Rs. 1,50,000 is the gain.
-- D) Wrong — no basis.
+- B) Wrong — Rs. 1,50,000 is the gain.
+- C) Wrong — no basis.
 </details>
 
 **Q89.** Continuing Q88, the long-term capital gain (held over 12 months, listed) is:
@@ -862,13 +862,13 @@ A) Rs. 1,50,000  B) Rs. 3,00,000  C) Rs. 4,50,000  D) Rs. 1,00,000
 </details>
 
 **Q92.** Continuing Q91, since held over 24 months (8+ years) the gain is long-term. The LTCG is:
-A) Rs. 3,00,000  B) Rs. 1,50,000  C) Rs. 4,50,000  D) Rs. 75,000
+A) Rs. 3,00,000  B) Rs. 4,50,000  C) Rs. 75,000  D) Rs. 1,50,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **LTCG = 3,00,000 − (1,000 × 150 = 1,50,000)** = **Rs. 1,50,000**, taxed at 12.50%. Bought pre-April-2023, so it is an Other MF (not under Section 50AA).
+**Correct: D)** — **LTCG = 3,00,000 − (1,000 × 150 = 1,50,000)** = **Rs. 1,50,000**, taxed at 12.50%. Bought pre-April-2023, so it is an Other MF (not under Section 50AA).
 - A) Wrong — that is consideration.
-- C) Wrong — no basis.
-- D) Wrong — arithmetic gives Rs. 1,50,000.
+- B) Wrong — no basis.
+- C) Wrong — arithmetic gives Rs. 1,50,000.
 </details>
 
 **Q93.** Tax on the Rs. 1,50,000 LTCG in Q92 is:
@@ -882,33 +882,33 @@ A) Rs. 18,750  B) Rs. 15,000  C) Rs. 30,000  D) Rs. 45,000
 </details>
 
 **Q94.** Had the fund in Q91 instead been an SMF Type 1 bought after 01-04-2023, the Rs. 1,50,000 gain would be:
-A) LTCG at 12.50%  B) STCG at slab rates (Section 50AA)  C) Exempt  D) Taxed at 20%
+A) LTCG at 12.50%  B) Exempt  C) Taxed at 20%  D) STCG at slab rates (Section 50AA)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — An SMF Type 1 is governed by Section 50AA: **always STCG at slab rates**, regardless of the long holding period.
+**Correct: D)** — An SMF Type 1 is governed by Section 50AA: **always STCG at slab rates**, regardless of the long holding period.
 - A) Wrong — no long-term benefit under 50AA.
-- C) Wrong — taxable.
-- D) Wrong — slab rates, not a flat 20%.
+- B) Wrong — taxable.
+- C) Wrong — slab rates, not a flat 20%.
 </details>
 
 **Q95.** A resident gets Rs. 5,00,000 dividend from a debt MF, paid Rs. 1,50,000 interest. The maximum deductible interest is:
-A) Rs. 1,50,000  B) Rs. 1,00,000  C) Rs. 50,000  D) Rs. 75,000
+A) Rs. 1,50,000  B) Rs. 50,000  C) Rs. 75,000  D) Rs. 1,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Max deduction = 20% × dividend** = 20% × 5,00,000 = **Rs. 1,00,000** (capped, even though Rs. 1,50,000 paid).
+**Correct: D)** — **Max deduction = 20% × dividend** = 20% × 5,00,000 = **Rs. 1,00,000** (capped, even though Rs. 1,50,000 paid).
 - A) Wrong — actual paid is above the cap.
-- C) Wrong — that is 10%.
-- D) Wrong — that is 15%.
+- B) Wrong — that is 10%.
+- C) Wrong — that is 15%.
 </details>
 
 **Q96.** Continuing Q95, the taxable dividend for the resident is:
-A) Rs. 5,00,000  B) Rs. 4,00,000  C) Rs. 3,50,000  D) Rs. 4,50,000
+A) Rs. 5,00,000  B) Rs. 3,50,000  C) Rs. 4,50,000  D) Rs. 4,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Taxable dividend = dividend − allowed deduction** = 5,00,000 − 1,00,000 = **Rs. 4,00,000** (at slab rates).
+**Correct: D)** — **Taxable dividend = dividend − allowed deduction** = 5,00,000 − 1,00,000 = **Rs. 4,00,000** (at slab rates).
 - A) Wrong — that ignores the allowed Rs. 1,00,000 deduction.
-- C) Wrong — would deduct Rs. 1,50,000, which exceeds the cap.
-- D) Wrong — would deduct only Rs. 50,000.
+- B) Wrong — would deduct Rs. 1,50,000, which exceeds the cap.
+- C) Wrong — would deduct only Rs. 50,000.
 </details>
 
 **Q97.** If the investor in Q95 were a NON-RESIDENT, the taxable dividend and rate would be:
@@ -942,13 +942,13 @@ A) Rs. 6,00,000  B) Rs. 3,00,000  C) Nil (fully exempt)  D) Rs. 75,000
 </details>
 
 **Q100.** Mr. Z (NR, US resident) earns Rs. 10,00,000 interest from Indian debentures. India-USA DTAA Article 11 rate is 15%. Tax payable in India is:
-A) Rs. 3,00,000  B) Rs. 1,50,000  C) Rs. 2,00,000  D) Rs. 1,25,000
+A) Rs. 3,00,000  B) Rs. 2,00,000  C) Rs. 1,25,000  D) Rs. 1,50,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Choosing the beneficial DTAA rate, **tax = 10,00,000 × 15%** = **Rs. 1,50,000** (and he gets a US tax credit for this).
+**Correct: D)** — Choosing the beneficial DTAA rate, **tax = 10,00,000 × 15%** = **Rs. 1,50,000** (and he gets a US tax credit for this).
 - A) Wrong — Rs. 3,00,000 is 30% (slab), higher and not beneficial.
-- C) Wrong — Rs. 2,00,000 is 20%.
-- D) Wrong — Rs. 1,25,000 is 12.50%, which is the capital-gains rate, not the interest DTAA rate.
+- B) Wrong — Rs. 2,00,000 is 20%.
+- C) Wrong — Rs. 1,25,000 is 12.50%, which is the capital-gains rate, not the interest DTAA rate.
 </details>
 
 ## 🧩 Case Study

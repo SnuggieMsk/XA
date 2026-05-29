@@ -455,10 +455,10 @@ A) Acknowledge compliance complexity but educate on legal routes like LRS and gl
 </details>
 
 **Q65.** An adviser notices a client buys insurance every March purely to cut taxes. The best intervention is to:
-A) Review whether the cover is adequate and appropriate, not just tax-efficient  B) Buy more of the same policy  C) Cancel all insurance  D) Praise the tax saving and stop there
+A) Buy more of the same policy  B) Cancel all insurance  C) Review whether the cover is adequate and appropriate, not just tax-efficient  D) Praise the tax saving and stop there
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Refocus on adequate, appropriate cover (the first step of a plan), not tax alone. B) repeats the error. C) is reckless. D) endorses the bias. Behavioural logic: tax saving merely reduces the cost of good insurance; it isn't the goal.
+**Correct: C)** — Refocus on adequate, appropriate cover (the first step of a plan), not tax alone. A) repeats the error. B) is reckless. D) endorses the bias. Behavioural logic: tax saving merely reduces the cost of good insurance; it isn't the goal.
 </details>
 
 **Q66.** A client's emotional spending spikes after a stressful job loss. Beyond awareness and budgeting, the adviser's broader role is to:
@@ -469,10 +469,10 @@ A) Help make the behaviour self-limiting so it doesn't spiral into more financia
 </details>
 
 **Q67.** A client insists on checking and tweaking his portfolio daily. The adviser's priming message should stress:
-A) Long-term consistency and patience; investing rewards stillness, not constant action  B) Daily trading maximises returns  C) Frequent transactions are free  D) Markets must be timed daily
+A) Daily trading maximises returns  B) Long-term consistency and patience; investing rewards stillness, not constant action  C) Frequent transactions are free  D) Markets must be timed daily
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Priming for patience and long-term consistency counters action bias. B), C) and D) are false. Behavioural logic: constant tinkering converts investing into costly trading.
+**Correct: B)** — Priming for patience and long-term consistency counters action bias. A), C) and D) are false. Behavioural logic: constant tinkering converts investing into costly trading.
 </details>
 
 **Q68.** Two clients get the same advice. One is sold by "you'll gain X," the other by "you'll lose Y if you don't." This demonstrates that the adviser should:
@@ -483,10 +483,10 @@ A) Diagnose and use the framing each client responds to, confirmed through discu
 </details>
 
 **Q69.** A client over-invests in one asset after a lucky win, distorting his allocation. The chapter says the adviser's influence can:
-A) Stand between the client and her big mistake  B) Guarantee future profits  C) Eliminate all market risk  D) Replace the client's judgement entirely
+A) Guarantee future profits  B) Eliminate all market risk  C) Stand between the client and her big mistake  D) Replace the client's judgement entirely
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — The adviser's influence "can stand between the client and her big mistake." B) and C) overpromise. D) overstates the adviser's role. Behavioural logic: the adviser is a guardrail against overconfidence-driven errors.
+**Correct: C)** — The adviser's influence "can stand between the client and her big mistake." A) and B) overpromise. D) overstates the adviser's role. Behavioural logic: the adviser is a guardrail against overconfidence-driven errors.
 </details>
 
 **Q70.** When resources can't fund all goals, the adviser's emotional-management role is to:
@@ -499,24 +499,24 @@ A) Objectively help prioritise goals and present alternatives (e.g. education lo
 ## 🔴 Tier 3 — Hard: Scenario (Q71–Q100)
 
 **Q71.** Ravi, a software engineer under heavy deadline stress, has run up Rs 2 lakh on his credit card buying gadgets he never uses. He says shopping "calms him down." The single most accurate description plus best adviser action is:
-A) Retail therapy fuelled by credit-card-induced impulse spending; make him aware it's stress-driven, set a budgeted separate account, and switch to debit/cash  B) Normal consumption; do nothing  C) Mental accounting; relabel the spending  D) Overconfidence; encourage bigger purchases
+A) Normal consumption; do nothing  B) Retail therapy fuelled by credit-card-induced impulse spending; make him aware it's stress-driven, set a budgeted separate account, and switch to debit/cash  C) Mental accounting; relabel the spending  D) Overconfidence; encourage bigger purchases
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Stress-driven binge buying is retail therapy, worsened by the credit card's lack of a brake; the fix is awareness + budgeted account + debit/cash. B) ignores spiralling harm. C) misnames it. D) is absurd. Behavioural logic: a self-imposed expense limit stops the spiral.
+**Correct: B)** — Stress-driven binge buying is retail therapy, worsened by the credit card's lack of a brake; the fix is awareness + budgeted account + debit/cash. A) ignores spiralling harm. C) misnames it. D) is absurd. Behavioural logic: a self-imposed expense limit stops the spiral.
 </details>
 
 **Q72.** Meena inherited a large sum and immediately spread it across 18 mutual funds plus 25 direct stocks "to be safe." She now can't track anything and her returns mirror the market anyway. The adviser should explain:
-A) This is over-diversification adding no benefit; a broad index fund could match it; trim to a manageable, golden-mean portfolio  B) She is over-concentrated and should add more funds  C) She has perfect diversification  D) She has home country bias
+A) She is over-concentrated and should add more funds  B) She has perfect diversification  C) This is over-diversification adding no benefit; a broad index fund could match it; trim to a manageable, golden-mean portfolio  D) She has home country bias
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Owning dozens of overlapping holdings is unproductive over-diversification; a single broad index fund gives similar spread, so trim toward the golden mean. B) is the opposite diagnosis. C) is false. D) is unrelated. Behavioural logic: diversification is breadth, not count.
+**Correct: C)** — Owning dozens of overlapping holdings is unproductive over-diversification; a single broad index fund gives similar spread, so trim toward the golden mean. A) is the opposite diagnosis. B) is false. D) is unrelated. Behavioural logic: diversification is breadth, not count.
 </details>
 
 **Q73.** Arjun put his entire retirement corpus into one promising small-cap stock that doubled, and wants to add more. He calls himself "a natural stock-picker." Identify the layered biases and best response:
-A) Over-concentration plus overconfidence (luck mistaken for skill); diversify and protect the asset allocation  B) Healthy conviction; let him concentrate further  C) Home country bias; send him abroad  D) Framing; reword his goals
+A) Healthy conviction; let him concentrate further  B) Home country bias; send him abroad  C) Framing; reword his goals  D) Over-concentration plus overconfidence (luck mistaken for skill); diversify and protect the asset allocation
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Everything in one stock is over-concentration, and "natural picker" after one win is overconfidence; diversify and guard the allocation. B) feeds both biases. C) and D) misdiagnose. Behavioural logic: a single doubling is likely luck, and concentration risks the whole corpus.
+**Correct: D)** — Everything in one stock is over-concentration, and "natural picker" after one win is overconfidence; diversify and guard the allocation. A) feeds both biases. B) and C) misdiagnose. Behavioural logic: a single doubling is likely luck, and concentration risks the whole corpus.
 </details>
 
 **Q74.** Sunita sells her winning funds within weeks to "lock in gains" but holds her losers for years "until they recover." Name the theory and the adviser's framing:
@@ -527,24 +527,24 @@ A) Prospect Theory (risk-averse on gains, risk-seeking on losses); discuss decis
 </details>
 
 **Q75.** Vikram refuses to sell a stock trading 40% below his purchase price, repeating "I'll exit at my cost." Which two concepts are at play?
-A) Anchoring (on purchase price) and loss-aversion (losses hurt more than gains)  B) Framing and action bias  C) Home country bias and over-diversification  D) Nudging and rebalancing
+A) Framing and action bias  B) Anchoring (on purchase price) and loss-aversion (losses hurt more than gains)  C) Home country bias and over-diversification  D) Nudging and rebalancing
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Fixating on the buy price is anchoring; refusing to crystallise the loss is loss-aversion. B), C) and D) are unrelated combinations. Behavioural logic: the irrelevant old price plus the pain of losses traps him in a losing position.
+**Correct: B)** — Fixating on the buy price is anchoring; refusing to crystallise the loss is loss-aversion. A), C) and D) are unrelated combinations. Behavioural logic: the irrelevant old price plus the pain of losses traps him in a losing position.
 </details>
 
 **Q76.** Priya, after a 4-month bull run, wants to abandon her balanced plan and put 100% into equities "before I miss out." The adviser's calmest, most disciplined response is:
-A) Recognise greed/over-exuberance; keep her on the pre-agreed allocation; let the rebalancing rule trim, not add, equities  B) Agree and go all-in  C) Suggest leverage to buy more  D) Remove allocation limits
+A) Agree and go all-in  B) Suggest leverage to buy more  C) Recognise greed/over-exuberance; keep her on the pre-agreed allocation; let the rebalancing rule trim, not add, equities  D) Remove allocation limits
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — FOMO in a rally is greed; the adviser steadies her and the rebalancing nudge actually trims equities. B), C) and D) feed the greed. Behavioural logic: the calm adviser and pre-set rules counter emotion-driven over-allocation.
+**Correct: C)** — FOMO in a rally is greed; the adviser steadies her and the rebalancing nudge actually trims equities. A), B) and D) feed the greed. Behavioural logic: the calm adviser and pre-set rules counter emotion-driven over-allocation.
 </details>
 
 **Q77.** During a sharp crash, Karthik wants to sell his entire equity portfolio "before it goes to zero," abandoning a 15-year plan. The adviser should:
-A) Be the calming influence, remind him of the long-term plan, and prevent fear from locking in permanent losses  B) Help him sell everything fast  C) Short the market with him  D) Tell him to add nothing and panic-hold cash forever
+A) Help him sell everything fast  B) Short the market with him  C) Tell him to add nothing and panic-hold cash forever  D) Be the calming influence, remind him of the long-term plan, and prevent fear from locking in permanent losses
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Fear can freeze or stampede a client; the adviser steadies him and protects the long-term plan. B) crystallises losses. C) adds risk. D) abandons the plan. Behavioural logic: selling in panic converts paper losses into real ones.
+**Correct: D)** — Fear can freeze or stampede a client; the adviser steadies him and protects the long-term plan. A) crystallises losses. B) adds risk. C) abandons the plan. Behavioural logic: selling in panic converts paper losses into real ones.
 </details>
 
 **Q78.** Lata wants the "best education abroad" for her son and is ready to empty her retirement fund, 8 years from her own retirement. The adviser's objective intervention is to:

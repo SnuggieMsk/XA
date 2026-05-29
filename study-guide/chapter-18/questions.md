@@ -301,17 +301,17 @@ A) Holding only fixed-income with no growth assets to beat rising expenses  B) H
 </details>
 
 **Q43.** Jayesh invested only in real estate and could not sell it or borrow quickly when he urgently needed funds. His portfolio lacked:
-A) Growth  B) Liquidity  C) A demat account  D) Insurance
+A) Growth  B) A demat account  C) Insurance  D) Liquidity
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Real estate is hard to sell quickly, so Jayesh's all-real-estate portfolio lacked liquidity for an urgent need. The issue was not growth (A — property can grow), a demat account (C), or insurance (D).
+**Correct: D)** — Real estate is hard to sell quickly, so Jayesh's all-real-estate portfolio lacked liquidity for an urgent need. The issue was not growth (A — property can grow), a demat account (B), or insurance (C).
 </details>
 
 **Q44.** For the goal of "liquidity," which set of investments is most suitable?
-A) Equity shares and real estate  B) Cash, bank deposits and short-term mutual fund schemes  C) Sector funds and gold  D) Long-term gilt funds
+A) Equity shares and real estate  B) Sector funds and gold  C) Cash, bank deposits and short-term mutual fund schemes  D) Long-term gilt funds
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Liquidity is best served by cash, bank deposits and short-term MF schemes that can be accessed quickly. Equity/real estate (A) and sector funds/gold (C) are growth assets; long-term gilt funds (D) are not the liquidity choice.
+**Correct: C)** — Liquidity is best served by cash, bank deposits and short-term MF schemes that can be accessed quickly. Equity/real estate (A) and sector funds/gold (B) are growth assets; long-term gilt funds (D) are not the liquidity choice.
 </details>
 
 **Q45.** For the objective of "regular income," the most suitable investments are:
@@ -322,31 +322,31 @@ A) Deposits, debt instruments/debt funds and real estate  B) Diversified equity 
 </details>
 
 **Q46.** For "capital preservation," the chapter suggests:
-A) Mid-cap equity funds  B) Cash, bank deposits and ultra-short-term funds  C) Sector funds  D) Real estate
+A) Mid-cap equity funds  B) Sector funds  C) Real estate  D) Cash, bank deposits and ultra-short-term funds
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Capital preservation is served by cash, bank deposits and ultra-short-term funds, which carry very low risk to principal. Mid-cap equity (A), sector funds (C) and real estate (D) all carry capital-loss risk.
+**Correct: D)** — Capital preservation is served by cash, bank deposits and ultra-short-term funds, which carry very low risk to principal. Mid-cap equity (A), sector funds (B) and real estate (C) all carry capital-loss risk.
 </details>
 
 **Q47.** Jayant saved for his children's education in equity for 8 years; the goal is now just 4 years away. The most appropriate action is to:
-A) Add more equity to maximise returns  B) Move funds towards less risky investments to protect the accumulated amount  C) Switch entirely to a single stock  D) Stop reviewing the portfolio
+A) Add more equity to maximise returns  B) Switch entirely to a single stock  C) Move funds towards less risky investments to protect the accumulated amount  D) Stop reviewing the portfolio
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — As a goal nears, equity fluctuations could damage the accumulated corpus, so Jayant should rebalance towards less risky investments. Adding equity (A) increases risk near the goal, a single stock (C) is dangerous, and stopping reviews (D) is the opposite of good practice.
+**Correct: C)** — As a goal nears, equity fluctuations could damage the accumulated corpus, so Jayant should rebalance towards less risky investments. Adding equity (A) increases risk near the goal, a single stock (B) is dangerous, and stopping reviews (D) is the opposite of good practice.
 </details>
 
 **Q48.** A "Young call centre/BPO employee with no dependents (high risk profile)" model portfolio suggests 50% in:
-A) Gold ETF  B) Equities/diversified equity schemes (preferably via SIP)  C) Liquid schemes  D) Gilt funds
+A) Gold ETF  B) Liquid schemes  C) Gilt funds  D) Equities/diversified equity schemes (preferably via SIP)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The high-risk young employee model puts 50% in equities/diversified equity schemes, preferably via SIP, suiting a long horizon and high appetite. Gold ETF (A) is 10%, liquid (C) is part of the small cash slice, and gilt funds (D) are not in this model.
+**Correct: D)** — The high-risk young employee model puts 50% in equities/diversified equity schemes, preferably via SIP, suiting a long horizon and high appetite. Gold ETF (A) is 10%, liquid (B) is part of the small cash slice, and gilt funds (C) are not in this model.
 </details>
 
 **Q49.** In the model portfolio for a "Young married, single income family with two school-going kids (moderate risk profile)," the equity/diversified equity allocation is:
-A) 50%  B) 35%  C) 15%  D) 0%
+A) 0%  B) 15%  C) 35%  D) 50%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The moderate young family model allocates 35% to equities/diversified equity. 50% (A) is the high-risk young employee, 15% (C) is the equity slice for the 70s couple, and 0% (D) fits no model here.
+**Correct: C)** — The moderate young family model allocates 35% to equities/diversified equity. 50% (D) is the high-risk young employee, 15% (B) is the equity slice for the 70s couple, and 0% (A) fits no model here.
 </details>
 
 **Q50.** In the model portfolio for a "Couple in their seventies, no immediate family support (conservative to moderate)," the diversified equity index allocation is:
@@ -357,17 +357,17 @@ A) 50%  B) 35%  C) 15%  D) 5%
 </details>
 
 **Q51.** An investor expecting a strong rally wants to temporarily increase equity beyond his long-term plan. This decision belongs to:
-A) Strategic asset allocation  B) Tactical asset allocation  C) Capital preservation  D) Rebalancing back to plan
+A) Capital preservation  B) Rebalancing back to plan  C) Tactical asset allocation  D) Strategic asset allocation
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Temporarily over-weighting equities on a market view is a tactical asset allocation call. Strategic (A) is goal-based and ignores forecasts, capital preservation (C) is an objective, and rebalancing (D) brings weights back to plan, not above it.
+**Correct: C)** — Temporarily over-weighting equities on a market view is a tactical asset allocation call. Strategic (D) is goal-based and ignores forecasts, capital preservation (A) is an objective, and rebalancing (B) brings weights back to plan, not above it.
 </details>
 
 **Q52.** Tactical asset allocation is described as suitable mainly for:
-A) First-time investors with small savings  B) Seasoned investors operating with large investible surpluses  C) All retirees  D) Anyone who dislikes risk
+A) First-time investors with small savings  B) All retirees  C) Anyone who dislikes risk  D) Seasoned investors operating with large investible surpluses
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Tactical calls suit seasoned investors with large surpluses, and even they should limit the portion used for frequent tactical calls. First-timers (A), all retirees (C) and risk-averse investors (D) are not the intended users.
+**Correct: D)** — Tactical calls suit seasoned investors with large surpluses, and even they should limit the portion used for frequent tactical calls. First-timers (A), all retirees (B) and risk-averse investors (C) are not the intended users.
 </details>
 
 **Q53.** Under strategic asset allocation, the allocation to an asset class will NOT be increased on the basis of:
@@ -392,10 +392,10 @@ A) Strategic asset allocation  B) Tactical asset allocation  C) Dynamic asset al
 </details>
 
 **Q56.** A salaried, high-income investor in his 30s with goals 20 years away should generally:
-A) Hold mostly debt with little equity  B) Prefer higher-return assets like equity given the long horizon and high income  C) Keep everything in a savings account  D) Avoid any risk profiling
+A) Hold mostly debt with little equity  B) Keep everything in a savings account  C) Prefer higher-return assets like equity given the long horizon and high income  D) Avoid any risk profiling
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — With far-off goals and a strong income, he can prefer higher-return assets such as equity. Mostly-debt (A) suits someone near retirement, all-savings (C) earns too little for long goals, and profiling is always required (D).
+**Correct: C)** — With far-off goals and a strong income, he can prefer higher-return assets such as equity. Mostly-debt (A) suits someone near retirement, all-savings (B) earns too little for long goals, and profiling is always required (D).
 </details>
 
 **Q57.** The main reason different asset classes provide diversification is that their returns:

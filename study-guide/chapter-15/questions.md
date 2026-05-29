@@ -343,10 +343,10 @@ A) attracts no stamp duty; attracts stamp duty  B) attracts stamp duty; does not
 </details>
 
 **Q49.** Why is a private trust described as a "pass-through" (flow-through) entity for tax?
-A) Because it pays the highest tax itself  B) Because the income is treated as the beneficiary's income, taxed in their hands  C) Because it never files returns  D) Because it is a separate legal person
+A) Because it pays the highest tax itself  B) Because it never files returns  C) Because the income is treated as the beneficiary's income, taxed in their hands  D) Because it is a separate legal person
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — In a **pass-through entity**, income "flows through" so it is treated as the **beneficiary's income**; receipts by the trustee on behalf of the beneficiary are not taxable, and the trustee pays tax only in a representative capacity. A) is wrong. C) is wrong — a trust does file returns. D) is wrong — a private trust has **no separate legal identity**.
+**Correct: C)** — In a **pass-through entity**, income "flows through" so it is treated as the **beneficiary's income**; receipts by the trustee on behalf of the beneficiary are not taxable, and the trustee pays tax only in a representative capacity. A) is wrong. B) is wrong — a trust does file returns. D) is wrong — a private trust has **no separate legal identity**.
 </details>
 
 **Q50.** A POA is being set up so that one person can act broadly for the principal across many transactions. This is a ______.
@@ -364,10 +364,10 @@ A) is broad and ongoing  B) expires on completion of the specific transaction  C
 </details>
 
 **Q52.** A POA is NOT compulsorily registrable because ______.
-A) it transfers ownership of immovable property  B) it merely authorises the donee to act, without creating/transferring any interest in property  C) it is always oral  D) stamp duty replaces registration
+A) it transfers ownership of immovable property  B) it is always oral  C) it merely authorises the donee to act, without creating/transferring any interest in property  D) stamp duty replaces registration
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A POA only authorises the donee to act on the donor's behalf and **does not create, declare, assign, limit or extinguish any interest in immovable property**, so it is not compulsorily registrable — *unless* it creates an interest/charge in immovable property. A) is the opposite of the truth. C) is wrong — POAs are written instruments. D) Stamp duty is separate and does apply, but it is not a substitute for registration.
+**Correct: C)** — A POA only authorises the donee to act on the donor's behalf and **does not create, declare, assign, limit or extinguish any interest in immovable property**, so it is not compulsorily registrable — *unless* it creates an interest/charge in immovable property. A) is the opposite of the truth. B) is wrong — POAs are written instruments. D) Stamp duty is separate and does apply, but it is not a substitute for registration.
 </details>
 
 **Q53.** Who among the following is authorised under Section 85 of the Indian Evidence Act to authenticate a POA?
@@ -406,10 +406,10 @@ A) natural  B) court-appointed  C) testamentary  D) de facto
 </details>
 
 **Q58.** A "Guardian of the Estate" is responsible for ______.
-A) custody and physical care of the person  B) managing the financial affairs  C) only medical decisions  D) only educational decisions
+A) custody and physical care of the person  B) only medical decisions  C) only educational decisions  D) managing the financial affairs
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A **Guardian of the Estate** manages the **financial affairs** (bank accounts, investments, loans/concessions). A) describes a **Guardian of the Person** (custody and care). C) and D) are too narrow — financial management is the defining role of the estate guardian.
+**Correct: D)** — A **Guardian of the Estate** manages the **financial affairs** (bank accounts, investments, loans/concessions). A) describes a **Guardian of the Person** (custody and care). B) and C) are too narrow — financial management is the defining role of the estate guardian.
 </details>
 
 **Q59.** Which is an advantage of writing a Will, as listed in the chapter?
@@ -420,10 +420,10 @@ A) It avoids all taxes permanently  B) It prevents confusion among family member
 </details>
 
 **Q60.** Probate is granted only to the executor appointed in the Will; if there is no executor, the court instead issues ______.
-A) a succession certificate  B) letters of administration  C) a legal heir certificate  D) a gift deed
+A) letters of administration  B) a succession certificate  C) a legal heir certificate  D) a gift deed
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — If there is no executor (or he is incapable/refuses/has died before proving the Will), the court issues **letters of administration**. A) A succession certificate applies when there is *no Will*. C) A legal heir certificate (Tehsildar) identifies heirs. D) A gift deed is unrelated.
+**Correct: A)** — If there is no executor (or he is incapable/refuses/has died before proving the Will), the court issues **letters of administration**. B) A succession certificate applies when there is *no Will*. C) A legal heir certificate (Tehsildar) identifies heirs. D) A gift deed is unrelated.
 </details>
 
 **Q61.** Which family business ownership model passes ownership down to all descendants, whether or not they work in the company, and is described as the most sought-after?
@@ -434,10 +434,10 @@ A) Owner-Operator  B) Partnership  C) Distributed  D) Public
 </details>
 
 **Q62.** Which valuation method for a family business is also known as the discounted cash flow method?
-A) Capitalizing of Earnings  B) Projected Earnings  C) Market Approach  D) Net Asset Value
+A) Net Asset Value  B) Market Approach  C) Capitalizing of Earnings  D) Projected Earnings
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The **Projected Earnings** method, valuing the business on anticipated future earnings, is also known as the **discounted cash flow** method. A) **Capitalizing of Earnings** uses current cash flow available. C) **Market Approach** compares similar businesses. D) **Net Asset Value** uses the value of assets like real estate/machinery.
+**Correct: D)** — The **Projected Earnings** method, valuing the business on anticipated future earnings, is also known as the **discounted cash flow** method. C) **Capitalizing of Earnings** uses current cash flow available. B) **Market Approach** compares similar businesses. A) **Net Asset Value** uses the value of assets like real estate/machinery.
 </details>
 
 **Q63.** Asset protection through a Limited Liability Partnership (LLP) works because ______.
@@ -448,10 +448,10 @@ A) owners are always personally liable for all debts  B) the entity is protected
 </details>
 
 **Q64.** When property is received through a Will or inheritance, the beneficiary ______.
-A) pays gift tax immediately  B) has no tax implication on receipt, but must apply for mutation  C) must re-register the property to gain ownership  D) pays capital gains on receipt
+A) pays gift tax immediately  B) must re-register the property to gain ownership  C) pays capital gains on receipt  D) has no tax implication on receipt, but must apply for mutation
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — There are **no tax implications on the beneficiary** when property is received via Will/inheritance, and re-registration is not required, but **mutation** must be applied with local civil authorities. A) and D) are wrong — no gift or capital gains tax on receipt (capital gains apply only if the inheritor later *sells*). C) is wrong — fresh registration is not required.
+**Correct: D)** — There are **no tax implications on the beneficiary** when property is received via Will/inheritance, and re-registration is not required, but **mutation** must be applied with local civil authorities. A) and C) are wrong — no gift or capital gains tax on receipt (capital gains apply only if the inheritor later *sells*). B) is wrong — fresh registration is not required.
 </details>
 
 **Q65.** A client wants reciprocal benefits with his spouse so each leaves their property to the other, each being both testator and legatee. Which tool fits?
@@ -462,10 +462,10 @@ A) Joint Will  B) Mutual Will  C) Concurrent Will  D) Holograph Will
 </details>
 
 **Q66.** Which of the following is a stated disadvantage of a trust?
-A) It guarantees zero tax  B) The settlor loses control over the properties transferred to the trust  C) It always avoids stamp duty  D) Trustees have unlimited powers
+A) It guarantees zero tax  B) It always avoids stamp duty  C) The settlor loses control over the properties transferred to the trust  D) Trustees have unlimited powers
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A disadvantage is that the **settlor loses control** over properties transferred to/gifted to the trust; trusts can also be complex, expensive, and attract high stamp duty on immovable property. A) is wrong — trusts are a tax-planning tool, not a zero-tax guarantee. C) is wrong — immovable property transfers can attract high stamp duty. D) is wrong — trustees' powers are *restricted* by the deed.
+**Correct: C)** — A disadvantage is that the **settlor loses control** over properties transferred to/gifted to the trust; trusts can also be complex, expensive, and attract high stamp duty on immovable property. A) is wrong — trusts are a tax-planning tool, not a zero-tax guarantee. B) is wrong — immovable property transfers can attract high stamp duty. D) is wrong — trustees' powers are *restricted* by the deed.
 </details>
 
 **Q67.** A revocable transfer of an income-producing asset to a trust results in the income being taxed in the hands of the ______ (Section 61).
@@ -476,10 +476,10 @@ A) trustee personally  B) transferor (settlor)  C) beneficiary always  D) govern
 </details>
 
 **Q68.** A minor child's income suffering from a disability specified under Section 80U ______.
-A) is always clubbed with the parent's income  B) is NOT clubbed with the parent's/guardian's income  C) is exempt from tax entirely  D) is taxed at MMR
+A) is always clubbed with the parent's income  B) is exempt from tax entirely  C) is NOT clubbed with the parent's/guardian's income  D) is taxed at MMR
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Under Section 64, a minor's income is normally clubbed with the parent's, but income of a minor child suffering from a **Section 80U disability is NOT clubbed** — so transferring higher-taxed assets to such a minor's trust can reduce the parent's liability. A) is the general rule, but the exception applies here. C) is overstated (not blanket exempt). D) MMR is unrelated to clubbing.
+**Correct: C)** — Under Section 64, a minor's income is normally clubbed with the parent's, but income of a minor child suffering from a **Section 80U disability is NOT clubbed** — so transferring higher-taxed assets to such a minor's trust can reduce the parent's liability. A) is the general rule, but the exception applies here. B) is overstated (not blanket exempt). D) MMR is unrelated to clubbing.
 </details>
 
 **Q69.** An offshore trust that is irrevocable and has both resident and non-resident beneficiaries is taxed such that ______.

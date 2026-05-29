@@ -363,13 +363,13 @@ A) Rs. 150  B) Rs. 300  C) Rs. 75  D) Rs. 50
 </details>
 
 **Q40.** Post-01-10-2024, a company buys back shares from Mr. X for Rs. 62,500 (original cost Rs. 50,000, held over 2 years). How is this treated?
-A) Rs. 12,500 capital gain  B) Rs. 62,500 dividend + Rs. 50,000 long-term capital loss  C) Rs. 62,500 exempt  D) Rs. 62,500 business income
+A) Rs. 12,500 capital gain  B) Rs. 62,500 business income  C) Rs. 62,500 exempt  D) Rs. 62,500 dividend + Rs. 50,000 long-term capital loss
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Under the new rule the full Rs. 62,500 is taxed as **dividend** (no cost deduction), and the Rs. 50,000 cost becomes a **long-term capital loss** (held over 2 years) eligible for set-off.
+**Correct: D)** — Under the new rule the full Rs. 62,500 is taxed as **dividend** (no cost deduction), and the Rs. 50,000 cost becomes a **long-term capital loss** (held over 2 years) eligible for set-off.
 - A) is the old "net the gain" approach, no longer applicable.
+- B) dividend, not business income.
 - C) the old exemption was withdrawn from 01-10-2024.
-- D) dividend, not business income.
 </details>
 
 **Q41.** In a post-Oct-2024 buyback, the company that buys back the shares:
@@ -459,11 +459,11 @@ A) Added to the main portfolio cost  B) Reduced from the main portfolio's cost  
 </details>
 
 **Q50.** When two schemes consolidate, the cost of acquisition of the consolidated units is:
-A) Nil  B) Market value at consolidation  C) The cost of the units in the consolidating scheme  D) Face value
+A) Nil  B) Market value at consolidation  C) Face value  D) The cost of the units in the consolidating scheme
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — The cost carries over: it equals the **cost of the units held in the consolidating scheme**, and the holding period includes the time held there.
-- A), B), D) do not reflect the carry-over rule.
+**Correct: D)** — The cost carries over: it equals the **cost of the units held in the consolidating scheme**, and the holding period includes the time held there.
+- A), B), C) do not reflect the carry-over rule.
 </details>
 
 **Q51.** A close-ended mutual fund scheme is normally wound up:
@@ -667,13 +667,13 @@ A) Rs. 1,50,000  B) Rs. 75,000  C) Nil  D) Rs. 6,00,000
 </details>
 
 **Q73.** Mr. Paul (1,000 shares) gets a 2:1 rights offer at Rs. 250. He renounces the right to buy 500 shares to Mr. X at Rs. 200/share. His short-term capital gain is:
-A) Nil  B) Rs. 1,00,000  C) Rs. 1,25,000  D) Rs. 2,50,000
+A) Nil  B) Rs. 2,50,000  C) Rs. 1,25,000  D) Rs. 1,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Gain = consideration − cost = (500 × Rs. 200) − nil = **Rs. 1,00,000**, short-term, at slab rates (a right is not covered by 111A).
+**Correct: D)** — Gain = consideration − cost = (500 × Rs. 200) − nil = **Rs. 1,00,000**, short-term, at slab rates (a right is not covered by 111A).
 - A) is wrong: the gain is taxable.
+- B) double-counts.
 - C) is the cost the company would have charged (500 × Rs. 250), irrelevant to a renouncement.
-- D) double-counts.
 </details>
 
 **Q74.** Mr. Paul instead exercises the right, gets 500 shares at Rs. 250 (allotted 01-12-2024, listed, STT), and sells them at Rs. 520 on 25-01-2025. His capital gain is:
@@ -686,11 +686,11 @@ A) Rs. 1,00,000 LTCG  B) Rs. 1,35,000 STCG at 20%  C) Rs. 2,60,000 STCG  D) Rs. 
 </details>
 
 **Q75.** Mr. X bought 10,000 A Ltd. shares at Rs. 58 (01-04-2023). After amalgamation he received 8,000 AB Ltd. shares and sold them at Rs. 100 (01-09-2024, listed, STT). His capital gain is:
-A) Rs. 8,00,000 STCG  B) Rs. 2,20,000 LTCG at 12.50%  C) Rs. 4,20,000 LTCG  D) Rs. 2,20,000 STCG at 20%
+A) Rs. 8,00,000 STCG  B) Rs. 2,20,000 STCG at 20%  C) Rs. 4,20,000 LTCG  D) Rs. 2,20,000 LTCG at 12.50%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Holding runs from 01-04-2023 (about 17 months) = long-term. Sale = 8,000 × Rs. 100 = Rs. 8,00,000; cost = original 10,000 × Rs. 58 = Rs. 5,80,000; LTCG = **Rs. 2,20,000** at 12.50% under 112A on the part over Rs. 1,25,000.
-- A) and D) are wrong: it is long-term.
+**Correct: D)** — Holding runs from 01-04-2023 (about 17 months) = long-term. Sale = 8,000 × Rs. 100 = Rs. 8,00,000; cost = original 10,000 × Rs. 58 = Rs. 5,80,000; LTCG = **Rs. 2,20,000** at 12.50% under 112A on the part over Rs. 1,25,000.
+- A) and B) are wrong: it is long-term.
 - C) uses a wrong cost.
 </details>
 
@@ -705,11 +705,11 @@ A) Rs. 1,00,000  B) Rs. 1,50,000  C) Rs. 3,50,000  D) Nil
 </details>
 
 **Q77.** Mr. X holds 1,000 units bought at Rs. 15 (cost Rs. 15,000). The fund segregates: segregated NAV Rs. 2/unit, total NAV before segregation Rs. 12/unit. The cost of the segregated units is:
-A) Rs. 2,000  B) Rs. 2,500  C) Rs. 12,500  D) Rs. 15,000
+A) Rs. 2,500  B) Rs. 2,000  C) Rs. 12,500  D) Rs. 15,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Segregated cost = total cost × (segregated NAV ÷ total NAV) = Rs. 15,000 × (2 ÷ 12) = **Rs. 2,500** (Rs. 2.5/unit).
-- A) uses NAV not cost.
+**Correct: A)** — Segregated cost = total cost × (segregated NAV ÷ total NAV) = Rs. 15,000 × (2 ÷ 12) = **Rs. 2,500** (Rs. 2.5/unit).
+- B) uses NAV not cost.
 - C) is the main-portfolio cost after subtraction.
 - D) is the full original cost.
 </details>
@@ -725,11 +725,11 @@ A) Rs. 15,000  B) Rs. 12,500  C) Rs. 2,500  D) Rs. 17,500
 </details>
 
 **Q79.** Mr. B borrows 10,000 Reliance shares (fee Rs. 5/share), short-sells at Rs. 1,600, and buys a call (strike Rs. 1,600, premium Rs. 30). Price falls to Rs. 1,500; he squares off the short at Rs. 1,500 and sells the call at Rs. 10. His futures/short profit is:
-A) Rs. 5,00,000  B) Rs. 10,00,000  C) Rs. 16,00,000  D) Rs. 1,00,000
+A) Rs. 10,00,000  B) Rs. 5,00,000  C) Rs. 16,00,000  D) Rs. 1,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Short-sold at Rs. 1,600, bought back at Rs. 1,500 → profit Rs. 100/share × 10,000 = **Rs. 10,00,000**.
-- A), C), D) miscompute the Rs. 100/share gain on 10,000 shares.
+**Correct: A)** — Short-sold at Rs. 1,600, bought back at Rs. 1,500 → profit Rs. 100/share × 10,000 = **Rs. 10,00,000**.
+- B), C), D) miscompute the Rs. 100/share gain on 10,000 shares.
 </details>
 
 **Q80.** Continuing Q79, the loss on the call option (premium Rs. 30, sold at Rs. 10) over 10,000 shares is:
@@ -852,13 +852,13 @@ A) 5%  B) 10%  C) 20%  D) 30%
 </details>
 
 **Q92.** Mr. Z bought 1,000 listed shares at Rs. 200 (01-05-2023) and sold at Rs. 260 on 20-06-2024 (STT). The gain is:
-A) Rs. 60,000 STCG at 20%  B) Rs. 60,000 LTCG at 12.50%  C) Rs. 2,60,000 LTCG  D) Nil
+A) Rs. 60,000 STCG at 20%  B) Rs. 2,60,000 LTCG  C) Nil  D) Rs. 60,000 LTCG at 12.50%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Held 01-05-2023 to 20-06-2024 (>12 months) = long-term. Gain = (Rs. 260 − Rs. 200) × 1,000 = **Rs. 60,000**, under 112A at 12.50% (below the Rs. 1,25,000 exemption, so effectively no tax this year alone).
+**Correct: D)** — Held 01-05-2023 to 20-06-2024 (>12 months) = long-term. Gain = (Rs. 260 − Rs. 200) × 1,000 = **Rs. 60,000**, under 112A at 12.50% (below the Rs. 1,25,000 exemption, so effectively no tax this year alone).
 - A) is wrong: it is long-term, not short-term.
-- C) is the sale value.
-- D) ignores the computed gain.
+- B) is the sale value.
+- C) ignores the computed gain.
 </details>
 
 **Q93.** A trader holds 5,000 shares as stock-in-trade at Rs. 80; a 1:1 bonus is allotted (cost nil per ICDS-VIII). She sells all 10,000 shares at Rs. 50. Her business income/loss is:

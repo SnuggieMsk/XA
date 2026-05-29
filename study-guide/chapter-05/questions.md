@@ -437,11 +437,11 @@ A) 20 years  B) 21 years  C) 20.5 years  D) 22 years
 </details>
 
 **Q47.** A private-sector employee covered under the Gratuity Act receives Rs. 25 lakh gratuity; the formula gives Rs. 22 lakh. How much is tax-exempt?
-A) Rs. 25 lakh  B) Rs. 22 lakh  C) Rs. 20 lakh  D) Rs. 18 lakh
+A) Rs. 20 lakh  B) Rs. 22 lakh  C) Rs. 25 lakh  D) Rs. 18 lakh
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Exemption is the **least of**: statutory limit Rs. 20 lakh, formula amount Rs. 22 lakh, actual received Rs. 25 lakh. The least is **Rs. 20 lakh**.
-- A) Rs. 25 lakh is the actual received (highest, not the least).
+**Correct: A)** — Exemption is the **least of**: statutory limit Rs. 20 lakh, formula amount Rs. 22 lakh, actual received Rs. 25 lakh. The least is **Rs. 20 lakh**.
+- C) Rs. 25 lakh is the actual received (highest, not the least).
 - B) Rs. 22 lakh is the formula figure (middle).
 - D) Rs. 18 lakh is not among the three values.
 </details>
@@ -474,6 +474,7 @@ A) 25% of his own contributions  B) 25% of the total corpus  C) 40% of the corpu
 - B) The 25% is of *own contributions*, not the total corpus.
 - C) 40% relates to annuitisation at exit.
 - D) Employer contributions are explicitly excluded from the partial-withdrawal base.
+</details>
 </details>
 
 **Q51.** An investor at age 28 wants the most aggressive NPS Auto Choice option. Which life-cycle fund, and what is its equity cap?

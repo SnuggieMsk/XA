@@ -281,23 +281,23 @@ A) Losses to an employer from an employee's forgery, fraud or dishonesty  B) The
 </details>
 
 **Q32.** Directors & Officers (D&O) liability insurance protects the board/management against:
-A) Loss of company property  B) Personal liability and defence costs from claims alleging a wrongful act in their duties  C) Employee fraud  D) Vehicle theft
+A) Loss of company property  B) Employee fraud  C) Personal liability and defence costs from claims alleging a wrongful act in their duties  D) Vehicle theft
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — D&O insurance insures directors, management and supervisory/managerial employees against personal liability and defence costs from claims alleging they committed a wrongful act in the line of their duties.
+**Correct: C)** — D&O insurance insures directors, management and supervisory/managerial employees against personal liability and defence costs from claims alleging they committed a wrongful act in the line of their duties.
 - A) is wrong — property loss is property insurance.
-- C) is wrong — employee fraud is fidelity insurance.
+- B) is wrong — employee fraud is fidelity insurance.
 - D) is wrong — vehicle theft is motor insurance.
 </details>
 
 **Q33.** In keyman insurance:
-A) The key executive is the beneficiary  B) The company buys a life policy on a key executive, is the beneficiary, and pays the premiums  C) It is an indemnity health policy  D) The government pays the premium
+A) The key executive is the beneficiary  B) It is an indemnity health policy  C) The government pays the premium  D) The company buys a life policy on a key executive, is the beneficiary, and pays the premiums
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Keyman insurance is a life insurance policy a company purchases to cover itself against the loss of life of a key executive; the company is the beneficiary and pays the premiums.
+**Correct: D)** — Keyman insurance is a life insurance policy a company purchases to cover itself against the loss of life of a key executive; the company is the beneficiary and pays the premiums.
 - A) is wrong — the company, not the executive, is the beneficiary.
-- C) is wrong — it is a *life* policy, not indemnity health.
-- D) is wrong — the company pays, not the government.
+- B) is wrong — it is a *life* policy, not indemnity health.
+- C) is wrong — the company pays, not the government.
 </details>
 
 **Q34.** Critical illness insurance is currently available:
@@ -348,13 +348,13 @@ A) Claim from her own policy first  B) Claim from the employer policy first  C) 
 </details>
 
 **Q39.** When does the contribution clause become applicable for multiple health policies?
-A) Always, in every claim  B) Only where the claim amount exceeds the sum insured of the chosen policy  C) Never, for health  D) Only for defined benefit policies
+A) Always, in every claim  B) Never, for health  C) Only for defined benefit policies  D) Only where the claim amount exceeds the sum insured of the chosen policy
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Contribution is not applicable except where the sum insured of the chosen policy is lower than the claim amount; then the claim is settled across insurers by applying contribution.
+**Correct: D)** — Contribution is not applicable except where the sum insured of the chosen policy is lower than the claim amount; then the claim is settled across insurers by applying contribution.
 - A) is wrong — it does not apply if the claim is within the chosen policy's sum insured.
-- C) is wrong — it can apply to health when the chosen policy is insufficient.
-- D) is wrong — defined benefit policies all pay separately; contribution is an indemnity concept.
+- B) is wrong — it can apply to health when the chosen policy is insufficient.
+- C) is wrong — defined benefit policies all pay separately; contribution is an indemnity concept.
 </details>
 
 **Q40.** The KEY difference between a Top-up and a Super Top-up plan is:
@@ -412,12 +412,12 @@ A) It is legally required  B) Because premiums must match  C) To avoid dealing w
 </details>
 
 **Q46.** For a super top-up where two insurers are involved, an additional requirement when a claim is below the threshold is:
-A) Nothing needs to be done  B) The super top-up insurer must still be informed so it can mark the threshold levels used  C) The base insurer must refund premium  D) The policy lapses
+A) Nothing needs to be done  B) The base insurer must refund premium  C) The policy lapses  D) The super top-up insurer must still be informed so it can mark the threshold levels used
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Even when no claim is payable on the super top-up, the company handling it must be informed so it can mark the threshold (used) levels, since the threshold applies to aggregate claims.
+**Correct: D)** — Even when no claim is payable on the super top-up, the company handling it must be informed so it can mark the threshold (used) levels, since the threshold applies to aggregate claims.
 - A) is wrong — informing is required to track the aggregate.
-- C) and D) are wrong — no refund or lapse occurs.
+- B) and C) are wrong — no refund or lapse occurs.
 </details>
 
 **Q47.** A health insurance policy is classified as which type of policy?
@@ -439,12 +439,12 @@ A) Defined benefit  B) Indemnity  C) Liability  D) Fidelity
 </details>
 
 **Q49.** Sita is diagnosed with a covered critical illness but passes away on day 20. Why may the claim fail?
-A) The policy covers death  B) She did not meet the minimum survival period (about 30 days) after diagnosis  C) The premium was too low  D) Critical illness is an indemnity policy
+A) The policy covers death  B) The premium was too low  C) She did not meet the minimum survival period (about 30 days) after diagnosis  D) Critical illness is an indemnity policy
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Critical illness reimbursement is usually subject to a minimum survival period (commonly 30 days, table notes 15–30) after diagnosis; surviving only 20 days may fail this condition.
+**Correct: C)** — Critical illness reimbursement is usually subject to a minimum survival period (commonly 30 days, table notes 15–30) after diagnosis; surviving only 20 days may fail this condition.
 - A) is wrong — there is *no* payment on death under critical illness.
-- C) is wrong — premium level does not determine the survival condition.
+- B) is wrong — premium level does not determine the survival condition.
 - D) is wrong — it is a defined benefit policy.
 </details>
 
@@ -467,12 +467,12 @@ A) The buyer of the old car inherits the 50% NCB  B) Anil can transfer the NCB t
 </details>
 
 **Q52.** Priya shifts her car insurance to a new insurer at renewal with a clean claim record. The new insurer:
-A) Cannot give any NCB  B) Provides the NCB on shifting at renewal  C) Only gives NCB after 10 years  D) Doubles her premium
+A) Cannot give any NCB  B) Only gives NCB after 10 years  C) Doubles her premium  D) Provides the NCB on shifting at renewal
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A new insurance company provides the "no claim" bonus if a policy is shifted at the time of renewal.
+**Correct: D)** — A new insurance company provides the "no claim" bonus if a policy is shifted at the time of renewal.
 - A) is wrong — NCB is portable to the new insurer at renewal.
-- C) and D) are wrong — neither is supported by the workbook.
+- B) and C) are wrong — neither is supported by the workbook.
 </details>
 
 **Q53.** A hospital bill is incurred by an Indian resident in London under an ordinary Indian health (indemnity) policy. It will normally:
@@ -485,12 +485,12 @@ A) Be fully paid  B) Be paid at double rate  C) Not be covered, as indemnity hea
 </details>
 
 **Q54.** Which policy is the EXCEPTION that, although indemnity, can cover expenses incurred abroad?
-A) Ordinary health insurance  B) Overseas travel insurance, designed country-by-country  C) Property insurance  D) Fidelity insurance
+A) Ordinary health insurance  B) Property insurance  C) Overseas travel insurance, designed country-by-country  D) Fidelity insurance
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Overseas travel policies are indemnity policies designed specifically for each country, with arrangements to ascertain foreign expenses — the exception to the "India only" rule.
+**Correct: C)** — Overseas travel policies are indemnity policies designed specifically for each country, with arrangements to ascertain foreign expenses — the exception to the "India only" rule.
 - A) is wrong — ordinary health covers India only.
-- C) and D) are wrong — neither is the cited exception.
+- B) and D) are wrong — neither is the cited exception.
 </details>
 
 **Q55.** A life insurance death claim arising abroad will:

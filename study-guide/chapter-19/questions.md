@@ -201,10 +201,10 @@ A) End-of-day NAV  B) Live intraday prices  C) Last-3-days average  D) Auction p
 </details>
 
 **Q29.** Per the workbook, liquidity of ETFs on Indian stock exchanges is generally:
-A) Excellent for all ETFs  B) Very poor except for a couple of ETFs  C) Guaranteed by SEBI  D) Better than physical cash
+A) Excellent for all ETFs  B) Better than physical cash  C) Guaranteed by SEBI  D) Very poor except for a couple of ETFs
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The workbook warns that ETF liquidity on Indian exchanges is **very poor except for a couple of ETFs**, with large NAV-vs-price gaps and wide buy-sell spreads. A overstates it. C and D are invented. This is a key exam trap — ETFs sound liquid but often aren't here.
+**Correct: D)** — The workbook warns that ETF liquidity on Indian exchanges is **very poor except for a couple of ETFs**, with large NAV-vs-price gaps and wide buy-sell spreads. A overstates it. B and C are invented. This is a key exam trap — ETFs sound liquid but often aren't here.
 </details>
 
 **Q30.** Which gold form does NOT incur a GST cost on purchase by the investor?
@@ -222,10 +222,10 @@ A) Physical gold  B) Gold fund  C) Sovereign Gold Bond  D) Gold ETF
 </details>
 
 **Q32.** When is a Sovereign Gold Bond first redeemable on its anniversary date, and when is its final redemption?
-A) After 3 years; final after 5 years  B) After 5 years; final after 8 years  C) After 1 year; final after 5 years  D) After 8 years; final after 15 years
+A) After 5 years; final after 8 years  B) After 3 years; final after 5 years  C) After 1 year; final after 5 years  D) After 8 years; final after 15 years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — SGBs are redeemable on anniversary dates **after 5 years**, with **final redemption after 8 years**. The other combinations are invented. If redeemed with RBI there is no capital-gains tax; selling in the market earlier gives only moderate liquidity.
+**Correct: A)** — SGBs are redeemable on anniversary dates **after 5 years**, with **final redemption after 8 years**. The other combinations are invented. If redeemed with RBI there is no capital-gains tax; selling in the market earlier gives only moderate liquidity.
 </details>
 
 **Q33.** In the workbook's table, REITs are described as investing primarily in:
@@ -236,17 +236,17 @@ A) Equity shares  B) Government securities  C) Infrastructure projects like road
 </details>
 
 **Q34.** Personal Accident Insurance covers death due to:
-A) Any cause  B) Accident only  C) Illness only  D) Old age only
+A) Any cause  B) Old age only  C) Illness only  D) Accident only
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Personal Accident Insurance covers death due to **accident only**, while life insurance covers death due to any cause. A describes life insurance. C and D are not what PA covers. PA also uniquely covers disability arising from accident.
+**Correct: D)** — Personal Accident Insurance covers death due to **accident only**, while life insurance covers death due to any cause. A describes life insurance. B and C are not what PA covers. PA also uniquely covers disability arising from accident.
 </details>
 
 **Q35.** Between a company deposit and a company debenture from the same company, which is typically secured?
-A) Company deposit  B) Company debenture  C) Both equally  D) Neither
+A) Company debenture  B) Company deposit  C) Both equally  D) Neither
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A **company debenture** is normally secured, so it carries relatively lower risk; a company deposit is unsecured (higher risk). A is wrong (deposits are unsecured). C and D ignore the security difference. More security → lower risk → slightly lower return on the debenture.
+**Correct: A)** — A **company debenture** is normally secured, so it carries relatively lower risk; a company deposit is unsecured (higher risk). B is wrong (deposits are unsecured). C and D ignore the security difference. More security → lower risk → slightly lower return on the debenture.
 </details>
 
 ## 🟡 Tier 2 — Medium: Application (Q36–Q70)
@@ -259,17 +259,17 @@ A) PPF  B) Tax-saving bank FD  C) ELSS  D) NPS Tier 1
 </details>
 
 **Q37.** An investor wants a tax-saving product with **sovereign safety and fully tax-free returns**. Which is best?
-A) ELSS  B) PPF  C) Tax-saving bank FD  D) AIF Cat 3
+A) PPF  B) ELSS  C) Tax-saving bank FD  D) AIF Cat 3
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **PPF** is sovereign (government-backed, low risk) and its returns are entirely tax-free. ELSS (A) is high-risk equity with gains taxed at 12.50%. The FD (C) is taxable each year. AIF (D) is a high-risk HNI product, not a tax-saver. Safety + tax-free returns is PPF's signature combination.
+**Correct: A)** — **PPF** is sovereign (government-backed, low risk) and its returns are entirely tax-free. ELSS (B) is high-risk equity with gains taxed at 12.50%. The FD (C) is taxable each year. AIF (D) is a high-risk HNI product, not a tax-saver. Safety + tax-free returns is PPF's signature combination.
 </details>
 
 **Q38.** A High Net-worth Investor wants a **customised, concentrated portfolio held in their own demat account**. Which product fits?
-A) Equity mutual fund  B) PMS  C) Index fund  D) ULIP
+A) Equity mutual fund  B) ULIP  C) Index fund  D) PMS
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **PMS** holds investments in the investor's own demat account and can be customised and concentrated (not SEBI broad-based). A mutual fund (A) is pooled, common to all and SEBI broad-based. An index fund (C) just tracks a benchmark. A ULIP (D) is insurance-cum-investment. Customisation + own demat = PMS.
+**Correct: D)** — **PMS** holds investments in the investor's own demat account and can be customised and concentrated (not SEBI broad-based). A mutual fund (A) is pooled, common to all and SEBI broad-based. An index fund (C) just tracks a benchmark. A ULIP (B) is insurance-cum-investment. Customisation + own demat = PMS.
 </details>
 
 **Q39.** An investor with Rs. 1,000 to start and wanting a SEBI-regulated, broad-based, retail product should choose:
@@ -287,17 +287,17 @@ A) Index fund  B) Tax-saving FD  C) AIF Category 3  D) PPF
 </details>
 
 **Q41.** An investor wants market-linked investing but also **life insurance cover in the same product**. Which fits?
-A) Mutual fund  B) ULIP  C) ETF  D) Index fund
+A) Mutual fund  B) Index fund  C) ETF  D) ULIP
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A **ULIP** is insurance-cum-investment, providing life cover plus market-linked returns in one product. A mutual fund (A), ETF (C) and index fund (D) are pure investments with no insurance. If the client wants both in one wrapper, it's a ULIP.
+**Correct: D)** — A **ULIP** is insurance-cum-investment, providing life cover plus market-linked returns in one product. A mutual fund (A), ETF (C) and index fund (B) are pure investments with no insurance. If the client wants both in one wrapper, it's a ULIP.
 </details>
 
 **Q42.** A cost-conscious investor simply wants to **match the benchmark return at the lowest cost** without trying to beat it. Best choice?
-A) Actively managed fund  B) Index fund  C) PMS  D) AIF Cat 3
+A) Index fund  B) Actively managed fund  C) PMS  D) AIF Cat 3
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — An **index fund** replicates the benchmark at low cost — exactly matching the goal. An active fund (A) costs more while trying to beat the benchmark. PMS (C) and AIF (D) are high-cost, high-ticket products. Low cost + track the benchmark = index fund.
+**Correct: A)** — An **index fund** replicates the benchmark at low cost — exactly matching the goal. An active fund (B) costs more while trying to beat the benchmark. PMS (C) and AIF (D) are high-cost, high-ticket products. Low cost + track the benchmark = index fund.
 </details>
 
 **Q43.** An investor wants gold exposure with **no purity concerns, no storage cost, that also earns interest**. Which is ideal?

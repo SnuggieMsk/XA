@@ -206,13 +206,13 @@ Intuition: Tier I = your locked retirement piggy bank; Tier II = an open savings
 </details>
 
 **Q19.** An employee's own contribution to NPS gets a deduction under Section:
-A) 80C  B) 80CCD(1)  C) 80CCD(2)  D) 80D
+A) 80C  B) 80D  C) 80CCD(1)  D) 80CCD(2)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — An employee's own contribution is deductible under Section 80CCD(1).
+**Correct: C)** — An employee's own contribution is deductible under Section 80CCD(1).
 - A) Wrong: 80C is the broader basket (the 80CCD(1) deduction sits within the 1.5 lakh cap with it).
-- C) Wrong: 80CCD(2) is for the *employer's* contribution.
-- D) Wrong: 80D is for health insurance premiums.
+- B) Wrong: 80D is for health insurance premiums.
+- D) Wrong: 80CCD(2) is for the *employer's* contribution.
 
 Intuition: 80CCD(1) = "1 person" = the employee himself.
 </details>
@@ -309,12 +309,12 @@ Intuition: REITs are market-traded investment vehicles, so the markets regulator
 </details>
 
 **Q28.** REITs are described as which kind of entity for tax purposes?
-A) A fully taxable company  B) A hybrid pass-through entity  C) A tax-exempt charity  D) A partnership firm
+A) A fully taxable company  B) A tax-exempt charity  C) A hybrid pass-through entity  D) A partnership firm
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — REITs are structured as a hybrid pass-through entity: some income is exempt at the REIT level and taxed in unit-holders' hands.
+**Correct: C)** — REITs are structured as a hybrid pass-through entity: some income is exempt at the REIT level and taxed in unit-holders' hands.
 - A) Wrong: not all income is taxed at the REIT level.
-- C) Wrong: it is not a charity.
+- B) Wrong: it is not a charity.
 - D) Wrong: it is a trust structure, not a firm.
 
 Intuition: "Pass-through" = certain income flows through the REIT to investors, taxed only once at the investor's end.
@@ -458,11 +458,11 @@ Intuition: Hold-to-redeem as an individual = the gold price appreciation is tax-
 </details>
 
 **Q41.** A *trust* (non-individual) redeems SGBs after holding for 18 months. The gain is taxed:
-A) Not taxable  B) As LTCG at 12.50%  C) As STCG at slab  D) At 20%
+A) As LTCG at 12.50%  B) Not taxable  C) As STCG at slab  D) At 20%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For a non-individual, redemption is taxable; held over 12 months → LTCG at 12.50% (SGBs are listed).
-- A) Wrong: the Section 47 exemption applies only to *individuals*.
+**Correct: A)** — For a non-individual, redemption is taxable; held over 12 months → LTCG at 12.50% (SGBs are listed).
+- B) Wrong: the Section 47 exemption applies only to *individuals*.
 - C) Wrong: 18 months > 12 months, so it is long-term, not short-term.
 - D) Wrong: 20% is the short-term equity rate, not relevant here.
 
@@ -494,12 +494,12 @@ Intuition: The buyer effectively pays you for interest built up so far — that 
 </details>
 
 **Q44.** Mr. B repays a housing loan of Rs. 1,70,000 (eligible under 80C) and contributes Rs. 65,000 to NPS. His maximum total deduction is:
-A) Rs. 1,50,000  B) Rs. 2,00,000  C) Rs. 2,35,000  D) Rs. 1,70,000
+A) Rs. 1,50,000  B) Rs. 2,35,000  C) Rs. 2,00,000  D) Rs. 1,70,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — 80C is capped at Rs. 1,50,000 (exhausted by the housing loan repayment), and the NPS Rs. 50,000 is claimed additionally under 80CCD(1B). Total = 1,50,000 + 50,000 = Rs. 2,00,000.
+**Correct: C)** — 80C is capped at Rs. 1,50,000 (exhausted by the housing loan repayment), and the NPS Rs. 50,000 is claimed additionally under 80CCD(1B). Total = 1,50,000 + 50,000 = Rs. 2,00,000.
 - A) Wrong: ignores the extra Rs. 50,000 NPS benefit.
-- C) Wrong: you cannot claim the full Rs. 65,000 NPS extra — 80CCD(1B) caps the additional deduction at Rs. 50,000.
+- B) Wrong: you cannot claim the full Rs. 65,000 NPS extra — 80CCD(1B) caps the additional deduction at Rs. 50,000.
 - D) Wrong: 80C is limited to 1.5 lakh, not 1.7 lakh.
 
 Intuition: The Rs. 1.5 lakh basket is full, but NPS unlocks a separate Rs. 50,000 room (max).
@@ -529,11 +529,11 @@ Intuition: Rolling money into an annuity is tax-neutral; you pay tax later as yo
 </details>
 
 **Q47.** Rental income earned by a REIT directly from property is:
-A) Taxed at the REIT level only  B) Exempt at REIT level (10(23FCA)) and taxed in the unit-holder's hands  C) Fully exempt for everyone  D) Taxed at both levels
+A) Exempt at REIT level (10(23FCA)) and taxed in the unit-holder's hands  B) Taxed at the REIT level only  C) Fully exempt for everyone  D) Taxed at both levels
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Rental income is exempt at the REIT level under Section 10(23FCA) and taxed in unit-holders' hands when distributed (pass-through).
-- A) Wrong: rental is a pass-through, not taxed at REIT level.
+**Correct: A)** — Rental income is exempt at the REIT level under Section 10(23FCA) and taxed in unit-holders' hands when distributed (pass-through).
+- B) Wrong: rental is a pass-through, not taxed at REIT level.
 - C) Wrong: it is taxed once — at the unit-holder.
 - D) Wrong: pass-through means single-level taxation, not double.
 
@@ -637,11 +637,11 @@ Intuition: You cannot dodge tax by leaving money inside the fund — the law "de
 </details>
 
 **Q56.** Business losses of a Category-I/II AIF are:
-A) Passed through to unit-holders  B) Carried forward at the AIF level, not passed to unit-holders  C) Lost forever  D) Set off against unit-holders' salary
+A) Carried forward at the AIF level, not passed to unit-holders  B) Passed through to unit-holders  C) Lost forever  D) Set off against unit-holders' salary
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Business losses are carried forward at the AIF level and are NOT passed to unit-holders (only non-business losses pass through, since AY 2020-21).
-- A) Wrong: only non-business losses pass through.
+**Correct: A)** — Business losses are carried forward at the AIF level and are NOT passed to unit-holders (only non-business losses pass through, since AY 2020-21).
+- B) Wrong: only non-business losses pass through.
 - C) Wrong: they are carried forward, not lost.
 - D) Wrong: AIF losses cannot offset an investor's salary.
 
@@ -705,11 +705,11 @@ Intuition: Index ETFs track equity, so they inherit equity's favourable 112A tre
 </details>
 
 **Q62.** Any sum received from a life insurance policy, including bonus, is generally:
-A) Taxable as other sources  B) Exempt under Section 10(10D)  C) Taxed as capital gains  D) Taxed at 12.50%
+A) Exempt under Section 10(10D)  B) Taxable as other sources  C) Taxed as capital gains  D) Taxed at 12.50%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The general rule is that life insurance proceeds (including bonus) are exempt under Section 10(10D), subject to specific exceptions.
-- A), C), D) Wrong: these apply only in exception cases (e.g., high-premium policies), not the general rule.
+**Correct: A)** — The general rule is that life insurance proceeds (including bonus) are exempt under Section 10(10D), subject to specific exceptions.
+- B), C), D) Wrong: these apply only in exception cases (e.g., high-premium policies), not the general rule.
 
 Intuition: Insurance maturity/death proceeds are normally tax-free — that is the whole point of the benefit.
 </details>
@@ -1037,11 +1037,11 @@ Intuition: You are taxed only on the *net gain*, so the premiums you paid in (an
 </details>
 
 **Q90.** A REIT distributes interest income (received from its SPV) of Rs. 50,000 to a resident unit-holder. The TDS deducted under Section 194LBA is:
-A) Rs. 2,500  B) Rs. 5,000  C) Rs. 10,000  D) Nil
+A) Rs. 5,000  B) Rs. 2,500  C) Rs. 10,000  D) Nil
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Resident TDS rate is 10%; TDS = 10% × 50,000 = Rs. 5,000.
-- A) Wrong: Rs. 2,500 is 5% (the non-resident interest rate).
+**Correct: A)** — Resident TDS rate is 10%; TDS = 10% × 50,000 = Rs. 5,000.
+- B) Wrong: Rs. 2,500 is 5% (the non-resident interest rate).
 - C) Wrong: Rs. 10,000 is 20%, which is not the 194LBA rate.
 - D) Wrong: TDS does apply to SPV interest distributed to unit-holders.
 
