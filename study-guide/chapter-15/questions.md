@@ -266,10 +266,10 @@ A) An irrevocable trust  B) A gift deed  C) A Will  D) A power of attorney
 </details>
 
 **Q38.** A wealthy individual wants to shield assets from potential future creditors so they are not legally owned by him. Which is the most suitable, even though he must give up control?
-A) Revocable trust  B) Joint holding  C) Asset Protection Trust (irrevocable)  D) Nomination
+A) Revocable trust  B) Joint holding  C) Nomination  D) Asset Protection Trust (irrevocable)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — An **Asset Protection Trust (APT)**, which is irrevocable, removes legal ownership from the settlor (he becomes only a beneficiary holding equitable interest), shielding assets from creditors; its drawback is that it is irrevocable and the settlor gives up control. A) A revocable trust does NOT protect assets because they can be withdrawn anytime. B) Joint holding gives no creditor shield. D) Nomination does not protect against creditors.
+**Correct: D)** — An **Asset Protection Trust (APT)**, which is irrevocable, removes legal ownership from the settlor (he becomes only a beneficiary holding equitable interest), shielding assets from creditors; its drawback is that it is irrevocable and the settlor gives up control. A) A revocable trust does NOT protect assets because they can be withdrawn anytime. B) Joint holding gives no creditor shield. C) Nomination does not protect against creditors.
 </details>
 
 **Q39.** Grandparents want to transfer an immovable property to their grandchild immediately during their lifetime, tax-free within blood relatives, accepting that stamp duty and registration will apply. Which tool?
@@ -280,10 +280,10 @@ A) Will  B) Gift deed  C) Nomination  D) Family settlement
 </details>
 
 **Q40.** Which statement correctly distinguishes a Will from a family trust?
-A) Both take effect only on death  B) A Will is effective only on death, while a trust is effective as soon as created  C) Neither can be made private  D) A trust always passes through probate
+A) Both take effect only on death  B) Neither can be made private  C) A Will is effective only on death, while a trust is effective as soon as created  D) A trust always passes through probate
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A **Will is effective only on death**, whereas a **trust is effective as soon as it is created**. A) is wrong — a trust does not wait for death. C) is wrong — a trust stays private while a Will can become public record. D) is wrong — a trust does NOT pass through probate; a Will may.
+**Correct: C)** — A **Will is effective only on death**, whereas a **trust is effective as soon as it is created**. A) is wrong — a trust does not wait for death. B) is wrong — a trust stays private while a Will can become public record. D) is wrong — a trust does NOT pass through probate; a Will may.
 </details>
 
 **Q41.** A revocable trust is best described as ______.
@@ -301,10 +301,10 @@ A) Whenever any one beneficiary wishes  B) When created to pay the settlor's deb
 </details>
 
 **Q43.** A discretionary private trust (shares of beneficiaries not determinate) is generally taxed at ______.
-A) the slab rate of each beneficiary  B) the Maximum Marginal Rate (MMR), i.e., 30%  C) a flat 10%  D) zero, being a pass-through
+A) the slab rate of each beneficiary  B) a flat 10%  C) the Maximum Marginal Rate (MMR), i.e., 30%  D) zero, being a pass-through
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Where beneficiaries' shares are not determinate/unknown (a discretionary trust under Section 164(1)), the income is taxed at the **Maximum Marginal Rate (MMR) = 30%**, subject to exceptions. A) Slab rates apply to *determinate* trusts. C) 10% is invented. D) The pass-through benefit applies to determinate trusts where the *beneficiary's* income is taxed, not the trust at zero.
+**Correct: C)** — Where beneficiaries' shares are not determinate/unknown (a discretionary trust under Section 164(1)), the income is taxed at the **Maximum Marginal Rate (MMR) = 30%**, subject to exceptions. A) Slab rates apply to *determinate* trusts. B) 10% is invented. D) The pass-through benefit applies to determinate trusts where the *beneficiary's* income is taxed, not the trust at zero.
 </details>
 
 **Q44.** Which trust has beneficiaries clearly specified with ascertained shares, where trustees have no discretion over distribution?
@@ -322,10 +322,10 @@ A) has no duties at all  B) pays a fixed amount as set by the settlor and has di
 </details>
 
 **Q46.** An oral (unwritten) trust can be validly declared only for ______ property.
-A) immovable  B) movable  C) both movable and immovable  D) only agricultural
+A) movable  B) immovable  C) both movable and immovable  D) only agricultural
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A trust can be declared **orally only where movable property** is settled (by transferring possession with a direction to hold under trust). For **immovable** property a written trust deed is required. So A) and C) are wrong, and D) is not a recognised distinction in the text.
+**Correct: A)** — A trust can be declared **orally only where movable property** is settled (by transferring possession with a direction to hold under trust). For **immovable** property a written trust deed is required. So B) and C) are wrong, and D) is not a recognised distinction in the text.
 </details>
 
 **Q47.** Section 47(iii) of the Income Tax Act exempts from capital gains tax any transfer of capital assets under a/an ______.

@@ -15,11 +15,11 @@ A) 8%  B) 10%  C) 12%  D) 3.67%
 </details>
 
 **Q2.** Out of the employer's 12% EPF contribution, how much goes to the Employees' Pension Scheme (EPS)?
-A) 3.67%  B) 8.33%  C) 0.5%  D) 12%
+A) 8.33%  B) 3.67%  C) 0.5%  D) 12%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The employer's 12% is split: **8.33% to EPS**, 3.67% to EPF, 0.5% to EDLIS and 0.5% to admin charges.
-- A) 3.67% is the EPF portion of the employer's share.
+**Correct: A)** — The employer's 12% is split: **8.33% to EPS**, 3.67% to EPF, 0.5% to EDLIS and 0.5% to admin charges.
+- B) 3.67% is the EPF portion of the employer's share.
 - C) 0.5% is the EDLIS (insurance) or admin portion.
 - D) 12% is the *total* employer contribution, not just the EPS slice.
 </details>
@@ -97,11 +97,11 @@ A) NRIs only  B) HUFs  C) Foreign nationals  D) Only Indian residents
 </details>
 
 **Q11.** The minimum continuous service required to be eligible for gratuity (in normal cases) is:
-A) 3 years  B) 5 years  C) 10 years  D) 7 years
+A) 5 years  B) 3 years  C) 10 years  D) 7 years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Gratuity is payable after a minimum of **5 years of continuous service** (except on death or disability, when it can be paid earlier).
-- A) 3 years is the NPS partial-withdrawal threshold, not gratuity.
+**Correct: A)** — Gratuity is payable after a minimum of **5 years of continuous service** (except on death or disability, when it can be paid earlier).
+- B) 3 years is the NPS partial-withdrawal threshold, not gratuity.
 - C) 10 years is an EPF home-loan withdrawal condition.
 - D) 7 years is an EPF marriage/education withdrawal condition.
 </details>
@@ -135,11 +135,11 @@ A) 26  B) 15  C) 12  D) 30
 </details>
 
 **Q15.** The maximum statutory limit on tax-exempt gratuity for private-sector employees is:
-A) Rs. 10 lakh  B) Rs. 20 lakh  C) Rs. 25 lakh  D) Rs. 15 lakh
+A) Rs. 20 lakh  B) Rs. 10 lakh  C) Rs. 25 lakh  D) Rs. 15 lakh
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The statutory limit (government-notified amount) is **Rs. 20 lakh**. Tax exemption is the least of: Rs. 20 lakh, the formula amount, or actual gratuity received.
-- A), C) and D) are not the current statutory cap.
+**Correct: A)** — The statutory limit (government-notified amount) is **Rs. 20 lakh**. Tax exemption is the least of: Rs. 20 lakh, the formula amount, or actual gratuity received.
+- B), C) and D) are not the current statutory cap.
 </details>
 
 **Q16.** Gratuity received by a Government employee is:
@@ -341,11 +341,11 @@ A) 12%  B) 10%  C) 8%  D) 3.67%
 </details>
 
 **Q37.** Mr. Rao has been unemployed for exactly one month after resigning. How much of his EPF corpus can he withdraw now?
-A) 25%  B) 50%  C) 75%  D) 100%
+A) 75%  B) 50%  C) 25%  D) 100%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — After **1 month** of unemployment, EPFO allows withdrawal of **75%** of the corpus. The remaining 25% can be withdrawn only after 2 months of unemployment.
-- A) 25% is the *balance* available only after 2 months.
+**Correct: A)** — After **1 month** of unemployment, EPFO allows withdrawal of **75%** of the corpus. The remaining 25% can be withdrawn only after 2 months of unemployment.
+- C) 25% is the *balance* available only after 2 months.
 - B) 50% is not the rule for unemployment withdrawal.
 - D) 100% is allowed only after 2 months of continuous unemployment.
 </details>
@@ -936,13 +936,13 @@ A) Rs. 16,50,000  B) Rs. 20,00,000  C) Rs. 33,00,000  D) Rs. 16,50,00,000
 </details>
 
 **Q98.** A government employee dies after 7 years of qualifying service (death-gratuity table: 5 to <11 years = 12 × basic pay). If basic pay = Rs. 50,000, the death gratuity is:
-A) Rs. 3,00,000  B) Rs. 6,00,000  C) Rs. 10,00,000  D) Rs. 1,00,000
+A) Rs. 3,00,000  B) Rs. 10,00,000  C) Rs. 1,00,000  D) Rs. 6,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For 5 to <11 years, the rate is **12 × basic pay** = 12 × 50,000 = **Rs. 6,00,000**.
+**Correct: D)** — For 5 to <11 years, the rate is **12 × basic pay** = 12 × 50,000 = **Rs. 6,00,000**.
 - A) Rs. 3,00,000 uses 6× (the 1-to-<5-years rate).
-- C) Rs. 10,00,000 uses 20× (the 11-to-<20-years rate).
-- D) Rs. 1,00,000 uses 2× (the <1-year rate).
+- B) Rs. 10,00,000 uses 20× (the 11-to-<20-years rate).
+- C) Rs. 1,00,000 uses 2× (the <1-year rate).
 </details>
 
 **Q99.** A retiree splits Rs. 50 lakh: he must annuitise the minimum at age 60. He chooses "lifetime without return of purchase price." Compared with "lifetime with return of purchase price," his monthly annuity will be:

@@ -236,17 +236,17 @@ A) Strategic  B) Tactical  C) Dynamic  D) Conservative
 </details>
 
 **Q34.** According to the chapter, how often should a portfolio review ideally be done, at minimum?
-A) Once every five years  B) Once a year  C) Every day  D) Only once at the start
+A) Once every five years  B) Every day  C) Once a year  D) Only once at the start
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Review of the portfolio should be done at pre-fixed intervals, ideally at least once a year. Five years (A) is too infrequent, daily (C) is excessive, and only once (D) ignores the need for periodic review.
+**Correct: C)** — Review of the portfolio should be done at pre-fixed intervals, ideally at least once a year. Five years (A) is too infrequent, daily (B) is excessive, and only once (D) ignores the need for periodic review.
 </details>
 
 **Q35.** Rebalancing a portfolio should ideally be done to:
-A) Chase short-term price movements  B) Keep it aligned to the investor's risk and return requirements  C) Maximise brokerage  D) Match the adviser's own portfolio
+A) Chase short-term price movements  B) Maximise brokerage  C) Match the adviser's own portfolio  D) Keep it aligned to the investor's risk and return requirements
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Ideally a portfolio is rebalanced to stay aligned to the investor's risk/return requirements and reflect changes in their needs — not to profit from short-term price moves (A), generate brokerage (C), or copy the adviser (D).
+**Correct: D)** — Ideally a portfolio is rebalanced to stay aligned to the investor's risk/return requirements and reflect changes in their needs — not to profit from short-term price moves (A), generate brokerage (B), or copy the adviser (C).
 </details>
 
 ## 🟡 Tier 2 — Medium: Application (Q36–Q70)
@@ -259,17 +259,17 @@ A) Conservative  B) Moderate  C) Aggressive  D) Cannot be profiled
 </details>
 
 **Q37.** Mrs. Iyer, a 68-year-old widow living off her savings, says she cannot bear to see her capital fall. Which model allocation feature suits her?
-A) 50% equities and 20% sector funds  B) A high allocation to safer investments such as debt and a low allocation to equity  C) 100% in a single mid-cap stock  D) Borrowing to buy gold
+A) 50% equities and 20% sector funds  B) 100% in a single mid-cap stock  C) A high allocation to safer investments such as debt and a low allocation to equity  D) Borrowing to buy gold
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A person close to/in retirement who fears capital loss needs a higher allocation to safer debt and lower equity. The aggressive 50%+20% mix (A) is unsuitable, a single stock (C) is dangerous concentration, and leveraged gold (D) adds risk — all wrong for her.
+**Correct: C)** — A person close to/in retirement who fears capital loss needs a higher allocation to safer debt and lower equity. The aggressive 50%+20% mix (A) is unsuitable, a single stock (B) is dangerous concentration, and leveraged gold (D) adds risk — all wrong for her.
 </details>
 
 **Q38.** A client has a very high willingness to take risk (loves volatility) but has five dependents and an irregular freelance income. The adviser should conclude that the client's:
-A) Ability to take risk is high  B) Ability to take risk is constrained, even though willingness is high  C) Profile is automatically aggressive  D) Risk profile need not be checked
+A) Ability to take risk is high  B) Profile is automatically aggressive  C) Risk profile need not be checked  D) Ability to take risk is constrained, even though willingness is high
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Willingness is psychological and high here, but many dependents and irregular income reduce the financial ability to take risk. Good profiling considers both, so ability is constrained (B). The high ability (A) and automatic aggressive (C) ignore the dependents/income, and profiling is mandatory (D wrong).
+**Correct: D)** — Willingness is psychological and high here, but many dependents and irregular income reduce the financial ability to take risk. Good profiling considers both, so ability is constrained (D). The high ability (A) and automatic aggressive (B) ignore the dependents/income, and profiling is mandatory (C wrong).
 </details>
 
 **Q39.** An investor keeps all his money in a savings bank account earning very low interest and finds he cannot accumulate enough for future goals. This illustrates a problem of:
@@ -287,10 +287,10 @@ A) She has too much debt  B) Concentration in one volatile asset class  C) She p
 </details>
 
 **Q41.** Harmeet holds most of her wealth in gold jewellery and cannot generate income for monthly expenses. The lesson is that gold mainly offers:
-A) Regular income  B) Growth/appreciation but not regular income  C) Guaranteed liquidity instantly  D) Capital preservation with interest
+A) Regular income  B) Guaranteed liquidity instantly  C) Growth/appreciation but not regular income  D) Capital preservation with interest
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Gold is a growth/appreciation asset; it does not pay regular income, which is why Harmeet cannot meet monthly expenses from it. So A is wrong, gold is not the chapter's example for instant liquidity (C), and it does not pay interest (D).
+**Correct: C)** — Gold is a growth/appreciation asset; it does not pay regular income, which is why Harmeet cannot meet monthly expenses from it. So A is wrong, gold is not the chapter's example for instant liquidity (B), and it does not pay interest (D).
 </details>
 
 **Q42.** Gayatri lives on fixed interest from bank FDs but her expenses keep rising, so she falls short. This shows the risk of:

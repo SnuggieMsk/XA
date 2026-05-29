@@ -166,38 +166,38 @@ A) 5 years  B) 3 years  C) 10 years  D) 1 year
 </details>
 
 **Q24.** An actively managed fund aims to:
-A) Replicate the benchmark exactly  B) Generate additional return (alpha) over the benchmark  C) Avoid all equities  D) Guarantee returns
+A) Generate additional return (alpha) over the benchmark  B) Replicate the benchmark exactly  C) Avoid all equities  D) Guarantee returns
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — An active fund manager seeks to **generate alpha** (return above the benchmark) by selecting securities. A describes an index fund. C and D are not the objective. The trade-off is higher cost for the chance of higher net return.
+**Correct: A)** — An active fund manager seeks to **generate alpha** (return above the benchmark) by selecting securities. B describes an index fund. C and D are not the objective. The trade-off is higher cost for the chance of higher net return.
 </details>
 
 **Q25.** Compared to an actively managed fund, an index fund's cost is:
-A) Higher  B) Lower  C) The same  D) Zero
+A) Higher  B) Zero  C) The same  D) Lower
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — An index fund is **lower cost** because it simply replicates the benchmark instead of paying for active decision-making. A is the active fund. C is wrong as they differ. D is wrong — index funds still have (low) costs. Lower cost is the index fund's core appeal.
+**Correct: D)** — An index fund is **lower cost** because it simply replicates the benchmark instead of paying for active decision-making. A is the active fund. C is wrong as they differ. B is wrong — index funds still have (low) costs. Lower cost is the index fund's core appeal.
 </details>
 
 **Q26.** Direct equity investing carries what kind of risk relative to equity funds?
-A) Diversified risk  B) Concentrated risk on the invested security  C) No risk  D) Sovereign risk
+A) Concentrated risk on the invested security  B) Diversified risk  C) No risk  D) Sovereign risk
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Direct equity carries **concentrated risk** on the specific stocks chosen, while equity funds spread risk across many securities (diversification). A describes the fund. C and D are wrong. Diversification is the fund's safety advantage over single-stock buying.
+**Correct: A)** — Direct equity carries **concentrated risk** on the specific stocks chosen, while equity funds spread risk across many securities (diversification). B describes the fund. C and D are wrong. Diversification is the fund's safety advantage over single-stock buying.
 </details>
 
 **Q27.** An Exchange Traded Fund (ETF) is priced:
-A) At end-of-day NAV only  B) On a minute-to-minute basis like any security  C) On the last-3-days average  D) Once a week
+A) At end-of-day NAV only  B) Once a week  C) On the last-3-days average  D) On a minute-to-minute basis like any security
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — An ETF trades on the exchange and is priced **minute-to-minute** like any security. A (end-of-day NAV) describes an index fund. C is SGB issue pricing. D is invented. Live pricing is what distinguishes an ETF from an ordinary index fund.
+**Correct: D)** — An ETF trades on the exchange and is priced **minute-to-minute** like any security. A (end-of-day NAV) describes an index fund. C is SGB issue pricing. B is invented. Live pricing is what distinguishes an ETF from an ordinary index fund.
 </details>
 
 **Q28.** An index fund (non-ETF) is priced at:
-A) Live intraday prices  B) End-of-day NAV  C) Last-3-days average  D) Auction price
+A) End-of-day NAV  B) Live intraday prices  C) Last-3-days average  D) Auction price
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A regular index fund is bought/sold from the AMC at the **end-of-day NAV**. A (intraday) describes an ETF. C is SGB pricing. D is invented. The NAV-based, once-a-day pricing is standard for non-exchange-traded funds.
+**Correct: A)** — A regular index fund is bought/sold from the AMC at the **end-of-day NAV**. B (intraday) describes an ETF. C is SGB pricing. D is invented. The NAV-based, once-a-day pricing is standard for non-exchange-traded funds.
 </details>
 
 **Q29.** Per the workbook, liquidity of ETFs on Indian stock exchanges is generally:

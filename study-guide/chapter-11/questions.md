@@ -19,17 +19,17 @@ A) Received  B) Credited to bank  C) Declared  D) Reinvested
 </details>
 
 **Q3.** Dividend Distribution Tax (DDT) was abolished by which Finance Act, shifting dividend tax to the shareholder?
-A) Finance Act, 2018  B) Finance Act, 2020  C) Finance Act, 2024  D) Finance Act, 2025
+A) Finance Act, 2020  B) Finance Act, 2018  C) Finance Act, 2024  D) Finance Act, 2025
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The Finance Act, 2020 abolished DDT with effect from FY 2020-21, so dividends are now taxable in the hands of shareholders. A) Finance Act 2018 made LTCG on listed shares taxable (Sec 112A). C) Finance Act 2024 set the 12.50%/20% rates and the ₹1.25 lakh limit. D) Finance Act 2025 amended ULIP definitions. Only 2020 dealt with DDT.
+**Correct: A)** — The Finance Act, 2020 abolished DDT with effect from FY 2020-21, so dividends are now taxable in the hands of shareholders. B) Finance Act 2018 made LTCG on listed shares taxable (Sec 112A). C) Finance Act 2024 set the 12.50%/20% rates and the ₹1.25 lakh limit. D) Finance Act 2025 amended ULIP definitions. Only 2020 dealt with DDT.
 </details>
 
 **Q4.** Securities Transaction Tax (STT) is levied on the sale/purchase of:
-A) All securities including debt securities  B) Securities other than debt securities or debt mutual funds  C) Only unlisted shares  D) Only derivatives
+A) Securities other than debt securities or debt mutual funds  B) All securities including debt securities  C) Only unlisted shares  D) Only derivatives
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — STT applies to securities *other than* debt securities or debt mutual funds. A) is wrong because debt securities are specifically excluded. C) is wrong — STT applies mainly to listed/exchange-traded securities, not unlisted shares. D) is too narrow; STT covers equity delivery, equity MF and derivatives, not derivatives alone.
+**Correct: A)** — STT applies to securities *other than* debt securities or debt mutual funds. B) is wrong because debt securities are specifically excluded. C) is wrong — STT applies mainly to listed/exchange-traded securities, not unlisted shares. D) is too narrow; STT covers equity delivery, equity MF and derivatives, not derivatives alone.
 </details>
 
 **Q5.** STT collected during a calendar month must be remitted to the Central Government by which date of the following month?
@@ -54,10 +54,10 @@ A) 5%  B) 12%  C) 18%  D) 28%
 </details>
 
 **Q8.** The two stock depositories in India are:
-A) BSE and NSE  B) NSDL and CDSL  C) MCX and NCDEX  D) SEBI and RBI
+A) NSDL and CDSL  B) BSE and NSE  C) MCX and NCDEX  D) SEBI and RBI
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — NSDL (National Securities Depository Limited) and CDSL (Central Depository Services Limited) are the two depositories that hold securities in electronic form. A) BSE and NSE are stock *exchanges*, not depositories. C) MCX and NCDEX are commodity exchanges. D) SEBI is the regulator and RBI is the central bank — neither is a depository.
+**Correct: A)** — NSDL (National Securities Depository Limited) and CDSL (Central Depository Services Limited) are the two depositories that hold securities in electronic form. B) BSE and NSE are stock *exchanges*, not depositories. C) MCX and NCDEX are commodity exchanges. D) SEBI is the regulator and RBI is the central bank — neither is a depository.
 </details>
 
 **Q9.** Stamp duty on listed securities has been levied at unified rates across India with effect from:
@@ -75,10 +75,10 @@ A) 36 months  B) 24 months  C) 12 months  D) 6 months
 </details>
 
 **Q11.** For unlisted equity shares, the long-term holding threshold is more than:
-A) 12 months  B) 24 months  C) 36 months  D) 48 months
+A) 12 months  B) 36 months  C) 24 months  D) 48 months
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Unlisted shares are short-term if held for not more than 24 months, and long-term if held for more than 24 months. A) 12 months is the listed-share threshold. C) and D) are not used here.
+**Correct: C)** — Unlisted shares are short-term if held for not more than 24 months, and long-term if held for more than 24 months. A) 12 months is the listed-share threshold. B) and D) are not used here.
 </details>
 
 **Q12.** The period of holding for securities held in Demat form is determined using which method?
@@ -103,10 +103,10 @@ A) ₹1,00,000  B) ₹1,50,000  C) ₹2,50,000  D) ₹1,25,000
 </details>
 
 **Q15.** The concessional rate of tax on LTCG exceeding ₹1.25 lakh under Section 112A is:
-A) 10%  B) 12.50%  C) 15%  D) 20%
+A) 10%  B) 15%  C) 12.50%  D) 20%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — LTCG above ₹1.25 lakh under Section 112A is taxed at the concessional rate of 12.50% (plus surcharge and cess). A) 10% was the earlier rate. C) 15% is a surcharge rate. D) 20% is the STCG rate under Section 111A.
+**Correct: C)** — LTCG above ₹1.25 lakh under Section 112A is taxed at the concessional rate of 12.50% (plus surcharge and cess). A) 10% was the earlier rate. B) 15% is a surcharge rate. D) 20% is the STCG rate under Section 111A.
 </details>
 
 **Q16.** Short-term capital gains on listed equity shares (STT paid) are taxed under Section 111A at:

@@ -535,19 +535,19 @@ A), B) and D) are not the threshold for tax-free maturity.
 </details>
 
 **Q67.** An adviser is comparing "Term + Mutual Fund" (Option 1) vs a Type II ULIP (Option 2). A key advantage of Option 1 is:
-A) Lower transparency  B) Complete divisibility of the insurance and investment contracts (can pause investing freely)  C) A 5-year lock-in  D) Inability to switch funds
+A) Lower transparency  B) A 5-year lock-in  C) Inability to switch funds  D) Complete divisibility of the insurance and investment contracts (can pause investing freely)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — In Option 1 the insurance and investment are two separate contracts (fully divisible); the investment can be paused/restarted and insurance discontinued independently, with no cost implication for pausing.
-A) Term + MF is more transparent, not less. C) The 5-year lock-in is a ULIP feature. D) MFs can be freely switched.
+**Correct: D)** — In Option 1 the insurance and investment are two separate contracts (fully divisible); the investment can be paused/restarted and insurance discontinued independently, with no cost implication for pausing.
+A) Term + MF is more transparent, not less. B) The 5-year lock-in is a ULIP feature. C) MFs can be freely switched.
 </details>
 
 **Q68.** The workbook's bottom-line guidance is that a ULIP should be considered in place of "Term + Mutual Fund" only when:
-A) The investor wants the highest returns  B) Insurance cover is genuinely required in the first place  C) The investor is very old  D) Tax has to be avoided at all costs
+A) Insurance cover is genuinely required in the first place  B) The investor wants the highest returns  C) The investor is very old  D) Tax has to be avoided at all costs
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A ULIP is worth considering over Term + MF only where insurance cover is actually required; otherwise the ULIP's mortality charge is just an extra cost.
-A), C) and D) are not the stated decision rule; protection need comes first.
+**Correct: A)** — A ULIP is worth considering over Term + MF only where insurance cover is actually required; otherwise the ULIP's mortality charge is just an extra cost.
+B), C) and D) are not the stated decision rule; protection need comes first.
 </details>
 
 **Q69.** A defined-benefit life insurance policy (e.g., death, critical illness, accidental death) where the insured dies abroad will:
@@ -657,11 +657,11 @@ A) is the corpus alone. B) is the gross total before deductions. D) deducts too 
 </details>
 
 **Q82.** Why is Anil's Rs. 50 lakh house NOT deducted in the needs-based calculation?
-A) It has no resale value  B) Personal assets like the residence are not sold by the family even after death  C) It is already mortgaged fully  D) Houses cannot be valued
+A) Personal assets like the residence are not sold by the family even after death  B) It has no resale value  C) It is already mortgaged fully  D) Houses cannot be valued
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The residential house (and personal jewellery) are personal assets the family will not want to sell, so they are excluded from the deductible assets.
-A) The house has value; that is not the reason. C) The loan is added separately as a liability. D) Houses can be valued (here Rs. 50 lakh).
+**Correct: A)** — The residential house (and personal jewellery) are personal assets the family will not want to sell, so they are excluded from the deductible assets.
+B) The house has value; that is not the reason. C) The loan is added separately as a liability. D) Houses can be valued (here Rs. 50 lakh).
 </details>
 
 **Q83.** For a return-of-premium term plan: pure term premium Rs. 9,416/yr, return-of-premium plan Rs. 17,473/yr, 30-year tenure. What is the extra premium (the effective annual investment)?
@@ -705,11 +705,11 @@ A), C) and D) are not the computed figure here; 5% is the example result.
 </details>
 
 **Q88.** A client pays an annual ULIP premium of Rs. 3,13,200 with a sum assured of Rs. 1 crore (policy issued before 01.02.2021). Is the maturity value tax-free?
-A) No, because premium exceeds Rs. 2.5 lakh  B) Yes, because the sum assured (Rs. 1 crore) is more than 10 × annual premium  C) No, ULIPs are never tax-free  D) Yes, all ULIPs are tax-free
+A) Yes, because the sum assured (Rs. 1 crore) is more than 10 × annual premium  B) No, because premium exceeds Rs. 2.5 lakh  C) No, ULIPs are never tax-free  D) Yes, all ULIPs are tax-free
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For policies before 01.02.2021, the maturity is exempt if sum assured ≥ 10 × annual premium. 10 × 3,13,200 = Rs. 31,32,000, and Rs. 1 crore exceeds this, so it is exempt.
-A) The Rs. 2.5 lakh capital-gains rule applies only to policies on/after 01.02.2021. C) and D) are too absolute.
+**Correct: A)** — For policies before 01.02.2021, the maturity is exempt if sum assured ≥ 10 × annual premium. 10 × 3,13,200 = Rs. 31,32,000, and Rs. 1 crore exceeds this, so it is exempt.
+B) The Rs. 2.5 lakh capital-gains rule applies only to policies on/after 01.02.2021. C) and D) are too absolute.
 </details>
 
 **Q89.** A ULIP is taken on 01.06.2022 with an annual premium of Rs. 4,00,000. How is the maturity proceed taxed?

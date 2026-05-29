@@ -399,10 +399,10 @@ A) Anchoring — relying on pre-existing information (purchase price)  B) Home c
 </details>
 
 **Q57.** Per Prospect Theory, a client is likely to be:
-A) Risk-averse about gains (sell winners early) but risk-seeking about losses (hold losers)  B) Risk-seeking about gains and risk-averse about losses  C) Indifferent to gains and losses  D) Always rational
+A) Risk-seeking about gains and risk-averse about losses  B) Indifferent to gains and losses  C) Always rational  D) Risk-averse about gains (sell winners early) but risk-seeking about losses (hold losers)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Prospect Theory: risk-averse on gains, risk-seeking on losses. B) reverses it. C) and D) describe a robot, not a human. Behavioural logic: people lock in gains early but cling to losers hoping to break even.
+**Correct: D)** — Prospect Theory: risk-averse on gains, risk-seeking on losses. A) reverses it. B) and C) describe a robot, not a human. Behavioural logic: people lock in gains early but cling to losers hoping to break even.
 </details>
 
 **Q58.** A client refuses to sell a losing stock, saying "I'll wait till it gets back to what I paid." Per Prospect Theory this is because:
@@ -413,10 +413,10 @@ A) Monetary losses hurt more than equivalent gains, so he avoids realising the l
 </details>
 
 **Q59.** Which best illustrates using a nudge rather than force?
-A) Pre-agreed ground rules the client buys into that auto-trigger good actions  B) Locking the client's account  C) Threatening to drop the client  D) Charging penalties for trading
+A) Locking the client's account  B) Threatening to drop the client  C) Pre-agreed ground rules the client buys into that auto-trigger good actions  D) Charging penalties for trading
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — A nudge is a pre-agreed gentle default, not coercion. B), C) and D) are forceful or punitive. Behavioural logic: the client still chooses freely, but the easy path is the good one.
+**Correct: C)** — A nudge is a pre-agreed gentle default, not coercion. A), B) and D) are forceful or punitive. Behavioural logic: the client still chooses freely, but the easy path is the good one.
 </details>
 
 **Q60.** A client wants "excitement" from his investments. Echoing Samuelson, the adviser should explain that:
@@ -427,10 +427,10 @@ A) Investing should be dull; excitement belongs in Las Vegas, not the portfolio 
 </details>
 
 **Q61.** A client's portfolio has grown so that equities are far above their target weight after a rally. The pre-agreed rebalancing nudge will:
-A) Book some profit by trimming equities and buy into the lagging asset class  B) Buy even more equities  C) Sell everything  D) Do nothing ever
+A) Buy even more equities  B) Book some profit by trimming equities and buy into the lagging asset class  C) Sell everything  D) Do nothing ever
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Rebalancing trims the overweight winner and tops up the laggard — sell high, buy low. B) chases the rally. C) is extreme. D) defeats the purpose. Behavioural logic: the rule enforces discipline against greed.
+**Correct: B)** — Rebalancing trims the overweight winner and tops up the laggard — sell high, buy low. A) chases the rally. C) is extreme. D) defeats the purpose. Behavioural logic: the rule enforces discipline against greed.
 </details>
 
 **Q62.** A client wants to invest based purely on which fund topped the charts last year. The adviser's most relevant warning is:
@@ -441,10 +441,10 @@ A) Reversion to the mean — last year's topper may underperform next year  B) F
 </details>
 
 **Q63.** A maximum exposure limit WITHIN a single asset class (e.g. per security) primarily controls:
-A) Over-concentration in any one security  B) Home country bias  C) Action bias  D) Framing
+A) Home country bias  B) Action bias  C) Framing  D) Over-concentration in any one security
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — A per-security cap prevents over-concentration within an asset class. B), C) and D) are unrelated. Behavioural logic: it stops one favourite stock from dominating the portfolio.
+**Correct: D)** — A per-security cap prevents over-concentration within an asset class. A), B) and C) are unrelated. Behavioural logic: it stops one favourite stock from dominating the portfolio.
 </details>
 
 **Q64.** A client says he understands US tech but is scared of "foreign tax and legal rules." The adviser should:

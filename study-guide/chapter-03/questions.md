@@ -151,11 +151,11 @@ A) Treatment at a foreign hospital  B) Day-care surgery  C) Patients treated at 
 </details>
 
 **Q17.** Why do many health policies now cover "day care treatment"?
-A) Because hospitals charge less  B) Because advancement of technology lets the insured be released the same day for certain procedures needing hospitalisation  C) Because it is legally compulsory  D) Because the term is 3 years
+A) Because hospitals charge less  B) Because it is legally compulsory  C) Because advancement of technology lets the insured be released the same day for certain procedures needing hospitalisation  D) Because the term is 3 years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Day-care treatment covers certain procedures which require hospitalisation but, due to advancement of technology, allow the insured to be released the same day.
-- A), C) and D) are wrong — none is the reason given in the workbook for day-care cover.
+**Correct: C)** — Day-care treatment covers certain procedures which require hospitalisation but, due to advancement of technology, allow the insured to be released the same day.
+- A), B) and D) are wrong — none is the reason given in the workbook for day-care cover.
 </details>
 
 **Q18.** The "cashless facility" in health insurance means:
@@ -205,19 +205,19 @@ A) 10%  B) 25%  C) 50% after 5 claim-free years  D) 100%
 </details>
 
 **Q23.** The car "No Claim" bonus is attached to:
-A) The car  B) The insured person, not the car  C) The insurer  D) The registration plate
+A) The car  B) The insurer  C) The registration plate  D) The insured person, not the car
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The NCB is available to the insured person and is *not* attached to the car. So a buyer of a used car gets no NCB, while the original owner can transfer the NCB to a new car they buy.
-- A), C) and D) are wrong — the bonus follows the person, not the vehicle, the insurer, or the plate.
+**Correct: D)** — The NCB is available to the insured person and is *not* attached to the car. So a buyer of a used car gets no NCB, while the original owner can transfer the NCB to a new car they buy.
+- A), B) and C) are wrong — the bonus follows the person, not the vehicle, the insurer, or the plate.
 </details>
 
 **Q24.** Personal accident insurance pays when the insured sustains bodily injury caused by:
-A) Any illness  B) External, violent and visible means, solely and directly from an accident  C) Old age  D) A pre-existing disease
+A) Any illness  B) Old age  C) External, violent and visible means, solely and directly from an accident  D) A pre-existing disease
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — It pays if the insured sustains bodily injury resulting solely and directly from an accident caused by external, violent and visible means.
-- A), C) and D) are wrong — illness, old age and disease are not accidents by external violent visible means.
+**Correct: C)** — It pays if the insured sustains bodily injury resulting solely and directly from an accident caused by external, violent and visible means.
+- A), B) and D) are wrong — illness, old age and disease are not accidents by external violent visible means.
 </details>
 
 **Q25.** Which disablement type is NOT listed as covered under personal accident insurance?
@@ -229,13 +229,13 @@ A) Permanent total disablement  B) Permanent partial disablement  C) Temporary t
 </details>
 
 **Q26.** Critical illness insurance pays:
-A) A reimbursement of actual hospital bills  B) A lump sum benefit if the insured contracts certain specified diseases  C) A payment on death  D) A monthly pension
+A) A reimbursement of actual hospital bills  B) A payment on death  C) A monthly pension  D) A lump sum benefit if the insured contracts certain specified diseases
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — It provides a lump-sum benefit if the insured contracts specified diseases such as cancer, heart attack, stroke, kidney failure or multiple sclerosis.
+**Correct: D)** — It provides a lump-sum benefit if the insured contracts specified diseases such as cancer, heart attack, stroke, kidney failure or multiple sclerosis.
 - A) is wrong — that describes indemnity health insurance.
-- C) is wrong — unlike life insurance, there is no payment on death.
-- D) is wrong — it is a lump sum, not a pension.
+- B) is wrong — unlike life insurance, there is no payment on death.
+- C) is wrong — it is a lump sum, not a pension.
 </details>
 
 **Q27.** Critical illness reimbursement is usually subject to a minimum survival period of:
@@ -263,11 +263,11 @@ A) Damages for negligence under common law  B) Legal defence costs  C) Intention
 </details>
 
 **Q30.** The most common example of liability insurance is:
-A) Keyman insurance  B) Professional indemnity plans taken by doctors, lawyers or investment advisers  C) Property insurance  D) Travel insurance
+A) Keyman insurance  B) Property insurance  C) Professional indemnity plans taken by doctors, lawyers or investment advisers  D) Travel insurance
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The most common example is professional indemnity plans taken by professionals like Doctors, Lawyers or Investment Advisers.
-- A), C) and D) are wrong — these are distinct product categories, not the cited example of liability insurance.
+**Correct: C)** — The most common example is professional indemnity plans taken by professionals like Doctors, Lawyers or Investment Advisers.
+- A), B) and D) are wrong — these are distinct product categories, not the cited example of liability insurance.
 </details>
 
 **Q31.** Fidelity insurance covers:

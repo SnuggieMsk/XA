@@ -954,13 +954,13 @@ A) ₹2,50,000  B) ₹5,00,000  C) ₹7,00,000  D) ₹12,00,000
 </details>
 
 **Q100.** Gross Total Income (Section 80B(5)) is computed by: (1) summing the five heads, (2) clubbing income, (3) setting off losses — and it is the figure BEFORE which deductions?
-A) Standard deduction  B) Chapter VI-A deductions  C) Section 24(a)  D) Section 87A rebate
+A) Standard deduction  B) Section 87A rebate  C) Section 24(a)  D) Chapter VI-A deductions
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — GTI is total income computed before any deduction under Chapter VI-A. Total Income = GTI − Chapter VI-A deductions.
+**Correct: D)** — GTI is total income computed before any deduction under Chapter VI-A. Total Income = GTI − Chapter VI-A deductions.
 - A) Standard deduction is taken within the salary head, before GTI.
 - C) Section 24(a) is the house-property standard deduction, within that head.
-- D) The 87A rebate is applied to *tax*, not to income.
+- B) The 87A rebate is applied to *tax*, not to income.
 </details>
 
 ---

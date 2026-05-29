@@ -725,13 +725,13 @@ A) Rs. 28,000  B) Rs. 7,000  C) Rs. 56,000  D) Rs. 14,000
 </details>
 
 **Q78.** Continuing Q77 (mercantile), interest accrued for April–June 2024 (3 months) is:
-A) Rs. 14,000  B) Rs. 7,000  C) Rs. 28,000  D) Rs. 3,500
+A) Rs. 14,000  B) Rs. 28,000  C) Rs. 3,500  D) Rs. 7,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **= 4,00,000 × 7% × 3/12** = 4,00,000 × 0.07 × 0.25 = **Rs. 7,000** accrued for the quarter.
+**Correct: D)** — **= 4,00,000 × 7% × 3/12** = 4,00,000 × 0.07 × 0.25 = **Rs. 7,000** accrued for the quarter.
 - A) Wrong — Rs. 14,000 is 6 months.
-- C) Wrong — Rs. 28,000 is a full year.
-- D) Wrong — Rs. 3,500 would be 1.5 months.
+- B) Wrong — Rs. 28,000 is a full year.
+- C) Wrong — Rs. 3,500 would be 1.5 months.
 </details>
 
 **Q79.** Mr. A acquires a 9% listed bond, face Rs. 10,000, on 01-04-2024. Quarterly interest received for the quarter ending 30-06-2024 is:
@@ -745,52 +745,52 @@ A) Rs. 900  B) Rs. 450  C) Rs. 225  D) Rs. 75
 </details>
 
 **Q80.** Same 9% bond (Q79) sold 01-11-2024. Interest accrued for October 2024 (1 month, not yet received) is:
-A) Rs. 225  B) Rs. 75  C) Rs. 150  D) Rs. 900
+A) Rs. 225  B) Rs. 150  C) Rs. 900  D) Rs. 75
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **= 10,000 × 9% × 1/12** = 10,000 × 0.09 ÷ 12 = **Rs. 75** for one month.
+**Correct: D)** — **= 10,000 × 9% × 1/12** = 10,000 × 0.09 ÷ 12 = **Rs. 75** for one month.
 - A) Wrong — Rs. 225 is a quarter.
-- C) Wrong — Rs. 150 would be 2 months.
-- D) Wrong — Rs. 900 is a full year.
+- B) Wrong — Rs. 150 would be 2 months.
+- C) Wrong — Rs. 900 is a full year.
 </details>
 
 **Q81.** The 9% bond (Q79–Q80) received two quarters' interest (Rs. 225 each) plus Rs. 75 accrued. Total taxable interest income is:
-A) Rs. 450  B) Rs. 525  C) Rs. 675  D) Rs. 300
+A) Rs. 450  B) Rs. 675  C) Rs. 300  D) Rs. 525
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Total interest = 225 + 225 + 75 = Rs. 525.** Two received quarters plus the one month accrued to date of sale.
+**Correct: D)** — **Total interest = 225 + 225 + 75 = Rs. 525.** Two received quarters plus the one month accrued to date of sale.
 - A) Wrong — Rs. 450 omits the Rs. 75 accrual.
-- C) Wrong — Rs. 675 over-counts a quarter.
-- D) Wrong — Rs. 300 has no basis.
+- B) Wrong — Rs. 675 over-counts a quarter.
+- C) Wrong — Rs. 300 has no basis.
 </details>
 
 **Q82.** The 9% bond sold for Rs. 13,000 inclusive of Rs. 75 accrued interest. The adjusted sale consideration for capital gains is:
-A) Rs. 13,000  B) Rs. 12,925  C) Rs. 13,075  D) Rs. 12,775
+A) Rs. 13,000  B) Rs. 13,075  C) Rs. 12,775  D) Rs. 12,925
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Adjusted consideration = Sale price − accrued interest** = 13,000 − 75 = **Rs. 12,925**. The Rs. 75 is taxed separately as interest, so it is removed from the sale figure.
+**Correct: D)** — **Adjusted consideration = Sale price − accrued interest** = 13,000 − 75 = **Rs. 12,925**. The Rs. 75 is taxed separately as interest, so it is removed from the sale figure.
 - A) Wrong — that still includes the interest portion.
-- C) Wrong — you subtract, not add, the accrued interest.
-- D) Wrong — over-subtracts.
+- B) Wrong — you subtract, not add, the accrued interest.
+- C) Wrong — over-subtracts.
 </details>
 
 **Q83.** Continuing Q82, cost of acquisition was Rs. 10,500. The short-term capital gain is:
-A) Rs. 2,500  B) Rs. 2,425  C) Rs. 2,575  D) Rs. 2,500
+A) Rs. 2,500  B) Rs. 2,575  C) Rs. 3,000  D) Rs. 2,425
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **STCG = Adjusted consideration − cost** = 12,925 − 10,500 = **Rs. 2,425** (held under 12 months → short-term, taxed at applicable rate).
-- A) and D) Wrong — Rs. 2,500 would ignore the interest carve-out (13,000 − 10,500).
-- C) Wrong — arithmetic does not support it.
+**Correct: D)** — **STCG = Adjusted consideration − cost** = 12,925 − 10,500 = **Rs. 2,425** (held under 12 months → short-term, taxed at applicable rate).
+- A) Wrong — Rs. 2,500 would ignore the interest carve-out (13,000 − 10,500).
+- B) and C) Wrong — arithmetic does not support these.
 </details>
 
 **Q84.** XYZ Bank holds 40,000 Dated G-Secs, face Rs. 100, coupon 7.50%. Interest accrued for April–Dec 2024 (9 months) is:
-A) Rs. 3,00,000  B) Rs. 2,25,000  C) Rs. 1,50,000  D) Rs. 4,50,000
+A) Rs. 3,00,000  B) Rs. 1,50,000  C) Rs. 4,50,000  D) Rs. 2,25,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **= 40,000 × 100 × 7.50% × 9/12** = 40,00,000 × 0.075 × 0.75 = **Rs. 2,25,000**.
+**Correct: D)** — **= 40,000 × 100 × 7.50% × 9/12** = 40,00,000 × 0.075 × 0.75 = **Rs. 2,25,000**.
 - A) Wrong — Rs. 3,00,000 is a full year.
-- C) Wrong — Rs. 1,50,000 is 6 months.
-- D) Wrong — Rs. 4,50,000 doubles the figure.
+- B) Wrong — Rs. 1,50,000 is 6 months.
+- C) Wrong — Rs. 4,50,000 doubles the figure.
 </details>
 
 **Q85.** XYZ Bank's 40,000 G-Secs were bought (issue price) at Rs. 125 each and sold at Rs. 150 each. The full value of consideration is:

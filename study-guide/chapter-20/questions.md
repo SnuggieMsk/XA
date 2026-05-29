@@ -660,3 +660,169 @@ A) Tactical asset allocation  B) Strategic asset allocation  C) Dynamic hedging 
 </details>
 
 ---
+
+### Case Study 9 — The Guptas: NRI Returning to India (Tax + Insurance)
+
+Mr. and Mrs. Gupta (both 45, Indian citizens) return to India after 20 years in the USA. They own a **US house given on rent**, hold **US tax-deferred retirement accounts** (taxed only on withdrawal in the US), each has a **USD 1 million** US life policy valid 15 more years, and an **employer US health policy** (worldwide cover, including India) that lapses at year-end unless renewed.
+
+**Q9.1.** Once they become **residents** of India, their **US rental income** is: *(Medium)*
+A) Not taxable in India  B) Taxable in India with credit for US tax paid  C) Taxable in India with no foreign tax credit  D) Taxable only in the US
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Residents are taxed on **global income**; the DTAA gives a **foreign tax credit** for US tax. **A)** ignores global-income taxation. **C)** denies the available credit. **D)** ignores Indian residence.
+</details>
+
+**Q9.2.** Income **accruing** in their US tax-deferred retirement accounts, if **notified under Section 89A**, is taxed in India: *(Hard)*
+A) Each year as it accrues  B) Only in the year of withdrawal, with credit for US tax  C) Never  D) At a flat 40%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **Section 89A** aligns the timing with the US, taxing it **on withdrawal** with credit for US tax, removing the accrual-vs-withdrawal mismatch. **A)** is exactly the mismatch 89A removes. **C)** It is taxed, just deferred. **D)** No such flat rate.
+</details>
+
+**Q9.3.** Must the Guptas buy **fresh life insurance** in India? *(Medium)*
+A) Yes — they cannot remit premiums for the foreign policies after becoming residents  B) Yes — residents cannot hold a foreign life policy  C) No — they may keep the US policies and pay premiums from US rent or by remitting from India  D) Yes — the policies auto-lapse on relocation
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Indian law lets a returning resident **keep an existing foreign life policy**, paying from foreign income or remittance. **A), B), D)** wrongly force fresh policies or block premiums.
+</details>
+
+**Q9.4.** Regarding their **health insurance**, the best advice is: *(Medium)*
+A) Continue the US policy only; no Indian policy needed since it covers India  B) Continue the US policy and also buy a fresh Indian policy to build a local no-claim history  C) Drop the US policy and rely on a new Indian policy alone  D) Buy nothing; employer cover suffices
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Even though the US policy covers India, buying a **fresh Indian policy builds a local no-claim history** and continuity for the long term, worth the extra cost. **A)** misses the value of a local record. **C)** prematurely drops worldwide cover. **D)** the employer cover lapses at year-end.
+</details>
+
+**Q9.5.** For their long-term India investments, which tax point matters most for **equity mutual funds** they may now buy in India? *(Medium)*
+A) LTCG after 12 months at 12.5% above ₹1.25 lakh  B) LTCG after 36 months at 20% with indexation  C) Fully tax-free  D) Taxed only in the US
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Indian equity MF: **long-term after 12 months**, taxed at **12.5% on gains above ₹1.25 lakh** (Sec 112A). **B)** is the property/old-debt rule, not equity. **C)** Equity gains are not tax-free. **D)** As residents, India taxes these.
+</details>
+
+---
+
+### Case Study 10 — Mr. Smart: Retired Couple, Inflation-Adjustment Shortfall
+
+Mr. Smart (60) retires with a pension of **₹4,80,000/year received yearly in advance**, that adjusts only **50%** with inflation. Mrs. Smart (58) gets the pension for life if he dies first. Retirement dues received: **₹40,00,000 (after tax)**. Living expenses currently equal the pension. Employer provides a lifelong adequate Mediclaim. Inflation **6%**. Life expectancy: Mr. 87, Mrs. 85 → plan for about **27 years**. They also want **₹1,00,000/year** (inflation 6%) for social/leisure spend, plus to make up the pension's inflation shortfall. Expenses arise at the **beginning** of each year; discount at **5%**.
+
+**Q10.1.** Why does the pension leave a growing **shortfall** each year? *(Easy)*
+A) The pension is fixed and never rises  B) The pension rises with only 50% of inflation, so real value erodes  C) The pension is taxed away  D) Inflation does not affect expenses
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Expenses rise with **full 6% inflation** but the pension rises with only **half** of it, so a **widening gap** appears yearly. **A)** the pension does partly rise. **C)** taxation is not the issue here. **D)** inflation clearly affects expenses.
+</details>
+
+**Q10.2.** Including the lifestyle ₹1,00,000 and the inflation shortfall, the present value of the **inflation adjustment required** (≈27 years, beginning-of-year, discounted at 5%) is closest to: *(Hard)*
+A) ₹80,18,710  B) ₹76,36,867  C) ₹1,91,39,462  D) ₹40,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Discounting the growing shortfall plus the lifestyle amount over ~27 years at 5% (payments at the start of each year) gives **≈ ₹80,18,710**. **B)** uses end-of-year timing. **C)** double-counts the full pension instead of just the shortfall. **D)** is merely the available corpus, not the requirement.
+</details>
+
+**Q10.3.** Since the required ₹80,18,710 **exceeds** the available ₹40,00,000 corpus, the correct conclusion is: *(Hard)*
+A) They cannot meet the need even at higher returns  B) They can meet it only if the ₹40 lakh earns about 9.22% p.a.  C) They can easily meet it at 5% p.a.  D) The corpus is irrelevant
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — At 5% the ₹40 lakh is short; the corpus suffices **only if it earns about 9.22% p.a.** (the rate at which ₹40 lakh funds the same stream). **A)** is too pessimistic — a higher return can close the gap. **C)** at 5% it is clearly insufficient. **D)** the corpus is central to the analysis.
+</details>
+
+**Q10.4.** The **government scheme** giving senior citizens the highest fixed rate they should consider is: *(Easy)*
+A) Public sector bank FD for seniors  B) Senior Citizen Savings Scheme (SCSS)  C) Equity mutual fund  D) ULIP
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **SCSS** is the **government** scheme (high fixed rate for 60+). **A)** A PSU-bank FD is a bank product, not a government scheme. **C), D)** are not fixed-income government schemes.
+</details>
+
+**Q10.5.** If Mr. Smart dies first, Mrs. Smart's pension continues, but the **plan should still provide** for: *(Medium)*
+A) Nothing further — her risk ends  B) The continuing inflation shortfall and lifestyle spend over her remaining life  C) A fresh life cover on Mrs. Smart  D) Repaying a loan they do not have
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The same **inflation shortfall and lifestyle needs continue** for Mrs. Smart's lifetime, so the corpus plan must cover her remaining years. **A)** understates her need. **C)** Life cover on a retiree with no dependents adds little. **D)** There is no loan.
+</details>
+
+---
+
+### Case Study 11 — Mr. Desai: Integrated Plan (Tax + Goal Funding + Insurance)
+
+Mr. Desai (45) earns ₹18,00,000/year. Goals: (1) **Daughter's MBA** in **4 years**, current cost **₹25,00,000**, education inflation **10%**; (2) **Retirement** at 60. He sells **listed shares** held 26 months for an LTCG of **₹4,00,000** (his only equity LTCG this year). He has a ₹50 lakh term cover and a ₹40 lakh home loan. Investment return on goal corpus **9%**. Ignore cess.
+
+**Q11.1.** The **future cost of the MBA** (₹25,00,000 inflated at 10% for 4 years) is closest to: *(Medium)*
+A) ₹33,00,000  B) ₹36,60,000  C) ₹30,25,000  D) ₹27,50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — FV(10%,4,,−2500000) = 25,00,000 × 1.10⁴ = 25,00,000 × 1.4641 = **₹36,60,250 ≈ ₹36,60,000**. **A)** under-compounds. **C)** uses ~2 years. **D)** uses 1 year of growth.
+</details>
+
+**Q11.2.** His **LTCG tax** on the ₹4,00,000 equity gain (Sec 112A) is: *(Medium)*
+A) ₹40,000  B) ₹34,375  C) ₹50,000  D) ₹37,500
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Held 26 months (>12) → LTCG. Taxable = 4,00,000 − 1,25,000 = ₹2,75,000; tax = 12.5% × 2,75,000 = **₹34,375**. **A)** uses 10%. **C)** ignores the exemption (12.5% × 4,00,000). **D)** uses 12.5% on ₹3,00,000 (wrong exemption).
+</details>
+
+**Q11.3.** To fund the ₹36,60,250 MBA cost in 4 years, the **lump sum to invest today at 9%** (PV) is closest to: *(Hard)*
+A) ₹25,93,000  B) ₹30,00,000  C) ₹33,57,000  D) ₹22,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — PV = 36,60,250 ÷ 1.09⁴ = 36,60,250 ÷ 1.4116 = **₹25,93,000** (approx). **B), C)** under-discount. **D)** over-discounts using a wrong rate.
+</details>
+
+**Q11.4.** If instead he saves an **equal annual amount** for 4 years at 9% (end of year) to reach ₹36,60,250, the annual saving (PMT) is closest to: *(Hard)*
+A) ₹9,15,000  B) ₹8,02,000  C) ₹7,00,000  D) ₹10,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The future-value annuity factor for 4 years at 9% is [(1.09⁴ − 1)/0.09] = 4.5731. PMT = 36,60,250 ÷ 4.5731 = **₹8,00,400 ≈ ₹8,02,000**. **A)** simply divides by 4 (ignores growth). **C)** under-saves. **D)** over-saves using a wrong factor.
+</details>
+
+**Q11.5.** On his ₹50 lakh cover against a ₹40 lakh home loan plus a family income need, the planner should note: *(Medium)*
+A) Cover is more than enough  B) Cover barely clears the loan, leaving little for family income — likely under-insured  C) He needs no cover since he has assets  D) Term cover cannot repay a loan
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A ₹50 lakh cover against a ₹40 lakh loan leaves only ₹10 lakh for the family's income replacement and the daughter's goal — clearly **under-insured**. **A)** ignores the income/goal needs. **C)** dependents still need income protection. **D)** term proceeds can certainly clear a loan.
+</details>
+
+---
+
+### Case Study 12 — The Rahmans: Comprehensive Household Plan
+
+Mr. Rahman (40) and Mrs. Rahman (38) have one child (8). Household expenses **₹80,000/month**. Mr. Rahman is the sole earner (₹20,00,000/year). They hold: equity MF **₹30,00,000**, debt/FD **₹20,00,000**, EPF **₹15,00,000**, a home loan of **₹50,00,000** (EMI ₹45,000/month), term cover **₹1,00,00,000**, and a base health policy of **₹5,00,000**. They want: child's college in **10 years** (current cost ₹40,00,000, edu-inflation 8%) and retirement at 60. General inflation **6%**, long-term return **10%**.
+
+**Q12.1.** The household's **emergency fund** target (commonly 6 months of expenses + EMIs) is closest to: *(Medium)*
+A) ₹4,80,000  B) ₹7,50,000  C) ₹2,70,000  D) ₹10,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Monthly outgo = expenses ₹80,000 + EMI ₹45,000 = ₹1,25,000; six months = 1,25,000 × 6 = **₹7,50,000**. **A)** uses expenses only, 6 months. **C)** ignores expenses/EMI scope. **D)** is an arbitrary round figure.
+</details>
+
+**Q12.2.** The **future cost of the child's college** (₹40,00,000 at 8% for 10 years) is closest to: *(Medium)*
+A) ₹64,00,000  B) ₹86,36,000  C) ₹72,00,000  D) ₹80,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — FV(8%,10,,−4000000) = 40,00,000 × 1.08¹⁰ = 40,00,000 × 2.1589 = **₹86,36,000**. **A)** uses ~1.6×. **C)** under-compounds. **D)** simply doubles.
+</details>
+
+**Q12.3.** Mr. Rahman's life-insurance adequacy: with a ₹50 lakh loan and an income-replacement need, is **₹1 crore** cover clearly sufficient? *(Hard)*
+A) Yes, ₹1 crore always suffices  B) No — after clearing the ₹50 lakh loan, only ₹50 lakh remains for income replacement and the child's goal, likely a shortfall  C) Yes, because they have MF and FD assets  D) Cover is irrelevant since EPF exists
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Cover ₹1 crore less the ₹50 lakh loan leaves ₹50 lakh, far below the present value of replacing a ₹20 lakh income for ~20 years plus the ₹86 lakh future college cost — a **likely shortfall**. **A)** is an unjustified rule of thumb. **C)** liquid assets are partly earmarked elsewhere. **D)** EPF alone cannot replace lifelong income.
+</details>
+
+**Q12.4.** Their **₹5,00,000 base health policy** for a family of three is best strengthened by: *(Medium)*
+A) Doing nothing, it is adequate  B) Adding a super top-up with a deductible equal to the base, for cost-effective higher cover  C) Cancelling it and self-funding  D) Buying three separate ₹1 lakh policies
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **super top-up** (aggregate deductible ≈ base sum insured) cheaply lifts total cover to handle large or multiple bills in a year. **A)** ₹5 lakh is thin for a family today. **C)** Self-funding large bills is risky. **D)** Tiny separate policies leave big gaps.
+</details>
+
+**Q12.5.** Given a **10-year** horizon for the college goal, the suitable asset mix to fund it is: *(Medium)*
+A) Entirely FD/debt  B) A growth-tilted mix (substantial equity) shifting to debt as the goal nears  C) Entirely small-cap equity throughout  D) A savings account
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A 10-year goal supports an **equity-tilted** start for growth, then **de-risking into debt** as the date approaches to lock in the corpus. **A)** Pure debt likely falls short over 10 years. **C)** All small-cap is too volatile, especially near the goal. **D)** A savings account erodes to inflation.
+</details>
+
+---
+
+> ✅ **Bank complete:** 40 standalone MCQs + 12 full case studies × 5 sub-questions = **100 questions**. Practise under time pressure, always writing out the formula and the step-by-step calculation before choosing — and remember the 25% negative marking when deciding whether to guess.

@@ -440,11 +440,11 @@ A) Rs. 2,00,000  B) Rs. 1,00,000  C) Nil  D) FMV at conversion
 </details>
 
 **Q48.** A mutual fund segregates its portfolio. The cost of acquisition of the segregated units is computed as: total cost ×
-A) (NAV of total portfolio ÷ NAV of segregated asset)  B) (NAV of asset transferred to segregated portfolio ÷ NAV of total portfolio before segregation)  C) (Segregated units ÷ total units)  D) Nil
+A) (NAV of asset transferred to segregated portfolio ÷ NAV of total portfolio before segregation)  B) (NAV of total portfolio ÷ NAV of segregated asset)  C) (Segregated units ÷ total units)  D) Nil
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Segregated cost = total portfolio cost × (NAV of asset transferred to segregated portfolio ÷ NAV of total portfolio immediately before segregation). It splits the cost in proportion to value moved to the side pocket.
-- A) inverts the ratio.
+**Correct: A)** — Segregated cost = total portfolio cost × (NAV of asset transferred to segregated portfolio ÷ NAV of total portfolio immediately before segregation). It splits the cost in proportion to value moved to the side pocket.
+- B) inverts the ratio.
 - C) uses unit counts instead of NAV.
 - D) is wrong: a cost is assigned, not nil.
 </details>
@@ -513,12 +513,12 @@ A) 25% of the lending price  B) 100% of the lending price plus lending fee and a
 </details>
 
 **Q56.** A right that is exercised gives shares whose holding period is reckoned from:
-A) The offer date  B) The date of allotment of the right shares  C) The renouncement date  D) The original share purchase
+A) The offer date  B) The renouncement date  C) The original share purchase  D) The date of allotment of the right shares
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For shares acquired by exercising a right, the holding period runs from the **date of allotment of those right shares**.
-- A) and C) relate to the right itself (renouncement), not the allotted shares.
-- D) applies to splits/mergers/pref-conversions, not exercised rights.
+**Correct: D)** — For shares acquired by exercising a right, the holding period runs from the **date of allotment of those right shares**.
+- A) and B) relate to the right itself (renouncement), not the allotted shares.
+- C) applies to splits/mergers/pref-conversions, not exercised rights.
 </details>
 
 **Q57.** If a stock-in-trade holder profits from selling right shares, the gain is taxable as:
@@ -637,12 +637,12 @@ A) Continue redeeming units  B) Cease creating, cancelling, issuing or redeeming
 </details>
 
 **Q70.** In a winding up, the sale proceeds of the scheme's assets are used FIRST to:
-A) Pay unit-holders  B) Discharge liabilities due and payable, then meet winding-up expenses  C) Pay the AMC fees only  D) Buy new securities
+A) Pay unit-holders  B) Pay the AMC fees only  C) Buy new securities  D) Discharge liabilities due and payable, then meet winding-up expenses
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Proceeds are **first used to discharge liabilities due and payable**, then to provide for winding-up expenses; only the **balance** is paid to unit-holders in proportion to their interest.
+**Correct: D)** — Proceeds are **first used to discharge liabilities due and payable**, then to provide for winding-up expenses; only the **balance** is paid to unit-holders in proportion to their interest.
 - A) happens last (the balance).
-- C) and D) are incorrect.
+- B) and C) are incorrect.
 </details>
 
 ## 🔴 Tier 3 — Hard: Numerical & Scenario (Q71–Q100)
@@ -658,12 +658,12 @@ A) Rs. 1,50,000  B) Rs. 6,00,000  C) Rs. 7,50,000  D) Rs. 12,00,000
 </details>
 
 **Q72.** Continuing Q71, what is the STCG on the 5,000 bonus shares (cost nil, held 01-09-2023 to 01-08-2024)?
-A) Rs. 1,50,000  B) Rs. 6,00,000  C) Rs. 75,000  D) Nil
+A) Rs. 1,50,000  B) Rs. 75,000  C) Nil  D) Rs. 6,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Bonus shares cost nil and were held about 11 months (≤12) = short-term. STCG = (Rs. 120 × 5,000) − nil = **Rs. 6,00,000**, taxed at 20% under Section 111A.
+**Correct: D)** — Bonus shares cost nil and were held about 11 months (≤12) = short-term. STCG = (Rs. 120 × 5,000) − nil = **Rs. 6,00,000**, taxed at 20% under Section 111A.
 - A) is the originals' LTCG.
-- C) and D) miscompute; the full sale value is the gain because cost is nil.
+- B) and C) miscompute; the full sale value is the gain because cost is nil.
 </details>
 
 **Q73.** Mr. Paul (1,000 shares) gets a 2:1 rights offer at Rs. 250. He renounces the right to buy 500 shares to Mr. X at Rs. 200/share. His short-term capital gain is:

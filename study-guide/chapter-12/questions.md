@@ -5,11 +5,11 @@
 ## 🟢 Tier 1 — Easy: Recall (Q1–Q35)
 
 **Q1.** Under an Employee Stock Option Plan (ESOP), the option given to an employee to buy shares is best described as a:
-A) Right and an obligation  B) Right but not an obligation  C) Obligation but not a right  D) Neither a right nor an obligation
+A) Right but not an obligation  B) Right and an obligation  C) Obligation but not a right  D) Neither a right nor an obligation
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The workbook states the option "confers a right but not an obligation on the employee." The employee may exercise it but is never forced to.
-- A) Wrong: there is no obligation to buy; calling it an obligation is incorrect.
+**Correct: A)** — The workbook states the option "confers a right but not an obligation on the employee." The employee may exercise it but is never forced to.
+- B) Wrong: there is no obligation to buy; calling it an obligation is incorrect.
 - C) Wrong: it is fundamentally a right, not an obligation.
 - D) Wrong: it clearly is a right (to purchase shares at a fixed price).
 
@@ -63,11 +63,11 @@ Intuition: You only truly own the shares once they are allotted to you, so the c
 </details>
 
 **Q6.** For ESOP shares, the cost of acquisition used to compute capital gains is the:
-A) Price paid by the employee  B) FMV on the exercise date  C) FMV on the grant date  D) FMV on the sale date
+A) FMV on the exercise date  B) Price paid by the employee  C) FMV on the grant date  D) FMV on the sale date
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The FMV on the date of exercising the option becomes the cost of acquisition.
-- A) Wrong: using only the price paid would double-tax the perquisite already taxed as salary.
+**Correct: A)** — The FMV on the date of exercising the option becomes the cost of acquisition.
+- B) Wrong: using only the price paid would double-tax the perquisite already taxed as salary.
 - C) Wrong: grant-date FMV is irrelevant throughout.
 - D) Wrong: the sale-date value is the sale consideration, not the cost.
 
@@ -172,11 +172,11 @@ Intuition: No transfer = no capital gain. The government rewards individuals who
 </details>
 
 **Q16.** The annual subscription limit of SGBs for an individual is:
-A) 1 kg  B) 4 kg  C) 20 kg  D) Unlimited
+A) 4 kg  B) 1 kg  C) 20 kg  D) Unlimited
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The maximum is 4 kg for individuals (also 4 kg for HUF, 20 kg for trusts) per fiscal year.
-- A) Wrong: 1 gram is the *minimum*, not the maximum.
+**Correct: A)** — The maximum is 4 kg for individuals (also 4 kg for HUF, 20 kg for trusts) per fiscal year.
+- B) Wrong: 1 gram is the *minimum*, not the maximum.
 - C) Wrong: 20 kg is the limit for trusts and similar entities.
 - D) Wrong: there is a defined ceiling.
 
@@ -218,11 +218,11 @@ Intuition: 80CCD(1) = "1 person" = the employee himself.
 </details>
 
 **Q20.** The additional NPS deduction of Rs. 50,000 over and above the Rs. 1.5 lakh limit is available under Section:
-A) 80CCD(1)  B) 80CCD(1B)  C) 80CCD(2)  D) 80CCC
+A) 80CCD(1B)  B) 80CCD(1)  C) 80CCD(2)  D) 80CCC
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 80CCD(1B) gives an extra Rs. 50,000 deduction over the Rs. 1.5 lakh cap.
-- A) Wrong: 80CCD(1) sits *inside* the 1.5 lakh cap.
+**Correct: A)** — Section 80CCD(1B) gives an extra Rs. 50,000 deduction over the Rs. 1.5 lakh cap.
+- B) Wrong: 80CCD(1) sits *inside* the 1.5 lakh cap.
 - C) Wrong: 80CCD(2) covers employer contributions, separately.
 - D) Wrong: 80CCC is for pension fund premiums within the 1.5 lakh cap.
 
@@ -266,11 +266,11 @@ Intuition: You may take out 60% as lump sum, and that 60% is exempt; the rest mu
 </details>
 
 **Q24.** A partial withdrawal from NPS by an employee is exempt up to what proportion of the employee's own contribution?
-A) 10%  B) 25%  C) 50%  D) 60%
+A) 25%  B) 10%  C) 50%  D) 60%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Partial withdrawal is exempt to the extent of 25% of the employee's own contribution.
-- A), C) Wrong: not the stated proportion.
+**Correct: A)** — Partial withdrawal is exempt to the extent of 25% of the employee's own contribution.
+- B), C) Wrong: not the stated proportion.
 - D) Wrong: 60% is the final-withdrawal exemption, not partial.
 
 Intuition: Partial early access is limited (25% of what *you* put in) to keep the retirement corpus intact.
