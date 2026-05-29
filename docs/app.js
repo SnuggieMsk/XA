@@ -70,8 +70,8 @@
   }
   (function initTheme() {
     var saved; try { saved = localStorage.getItem(TKEY); } catch (e) {}
-    if (!saved) saved = (window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
-    applyTheme(saved);
+    // Default to the light reading theme; only use dark if the user chose it.
+    applyTheme(saved === "dark" ? "dark" : "light");
   })();
 
   // ---------- Helpers ----------
