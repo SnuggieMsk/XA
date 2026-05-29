@@ -392,17 +392,17 @@ A) Equity mutual fund  B) AIF Cat 3  C) PMS  D) Index fund
 </details>
 
 **Q56.** A retirement saver wants a **market-linked** accumulation product. Which set fits per the workbook?
-A) PPF only  B) NPS, ELSS, other mutual fund schemes  C) Bank FD only  D) Physical gold
+A) NPS, ELSS, other mutual fund schemes  B) PPF only  C) Bank FD only  D) Physical gold
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Market-linked retirement accumulation products listed are **NPS, ELSS and other mutual fund schemes**. PPF (A) is the non-market-linked example. Bank FD (C) and physical gold (D) are not the workbook's retirement-accumulation examples. Market-linked = NPS/ELSS/MF.
+**Correct: A)** — Market-linked retirement accumulation products listed are **NPS, ELSS and other mutual fund schemes**. PPF (B) is the non-market-linked example. Bank FD (C) and physical gold (D) are not the workbook's retirement-accumulation examples. Market-linked = NPS/ELSS/MF.
 </details>
 
 **Q57.** For a non-market-linked retirement product, the workbook notes that even "fixed return" products now reset returns. Which examples are given?
-A) ELSS quarterly, NPS yearly  B) EPF yearly, PPF quarterly  C) FD monthly, gold daily  D) ULIP weekly
+A) ELSS quarterly, NPS yearly  B) ULIP weekly  C) FD monthly, gold daily  D) EPF yearly, PPF quarterly
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The workbook notes **EPF declares returns every year and PPF declares returns every quarter** — so even principal-guaranteed products no longer offer long-term fixed returns. A misattributes the resets to market products. C and D are invented. The point: "guaranteed" no longer means a fixed lifelong rate.
+**Correct: D)** — The workbook notes **EPF declares returns every year and PPF declares returns every quarter** — so even principal-guaranteed products no longer offer long-term fixed returns. A misattributes the resets to market products. B and C are invented. The point: "guaranteed" no longer means a fixed lifelong rate.
 </details>
 
 **Q58.** An investor seeks gold via futures and wants to know the time horizon. Per the workbook, gold futures have a horizon of:
@@ -420,10 +420,10 @@ A) ETFs have no costs at all  B) Index funds have brokerage and bid-ask spread c
 </details>
 
 **Q60.** An advisor compares a tax-saving FD and PPF at similar headline rates. Why does PPF give a better post-tax return?
-A) PPF has higher headline rate always  B) PPF returns are tax-free while FD interest is taxed yearly  C) FD has a lock-in penalty  D) PPF is market-linked
+A) PPF returns are tax-free while FD interest is taxed yearly  B) PPF has higher headline rate always  C) FD has a lock-in penalty  D) PPF is market-linked
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **PPF returns are tax-free** whereas **FD interest is taxable each year**, so even at the same headline rate PPF's post-tax return is higher. A is not claimed by the workbook. C is irrelevant to the comparison. D is false — PPF is not market-linked. Tax treatment is the decisive factor.
+**Correct: A)** — **PPF returns are tax-free** whereas **FD interest is taxable each year**, so even at the same headline rate PPF's post-tax return is higher. B is not claimed by the workbook. C is irrelevant to the comparison. D is false — PPF is not market-linked. Tax treatment is the decisive factor.
 </details>
 
 **Q61.** An investor wants to invest in a specific type of equity without picking individual stocks or needing personal stock expertise. Best fit?
@@ -434,10 +434,10 @@ A) Direct equity  B) An equity (or index) fund scheme  C) Company debenture  D) 
 </details>
 
 **Q62.** Which product's redemption may attract a charge from the fund manager for **handing back the investments to the investor**?
-A) Open-ended mutual fund  B) PMS  C) Bank FD  D) PPF
+A) Open-ended mutual fund  B) PPF  C) Bank FD  D) PMS
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — In **PMS**, the fund manager may charge for redeeming the investments or for handing back the charge of the investments to the investor. An open-ended MF (A) may levy an exit load but per a pre-declared rule. Bank FD (C) and PPF (D) have their own penalty/lock-in rules, not a handover charge. The handover charge is PMS-specific.
+**Correct: D)** — In **PMS**, the fund manager may charge for redeeming the investments or for handing back the charge of the investments to the investor. An open-ended MF (A) may levy an exit load but per a pre-declared rule. Bank FD (C) and PPF (B) have their own penalty/lock-in rules, not a handover charge. The handover charge is PMS-specific.
 </details>
 
 **Q63.** A close-ended AIF is being considered by an investor who may need money soon. What is the key warning?
@@ -448,10 +448,10 @@ A) It has instant liquidity  B) It has a lock-in period and poor liquidity  C) I
 </details>
 
 **Q64.** Which best contrasts mutual fund vs ULIP **liquidity**?
-A) Both allow anytime redemption  B) MF (open-ended) redeemable anytime (maybe exit load); ULIP needs 5-year compulsory contribution  C) ULIP is more liquid than MF  D) Both lock in for 15 years
+A) Both allow anytime redemption  B) Both lock in for 15 years  C) ULIP is more liquid than MF  D) MF (open-ended) redeemable anytime (maybe exit load); ULIP needs 5-year compulsory contribution
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — An **open-ended MF can be redeemed anytime** (with possible exit load), whereas a **ULIP requires 5 years of compulsory contribution** and no redemption for 5 years. A overstates ULIP liquidity. C reverses reality. D is the PPF figure. MFs win on liquidity.
+**Correct: D)** — An **open-ended MF can be redeemed anytime** (with possible exit load), whereas a **ULIP requires 5 years of compulsory contribution** and no redemption for 5 years. A overstates ULIP liquidity. C reverses reality. B is the PPF figure. MFs win on liquidity.
 </details>
 
 **Q65.** An advisor is asked why ULIP post-expense returns are hard to compute compared to mutual funds. The reason is:
@@ -462,10 +462,10 @@ A) ULIPs don't disclose NAV  B) Mortality and other charges are deducted from fu
 </details>
 
 **Q66.** Which gold form has the investor manage **safety and storage costs** themselves?
-A) Gold ETF  B) Physical gold  C) Sovereign Gold Bond  D) Gold fund
+A) Physical gold  B) Gold ETF  C) Sovereign Gold Bond  D) Gold fund
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Physical gold** carries safety and storage costs borne by the investor. A gold ETF (A) has only nominal cost. SGBs (C) have no such costs (no physical gold). Gold funds (D) build storage into fund charges. Self-managed storage/safety = physical gold.
+**Correct: A)** — **Physical gold** carries safety and storage costs borne by the investor. A gold ETF (B) has only nominal cost. SGBs (C) have no such costs (no physical gold). Gold funds (D) build storage into fund charges. Self-managed storage/safety = physical gold.
 </details>
 
 **Q67.** An investor wants the gold form that can be **exchanged for physical gold**. Which qualifies?

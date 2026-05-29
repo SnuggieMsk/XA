@@ -47,10 +47,10 @@ A) PV(15%,5,,-1500000)  B) PMT(15%,5,1500000)  C) RATE(5,,1500000)  D) FV(15%,5,
 </details>
 
 **Q5.** Under Section 112A, long-term capital gains on listed equity shares/equity mutual funds are taxed at what rate, and with what annual exemption? *(Medium)*
-A) 10% above ₹1 lakh  B) 12.5% above ₹1.25 lakh  C) 20% above ₹1 lakh  D) 15% with no exemption
+A) 10% above ₹1 lakh  B) 20% above ₹1 lakh  C) 15% with no exemption  D) 12.5% above ₹1.25 lakh
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Post the 2024 change, **LTCG u/s 112A is taxed at 12.5%** on gains **exceeding ₹1.25 lakh** in a financial year (no indexation for these listed equity assets). **A)** 10%/₹1 lakh was the old rate before the change. **C)** 20% is the STCG rate u/s 111A, not LTCG. **D)** There is an exemption, and 15% is neither the LTCG nor current STCG rate.
+**Correct: D)** — Post the 2024 change, **LTCG u/s 112A is taxed at 12.5%** on gains **exceeding ₹1.25 lakh** in a financial year (no indexation for these listed equity assets). **A)** 10%/₹1 lakh was the old rate before the change. **B)** 20% is the STCG rate u/s 111A, not LTCG. **C)** There is an exemption, and 15% is neither the LTCG nor current STCG rate.
 </details>
 
 **Q6.** Short-term capital gains on listed equity shares (held ≤12 months) under Section 111A are taxed at: *(Medium)*
@@ -96,10 +96,10 @@ A) FV using nominal return  B) PV using the real (inflation-adjusted) return  C)
 </details>
 
 **Q12.** Today's annual expense is ₹4,80,000; retirement is 8 years away; inflation 10%. The expense in the first year of retirement is closest to: *(Medium)*
-A) ₹8,64,000  B) ₹10,28,923  C) ₹9,60,000  D) ₹11,31,815
+A) ₹8,64,000  B) ₹9,60,000  C) ₹11,31,815  D) ₹10,28,923
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — =FV(10%,8,,−480000) = 4,80,000 × 1.10⁸ = 4,80,000 × 2.1436 = **₹10,28,923**. **A) ₹8,64,000** = only one period of growth. **C) ₹9,60,000** = simply doubling, no compounding. **D) ₹11,31,815** = 9 years of growth (1.10⁹), one year too many.
+**Correct: D)** — =FV(10%,8,,−480000) = 4,80,000 × 1.10⁸ = 4,80,000 × 2.1436 = **₹10,28,923**. **A) ₹8,64,000** = only one period of growth. **B) ₹9,60,000** = simply doubling, no compounding. **C) ₹11,31,815** = 9 years of growth (1.10⁹), one year too many.
 </details>
 
 **Q13.** Continuing Q12 (expense ₹10,28,923 at retirement, beginning-of-year), retirement return 11%, inflation 10%, for 15 years — the corpus required is closest to: *(Hard)*
@@ -673,10 +673,10 @@ A) Not taxable in India  B) Taxable only in the US  C) Taxable in India with cre
 </details>
 
 **Q9.2.** Income **accruing** in their US tax-deferred retirement accounts, if **notified under Section 89A**, is taxed in India: *(Hard)*
-A) Each year as it accrues  B) Only in the year of withdrawal, with credit for US tax  C) Never  D) At a flat 40%
+A) Each year as it accrues  B) Never  C) At a flat 40%  D) Only in the year of withdrawal, with credit for US tax
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Section 89A** aligns the timing with the US, taxing it **on withdrawal** with credit for US tax, removing the accrual-vs-withdrawal mismatch. **A)** is exactly the mismatch 89A removes. **C)** It is taxed, just deferred. **D)** No such flat rate.
+**Correct: D)** — **Section 89A** aligns the timing with the US, taxing it **on withdrawal** with credit for US tax, removing the accrual-vs-withdrawal mismatch. **A)** is exactly the mismatch 89A removes. **B)** It is taxed, just deferred. **C)** No such flat rate.
 </details>
 
 **Q9.3.** Must the Guptas buy **fresh life insurance** in India? *(Medium)*
@@ -796,10 +796,10 @@ A) ₹4,80,000  B) ₹7,50,000  C) ₹2,70,000  D) ₹10,00,000
 </details>
 
 **Q12.2.** The **future cost of the child's college** (₹40,00,000 at 8% for 10 years) is closest to: *(Medium)*
-A) ₹64,00,000  B) ₹86,36,000  C) ₹72,00,000  D) ₹80,00,000
+A) ₹64,00,000  B) ₹72,00,000  C) ₹86,36,000  D) ₹80,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — FV(8%,10,,−4000000) = 40,00,000 × 1.08¹⁰ = 40,00,000 × 2.1589 = **₹86,36,000**. **A)** uses ~1.6×. **C)** under-compounds. **D)** simply doubles.
+**Correct: C)** — FV(8%,10,,−4000000) = 40,00,000 × 1.08¹⁰ = 40,00,000 × 2.1589 = **₹86,36,000**. **A)** uses ~1.6×. **B)** under-compounds. **D)** simply doubles.
 </details>
 
 **Q12.3.** Mr. Rahman's life-insurance adequacy: with a ₹50 lakh loan and an income-replacement need, is **₹1 crore** cover clearly sufficient? *(Hard)*

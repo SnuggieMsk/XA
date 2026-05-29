@@ -513,10 +513,10 @@ A) Follow her stated wish and go 100% equity  B) Refuse to advise her  C) Explai
 </details>
 
 **Q73.** A client's questionnaire score classifies him as "Aggressive," but in conversation he confesses he lost sleep and panic-sold during the last market fall. The adviser should:
-A) Ignore the conversation and trust only the score  B) Recognise the questionnaire may not fully capture his true tolerance and treat his loss-aversion as a real signal to moderate the allocation  C) Increase his equity to "toughen him up"  D) Cancel his account
+A) Ignore the conversation and trust only the score  B) Increase his equity to "toughen him up"  C) Cancel his account  D) Recognise the questionnaire may not fully capture his true tolerance and treat his loss-aversion as a real signal to moderate the allocation
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Tools have limitations and investors may misreport; real behaviour (panic-selling) is strong evidence of lower true tolerance, so the allocation should be moderated. Blindly trusting the score (A) ignores the tool's limits, increasing equity (C) ignores his distress, and cancelling (D) is unwarranted.
+**Correct: D)** — Tools have limitations and investors may misreport; real behaviour (panic-selling) is strong evidence of lower true tolerance, so the allocation should be moderated. Blindly trusting the score (A) ignores the tool's limits, increasing equity (B) ignores his distress, and cancelling (C) is unwarranted.
 </details>
 
 **Q74.** Required-return logic: Priya needs Rs. 50 lakh in 10 years and currently has Rs. 25 lakh. She can take only moderate risk. Roughly, her money must double in 10 years. The needed annual growth (using the rule of 72) is closest to:
@@ -534,10 +534,10 @@ A) Her required return now demands aggressive risk her moderate tolerance may no
 </details>
 
 **Q76.** When required return exceeds what a client's risk tolerance can prudently support, the adviser's best response is to:
-A) Quietly invest more aggressively than the client's tolerance  B) Discuss options such as saving more, extending the time horizon, or moderating the goal  C) Guarantee the higher return  D) Tell the client risk does not matter
+A) Quietly invest more aggressively than the client's tolerance  B) Guarantee the higher return  C) Discuss options such as saving more, extending the time horizon, or moderating the goal  D) Tell the client risk does not matter
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — When the required return is unrealistic for the client's tolerance, the honest path is to re-examine the plan: save more, extend the horizon, or trim the goal. Secretly over-risking (A) breaches suitability, guarantees are impossible (C), and dismissing risk (D) is reckless.
+**Correct: C)** — When the required return is unrealistic for the client's tolerance, the honest path is to re-examine the plan: save more, extend the horizon, or trim the goal. Secretly over-risking (A) breaches suitability, guarantees are impossible (B), and dismissing risk (D) is reckless.
 </details>
 
 **Q77.** Sameer, 28, single, secure job, very high willingness, is being matched to the "young BPO employee, no dependents" model (50% equity, 20% sector, 10% gold ETF, 10% diversified debt/FD, 10% short-term/liquid). His combined equity-type exposure (equity + sector funds) is:
@@ -562,10 +562,10 @@ A) 30%  B) 40%  C) 50%  D) 60%
 </details>
 
 **Q80.** A 72-year-old couple's model is 15% equity index, 5% gold ETF, 35% debt-oriented hybrid/MIS/SCSS, 30% diversified debt/FD, 15% liquid/savings. If the adviser learns one spouse needs frequent medical withdrawals, which adjustment is most consistent with the chapter's logic?
-A) Increase equity to chase higher returns  B) Ensure adequate liquid/short-term allocation for ready access while keeping the bulk safe  C) Move all funds into illiquid real estate  D) Stop reviewing the portfolio
+A) Increase equity to chase higher returns  B) Move all funds into illiquid real estate  C) Stop reviewing the portfolio  D) Ensure adequate liquid/short-term allocation for ready access while keeping the bulk safe
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Medical needs demand ready liquidity, so the adviser should keep enough in liquid/short-term assets while the bulk stays safe — matching the objective (liquidity) to the asset. More equity (A) adds volatility they cannot bear, illiquid real estate (C) blocks access, and stopping reviews (D) is poor practice.
+**Correct: D)** — Medical needs demand ready liquidity, so the adviser should keep enough in liquid/short-term assets while the bulk stays safe — matching the objective (liquidity) to the asset. More equity (A) adds volatility they cannot bear, illiquid real estate (B) blocks access, and stopping reviews (C) is poor practice.
 </details>
 
 **Q81.** Vikram, an experienced investor with a Rs. 5 crore surplus, wants to take frequent market-timing bets on sectors. The chapter's guidance suggests he should:
@@ -576,17 +576,17 @@ A) Apply tactical calls to the entire Rs. 5 crore  B) Limit the size of the port
 </details>
 
 **Q82.** A client insists his adviser should "guarantee" he will never lose money yet also double his money in three years. The adviser should explain that:
-A) This is achievable with the right stock pick  B) Such a goal is internally contradictory — high required return demands risk, and capital can fall; no return can be guaranteed  C) He should sign a no-loss contract  D) Gold guarantees doubling
+A) This is achievable with the right stock pick  B) He should sign a no-loss contract  C) Gold guarantees doubling  D) Such a goal is internally contradictory — high required return demands risk, and capital can fall; no return can be guaranteed
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Doubling in three years needs roughly 24% a year (rule of 72: 72÷3), which requires high risk and therefore the possibility of loss — so a no-loss guarantee plus that return is contradictory. A magic stock (A), a no-loss contract (C) and gold guarantees (D) are all false promises.
+**Correct: D)** — Doubling in three years needs roughly 24% a year (rule of 72: 72÷3), which requires high risk and therefore the possibility of loss — so a no-loss guarantee plus that return is contradictory. A magic stock (A), a no-loss contract (B) and gold guarantees (C) are all false promises.
 </details>
 
 **Q83.** Two clients have identical incomes and savings (same capacity), but one is calm about losses and the other is highly anxious. The chapter implies their suitable allocations should:
-A) Be identical because capacity is identical  B) Differ, because willingness/psyche differs even when capacity is the same  C) Both be 100% equity  D) Both avoid equity entirely
+A) Be identical because capacity is identical  B) Both be 100% equity  C) Differ, because willingness/psyche differs even when capacity is the same  D) Both avoid equity entirely
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Willingness is psychological and differs between them, so the anxious client warrants a less risky allocation even with identical capacity — both dimensions matter. Identical allocations (A) ignore psyche, and forcing all-equity (C) or no-equity (D) on both ignores their differences.
+**Correct: C)** — Willingness is psychological and differs between them, so the anxious client warrants a less risky allocation even with identical capacity — both dimensions matter. Identical allocations (A) ignore psyche, and forcing all-equity (B) or no-equity (D) on both ignores their differences.
 </details>
 
 **Q84.** A client's goals are: an emergency fund (immediate), a house down-payment (3 years), and retirement (25 years). The most suitable structuring is:
@@ -597,17 +597,17 @@ A) All three goals in equity for maximum returns  B) Match each goal to suitable
 </details>
 
 **Q85.** A client was profiled three years ago as moderate. Since then he married, had a child, and took a large home loan. Per SEBI Reg 16, the adviser should:
-A) Keep the old profile unchanged  B) Update the risk profile because family composition and liabilities have changed  C) Wait ten years before any update  D) Delete his records
+A) Keep the old profile unchanged  B) Wait ten years before any update  C) Delete his records  D) Update the risk profile because family composition and liabilities have changed
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Reg 16 recommends updating the profile on special events such as changes in family composition and liabilities — exactly what happened. Keeping the old profile (A), waiting ten years (C), or deleting records (D) all conflict with the requirement to update.
+**Correct: D)** — Reg 16 recommends updating the profile on special events such as changes in family composition and liabilities — exactly what happened. Keeping the old profile (A), waiting ten years (B), or deleting records (C) all conflict with the requirement to update.
 </details>
 
 **Q86.** An adviser wants to offer a "free trial" of advice before the client commits. Under SEBI Reg 16, this is permissible only if:
-A) The client pays a deposit  B) The risk profile has been communicated to the client and the client's consent on it is obtained  C) The adviser keeps the profile secret  D) The trial lasts under 7 days
+A) The client pays a deposit  B) The adviser keeps the profile secret  C) The risk profile has been communicated to the client and the client's consent on it is obtained  D) The trial lasts under 7 days
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — No free trial may be offered without communicating the risk profile to the client and obtaining their consent on it. A deposit (A), secrecy (C), and a 7-day limit (D) are not the conditions specified.
+**Correct: C)** — No free trial may be offered without communicating the risk profile to the client and obtaining their consent on it. A deposit (A), secrecy (B), and a 7-day limit (D) are not the conditions specified.
 </details>
 
 **Q87.** A questionnaire asks: "You agree that aggressive equity investing is always the smartest choice, don't you?" The adviser should reject this question because it is:
@@ -618,10 +618,10 @@ A) Fair and clear  B) A leading question, which Reg 16 prohibits  C) Too short  
 </details>
 
 **Q88.** A young aggressive investor's equity holdings have surged so equity is now 70% of a portfolio designed for 50%. Under strategic asset allocation, the adviser should:
-A) Leave it because equity is performing well  B) Rebalance back toward the originally envisaged allocation  C) Increase equity further to ride the trend  D) Sell everything
+A) Leave it because equity is performing well  B) Increase equity further to ride the trend  C) Sell everything  D) Rebalance back toward the originally envisaged allocation
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Strategic allocation is periodically rebalanced back to the original envisaged mix, regardless of recent performance. Leaving it (A) or adding more (C) chases performance (that is tactical), and selling everything (D) abandons the plan.
+**Correct: D)** — Strategic allocation is periodically rebalanced back to the original envisaged mix, regardless of recent performance. Leaving it (A) or adding more (B) chases performance (that is tactical), and selling everything (C) abandons the plan.
 </details>
 
 **Q89.** A client demands the adviser increase his equity weight purely because "experts on TV say markets will boom." A strictly strategic adviser would respond that:

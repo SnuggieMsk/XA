@@ -618,52 +618,52 @@ A) Trade intraday for the adrenaline  B) Excitement raises long-term returns  C)
 </details>
 
 **Q88.** A client is convinced an endowment-type policy is the best "investment" because it bundles savings and insurance and saves tax. The adviser's strongest counter-illustration is:
-A) For the same outlay, term insurance plus PPF invariably beats the endowment policy's ultimate return  B) Endowment always wins on returns  C) Bundled products need no comparison  D) Tax saving outweighs returns
+A) Endowment always wins on returns  B) For the same outlay, term insurance plus PPF invariably beats the endowment policy's ultimate return  C) Bundled products need no comparison  D) Tax saving outweighs returns
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Term + PPF invariably beats an equivalent endowment policy on ultimate return. B) is false. C) avoids the analysis. D) repeats the bias. Behavioural logic: unbundling protection from investment is more efficient.
+**Correct: B)** — Term + PPF invariably beats an equivalent endowment policy on ultimate return. A) is false. C) avoids the analysis. D) repeats the bias. Behavioural logic: unbundling protection from investment is more efficient.
 </details>
 
 **Q89.** A client's overconfidence leads him to repeatedly breach the per-security limit in the agreed plan. The adviser's most consistent tool is to:
-A) Enforce the pre-set maximum exposure limit within the asset class to curb over-concentration  B) Raise the limit each time he asks  C) Abolish the limits  D) Let him concentrate freely
+A) Raise the limit each time he asks  B) Abolish the limits  C) Enforce the pre-set maximum exposure limit within the asset class to curb over-concentration  D) Let him concentrate freely
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — A per-security maximum exposure limit curbs the over-concentration his overconfidence drives. B), C) and D) surrender the discipline. Behavioural logic: the rule restrains the bias the client cannot self-restrain.
+**Correct: C)** — A per-security maximum exposure limit curbs the over-concentration his overconfidence drives. A), B) and D) surrender the discipline. Behavioural logic: the rule restrains the bias the client cannot self-restrain.
 </details>
 
 **Q90.** A stressed client both over-shops AND over-trades when anxious. The adviser recognises a common root and applies parallel fixes:
-A) Both are emotion-driven impulses; impose self-limiting brakes — budgeted account for shopping, priming/patience and rules for trading  B) Encourage both as healthy outlets  C) Ignore both as unrelated  D) Use a credit card and day-trading to channel the energy
+A) Encourage both as healthy outlets  B) Ignore both as unrelated  C) Use a credit card and day-trading to channel the energy  D) Both are emotion-driven impulses; impose self-limiting brakes — budgeted account for shopping, priming/patience and rules for trading
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Both behaviours are emotional impulses needing self-limiting brakes; budgeting curbs shopping, priming and rules curb trading. B) and D) worsen them. C) misses the shared cause. Behavioural logic: making impulses self-limiting addresses the underlying emotion.
+**Correct: D)** — Both behaviours are emotional impulses needing self-limiting brakes; budgeting curbs shopping, priming and rules curb trading. A) and C) worsen them. B) misses the shared cause. Behavioural logic: making impulses self-limiting addresses the underlying emotion.
 </details>
 
 **Q91.** A client says "frame it however you like, just tell me what to do." The adviser should still:
-A) Recognise that the recommendation is the same regardless of frame; choose the frame that best convinces this client  B) Give different advice depending on mood  C) Never explain the reasoning  D) Use random wording each time
+A) Give different advice depending on mood  B) Recognise that the recommendation is the same regardless of frame; choose the frame that best convinces this client  C) Never explain the reasoning  D) Use random wording each time
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Framing changes wording, not the underlying advice; pick the frame that convinces. B) wrongly varies the advice. C) and D) are poor practice. Behavioural logic: framing is a persuasion tool layered on identical advice.
+**Correct: B)** — Framing changes wording, not the underlying advice; pick the frame that convinces. A) wrongly varies the advice. C) and D) are poor practice. Behavioural logic: framing is a persuasion tool layered on identical advice.
 </details>
 
 **Q92.** A client demands the adviser "guarantee" he'll never lose, citing the adviser's role in managing emotions. The accurate boundary is:
-A) The adviser steadies emotions and keeps the plan on track but cannot eliminate market risk or guarantee returns  B) The adviser can guarantee no losses  C) The adviser controls the market  D) The adviser should promise high returns to reassure him
+A) The adviser can guarantee no losses  B) The adviser controls the market  C) The adviser steadies emotions and keeps the plan on track but cannot eliminate market risk or guarantee returns  D) The adviser should promise high returns to reassure him
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — The adviser manages emotions and keeps the plan on course, not market outcomes. B), C) and D) overpromise. Behavioural logic: emotional steadiness is the deliverable, not guaranteed profits.
+**Correct: C)** — The adviser manages emotions and keeps the plan on course, not market outcomes. A), B) and D) overpromise. Behavioural logic: emotional steadiness is the deliverable, not guaranteed profits.
 </details>
 
 **Q93.** A client over-invested abroad after reading hype about US tech, ignoring his plan's limits — the mirror image of home country bias. The adviser should:
-A) Re-anchor him to the agreed asset-allocation limits regardless of which market is hyped  B) Tell him foreign is always better  C) Tell him domestic is always better  D) Remove all limits
+A) Tell him foreign is always better  B) Tell him domestic is always better  C) Remove all limits  D) Re-anchor him to the agreed asset-allocation limits regardless of which market is hyped
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Whether the hype is domestic or foreign, the discipline is the pre-set allocation limits. B) and C) are absolutist. D) abandons discipline. Behavioural logic: limits guard against over-exposure driven by any hype, in any direction.
+**Correct: D)** — Whether the hype is domestic or foreign, the discipline is the pre-set allocation limits. A) and B) are absolutist. C) abandons discipline. Behavioural logic: limits guard against over-exposure driven by any hype, in any direction.
 </details>
 
 **Q94.** A couple disagrees: the husband wants to gamble the bonus, the wife wants safety. The adviser's behaviourally sound approach is to:
-A) Use objective goal-prioritisation and pre-agreed rules, framing the plan to satisfy both, treating all money under one disciplined plan  B) Side with the husband for excitement  C) Side with the wife and avoid all risk  D) Split into "his fun money" and "her safe money" with no plan
+A) Side with the husband for excitement  B) Use objective goal-prioritisation and pre-agreed rules, framing the plan to satisfy both, treating all money under one disciplined plan  C) Side with the wife and avoid all risk  D) Split into "his fun money" and "her safe money" with no plan
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Objective prioritisation, shared rules and good framing unify the plan. B) and C) take sides. D) institutionalises mental accounting with no discipline. Behavioural logic: one disciplined plan beats emotionally compartmentalised money.
+**Correct: B)** — Objective prioritisation, shared rules and good framing unify the plan. A) and C) take sides. D) institutionalises mental accounting with no discipline. Behavioural logic: one disciplined plan beats emotionally compartmentalised money.
 </details>
 
 **Q95.** A client checks his portfolio app 20 times daily and feels compelled to react to every tick. The adviser's preventative (priming) measure, set in advance, should be:

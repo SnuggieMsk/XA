@@ -124,10 +124,10 @@ A) Section 10(38)  B) Section 10(10D)  C) Section 80C  D) Section 54
 </details>
 
 **Q18.** The grandfathering of equity investments applies to shares acquired on or before:
-A) 1 October 2004  B) 31 January 2018  C) 1 April 2020  D) 23 July 2024
+A) 1 October 2004  B) 1 April 2020  C) 23 July 2024  D) 31 January 2018
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The Finance Act 2018 grandfathered investments made on or before 31-01-2018, since LTCG was tax-free until then. A) 01-10-2004 relates to STT-acquisition relief. C) 01-04-2020 is the stamp-duty/DDT date. D) 23 July 2024 is the date from which the new rates apply.
+**Correct: D)** — The Finance Act 2018 grandfathered investments made on or before 31-01-2018, since LTCG was tax-free until then. A) 01-10-2004 relates to STT-acquisition relief. B) 01-04-2020 is the stamp-duty/DDT date. C) 23 July 2024 is the date from which the new rates apply.
 </details>
 
 **Q19.** For grandfathering of a listed share, the fair market value as on 31-01-2018 is taken as:
@@ -273,10 +273,10 @@ A) ₹60,000  B) ₹40,000  C) ₹20,000  D) Nil
 </details>
 
 **Q39.** Which of the following is taxed as business income rather than capital gains?
-A) Sale of listed equity held 2 years  B) Gain on F&O trading on a recognised exchange  C) Dividend from preference shares  D) Sale of unlisted shares held 3 years
+A) Sale of listed equity held 2 years  B) Dividend from preference shares  C) Sale of unlisted shares held 3 years  D) Gain on F&O trading on a recognised exchange
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — F&O (derivatives) gains are taxed as business income (PGBP) or other sources. A) and D) are capital gains (LTCG). C) is dividend income taxed at slab rates. Only B) is business income.
+**Correct: D)** — F&O (derivatives) gains are taxed as business income (PGBP) or other sources. A) and C) are capital gains (LTCG). B) is dividend income taxed at slab rates. Only D) is business income.
 </details>
 
 **Q40.** Compared with listed equity shares, unlisted equity shares differ mainly in that they:

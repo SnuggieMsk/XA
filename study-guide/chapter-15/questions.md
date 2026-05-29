@@ -26,10 +26,10 @@ A) legatee  B) testator  C) trustee  D) settlor
 </details>
 
 **Q4.** The person named in a Will to administer the estate of the deceased is the ______.
-A) legatee  B) executor  C) donee  D) nominee
+A) legatee  B) nominee  C) donee  D) executor
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 2(c) defines the **executor** as the person to whom the testator confides execution of the Will; the executor collects assets, pays liabilities and distributes the legacy. A) Legatee only *receives*. C) Donee receives a *gift* (gift law, not a Will). D) Nominee merely receives investment proceeds on death, a different concept entirely.
+**Correct: D)** — Section 2(c) defines the **executor** as the person to whom the testator confides execution of the Will; the executor collects assets, pays liabilities and distributes the legacy. A) Legatee only *receives*. C) Donee receives a *gift* (gift law, not a Will). B) Nominee merely receives investment proceeds on death, a different concept entirely.
 </details>
 
 **Q5.** Which section of the Indian Succession Act confirms that a Will may be revoked or altered by the maker at any time while he is competent to dispose of his property?
@@ -152,10 +152,10 @@ A) voluntarily and without consideration  B) for full consideration  C) only on 
 </details>
 
 **Q22.** In a gift, the person making the gift is the ______ and the person receiving it is the ______.
-A) donee; donor  B) donor; donee  C) settlor; beneficiary  D) testator; legatee
+A) donee; donor  B) settlor; beneficiary  C) testator; legatee  D) donor; donee
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The person making the gift is the **donor**; the person receiving it is the **donee**. A) reverses the two. C) Settlor/beneficiary are trust parties. D) Testator/legatee are Will parties. Matching the right vocabulary to the right instrument is a common exam trap.
+**Correct: D)** — The person making the gift is the **donor**; the person receiving it is the **donee**. A) reverses the two. B) Settlor/beneficiary are trust parties. C) Testator/legatee are Will parties. Matching the right vocabulary to the right instrument is a common exam trap.
 </details>
 
 **Q23.** A gift is usually ______, but can be revoked if ______.
@@ -308,10 +308,10 @@ A) the slab rate of each beneficiary  B) a flat 10%  C) the Maximum Marginal Rat
 </details>
 
 **Q44.** Which trust has beneficiaries clearly specified with ascertained shares, where trustees have no discretion over distribution?
-A) Discretionary trust  B) Determinate (specific) trust  C) Public trust  D) Hybrid trust
+A) Discretionary trust  B) Public trust  C) Hybrid trust  D) Determinate (specific) trust
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A **determinate (specific) trust** clearly specifies beneficiaries and their ascertained shares; trustees must distribute per the fixed ratio in the deed. A) A discretionary trust gives trustees full discretion. C) A public trust is for the general public/charity. D) A hybrid trust mixes fixed + discretionary features.
+**Correct: D)** — A **determinate (specific) trust** clearly specifies beneficiaries and their ascertained shares; trustees must distribute per the fixed ratio in the deed. A) A discretionary trust gives trustees full discretion. B) A public trust is for the general public/charity. C) A hybrid trust mixes fixed + discretionary features.
 </details>
 
 **Q45.** A hybrid trust is one in which the trustee ______.
@@ -681,10 +681,10 @@ A) Yes, joint tenancy allows leaving a share by Will  B) No — under right of s
 </details>
 
 **Q97.** A son receives ₹5 lakh as a gift from his father, then invests it and earns ₹40,000 interest. What is the tax position?
-A) Both the ₹5 lakh and the ₹40,000 are taxed in the son's hands  B) The ₹5 lakh gift is exempt (relative), but the ₹40,000 income is taxable in the son's hands  C) Both are fully exempt  D) The father is taxed on the ₹40,000
+A) Both the ₹5 lakh and the ₹40,000 are taxed in the son's hands  B) Both are fully exempt  C) The father is taxed on the ₹40,000  D) The ₹5 lakh gift is exempt (relative), but the ₹40,000 income is taxable in the son's hands
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A gift from a **relative** (father) is **exempt** from tax in the donee's hands, but **any income later earned from the gift is taxable in the donee's (son's) hands**. A) is wrong — the gift itself is exempt. C) is wrong — the income is taxable. D) is wrong — the income belongs to and is taxed on the son (no clubbing for a major child's gift income).
+**Correct: D)** — A gift from a **relative** (father) is **exempt** from tax in the donee's hands, but **any income later earned from the gift is taxable in the donee's (son's) hands**. A) is wrong — the gift itself is exempt. B) is wrong — the income is taxable. C) is wrong — the income belongs to and is taxed on the son (no clubbing for a major child's gift income).
 </details>
 
 **Q98.** A settlor transfers immovable property to a **revocable** trust during his lifetime. Regarding capital gains tax, ______.
@@ -702,10 +702,10 @@ A) Personal assets are always fully protected  B) As guarantor, he is liable to 
 </details>
 
 **Q100.** A trust is created by a non-testamentary document (or verbally) and the settlor wants the ability to revoke it later. For this to be possible, the chapter says ______.
-A) it is automatically revocable in all cases  B) the power to revoke must be reserved to the settlor  C) it can never be revoked  D) only a court can revoke it
+A) the power to revoke must be reserved to the settlor  B) it is automatically revocable in all cases  C) it can never be revoked  D) only a court can revoke it
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — When a trust is created by a **non-testamentary document or verbally**, there **can be power reserved to the settlor for revocation**. A) is wrong — revocability is not automatic; for written trusts, Section 77/78 requires an express revocation clause. C) is too absolute. D) is wrong — revocation here flows from a reserved power, not solely a court.
+**Correct: A)** — When a trust is created by a **non-testamentary document or verbally**, there **can be power reserved to the settlor for revocation**. B) is wrong — revocability is not automatic; for written trusts, Section 77/78 requires an express revocation clause. C) is too absolute. D) is wrong — revocation here flows from a reserved power, not solely a court.
 </details>
 
 ## 🧩 Case Study
