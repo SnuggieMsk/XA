@@ -299,3 +299,200 @@ A) ₹1.5 crore  B) ₹6.2 crore  C) ₹4.8 crore  D) ₹3.5 crore
 </details>
 
 ---
+
+## 🧩 Full Exam-Style Case Studies
+
+> Each case has **5 sub-questions of 2 marks each (10 marks per case)**. Read the caselet, list the data, then work each sub-question with the 5-step method.
+
+### Case Study 1 — Mr. Rao: Pure Income-Tax Computation (old regime)
+
+Mr. Rao (42), a salaried resident, has the following for the financial year (old tax regime):
+
+| Item | Amount |
+|---|---|
+| Gross salary | ₹14,00,000 |
+| Standard deduction (salary) | ₹50,000 |
+| PPF + ELSS + EPF (80C eligible) | ₹2,10,000 invested |
+| Health insurance premium for self/family (80D) | ₹22,000 |
+| NPS own contribution (80CCD(1B)) | ₹50,000 |
+| Interest on self-occupied home loan (Sec 24b) | ₹2,40,000 paid |
+
+Ignore cess and surcharge. Use FY slabs (old regime): up to ₹2.5L nil; ₹2.5L–₹5L at 5%; ₹5L–₹10L at 20%; above ₹10L at 30%.
+
+**Q1.1.** What is Mr. Rao's income from salary after the standard deduction? *(Easy)*
+A) ₹14,00,000  B) ₹13,50,000  C) ₹13,00,000  D) ₹12,90,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Salary income = Gross − standard deduction = 14,00,000 − 50,000 = **₹13,50,000**. **A)** forgets the standard deduction. **C), D)** subtract the wrong amount (₹1,00,000 / ₹1,10,000), but the standard deduction is fixed at ₹50,000.
+</details>
+
+**Q1.2.** What is the **maximum** deduction allowable under Section 80C here? *(Easy)*
+A) ₹2,10,000  B) ₹2,00,000  C) ₹1,50,000  D) ₹1,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Although he invested ₹2,10,000, **80C is capped at ₹1,50,000**, so only ₹1,50,000 is deductible. **A)** wrongly allows the full invested amount. **B), D)** are not the statutory cap (the cap is ₹1.5 lakh).
+</details>
+
+**Q1.3.** Including 80C (₹1,50,000), 80CCD(1B) NPS (₹50,000) and 80D (₹22,000), the total of these three Chapter VI-A deductions is: *(Medium)*
+A) ₹2,00,000  B) ₹2,22,000  C) ₹2,32,000  D) ₹2,82,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — 80C 1,50,000 + 80CCD(1B) 50,000 + 80D 22,000 = **₹2,22,000**. The NPS ₹50,000 under 80CCD(1B) is **over and above** the 80C cap, so it is added in full; 80D health premium ₹22,000 is within its ₹25,000 limit. **A)** omits the 80D amount. **C)** adds ₹10,000 too much. **D)** wrongly counts the full ₹2,10,000 of 80C.
+</details>
+
+**Q1.4.** After also claiming the home-loan interest (Sec 24b, self-occupied, capped at ₹2,00,000), Mr. Rao's **net taxable income** is: *(Hard)*
+A) ₹9,28,000  B) ₹9,50,000  C) ₹9,28,000 + cess  D) ₹10,28,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Salary 13,50,000 − Chapter VI-A 2,22,000 = 11,28,000; less Sec 24b interest (capped at **₹2,00,000**, not the ₹2,40,000 paid, for a self-occupied house) = **₹9,28,000**. **B)** ignores part of the deductions. **C)** is the same figure but cess was told to be ignored. **D)** uses only ₹1,00,000 of interest.
+</details>
+
+**Q1.5.** On taxable income of ₹9,28,000 (old-regime slabs), the income tax before cess is: *(Hard)*
+A) ₹98,100  B) ₹1,00,600  C) ₹1,11,100  D) ₹92,600
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Slab tax: first ₹2.5L nil; next ₹2.5L (₹2.5L–₹5L) at 5% = ₹12,500; next ₹4.28L (₹5L–₹9.28L) at 20% = ₹85,600. Total = 12,500 + 85,600 = **₹98,100**. **B), C)** wrongly tax part of the income at 30% (income is below ₹10L, so no 30% slab applies). **D)** under-taxes the 20% band.
+</details>
+
+---
+
+### Case Study 2 — Ms. Mehta: Capital Gains Across Asset Classes
+
+In FY 2024-25 Ms. Mehta (resident) made the following sales (these are her only capital transactions):
+
+| Asset | Holding period | Capital gain |
+|---|---|---|
+| Listed equity shares (STT paid) | 20 months | ₹2,00,000 |
+| Listed equity shares (STT paid) | 7 months | ₹1,00,000 |
+| Equity mutual fund units | 15 months | ₹40,000 |
+
+Assume the LTCG ₹1.25 lakh exemption (Sec 112A) applies once across all eligible long-term equity gains. Ignore cess.
+
+**Q2.1.** Which of Ms. Mehta's gains are **long-term**? *(Easy)*
+A) Only the 20-month shares  B) The 20-month shares and the 15-month MF units  C) All three  D) Only the MF units
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Listed equity and equity MF become long-term after **12 months**, so the 20-month shares (₹2,00,000) and 15-month MF units (₹40,000) are LTCG. **A)** omits the MF units. **C)** wrongly includes the 7-month shares (these are short-term). **D)** ignores the 20-month shares.
+</details>
+
+**Q2.2.** Her **total long-term** capital gain (before the exemption) is: *(Easy)*
+A) ₹2,00,000  B) ₹2,40,000  C) ₹3,00,000  D) ₹3,40,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — LTCG = 2,00,000 (shares) + 40,000 (MF) = **₹2,40,000**. **A)** omits the MF gain. **C)** wrongly adds the short-term ₹1,00,000. **D)** adds everything regardless of holding period.
+</details>
+
+**Q2.3.** Her **LTCG tax** under Section 112A (12.5% above the ₹1.25 lakh exemption) is: *(Medium)*
+A) ₹14,375  B) ₹30,000  C) ₹24,000  D) ₹11,875
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Taxable LTCG = 2,40,000 − 1,25,000 = ₹1,15,000; tax = 12.5% × 1,15,000 = **₹14,375**. **B)** ignores the exemption (12.5% × 2,40,000). **C)** applies 10%/no exemption. **D)** uses only the share gain, forgetting the MF gain.
+</details>
+
+**Q2.4.** Her **STCG tax** on the 7-month listed shares (Sec 111A, 20%) is: *(Medium)*
+A) ₹15,000  B) ₹20,000  C) ₹12,500  D) ₹10,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — STCG u/s 111A = 20% × 1,00,000 = **₹20,000** (no ₹1.25 lakh exemption — that applies only to LTCG). **A)** uses the old 15% rate. **C)** uses 12.5% (LTCG rate). **D)** uses 10%.
+</details>
+
+**Q2.5.** Her **total capital-gains tax** for the year is: *(Hard)*
+A) ₹34,375  B) ₹14,375  C) ₹20,000  D) ₹44,375
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — LTCG tax ₹14,375 + STCG tax ₹20,000 = **₹34,375**. **B), C)** count only one of the two. **D)** adds an extra ₹10,000 that does not arise.
+</details>
+
+---
+
+### Case Study 3 — Mr. Khanna: Property Capital Gain with Indexation
+
+Mr. Khanna sold a residential plot in FY 2024-25. Details:
+
+| Item | Value |
+|---|---|
+| Sale consideration | ₹95,00,000 |
+| Year of purchase | FY 2010-11, cost ₹20,00,000 |
+| Cost Inflation Index (CII): FY 2010-11 | 167 |
+| CII: FY 2024-25 | 363 |
+| Holding period | About 14 years |
+
+For property, the taxpayer may compute LTCG **with indexation at 20%** (the route assumed in this case). Ignore cess.
+
+**Q3.1.** Is this gain long-term or short-term? *(Easy)*
+A) Short-term (held < 24 months)  B) Long-term (held > 24 months)  C) Short-term (held < 36 months)  D) Cannot be determined
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Immovable property becomes **long-term after 24 months**; held ~14 years → **long-term**. **A), C)** misstate the threshold or the facts. **D)** is wrong — the holding period is clearly given.
+</details>
+
+**Q3.2.** The **indexed cost of acquisition** is closest to: *(Medium)*
+A) ₹20,00,000  B) ₹43,47,305  C) ₹36,30,000  D) ₹29,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Indexed cost = Cost × (CII sale year ÷ CII purchase year) = 20,00,000 × (363 ÷ 167) = 20,00,000 × 2.1737 = **₹43,47,305**. **A)** ignores indexation. **C)** applies the CII ratio to the sale price by mistake. **D)** uses an arbitrary factor.
+</details>
+
+**Q3.3.** The **long-term capital gain** (after indexation) is closest to: *(Medium)*
+A) ₹75,00,000  B) ₹51,52,695  C) ₹58,70,000  D) ₹43,47,305
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — LTCG = Sale − Indexed cost = 95,00,000 − 43,47,305 = **₹51,52,695**. **A)** subtracts the raw (un-indexed) cost. **C)** uses a wrong indexed cost. **D)** mistakes the indexed cost itself for the gain.
+</details>
+
+**Q3.4.** The **tax at 20%** (indexation route) on this LTCG is closest to: *(Hard)*
+A) ₹10,30,539  B) ₹6,44,087  C) ₹15,00,000  D) ₹8,69,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Tax = 20% × 51,52,695 = **₹10,30,539**. **B)** applies 12.5% (the no-indexation route, used here only for comparison). **C)** taxes the un-indexed gain. **D)** uses a wrong gain figure.
+</details>
+
+**Q3.5.** Which Section lets Mr. Khanna **save this LTCG** by investing the gain in another residential house? *(Medium)*
+A) Section 54EC  B) Section 54  C) Section 80C  D) Section 112A
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **Section 54** exempts LTCG on a residential house if reinvested in another residential house within the prescribed time. **A) 54EC** is for reinvestment in specified bonds (and applies to land/building gains, capped at ₹50 lakh) — not "another house". **C) 80C** is an income deduction, not a capital-gains exemption. **D) 112A** is the charging section for equity LTCG, not an exemption.
+</details>
+
+---
+
+### Case Study 4 — The Sharmas: Retirement Corpus Planning
+
+Mr. Sharma (50) plans to retire at **60**. Today the household spends **₹70,000/month**. He wants the **same lifestyle, inflation-adjusted**, for **22 years** in retirement (drawn at the **beginning** of each year). Inflation is **7%**; expected return in retirement is **9%**. He already has a retirement corpus of **₹40,00,000** today, invested in debt at **8%**.
+
+**Q4.1.** The household's **current annual expense** is: *(Easy)*
+A) ₹7,00,000  B) ₹8,40,000  C) ₹9,60,000  D) ₹70,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — 70,000 × 12 = **₹8,40,000**. **A)** multiplies by 10. **C)** uses ₹80,000/month. **D)** is the monthly figure, not annual.
+</details>
+
+**Q4.2.** The annual expense in the **first year of retirement** (10 years away, inflation 7%) is closest to: *(Medium)*
+A) ₹14,00,000  B) ₹16,52,000  C) ₹12,00,000  D) ₹8,40,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — FV(7%,10,,−840000) = 8,40,000 × 1.07¹⁰ = 8,40,000 × 1.9672 = **₹16,52,000** (approx). **A)** under-compounds. **C)** uses too few years. **D)** forgets to inflate at all.
+</details>
+
+**Q4.3.** The **real (inflation-adjusted) return** to use for the retirement-years corpus is: *(Medium)*
+A) 2.00%  B) 1.87%  C) 16.00%  D) 0.93%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Real return = (1.09/1.07) − 1 = 1.0187 − 1 = **1.87%**. **A)** is the simple difference (9% − 7%), only an approximation. **C)** wrongly adds. **D)** would be correct only if return/inflation were 9%/8%.
+</details>
+
+**Q4.4.** The **corpus required at retirement** (PV of ₹16,52,000 for 22 years, beginning-of-year, at 1.87%) is closest to: *(Hard)*
+A) ₹2.97 crore  B) ₹3.63 crore  C) ₹1.65 crore  D) ₹5.00 crore
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Corpus = PV(1.87%, 22, −16,52,000, , 1). The annuity factor for 22 years at 1.87% (beginning-of-year) is about 18.0, so corpus ≈ 16,52,000 × 18.0 ≈ **₹2.97 crore**. **B)** over-states by using a wrong rate. **C)** counts far too few years. **D)** ignores discounting almost entirely.
+</details>
+
+**Q4.5.** His existing ₹40,00,000 corpus grown at **8% for 10 years** will be closest to: *(Hard)*
+A) ₹64,00,000  B) ₹86,36,000  C) ₹80,00,000  D) ₹1,00,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — FV(8%,10,,−4000000) = 40,00,000 × 1.08¹⁰ = 40,00,000 × 2.1589 = **₹86,36,000**. **A)** uses ~1.6×. **C)** simply doubles. **D)** over-states. (Comparing ₹86.36 lakh against the ₹2.97 crore need shows a large shortfall to be filled by fresh savings.)
+</details>
+
+---

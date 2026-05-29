@@ -358,22 +358,22 @@ A) Always, in every claim  B) Only where the claim amount exceeds the sum insure
 </details>
 
 **Q40.** The KEY difference between a Top-up and a Super Top-up plan is:
-A) Top-up is cheaper always  B) In a Top-up the threshold applies to every individual claim; in a Super Top-up it applies on the total of all yearly claims  C) Super Top-up has no deductible  D) Top-up covers death
+A) In a Top-up the threshold applies to every individual claim; in a Super Top-up it applies on the total of all yearly claims  B) Top-up is cheaper always  C) Super Top-up has no deductible  D) Top-up covers death
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — In a Top-up plan the threshold (deductible) is applied for *every claim*, whereas in a Super Top-up plan the threshold is applied on the *total of all hospitalisation claims for the year* (aggregate).
-- A) is wrong — relative price is not the defining difference.
+**Correct: A)** — In a Top-up plan the threshold (deductible) is applied for *every claim*, whereas in a Super Top-up plan the threshold is applied on the *total of all hospitalisation claims for the year* (aggregate).
+- B) is wrong — relative price is not the defining difference.
 - C) is wrong — both have a threshold/deductible.
 - D) is wrong — neither is a death-benefit product.
 </details>
 
 **Q41.** Why is a Super Top-up generally more generous than a Top-up?
-A) It has a higher premium  B) Its threshold is crossed only once per year on the aggregate, so smaller individual claims after that are payable  C) It covers wear and tear  D) It pays on death
+A) It has a higher premium  B) It covers wear and tear  C) Its threshold is crossed only once per year on the aggregate, so smaller individual claims after that are payable  D) It pays on death
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Because the threshold applies to the aggregate, once the year's total claims cross it, subsequent claims (even small ones) are payable. In a Top-up, each small claim below the per-claim threshold pays nothing.
+**Correct: C)** — Because the threshold applies to the aggregate, once the year's total claims cross it, subsequent claims (even small ones) are payable. In a Top-up, each small claim below the per-claim threshold pays nothing.
 - A) is wrong — higher premium is not why it is more generous.
-- C) and D) are wrong — these are not health-cover features.
+- B) and D) are wrong — these are not health-cover features.
 </details>
 
 **Q42.** A base policy of Rs. 5 lakh + super top-up of Rs. 10 lakh with a Rs. 5 lakh deductible gives total coverage of:
@@ -394,21 +394,21 @@ A) The super top-up premium is quite low, so base + super top-up is only slightl
 </details>
 
 **Q44.** For an employee whose employer provides Rs. 5 lakh cover, the IDEAL way to add cover is:
-A) A second full indemnity policy of Rs. 5 lakh  B) A super top-up with the deductible set equal to the employer cover  C) A keyman policy  D) A fidelity policy
+A) A super top-up with the deductible set equal to the employer cover  B) A second full indemnity policy of Rs. 5 lakh  C) A keyman policy  D) A fidelity policy
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Super top-up plans are ideally suitable for employees seeking cover above their employer's; the employee sets the deductible equal to the employer-provided amount, and the super top-up covers claims above it.
-- A) is wrong — duplicating indemnity cover makes little sense.
+**Correct: A)** — Super top-up plans are ideally suitable for employees seeking cover above their employer's; the employee sets the deductible equal to the employer-provided amount, and the super top-up covers claims above it.
+- B) is wrong — duplicating indemnity cover makes little sense.
 - C) and D) are wrong — keyman and fidelity are unrelated to topping up personal health cover.
 </details>
 
 **Q45.** Why is it advisable to keep the base plan and the top-up plan with the same insurer?
-A) It is legally required  B) To avoid dealing with two companies when a claim exceeds the threshold  C) Because premiums must match  D) To double the sum insured
+A) It is legally required  B) Because premiums must match  C) To avoid dealing with two companies when a claim exceeds the threshold  D) To double the sum insured
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — If the base and top-up are from different insurers, the insured must deal with both when a claim exceeds the threshold; keeping them with one insurer simplifies claims.
+**Correct: C)** — If the base and top-up are from different insurers, the insured must deal with both when a claim exceeds the threshold; keeping them with one insurer simplifies claims.
 - A) is wrong — it is advisable, not legally mandated.
-- C) and D) are wrong — neither is the stated reason.
+- B) and D) are wrong — neither is the stated reason.
 </details>
 
 **Q46.** For a super top-up where two insurers are involved, an additional requirement when a claim is below the threshold is:
@@ -430,11 +430,11 @@ A) Defined benefit  B) Indemnity  C) Keyman  D) Pure protection
 </details>
 
 **Q48.** A critical illness policy is classified as which type of policy?
-A) Indemnity  B) Defined benefit  C) Liability  D) Fidelity
+A) Defined benefit  B) Indemnity  C) Liability  D) Fidelity
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Critical illness is a defined benefit policy — it pays a fixed lump sum on contracting a specified disease (and surviving the required period).
-- A) is wrong — indemnity reimburses actual expense (health insurance).
+**Correct: A)** — Critical illness is a defined benefit policy — it pays a fixed lump sum on contracting a specified disease (and surviving the required period).
+- B) is wrong — indemnity reimburses actual expense (health insurance).
 - C) and D) are wrong — those are different product lines.
 </details>
 
@@ -449,12 +449,12 @@ A) The policy covers death  B) She did not meet the minimum survival period (abo
 </details>
 
 **Q50.** Which policy is best suited to replace lost income if a breadwinner gets cancer and cannot work?
-A) A small critical illness rider  B) A critical illness cover sized like life insurance (income-replacement)  C) Property insurance  D) Fidelity insurance
+A) A small critical illness rider  B) Property insurance  C) Fidelity insurance  D) A critical illness cover sized like life insurance (income-replacement)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The workbook stresses critical illness should be sized like life cover for income replacement; large covers usually come as standalone or as an accelerated sum-insured rider on a life policy.
+**Correct: D)** — The workbook stresses critical illness should be sized like life cover for income replacement; large covers usually come as standalone or as an accelerated sum-insured rider on a life policy.
 - A) is wrong — a small rider gives only a token amount, the common mistake.
-- C) and D) are wrong — they do not replace income on illness.
+- B) and C) are wrong — they do not replace income on illness.
 </details>
 
 **Q51.** Anil sells his old car (which had 50% NCB) and buys a new one. Regarding the NCB:

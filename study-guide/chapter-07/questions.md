@@ -365,13 +365,13 @@ A) 60 days  B) 120 days  C) 182 days  D) 365 days
 </details>
 
 **Q39.** A foreign national who is a PIO visits India with Indian income exceeding ₹15 lakh. He becomes resident if he stays in India for at least how many days in the PY (plus 365 days in 4 preceding years)?
-A) 60 days  B) 90 days  C) 120 days  D) 182 days
+A) 60 days  B) 90 days  C) 182 days  D) 120 days
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — For a PIO visiting India with Indian income exceeding ₹15 lakh, the test is 120 days or more in the PY AND 365 days or more in the 4 preceding years.
+**Correct: D)** — For a PIO visiting India with Indian income exceeding ₹15 lakh, the test is 120 days or more in the PY AND 365 days or more in the 4 preceding years.
 - A) 60 days does not apply to PIO visitors.
 - B) 90 is not a threshold in the Act.
-- D) 182 days applies when Indian income is up to ₹15 lakh.
+- C) 182 days applies when Indian income is up to ₹15 lakh.
 </details>
 
 **Q40.** A non-PIO foreign national stays in India 100 days in FY 2024-25 and 400 days across the 4 preceding years. His status is:
@@ -395,12 +395,12 @@ A) Non-resident  B) Always RNOR  C) Resident  D) Exempt
 </details>
 
 **Q42.** A resident HUF is treated as RNOR if its Manager (Karta):
-A) Is below 60 years of age  B) Has been a non-resident for at least 9 of 10 preceding years, OR in India ≤729 days in 7 preceding years  C) Lives abroad permanently  D) Is a foreign citizen
+A) Is below 60 years of age  B) Lives abroad permanently  C) Is a foreign citizen  D) Has been a non-resident for at least 9 of 10 preceding years, OR in India ≤729 days in 7 preceding years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A resident HUF is RNOR if the Karta satisfies either NOR condition: non-resident in 9 of 10 preceding years, or in India 729 days or less in the 7 preceding years.
+**Correct: D)** — A resident HUF is RNOR if the Karta satisfies either NOR condition: non-resident in 9 of 10 preceding years, or in India 729 days or less in the 7 preceding years.
 - A) Age is not the test.
-- C) and D) Permanent residence abroad or citizenship are not the prescribed conditions.
+- B) and C) Permanent residence abroad or citizenship are not the prescribed conditions.
 </details>
 
 **Q43.** Mr. P owns four houses: he lives in House A; House B is actually let out; Houses C and D are not let out. Which house's rent is definitely taxed as let-out?
@@ -413,12 +413,12 @@ A) House A  B) House B  C) House C  D) House D
 </details>
 
 **Q44.** How many house properties (not actually let out) can an assessee select as 'self-occupied' for tax purposes?
-A) One  B) Any two  C) Any three  D) Unlimited
+A) Any three  B) One  C) Unlimited  D) Any two
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — An assessee may select any two non-let-out houses as self-occupied; any other non-let-out house is treated as deemed let-out.
-- A) The limit was raised to two houses.
-- C) and D) exceed the permitted two.
+**Correct: D)** — An assessee may select any two non-let-out houses as self-occupied; any other non-let-out house is treated as deemed let-out.
+- B) The limit was raised to two houses.
+- A) and C) exceed the permitted two.
 </details>
 
 **Q45.** Under the OLD tax regime, the maximum interest deduction on a loan for a self-occupied property (loan post-1 Apr 1999, construction within 5 years) is:
@@ -628,11 +628,11 @@ A) ₹10,00,000  B) ₹15,00,000  C) ₹20,00,000  D) Fully exempt
 </details>
 
 **Q67.** Under Section 80CCE, the aggregate deduction under 80C + 80CCC + 80CCD(1) cannot exceed:
-A) ₹1,00,000  B) ₹1,50,000  C) ₹2,00,000  D) ₹50,000
+A) ₹1,00,000  B) ₹50,000  C) ₹2,00,000  D) ₹1,50,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 80CCE caps the combined deduction under 80C, 80CCC and 80CCD(1) at ₹1,50,000.
-- A), C), D) are not the combined cap.
+**Correct: D)** — Section 80CCE caps the combined deduction under 80C, 80CCC and 80CCD(1) at ₹1,50,000.
+- A), B), C) are not the combined cap.
 </details>
 
 **Q68.** Which deduction is available even under the NEW tax regime?
@@ -656,11 +656,11 @@ A) The French income is exempt in India  B) India taxes it but allows credit for
 </details>
 
 **Q70.** Public Provident Fund (PPF) and ELSS are examples of which taxation-regime category?
-A) EET  B) ETE  C) EEE  D) TEE always
+A) EEE  B) ETE  C) EET  D) TEE always
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — PPF and ELSS are EEE (Exempt at investment, Exempt on returns, Exempt on withdrawal) — though the first 'E' is lost in the new tax regime.
-- A) EET is taxed only at withdrawal.
+**Correct: A)** — PPF and ELSS are EEE (Exempt at investment, Exempt on returns, Exempt on withdrawal) — though the first 'E' is lost in the new tax regime.
+- C) EET is taxed only at withdrawal.
 - B) ETE describes 5-year tax-saving FDs and SCSS.
 - D) They become TEE only when the new regime removes the deduction; their classic category is EEE.
 </details>
@@ -767,11 +767,11 @@ A) ₹13,10,000  B) ₹14,25,000  C) ₹16,35,000  D) ₹17,10,000
 </details>
 
 **Q81.** Mr. A (old regime): salary ₹15,00,000; self-occupied house with home-loan interest ₹5,00,000; 80C eligible ₹1,80,000. House-property income (self-occupied) is the negative of interest, capped at:
-A) −₹5,00,000  B) −₹2,00,000  C) −₹1,50,000  D) Nil
+A) −₹2,00,000  B) −₹5,00,000  C) −₹1,50,000  D) Nil
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Self-occupied annual value is Nil; the loss = interest, but capped at ₹2,00,000 under the old regime. So house-property income = −₹2,00,000.
-- A) −₹5,00,000 ignores the ₹2 lakh cap.
+**Correct: A)** — Self-occupied annual value is Nil; the loss = interest, but capped at ₹2,00,000 under the old regime. So house-property income = −₹2,00,000.
+- B) −₹5,00,000 ignores the ₹2 lakh cap.
 - C) −₹1,50,000 is the 80C cap, not the interest cap.
 - D) Nil applies under the NEW regime, not the old.
 </details>
@@ -876,11 +876,11 @@ A) No, because he is a foreigner  B) Yes, because an ROR pays tax on global inco
 </details>
 
 **Q92.** A partnership firm has income exceeding ₹1 crore. Using effective tax rate = rate × (1 + surcharge) × (1 + cess) with 30%, 12% surcharge and 4% cess, the effective rate is:
-A) 30%  B) 34.944%  C) 42.744%  D) 33.6%
+A) 34.944%  B) 30%  C) 42.744%  D) 33.6%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Effective rate = 30% × (1 + 0.12) × (1 + 0.04) = 30% × 1.12 × 1.04 = 34.944%.
-- A) 30% ignores surcharge and cess.
+**Correct: A)** — Effective rate = 30% × (1 + 0.12) × (1 + 0.04) = 30% × 1.12 × 1.04 = 34.944%.
+- B) 30% ignores surcharge and cess.
 - C) 42.744% is the individual MMR (37% surcharge).
 - D) 33.6% applies surcharge but forgets the 4% cess.
 </details>
@@ -936,11 +936,11 @@ A) ₹7,00,000  B) ₹10,00,000  C) ₹12,00,000  D) ₹15,00,000
 </details>
 
 **Q98.** The section 87A rebate is NOT available against tax on:
-A) Salary income  B) House property income  C) Long-term capital gains under section 112A  D) Interest income
+A) Salary income  B) House property income  C) Interest income  D) Long-term capital gains under section 112A
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — The 87A rebate is not available against tax payable under section 112A (LTCG on listed equity shares / equity MF units etc.) or under section 111 (accumulated PF balance).
-- A), B), D) are normal incomes against which the rebate can apply.
+**Correct: D)** — The 87A rebate is not available against tax payable under section 112A (LTCG on listed equity shares / equity MF units etc.) or under section 111 (accumulated PF balance).
+- A), B), C) are normal incomes against which the rebate can apply.
 </details>
 
 **Q99.** Under the OLD regime, the section 87A rebate of up to ₹12,500 is available to a resident individual with total income not exceeding:

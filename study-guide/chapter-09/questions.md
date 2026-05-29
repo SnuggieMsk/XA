@@ -361,47 +361,47 @@ A) ₹2,00,000  B) ₹1,40,000  C) ₹60,000  D) ₹10,000
 </details>
 
 **Q41.** A gift of shares received from one's father is:
-A) Taxable above ₹50,000  B) Not chargeable (father is a relative)  C) Taxable at flat 30%  D) Taxable as salary
+A) Not chargeable (father is a relative)  B) Taxable above ₹50,000  C) Taxable at flat 30%  D) Taxable as salary
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Father is a listed relative, so the gift is not chargeable to tax regardless of value.
-- A) Wrong — the ₹50,000 threshold applies to gifts from non-relatives; relative gifts are fully exempt.
+**Correct: A)** — Father is a listed relative, so the gift is not chargeable to tax regardless of value.
+- B) Wrong — the ₹50,000 threshold applies to gifts from non-relatives; relative gifts are fully exempt.
 - C), D) Wrong — no special rate or salary treatment applies.
 </details>
 
 **Q42.** A gift of ₹1,00,000 worth of securities received from one's nephew is:
-A) Exempt — nephew is a relative  B) Taxable — nephew is not a relative and value exceeds ₹50,000  C) Taxable only on ₹50,000  D) Exempt up to ₹50,000, rest taxable
+A) Taxable — nephew is not a relative and value exceeds ₹50,000  B) Exempt — nephew is a relative  C) Taxable only on ₹50,000  D) Exempt up to ₹50,000, rest taxable
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A nephew is NOT a relative for this provision, and the value ₹1,00,000 exceeds ₹50,000, so the whole ₹1,00,000 is taxable.
-- A) Wrong — nephew/niece are specifically not relatives.
+**Correct: A)** — A nephew is NOT a relative for this provision, and the value ₹1,00,000 exceeds ₹50,000, so the whole ₹1,00,000 is taxable.
+- B) Wrong — nephew/niece are specifically not relatives.
 - C), D) Wrong — once the threshold is crossed, the entire amount is taxed (no slab/partial exemption).
 </details>
 
 **Q43.** Securities received in contemplation of death of the donor are:
-A) Taxable above ₹50,000  B) Not chargeable to tax  C) Taxable in full  D) Treated as capital gains
+A) Taxable above ₹50,000  B) Taxable in full  C) Not chargeable to tax  D) Treated as capital gains
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Property received in contemplation of death of the payer/donor does not give rise to income under this provision.
-- A), C) Wrong — this is an unconditional exception, regardless of value.
+**Correct: C)** — Property received in contemplation of death of the payer/donor does not give rise to income under this provision.
+- A), B) Wrong — this is an unconditional exception, regardless of value.
 - D) Wrong — it is not a capital gain.
 </details>
 
 **Q44.** A gift from a trust registered under Section 12AB is:
-A) Taxable above ₹50,000  B) Not chargeable to tax  C) Taxable in full  D) Taxable as dividend
+A) Taxable above ₹50,000  B) Taxable in full  C) Taxable as dividend  D) Not chargeable to tax
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Receipts from any trust/institution registered under Section 12A/12AA/12AB are not chargeable under this provision (due to the status of the donor).
-- A), C) Wrong — this exception is not subject to the ₹50,000 threshold.
-- D) Wrong — it is not dividend.
+**Correct: D)** — Receipts from any trust/institution registered under Section 12A/12AA/12AB are not chargeable under this provision (due to the status of the donor).
+- A), B) Wrong — this exception is not subject to the ₹50,000 threshold.
+- C) Wrong — it is not dividend.
 </details>
 
 **Q45.** For an HUF, who is treated as a "relative" for the gift provision?
-A) Only the karta  B) Every member of the HUF  C) Only adult members  D) Nobody
+A) Every member of the HUF  B) Only the karta  C) Only adult members  D) Nobody
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — In the case of an HUF, every member of the HUF is treated as a relative.
-- A), C) Wrong — it is not limited to the karta or only adults.
+**Correct: A)** — In the case of an HUF, every member of the HUF is treated as a relative.
+- B), C) Wrong — it is not limited to the karta or only adults.
 - D) Wrong — members are relatives.
 </details>
 
@@ -415,11 +415,11 @@ A) Exempt — step-brother is a relative  B) Taxable in full — step-brother is
 </details>
 
 **Q47.** A gift of securities received from the brother's wife (sister-in-law) is:
-A) Taxable above ₹50,000  B) Not chargeable — she is a relative  C) Taxable in full  D) Taxable at slab rates
+A) Not chargeable — she is a relative  B) Taxable above ₹50,000  C) Taxable in full  D) Taxable at slab rates
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Brother (and his wife) is on the relatives list, so a gift from the brother's wife is exempt.
-- A), C), D) Wrong — gifts from listed relatives are not chargeable under this provision.
+**Correct: A)** — Brother (and his wife) is on the relatives list, so a gift from the brother's wife is exempt.
+- B), C), D) Wrong — gifts from listed relatives are not chargeable under this provision.
 </details>
 
 **Q48.** Which pairing correctly matches the system of accounting with the basis of taxing interest on securities?
@@ -458,11 +458,11 @@ A) Collection charges  B) Interest on a loan taken to buy the securities  C) The
 </details>
 
 **Q52.** A non-resident shareholder receives dividend from an Indian company. Besides the Act, which provisions may also apply?
-A) Only GST law  B) DTAA and MLI  C) Customs law  D) None — it is exempt
+A) DTAA and MLI  B) Only GST law  C) Customs law  D) None — it is exempt
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For a non-resident shareholder, the provisions of Double Taxation Avoidance Agreements (DTAAs) and the Multilateral Instrument (MLI) also come into play.
-- A), C) Wrong — GST/customs do not govern dividend taxation.
+**Correct: A)** — For a non-resident shareholder, the provisions of Double Taxation Avoidance Agreements (DTAAs) and the Multilateral Instrument (MLI) also come into play.
+- B), C) Wrong — GST/customs do not govern dividend taxation.
 - D) Wrong — dividend is taxable, not exempt.
 </details>
 
@@ -504,13 +504,13 @@ A) It is a per-gift limit applied separately to each gift  B) It applies to the 
 </details>
 
 **Q57.** FMV of shares and securities for the gift provision is computed as per:
-A) Section 145  B) Rule 11UA  C) Section 2(22)  D) The SBI TT buying rate
+A) Section 145  B) Section 2(22)  C) The SBI TT buying rate  D) Rule 11UA
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — FMV of shares and securities is computed as per Rule 11UA of the Income Tax Rules, 1962.
+**Correct: D)** — FMV of shares and securities is computed as per Rule 11UA of the Income Tax Rules, 1962.
 - A) Wrong — Section 145 is the method of accounting.
-- C) Wrong — Section 2(22) defines dividend.
-- D) Wrong — the SBI TT buying rate is for foreign-currency conversion.
+- B) Wrong — Section 2(22) defines dividend.
+- C) Wrong — the SBI TT buying rate is for foreign-currency conversion.
 </details>
 
 **Q58.** Rule 11UA prescribes different methods of computing FMV for:

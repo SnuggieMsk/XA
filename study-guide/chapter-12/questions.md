@@ -29,13 +29,13 @@ Intuition: Vest = "becomes yours to use." You can only exercise once the right h
 </details>
 
 **Q3.** At the time of allotment of shares under an ESOP, the difference between FMV and the price paid by the employee is taxed under the head:
-A) Capital gains  B) Salary (as a perquisite)  C) Income from other sources  D) Profits and gains of business
+A) Capital gains  B) Income from other sources  C) Profits and gains of business  D) Salary (as a perquisite)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The value of shares allotted free or at a concessional rate is a perquisite, taxable as salary under Section 17(2)(vi).
+**Correct: D)** — The value of shares allotted free or at a concessional rate is a perquisite, taxable as salary under Section 17(2)(vi).
 - A) Wrong: capital gains arise only later, when the shares are sold.
-- C) Wrong: "other sources" is used for things like SGB interest, not ESOP perquisites.
-- D) Wrong: business income is unrelated; the employee earns this as employment compensation.
+- B) Wrong: "other sources" is used for things like SGB interest, not ESOP perquisites.
+- C) Wrong: business income is unrelated; the employee earns this as employment compensation.
 
 Intuition: The discount you get from your employer is a benefit *from your job* — so it is salary.
 </details>
@@ -1163,5 +1163,70 @@ A) Exempt under 10(10D)  B) Taxable (10(10D) exemption lost due to premium > 20%
 
 Intuition: Older policies (2003–2012) use a 20% premium test; breach it and the maturity payout becomes taxable.
 </details>
+
+## 🧩 Case Study
+
+**Scenario — Mr. Arvind's diversified portfolio (FY 2024-25)**
+
+Mr. Arvind, a resident individual salaried employee (old tax regime), has the following events during FY 2024-25:
+
+1. **ESOP:** His employer (a listed company) granted ESOPs. He exercised options for 200 shares when the FMV on the exercise date was Rs. 1,200 per share, paying the predetermined price of Rs. 200 per share.
+2. **SGB:** He bought 100 SGBs at nominal value Rs. 5,00,000 on 01-05-2019. SGB interest is 2.5% p.a. He holds them and lets them run toward maturity (no sale this year).
+3. **NPS:** He contributes Rs. 70,000 himself to his NPS account. His employer contributes Rs. 80,000. His "salary" (basic + eligible DA) is Rs. 8,00,000. He has already exhausted the Rs. 1,50,000 limit under Section 80C with other investments.
+4. **Gold ETF:** He bought 4,000 gold ETF units at Rs. 40 on 01-02-2020 and sold them at Rs. 70 on 10-06-2024.
+5. **Life insurance:** He receives Rs. 8,00,000 on the *death* of his father under a life policy where his father was insured and Arvind is the nominee.
+
+<details><summary>Q-CS1. Compute the ESOP perquisite taxable as salary.</summary>
+
+**Formula:** Perquisite = (FMV on exercise date − price paid per share) × number of shares.
+- FMV on exercise = Rs. 1,200; price paid = Rs. 200; shares = 200.
+- Perquisite = (1,200 − 200) × 200 = 1,000 × 200 = **Rs. 2,00,000**.
+
+This Rs. 2,00,000 is taxed as a salary perquisite in the year of allotment. (The exercise-date FMV of Rs. 1,200 also becomes the cost of acquisition if he later sells the shares; holding period would run from the allotment date.)
+
+Intuition: He is taxed on the bargain element — the Rs. 1,000/share discount across 200 shares.
+</details>
+
+<details><summary>Q-CS2. What is the tax treatment of the SGBs for FY 2024-25 (interest and any gain)?</summary>
+
+- **Interest:** taxable under "Income from other sources" at slab rates, with no TDS (Government Security).
+  - Interest = Nominal × 2.5% = 5,00,000 × 2.5% = **Rs. 12,500** for the year.
+- **Capital gain:** He does not sell this year and is an individual holding toward redemption, so under Section 47 redemption by an individual is not a transfer → **no capital gain** arises.
+
+So only the Rs. 12,500 interest is taxable this year.
+
+Intuition: Hold-to-redeem as an individual = gold appreciation is tax-free; only the 2.5% coupon is taxed.
+</details>
+
+<details><summary>Q-CS3. Compute Mr. Arvind's NPS deductions (old regime).</summary>
+
+- **Employee's own contribution (Rs. 70,000):** The Rs. 1,50,000 basket (80C + 80CCC + 80CCD(1)) is already exhausted by other 80C investments, so nothing extra can be claimed under 80CCD(1).
+  - However, the additional deduction under **80CCD(1B)** is available, capped at **Rs. 50,000**. So Rs. 50,000 of his Rs. 70,000 is deductible (the remaining Rs. 20,000 gets no deduction).
+- **Employer's contribution (Rs. 80,000) under 80CCD(2):** old-regime cap = 10% of salary = 10% × 8,00,000 = Rs. 80,000.
+  - Deduction = lower of (actual Rs. 80,000, cap Rs. 80,000) = **Rs. 80,000**.
+
+**Total NPS deduction = 50,000 + 80,000 = Rs. 1,30,000** (over and above the Rs. 1.5 lakh 80C already claimed). Note the employer's Rs. 80,000 is also first added to his salary.
+
+Intuition: The 1.5 lakh basket is full, so only the Rs. 50,000 extra (80CCD(1B)) plus the separate employer 80CCD(2) deduction remain.
+</details>
+
+<details><summary>Q-CS4. Compute the capital gain on the gold ETF and state the tax treatment.</summary>
+
+- Sale value = 4,000 × 70 = Rs. 2,80,000; cost = 4,000 × 40 = Rs. 1,60,000.
+- **Gain = 2,80,000 − 1,60,000 = Rs. 1,20,000.**
+- **Holding/treatment:** Bought on 01-02-2020 (before 01-04-2023), so the "always short-term" special window (for gold ETFs bought after 01-04-2023 and sold before 01-04-2025) does **not** apply. Held over 12 months → **long-term capital gain, taxed at 12.50%**.
+
+Intuition: Because it was bought before April 2023, normal long-term gold treatment applies — 12.50% on Rs. 1,20,000.
+</details>
+
+<details><summary>Q-CS5. Is the Rs. 8,00,000 life insurance death benefit taxable?</summary>
+
+- **No — it is fully exempt under Section 10(10D).** Any sum received on the **death** of the insured person is always exempt; the premium-to-sum-assured conditions (10%/20%) and the Rs. 5 lakh endowment / Rs. 2.5 lakh ULIP premium rules never apply to death proceeds.
+
+So Mr. Arvind includes Rs. 0 from this in taxable income.
+
+Intuition: Death benefits to a family/nominee are always protected from tax — no exceptions.
+</details>
+
 
 

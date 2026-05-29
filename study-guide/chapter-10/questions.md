@@ -45,12 +45,12 @@ A) Mercantile and cash systems  B) FIFO and LIFO  C) Accrual and amortised  D) S
 </details>
 
 **Q5.** Under the mercantile system of accounting, interest on securities is taxable on a:
-A) Receipt basis  B) Accrual basis  C) Maturity basis  D) Cash basis
+A) Receipt basis  B) Maturity basis  C) Cash basis  D) Accrual basis
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Mercantile = **accrual** basis; interest is taxed when it becomes due, even if not yet received.
-- A) and D) Wrong — receipt/cash basis describes the cash system, not mercantile.
-- C) Wrong — maturity basis is not a recognised method; accrual happens period by period.
+**Correct: D)** — Mercantile = **accrual** basis; interest is taxed when it becomes due, even if not yet received.
+- A) and C) Wrong — receipt/cash basis describes the cash system, not mercantile.
+- B) Wrong — maturity basis is not a recognised method; accrual happens period by period.
 </details>
 
 **Q6.** Under the cash system of accounting, interest on securities is taxed on a:
@@ -63,11 +63,11 @@ A) Accrual basis  B) Due basis  C) Receipt basis  D) Estimated basis
 </details>
 
 **Q7.** Securities held by Foreign Portfolio Investors (FPIs) are:
-A) Always treated as stock-in-trade  B) Always treated as a capital asset  C) Exempt from all tax  D) Taxed only as business income
+A) Always treated as a capital asset  B) Always treated as stock-in-trade  C) Exempt from all tax  D) Taxed only as business income
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The workbook states FPIs' securities are **always treated as a capital asset**, so their gains are always taxed under capital gains.
-- A) Wrong — they are the opposite of stock-in-trade; they are capital assets.
+**Correct: A)** — The workbook states FPIs' securities are **always treated as a capital asset**, so their gains are always taxed under capital gains.
+- B) Wrong — they are the opposite of stock-in-trade; they are capital assets.
 - C) Wrong — they are taxed, just under the capital gains head.
 - D) Wrong — they are taxed as capital gains, not business income.
 </details>
@@ -103,13 +103,13 @@ A) Coupon rate  B) Repo rate  C) Yield-to-maturity  D) Marginal cost of funds
 </details>
 
 **Q11.** Interest arising from bonds is generally taxable:
-A) At a flat 12.50%  B) At normal rates applicable to the assessee  C) Tax-free in all cases  D) At 20% always
+A) At a flat 12.50%  B) Tax-free in all cases  C) At 20% always  D) At normal rates applicable to the assessee
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Bond interest is taxed under Other Sources at **normal (slab) rates** applicable to the assessee.
+**Correct: D)** — Bond interest is taxed under Other Sources at **normal (slab) rates** applicable to the assessee.
 - A) Wrong — 12.50% is the LTCG rate on listed bonds, not the interest rate.
-- C) Wrong — only tax-free bonds give exempt interest; ordinary bonds do not.
-- D) Wrong — 20% is the non-resident dividend rate, not the general interest rate.
+- B) Wrong — only tax-free bonds give exempt interest; ordinary bonds do not.
+- C) Wrong — 20% is the non-resident dividend rate, not the general interest rate.
 </details>
 
 **Q12.** For LISTED bonds or debentures, the holding period to qualify as a long-term capital asset is:
@@ -131,12 +131,12 @@ A) 10% with indexation  B) 12.50% without indexation  C) 20% with indexation  D)
 </details>
 
 **Q14.** Capital gains on UNLISTED bonds or debentures are:
-A) Always long-term, taxed at 12.50%  B) Always short-term, taxed at applicable rates  C) Exempt from tax  D) Taxed at 20% with indexation
+A) Always long-term, taxed at 12.50%  B) Exempt from tax  C) Always short-term, taxed at applicable rates  D) Taxed at 20% with indexation
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Irrespective of holding period, gains on unlisted bonds/debentures are **short-term**, taxed at applicable (slab) rates.
+**Correct: C)** — Irrespective of holding period, gains on unlisted bonds/debentures are **short-term**, taxed at applicable (slab) rates.
 - A) Wrong — they never qualify as long-term, so 12.50% LTCG does not apply.
-- C) Wrong — they are taxable.
+- B) Wrong — they are taxable.
 - D) Wrong — no indexation and the rate is slab, not 20%.
 </details>
 
@@ -151,11 +151,11 @@ A) Long-term capital gains at 12.50%  B) Short-term capital gains irrespective o
 </details>
 
 **Q16.** A Government Security (G-Sec) is issued by:
-A) Private companies  B) The Central or State Governments  C) Mutual funds  D) Foreign banks
+A) Private companies  B) Mutual funds  C) Foreign banks  D) The Central or State Governments
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A G-Sec is a tradable instrument issued by the **Central Government or the State Governments**, acknowledging the Government's debt.
-- A), C), D) Wrong — these issuers do not issue sovereign G-Secs.
+**Correct: D)** — A G-Sec is a tradable instrument issued by the **Central Government or the State Governments**, acknowledging the Government's debt.
+- A), B), C) Wrong — these issuers do not issue sovereign G-Secs.
 </details>
 
 **Q17.** Government securities with a maturity of less than 1 year are usually called:
@@ -177,12 +177,12 @@ A) Treasury Bills  B) State Development Loans (SDLs)  C) Cash Management Bills  
 </details>
 
 **Q19.** G-Secs are considered the safest investment because they:
-A) Offer the highest returns  B) Carry the Sovereign's commitment and practically no default risk  C) Are exempt from all tax  D) Are guaranteed by SEBI
+A) Offer the highest returns  B) Are exempt from all tax  C) Carry the Sovereign's commitment and practically no default risk  D) Are guaranteed by SEBI
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — G-Secs carry the **Sovereign's commitment** for interest and principal, with practically no default risk — hence "risk-free gilt-edged securities".
+**Correct: C)** — G-Secs carry the **Sovereign's commitment** for interest and principal, with practically no default risk — hence "risk-free gilt-edged securities".
 - A) Wrong — being safe, they usually offer modest, not the highest, returns.
-- C) Wrong — interest on ordinary G-Secs is taxable.
+- B) Wrong — interest on ordinary G-Secs is taxable.
 - D) Wrong — they are backed by the Government, not guaranteed by SEBI.
 </details>
 
@@ -196,11 +196,11 @@ A) Less than 91 days  B) Exactly 1 year  C) 5 to 40 years  D) 364 days only
 </details>
 
 **Q21.** Treasury Bills (T-Bills) are issued in which tenors?
-A) 30, 60 or 90 days  B) 91, 182 or 364 days  C) 1, 3 or 5 years  D) 6, 12 or 24 months
+A) 30, 60 or 90 days  B) 1, 3 or 5 years  C) 6, 12 or 24 months  D) 91, 182 or 364 days
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — T-Bills are issued in three tenors: **91 days, 182 days or 364 days** (never exceeding 1 year).
-- A), C), D) Wrong — these are not the prescribed T-Bill tenors.
+**Correct: D)** — T-Bills are issued in three tenors: **91 days, 182 days or 364 days** (never exceeding 1 year).
+- A), B), C) Wrong — these are not the prescribed T-Bill tenors.
 </details>
 
 **Q22.** The return on a T-Bill arises from:
@@ -213,11 +213,11 @@ A) A half-yearly coupon  B) The difference between the issue (discounted) price 
 </details>
 
 **Q23.** Dated Government Securities (Dated G-Secs) generally pay interest:
-A) Monthly  B) Half-yearly  C) Annually  D) Only at maturity
+A) Monthly  B) Annually  C) Only at maturity  D) Half-yearly
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Dated G-Secs carry a fixed or floating coupon paid on the face value on a **half-yearly** basis.
-- A), C), D) Wrong — the workbook specifies half-yearly servicing of interest, not monthly/annual/at-maturity.
+**Correct: D)** — Dated G-Secs carry a fixed or floating coupon paid on the face value on a **half-yearly** basis.
+- A), B), C) Wrong — the workbook specifies half-yearly servicing of interest, not monthly/annual/at-maturity.
 </details>
 
 **Q24.** Profit arising on redemption or transfer of Cash Management Bills and T-Bills is treated as:
@@ -231,13 +231,13 @@ A) Long-term capital gain at 12.50%  B) Short-term capital gain at applicable ra
 </details>
 
 **Q25.** Dated G-Secs and SDLs are taxed in the same way as:
-A) Equity shares  B) Listed bonds  C) Market Linked Debentures  D) Treasury Bills
+A) Equity shares  B) Market Linked Debentures  C) Treasury Bills  D) Listed bonds
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Dated G-Secs and SDLs are issued in the form of bonds and are taxed the **same as listed bonds**.
+**Correct: D)** — Dated G-Secs and SDLs are issued in the form of bonds and are taxed the **same as listed bonds**.
 - A) Wrong — equity has different (Chapter 11) rules.
-- C) Wrong — MLDs are always short-term under Section 50AA, unlike G-Secs.
-- D) Wrong — T-Bills are always short-term; dated G-Secs can be long-term.
+- B) Wrong — MLDs are always short-term under Section 50AA, unlike G-Secs.
+- C) Wrong — T-Bills are always short-term; dated G-Secs can be long-term.
 </details>
 
 **Q26.** No TDS under Section 193 is required on interest on Central/State Government securities EXCEPT for:
@@ -249,11 +249,11 @@ A) All tax-free bonds  B) 8% Savings (Taxable) Bonds, 2003 and 7.75% Savings (Ta
 </details>
 
 **Q27.** TDS on interest on the 8% / 7.75% Savings (Taxable) Bonds is deducted only when annual interest exceeds:
-A) Rs. 5,000  B) Rs. 10,000  C) Rs. 40,000  D) Rs. 50,000
+A) Rs. 5,000  B) Rs. 40,000  C) Rs. 50,000  D) Rs. 10,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — TDS applies only when the interest paid during the year on these bonds exceeds **Rs. 10,000**.
-- A), C), D) Wrong — these are not the threshold stated in the workbook.
+**Correct: D)** — TDS applies only when the interest paid during the year on these bonds exceeds **Rs. 10,000**.
+- A), B), C) Wrong — these are not the threshold stated in the workbook.
 </details>
 
 **Q28.** Interest on tax-free bonds is:

@@ -617,12 +617,12 @@ A) Always the actual price paid  B) Always FMV on 01-04-2001  C) Higher of actua
 </details>
 
 **Q67.** Mr. Lal, a resident, sells a plot of land located in Dubai on 15 May 2026. The capital gains in foreign currency are converted to INR at the TT buying rate as on:
-A) 15 May 2026  B) 30 April 2026  C) 1 May 2026  D) 31 March 2026
+A) 15 May 2026  B) 1 May 2026  C) 31 March 2026  D) 30 April 2026
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For "other" capital gains, conversion uses the TT buying rate on the **last day of the month immediately preceding** the month of transfer — i.e. **30 April 2026** for a May 2026 transfer.
-- A), C) Not the prescribed date.
-- D) End of previous financial year is irrelevant here.
+**Correct: D)** — For "other" capital gains, conversion uses the TT buying rate on the **last day of the month immediately preceding** the month of transfer — i.e. **30 April 2026** for a May 2026 transfer.
+- A), B) Not the prescribed date.
+- C) End of previous financial year is irrelevant here.
 </details>
 
 **Q68.** The cost of acquisition of shares acquired on conversion of bonds/debentures into shares of that company is:
@@ -768,13 +768,13 @@ A) ₹2,50,000  B) ₹5,00,000  C) ₹2,00,000  D) ₹4,00,000
 </details>
 
 **Q82.** An investor's only capital transaction is STT-paid equity LTCG of ₹3,25,000. Tax payable?
-A) ₹40,625  B) ₹25,000  C) ₹37,500  D) ₹65,000
+A) ₹40,625  B) ₹37,500  C) ₹65,000  D) ₹25,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Taxable = 3,25,000 − 1,25,000 = ₹2,00,000. Tax @ 12.5% = 2,00,000 × 0.125 = **₹25,000**.
+**Correct: D)** — Taxable = 3,25,000 − 1,25,000 = ₹2,00,000. Tax @ 12.5% = 2,00,000 × 0.125 = **₹25,000**.
 - A) ₹40,625 taxes full 3,25,000 at 12.5%.
-- C) ₹37,500 uses 3,00,000 base.
-- D) ₹65,000 uses 20% on taxable.
+- B) ₹37,500 uses 3,00,000 base.
+- C) ₹65,000 uses 20% on taxable.
 </details>
 
 **Q83.** Mr. S has STT-paid equity STCG of ₹2,50,000 (Section 111A). Tax payable?
@@ -910,12 +910,12 @@ A) ₹10,00,000  B) ₹20,00,000  C) ₹25,00,000  D) ₹12,50,000
 </details>
 
 **Q96.** Mr. AB sells unlisted debentures in Dec 2024 (held 5 years) at a gain of ₹4,00,000. Tax treatment?
-A) LTCG at 12.5% = ₹50,000  B) STCG (always, s.50AA) at slab rate  C) LTCG at 20% indexed  D) Exempt
+A) LTCG at 12.5% = ₹50,000  B) LTCG at 20% indexed  C) Exempt  D) STCG (always, s.50AA) at slab rate
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Unlisted debentures transferred after 23 July 2024 are **always short-term** under Section 50AA, regardless of the 5-year holding; taxed at **slab rate**.
-- A), C) Never long-term.
-- D) Not exempt.
+**Correct: D)** — Unlisted debentures transferred after 23 July 2024 are **always short-term** under Section 50AA, regardless of the 5-year holding; taxed at **slab rate**.
+- A), B) Never long-term.
+- C) Not exempt.
 </details>
 
 **Q97.** Mr. CD sells a long-term plot, LTCG ₹12,00,000. He invests ₹12,00,000 in 54EC bonds but only ₹4,00,000 within 6 months and ₹8,00,000 after 8 months. Exemption?

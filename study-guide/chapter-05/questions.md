@@ -208,11 +208,11 @@ A) Rs. 1.5 lakh  B) Rs. 2 lakh  C) Rs. 25,000  D) Rs. 50,000
 </details>
 
 **Q23.** The four asset classes in NPS are Equity (E), Corporate Debt (C), Government Securities (G) and:
-A) Real Estate (R)  B) Alternative Investments (A)  C) Gold (D)  D) Money Market (M)
+A) Real Estate (R)  B) Gold (D)  C) Money Market (M)  D) Alternative Investments (A)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The fourth asset class is **Alternative Investments (A)** — instruments such as CMBS, REITs, AIFs and InvITs.
-- A), C) and D) are not among the four NPS asset classes defined by PFRDA.
+**Correct: D)** — The fourth asset class is **Alternative Investments (A)** — instruments such as CMBS, REITs, AIFs and InvITs.
+- A), B) and C) are not among the four NPS asset classes defined by PFRDA.
 </details>
 
 **Q24.** Under NPS Active Choice, the maximum permitted allocation to equity is:
@@ -266,13 +266,13 @@ A) 60 years  B) 70 years  C) 75 years  D) 80 years
 </details>
 
 **Q29.** The Unified Pension Scheme (UPS) provides an assured payout of what percentage of the last 12-month average basic pay (after 25 years of service)?
-A) 40%  B) 50%  C) 60%  D) 75%
+A) 40%  B) 60%  C) 75%  D) 50%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — UPS assures **50%** of the 12-month average basic pay immediately prior to superannuation, after a minimum of 25 years' qualifying service.
+**Correct: D)** — UPS assures **50%** of the 12-month average basic pay immediately prior to superannuation, after a minimum of 25 years' qualifying service.
 - A) 40% is the NPS retirement annuity minimum.
-- C) 60% is the UPS *family* (spouse) payout share.
-- D) 75% is not the UPS assured-payout rate.
+- B) 60% is the UPS *family* (spouse) payout share.
+- C) 75% is not the UPS assured-payout rate.
 </details>
 
 **Q30.** NPS Vatsalya is a scheme designed for:
@@ -389,13 +389,13 @@ A) 5%  B) 10%  C) 20%  D) Maximum marginal rate
 </details>
 
 **Q42.** A subscriber wants to contribute more than the mandatory 12% to his provident fund without expecting any employer match. Which product fits?
-A) PPF  B) VPF  C) NPS Tier II  D) Superannuation
+A) PPF  B) NPS Tier II  C) Superannuation  D) VPF
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The **Voluntary Provident Fund (VPF)** lets an EPF member contribute over and above 12% (up to 100% of Basic+DA) into the same EPF account, with **no employer match**.
+**Correct: D)** — The **Voluntary Provident Fund (VPF)** lets an EPF member contribute over and above 12% (up to 100% of Basic+DA) into the same EPF account, with **no employer match**.
 - A) PPF is a separate scheme with its own Rs. 1.5 lakh limit.
-- C) NPS Tier II is market-linked, not a provident fund top-up.
-- D) Superannuation is an employer-funded scheme, not employee-driven extra PF.
+- B) NPS Tier II is market-linked, not a provident fund top-up.
+- C) Superannuation is an employer-funded scheme, not employee-driven extra PF.
 </details>
 
 **Q43.** A client opened her PPF account on 15 Feb 2017. From which financial year can she make her first partial withdrawal?
@@ -408,13 +408,13 @@ A) 2021-22  B) 2022-23  C) 2023-24  D) 2026-27
 </details>
 
 **Q44.** A PPF subscriber wants to extend the account at maturity **with** contributions. Which form must be submitted and within what window?
-A) Form-2, after maturity  B) Form-4, within 1 year before maturity  C) Form-31, any time  D) Form-15G, at maturity
+A) Form-2, after maturity  B) Form-31, any time  C) Form-15G, at maturity  D) Form-4, within 1 year before maturity
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Extension *with* contribution requires **Form-4**, submitted **within one year before the maturity date**; otherwise the default (extension without contribution) applies.
+**Correct: D)** — Extension *with* contribution requires **Form-4**, submitted **within one year before the maturity date**; otherwise the default (extension without contribution) applies.
 - A) Form-2 is for partial withdrawals.
-- C) Form-31 is an EPF advance form.
-- D) Form-15G is for avoiding TDS, unrelated to PPF extension.
+- B) Form-31 is an EPF advance form.
+- C) Form-15G is for avoiding TDS, unrelated to PPF extension.
 </details>
 
 **Q45.** Employee A worked 20 years and 7 months and is covered under the Gratuity Act. How many years are counted as tenure?
@@ -536,13 +536,13 @@ A) 80CCD(1)  B) 80CCD(1B)  C) 80CCD(2)  D) 80C
 </details>
 
 **Q57.** A 64-year-old wants to invest in a scheme that pays interest quarterly with a maximum deposit of Rs. 30 lakh. Which product fits?
-A) PPF  B) SCSS  C) POMIS  D) PMVVY
+A) PPF  B) POMIS  C) PMVVY  D) SCSS
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The **Senior Citizens' Savings Scheme (SCSS)** has a maximum deposit of **Rs. 30 lakh**, interest credited **quarterly**, and is for those aged 60+.
+**Correct: D)** — The **Senior Citizens' Savings Scheme (SCSS)** has a maximum deposit of **Rs. 30 lakh**, interest credited **quarterly**, and is for those aged 60+.
 - A) PPF has a Rs. 1.5 lakh/year limit and 15-year lock-in.
-- C) POMIS caps at Rs. 9 lakh (single) / Rs. 15 lakh (joint) and pays monthly.
-- D) PMVVY is closed for new investments since 31 March 2023.
+- B) POMIS caps at Rs. 9 lakh (single) / Rs. 15 lakh (joint) and pays monthly.
+- C) PMVVY is closed for new investments since 31 March 2023.
 </details>
 
 **Q58.** A retired person aged 56 who took VRS wants to open an SCSS account. By when must the account be opened?
@@ -554,13 +554,13 @@ A) Within 1 week  B) Within 1 month of receiving retirement benefits  C) Within 
 </details>
 
 **Q59.** An investor wants to stagger fixed deposit maturities to reduce interest-rate risk and ensure annual liquidity. This strategy is called:
-A) Averaging  B) Laddering  C) Diversification  D) Hedging
+A) Averaging  B) Diversification  C) Hedging  D) Laddering
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Buying FDs/bonds **maturing at staggered dates** is the **laddering** strategy, which manages interest-rate risk and cash flow.
+**Correct: D)** — Buying FDs/bonds **maturing at staggered dates** is the **laddering** strategy, which manages interest-rate risk and cash flow.
 - A) Averaging is a different concept (e.g., rupee-cost averaging).
-- C) Diversification spreads across asset types, not maturities specifically.
-- D) Hedging uses offsetting positions/derivatives.
+- B) Diversification spreads across asset types, not maturities specifically.
+- C) Hedging uses offsetting positions/derivatives.
 </details>
 
 **Q60.** Mr. C ladders Rs. 10 lakh into five FDs of Rs. 2 lakh each (1–5 year maturities) and reinvests each into a new 5-year FD. When does his original 1-year FD finally mature after reinvestment?
@@ -574,13 +574,13 @@ A) 5th year  B) 6th year  C) 7th year  D) 10th year
 </details>
 
 **Q61.** Which statement correctly distinguishes an SWP from a bank FD's monthly interest payout?
-A) Both keep the corpus intact  B) In an SWP, units are sold so the fund value reduces  C) An SWP guarantees a fixed return  D) FD interest reduces the principal
+A) Both keep the corpus intact  B) An SWP guarantees a fixed return  C) FD interest reduces the principal  D) In an SWP, units are sold so the fund value reduces
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — In an **SWP, units are redeemed (sold)** to fund each withdrawal, so the fund value reduces by those units. In an FD, taking interest leaves the principal intact.
+**Correct: D)** — In an **SWP, units are redeemed (sold)** to fund each withdrawal, so the fund value reduces by those units. In an FD, taking interest leaves the principal intact.
 - A) Only the FD keeps corpus intact; the SWP does not.
-- C) SWPs do not guarantee returns; they depend on NAV.
-- D) FD interest does not reduce the principal.
+- B) SWPs do not guarantee returns; they depend on NAV.
+- C) FD interest does not reduce the principal.
 </details>
 
 **Q62.** SWP gains from an **equity** mutual fund held for more than 12 months are taxed at:
@@ -603,13 +603,13 @@ A) At 12.5% if held over 12 months  B) At 20% if short-term  C) At the investor'
 </details>
 
 **Q64.** Which scheme is operated solely by LIC, runs for 10 years, and is closed to new investors since 31 March 2023?
-A) SCSS  B) PMVVY  C) POMIS  D) APY
+A) SCSS  B) POMIS  C) APY  D) PMVVY
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Pradhan Mantri Vaya Vandana Yojana (PMVVY)** is run solely by LIC, has a 10-year term, and was closed to new investments after 31 March 2023.
+**Correct: D)** — **Pradhan Mantri Vaya Vandana Yojana (PMVVY)** is run solely by LIC, has a 10-year term, and was closed to new investments after 31 March 2023.
 - A) SCSS is offered through banks/post offices and is open.
-- C) POMIS is an India Post scheme and is open.
-- D) APY is a PFRDA pension scheme and is open.
+- B) POMIS is an India Post scheme and is open.
+- C) APY is a PFRDA pension scheme and is open.
 </details>
 
 **Q65.** What is the maximum a single individual can deposit in a Post Office Monthly Income Scheme (POMIS) single account?

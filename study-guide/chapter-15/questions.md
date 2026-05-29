@@ -12,10 +12,10 @@ A) immediately on signing  B) during his lifetime  C) after his death  D) only a
 </details>
 
 **Q2.** The person who makes a Will is called the ______.
-A) legatee  B) executor  C) testator  D) administrator
+A) testator  B) legatee  C) executor  D) administrator
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — The **testator** is the person making the Will, exercising rights over what is legally his own. A) **Legatee** is the person who *receives* a portion of the estate. B) **Executor** is the person *named in the Will to administer* the estate. D) **Administrator** is appointed by the *court* when there is no executor — not the maker of the Will.
+**Correct: A)** — The **testator** is the person making the Will, exercising rights over what is legally his own. B) **Legatee** is the person who *receives* a portion of the estate. C) **Executor** is the person *named in the Will to administer* the estate. D) **Administrator** is appointed by the *court* when there is no executor — not the maker of the Will.
 </details>
 
 **Q3.** A person named in a Will to receive a portion of the deceased's estate is called a ______.
@@ -40,10 +40,10 @@ A) Section 2(h)  B) Section 59  C) Section 62  D) Section 222
 </details>
 
 **Q6.** A Will made by a soldier in actual warfare, an airman so engaged, or a mariner at sea, pronounced orally before two witnesses, is called a ______ Will.
-A) holograph  B) privileged  C) concurrent  D) sham
+A) privileged  B) holograph  C) concurrent  D) sham
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A **privileged Will** can be made orally (by word of mouth) before two witnesses by soldiers in warfare, airmen and mariners at sea. A) **Holograph** Will is entirely in the testator's own handwriting. C) **Concurrent** Wills cover property in different countries. D) **Sham** Will is executed with formalities but with no real testamentary intention — a nullity.
+**Correct: A)** — A **privileged Will** can be made orally (by word of mouth) before two witnesses by soldiers in warfare, airmen and mariners at sea. B) **Holograph** Will is entirely in the testator's own handwriting. C) **Concurrent** Wills cover property in different countries. D) **Sham** Will is executed with formalities but with no real testamentary intention — a nullity.
 </details>
 
 **Q7.** A Will written entirely in the handwriting of the testator is known as a ______ Will.
@@ -54,10 +54,10 @@ A) duplicate  B) joint  C) holograph  D) mutual
 </details>
 
 **Q8.** In which type of Will do two testators confer reciprocal benefits upon each other, each acting as both testator and legatee?
-A) Joint Will  B) Mutual Will  C) Concurrent Will  D) Conditional Will
+A) Mutual Will  B) Joint Will  C) Concurrent Will  D) Conditional Will
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — In a **mutual Will** the two testators give each other reciprocal benefits, so each is both testator and legatee; if testator and legatee are different persons, a mutual Will is not viable. A) A **joint Will** is made by 2+ persons but is treated as two separate wills taking effect after both die. C) **Concurrent** Wills cover property in different countries. D) **Conditional** Will takes effect only on a contingency.
+**Correct: A)** — In a **mutual Will** the two testators give each other reciprocal benefits, so each is both testator and legatee; if testator and legatee are different persons, a mutual Will is not viable. B) A **joint Will** is made by 2+ persons but is treated as two separate wills taking effect after both die. C) **Concurrent** Wills cover property in different countries. D) **Conditional** Will takes effect only on a contingency.
 </details>
 
 **Q9.** A Will that takes effect only if a stated event or condition happens, and fails if it does not, is a ______ Will.
@@ -68,10 +68,10 @@ A) sham  B) privileged  C) conditional/contingent  D) duplicate
 </details>
 
 **Q10.** Registration of a Will under the Registration Act, 1908 is ______.
-A) compulsory in all cases  B) optional  C) compulsory only for Hindus  D) compulsory above ₹1 crore
+A) optional  B) compulsory in all cases  C) compulsory only for Hindus  D) compulsory above ₹1 crore
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 18 of the Registration Act makes registration of a Will an **optional** process; a non-registered Will is still a genuine, valid Will. A), C) and D) are all wrong because the law nowhere makes Will registration compulsory or value/community-based; it only lists *advantages* of registering (safe custody, can't be tampered, etc.).
+**Correct: A)** — Section 18 of the Registration Act makes registration of a Will an **optional** process; a non-registered Will is still a genuine, valid Will. B), C) and D) are all wrong because the law nowhere makes Will registration compulsory or value/community-based; it only lists *advantages* of registering (safe custody, can't be tampered, etc.).
 </details>
 
 **Q11.** A Will is registered on plain paper, which means ______.
@@ -495,3 +495,250 @@ A) registered with SEBI  B) authenticated/attested by the Indian Embassy/Consula
 
 **Correct: B)** — A POA executed outside India must be **authenticated/attested by the Indian Embassy/Consulate and notarized where executed**; it then remains valid even after the person returns to India. A) SEBI registration is irrelevant. C) Translation into Hindi is not a stated requirement. D) RBI pre-approval is not required.
 </details>
+
+## 🔴 Tier 3 — Hard: Scenario & Numerical (Q71–Q100)
+
+**Q71.** Trust ABC reports total income of ₹1,00,000: interest income ₹50,000 and dividends ₹50,000. Trustee fees are ₹20,000, realized capital gains are ₹20,000, and it gets an exemption of ₹20,000. What is the trust's **taxable income**?
+A) ₹1,00,000  B) ₹80,000  C) ₹60,000  D) ₹1,20,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Taxable Income = interest + dividends + capital gains − fees − exemptions. Plugging in: ₹50,000 + ₹50,000 + ₹20,000 − ₹20,000 − ₹20,000 = **₹80,000**. Note capital gains are ADDED in the taxable-income formula. A) ₹1,00,000 ignores the gains, fees and exemption netting. C) ₹60,000 wrongly subtracts the gains. D) ₹1,20,000 forgets to subtract fees/exemptions.
+</details>
+
+**Q72.** Using the same Trust ABC figures (taxable income ₹80,000, capital gains ₹20,000, exemption ₹20,000), what is the **Distributable Net Income (DNI)**?
+A) ₹40,000  B) ₹60,000  C) ₹80,000  D) ₹1,20,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — DNI = Taxable Income − Capital Gains + Tax Exemptions = ₹80,000 − ₹20,000 + ₹20,000 = **₹80,000**. (DNI removes capital gains and adds back exemptions; its purpose is to avoid double taxation.) A) and B) misapply the signs. D) double-counts. Here the gain and exemption are equal, so DNI happens to equal taxable income.
+</details>
+
+**Q73.** In the DNI formula, if a trust has a capital **loss** instead of a capital gain, the loss is ______.
+A) ignored entirely  B) added in place of the capital gains term  C) multiplied by the tax rate  D) subtracted twice
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The chapter states that if there is a capital loss, it is **added** to the formula, replacing the capital gains term (DNI = Taxable Income + Capital Loss + Exemptions). A) is wrong — the loss is not ignored. C) and D) invent operations not in the formula. (Note: in the *taxable income* formula, capital losses are subtracted — the treatment differs between the two formulas.)
+</details>
+
+**Q74.** Rajesh creates a determinate trust for his father and mother (equal beneficial interest). The trust's net annual value is ₹5,40,000, shared equally. Father separately receives a monthly pension of ₹40,000. What is the father's gross pension (salary) income for the year?
+A) ₹2,70,000  B) ₹4,80,000  C) ₹5,40,000  D) ₹7,50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Pension is ₹40,000 × 12 months = **₹4,80,000**. A) ₹2,70,000 is the father's *half-share of the trust* (₹5,40,000 ÷ 2), not pension. C) ₹5,40,000 is the whole trust value. D) ₹7,50,000 is the father's *total* income (pension + half-share), computed in the next step.
+</details>
+
+**Q75.** Continuing Q74: the father's total income = his ₹2,70,000 trust half-share + ₹4,80,000 pension = ₹7,50,000. After the New Tax Regime standard deduction of ₹75,000, his assessable taxable income is ______.
+A) ₹6,75,000  B) ₹7,50,000  C) ₹5,40,000  D) ₹6,50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Total income ₹7,50,000 − standard deduction ₹75,000 = **₹6,75,000**. B) ₹7,50,000 forgets the standard deduction. C) ₹5,40,000 is the full trust value. D) ₹6,50,000 is the *mother's* assessable income (computed separately).
+</details>
+
+**Q76.** Continuing the Rajesh case: the trustee, as representative assessee, is taxed at 5% on the slab of the father's income above his ₹4.8 lakh pension up to ₹6.75 lakh. What is the father's tax (before cess)?
+A) ₹9,750  B) ₹13,500  C) ₹23,250  D) ₹24,180
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — The portion taxed at 5% is the trust income that pushes income from ₹4.8 lakh up to ₹6.75 lakh; per the workbook this yields **₹9,750**. B) ₹13,500 is the *mother's* tax. C) ₹23,250 is the *combined* tax of both before cess. D) ₹24,180 is the total tax including 4% cess.
+</details>
+
+**Q77.** Continuing the Rajesh case: the mother's only other income is rented property net annual value ₹3,80,000. Her assessable income = half-share ₹2,70,000 + ₹3,80,000 = ₹6,50,000, taxed at 5% on the band above ₹3.8 lakh up to ₹6.5 lakh, giving ₹13,500. What is the **total tax (incl. 4% cess)** payable by the trustee as representative assessee?
+A) ₹24,180  B) ₹23,250  C) ₹58,485  D) ₹62,343
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Father's tax ₹9,750 + mother's tax ₹13,500 = ₹23,250. Cess at 4% = 0.04 × ₹23,250 = ₹930. Total = ₹23,250 + ₹930 = **₹24,180**. B) ₹23,250 omits the cess. C) and D) are distractor figures from the original options that do not match the worked calculation.
+</details>
+
+**Q78.** In the Rajesh trust case, the tax is levied on the trustee in a "representative" capacity. This is possible because the trust is ______.
+A) discretionary, taxed at MMR  B) determinate, with each parent's share clearly ascertained (equal interest)  C) a public charitable trust  D) an offshore trust
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Because the parents have **equal, clearly ascertained beneficial interest**, it is a **determinate trust**, and under Section 161(1) the trustee is taxed as a representative assessee at the beneficiaries' applicable slab rates. A) A discretionary trust would be taxed at MMR (30%), not at slab. C) and D) do not match the facts of a private family trust for parents.
+</details>
+
+**Q79.** Mr. PQR, a Hindu, dies leaving a Will. When his Will goes for probate, who can be called/notified to file objections?
+A) Only his surviving brothers  B) Only his surviving sisters  C) Surviving brothers, sisters, and the spouses/children of deceased brothers/sisters  D) Only the named legatees
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — On filing probate proceedings, the court issues notices to **all legal heirs** — including surviving brothers and sisters and the **spouses and children of deceased brothers/sisters** — to file objections. If they do not appear, they are presumed to have no objection. A), B) and D) are each too narrow — all legal heirs are notified, not just one class.
+</details>
+
+**Q80.** A settlor wants to retain control over assets and over distribution of income/capital gains from the trust. Which structure achieves this, and what is the tax consequence?
+A) Irrevocable trust; taxed in beneficiary's hands  B) Revocable trust; income taxed in the settlor's hands  C) Public trust; fully exempt  D) Discretionary trust; taxed in beneficiary's hands
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **revocable trust** lets the settlor keep control over assets and distributions; because assets are not considered "given away," the **income is taxed in the settlor's hands**. A) An irrevocable trust means giving up control. C) A public trust is for charity/religion, not personal control. D) A discretionary trust gives discretion to trustees and is taxed at MMR, not the settlor.
+</details>
+
+**Q81.** A business owner wants to transfer business interest into a vehicle that generates a fixed income stream for years, keeps control with the family during the term, and lets the business survive across generations or pass to beneficiaries after a defined term. Which tool?
+A) Nomination  B) Joint holding  C) Creation of a trust  D) Succession certificate
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — **Creating a trust** lets business interest generate a fixed income stream, keeps control with the family during the trust term, and ensures the business survives across generations or transfers to beneficiaries after a defined term. A) and B) do not provide this structured, multi-generational framework. D) A succession certificate only applies after death where there is no Will.
+</details>
+
+**Q82.** A debtor faces an aggressive government creditor with strong powers to seize assets. According to the asset-protection factors, this means ______.
+A) less protection is needed  B) stronger asset protection strategies are required  C) no protection is possible  D) only the debtor's spouse is at risk
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The **identity of the creditor** matters: a powerful organisation such as government has more power to seize assets than private lenders, so an aggressive creditor requires **stronger asset protection strategies**. A) is the opposite. C) is too absolute — protection strategies still exist. D) misstates the factor (that is the *debtor identity* factor, not creditor identity).
+</details>
+
+**Q83.** Which asset is specifically mentioned as one that creditors cannot attach, illustrating the "nature of the asset" factor?
+A) A demat account  B) A PPF account  C) A rented commercial shop  D) Listed equity shares
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **PPF (Public Provident Fund) account** of an individual cannot be attached by any creditor claim — an example of how the nature of the asset affects protection (also, life insurance protects a home from seizure on default). A), C) and D) are not given this protected status in the chapter.
+</details>
+
+**Q84.** Under the Insolvency and Bankruptcy Code, 2016, after a financial creditor furnishes information, within how many days must the adjudicating authority ascertain the default?
+A) 7 days  B) 14 days  C) 30 days  D) 90 days
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Under the IBC, the adjudicating authority must **ascertain the default within 14 days** of the information being furnished; if default occurred the application is admitted, and admission is communicated to financial creditors within **7 days**. So A) 7 days is the *communication* timeline, not the ascertainment one. C) and D) are not IBC timelines.
+</details>
+
+**Q85.** A trust's income includes profits and gains of a business. By default this entire income is taxed at ______, unless a specific Will-based exception applies.
+A) slab rates  B) the Maximum Marginal Rate  C) 5%  D) zero
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Under Section 161(1A), if any part of a trust's income includes business profits/gains, the **entire** trust income is taxed at the **Maximum Marginal Rate** — unless the profits are receivable under a trust declared by Will, exclusively for a dependent relative's support, and it is the only such trust by that person (then slab rates apply). A) Slab is only the exception. C) and D) are incorrect.
+</details>
+
+**Q86.** A trust deed does not state exact beneficiary shares but provides that income is shared "equally among all living family members," varying as members are born or die. How is such a trust treated?
+A) As discretionary, taxed at MMR  B) As a determinate trust, since the manner of computing shares is provided  C) As a public trust  D) As an invalid trust
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Per court judgements cited, a trust is **determinate** even if the deed only provides the **manner of computing** each beneficiary's interest (e.g., equally among living family members, varying with births/deaths) rather than exact shares. A) MMR applies only where shares are genuinely indeterminate/unknown. C) and D) are incorrect — it is a valid private determinate trust.
+</details>
+
+**Q87.** A father-in-law transfers a house property to his daughter-in-law, which is then let out. In whose hands is the rent taxable?
+A) Son  B) Daughter-in-law  C) Mother-in-law  D) Father-in-law
+<details><summary>Answer & Explanation</summary>
+
+**Correct: D)** — Because of clubbing provisions on transfers to a daughter-in-law without adequate consideration, the rental income is taxable in the hands of the **father-in-law** (the transferor). A) The son did not make the transfer. B) The daughter-in-law holds the property but the income is clubbed back to the transferor. C) The mother-in-law is not the transferor here.
+</details>
+
+**Q88.** A settlor wants to safeguard assets from creditors and beneficiaries' claims and pursue multiple objectives. The chapter suggests setting up a/an ______.
+A) revocable trust  B) irrevocable discretionary trust (or multiple trusts)  C) joint holding  D) public charitable trust
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — To safeguard assets against creditors' and beneficiaries' claims and achieve various objectives, a settlor may set up an **irrevocable discretionary trust** (or multiple trusts). A) A revocable trust does not protect assets. C) Joint holding offers no creditor shield. D) A public charitable trust serves the public, not asset protection for the family.
+</details>
+
+**Q89.** A trust directs that income from property be accumulated for 25 years after the testator's death via his Will. What does the law say?
+A) Fully valid — accumulation can be unlimited  B) The direction is void to the extent it exceeds 18 years from the testator's death  C) Void entirely, no accumulation allowed  D) Valid only if approved by SEBI
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A trust cannot be perpetual. If a Will directs accumulation beyond **18 years from the testator's death**, the direction is **void to the extent it exceeds 18 years**, and at the end of 18 years the property and income are disposed of (exception: public benefit trusts). A) is wrong — accumulation is capped. C) is too harsh — accumulation up to the limit is allowed. D) SEBI approval is irrelevant.
+</details>
+
+**Q90.** A revocable offshore trust where the settlor has powers to claim the assets: the income is ______.
+A) tax-free in India  B) treated as the settlor's income and taxable in his hands as if directly arisen to him  C) taxed only on the foreign trustee  D) taxed as an Association of Persons
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For a **revocable offshore trust** where the settlor can claim the assets, any income derived by the trust is **treated as the settlor's income and taxed in his hands** as if it arose directly to him. A) is wrong — it is taxable. C) is wrong — the foreign trustee is not the taxpayer here. D) AOP treatment applies where an offshore trust has *partial control in India*, a different scenario.
+</details>
+
+**Q91.** A client wants the simplest estate plan: a single document, the "most basic legal instrument of all estate plans." Which is it?
+A) Trust deed  B) Power of Attorney  C) Will  D) Family settlement
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — The **Will** is described as the most basic legal instrument of all estate plans — easy to write and revocable anytime during life. A) A trust deed is more complex/expensive. B) A POA only authorises an agent to act during life. D) A family settlement resolves disputes, not a basic plan for everyone.
+</details>
+
+**Q92.** A person dies without making any valid Will (intestate). Which document do the legal heirs need to lay claim to the deceased's debts and securities?
+A) Probate  B) Succession certificate  C) Codicil  D) Letters testamentary
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — When a person dies **intestate** (no Will), heirs need a **succession certificate** from a civil court to claim debts and securities. A) Probate is issued only when there IS a Will. C) A codicil amends a Will (which does not exist here). D) "Letters testamentary" is not the document used in intestacy in this chapter.
+</details>
+
+**Q93.** An executor's very first responsibility, before disbursing assets, is to ______.
+A) distribute the legacy immediately  B) pay funeral/burial expenses and obtain the death certificate  C) sell all immovable property  D) appoint a new testator
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The executor's first responsibility is to **pay funeral and burial expenses and obtain the death certificate**, which is needed to manage financial affairs; only then can assets be located, debts/taxes paid, and the estate disbursed. A) is wrong — distribution comes after debts/dues are settled (lenders have first right). C) Selling property is only done if needed to pay dues. D) is nonsensical — a testator is the deceased.
+</details>
+
+**Q94.** A minor is named as executor in a Will. What happens?
+A) The Will becomes invalid  B) Probate is granted to the minor immediately  C) Probate cannot be granted to the minor until majority; the legal guardian can obtain letters of administration  D) The minor's parents automatically become executors
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — A minor can be named executor, but **probate cannot be granted until he attains majority**; meanwhile the minor's **legal guardian can obtain letters of administration** by applying to the court. A) The Will is not invalidated. B) is wrong — no probate to a minor. D) is wrong — guardianship/letters of administration is the mechanism, not automatic parental executorship.
+</details>
+
+**Q95.** A "public-cum-private" trust applies part of its income for public purposes and part to private persons. How is the private portion treated for tax?
+A) Fully exempt like a charitable trust  B) Assessable as a private trust and not exempt from income tax  C) Taxed only on the trustee at 5%  D) Never taxed in India
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — In a **public-cum-private trust**, the portion of income going to private persons is **assessable as a private trust and not exempt** from income tax. A) is wrong — only the public portion may get charitable exemptions. C) and D) are incorrect — the private portion is taxable per private-trust rules.
+</details>
+
+**Q96.** Two spouses purchase a property as joint tenants. One spouse wants to leave his share to a child by Will. Can he?
+A) Yes, joint tenancy allows leaving a share by Will  B) No — under right of survivorship the share passes to the surviving tenant, not by Will (unless he is the sole survivor)  C) Only with court approval  D) Only if the property is movable
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — In **joint tenancy**, the **right of survivorship** means the deceased's interest passes to the surviving joint tenant — he cannot leave it by Will, except where he is the sole survivor. A) is wrong for joint tenancy (it would be true for tenancy-in-common). C) and D) invent conditions not stated.
+</details>
+
+**Q97.** A son receives ₹5 lakh as a gift from his father, then invests it and earns ₹40,000 interest. What is the tax position?
+A) Both the ₹5 lakh and the ₹40,000 are taxed in the son's hands  B) The ₹5 lakh gift is exempt (relative), but the ₹40,000 income is taxable in the son's hands  C) Both are fully exempt  D) The father is taxed on the ₹40,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A gift from a **relative** (father) is **exempt** from tax in the donee's hands, but **any income later earned from the gift is taxable in the donee's (son's) hands**. A) is wrong — the gift itself is exempt. C) is wrong — the income is taxable. D) is wrong — the income belongs to and is taxed on the son (no clubbing for a major child's gift income).
+</details>
+
+**Q98.** A settlor transfers immovable property to a **revocable** trust during his lifetime. Regarding capital gains tax, ______.
+A) it is exempt under Section 47(iii)  B) the transfer IS subject to capital gains tax  C) it is exempt because it is testamentary  D) capital gains never apply to trusts
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Section 47(iii) exempts transfers to an **irrevocable** trust, but a transfer to a **revocable** trust **is subject to capital gains tax**. A) applies only to irrevocable trusts. C) is wrong — this is a lifetime transfer, not testamentary (on death). D) is overstated — capital gains can apply to revocable-trust transfers.
+</details>
+
+**Q99.** A businessman who is also the guarantor of his company's debt faces a lawsuit against the company. What is the implication for his personal assets?
+A) Personal assets are always fully protected  B) As guarantor, he is liable to asset seizure; any clause obliging him to repay the organisation's debt helps creditors seize personal assets  C) Only the company's assets can ever be touched  D) Guarantors are exempt by law
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Under the **identity of the debtor** factor, a business **guarantor** — the individual who guarantees repayment — is **liable to asset seizure** if there is a lawsuit against the entity, and any clause obliging him to repay the organisation's debt helps creditors seize his personal assets. A), C) and D) are wrong — guarantee obligations pierce the protection that an entity structure would otherwise offer.
+</details>
+
+**Q100.** A trust is created by a non-testamentary document (or verbally) and the settlor wants the ability to revoke it later. For this to be possible, the chapter says ______.
+A) it is automatically revocable in all cases  B) the power to revoke must be reserved to the settlor  C) it can never be revoked  D) only a court can revoke it
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — When a trust is created by a **non-testamentary document or verbally**, there **can be power reserved to the settlor for revocation**. A) is wrong — revocability is not automatic; for written trusts, Section 77/78 requires an express revocation clause. C) is too absolute. D) is wrong — revocation here flows from a reserved power, not solely a court.
+</details>
+
+## 🧩 Case Study
+
+**Scenario:** Mr. Sharma (a Hindu, aged 62, resident in Pune) is doing his estate planning. He owns: a flat in Mumbai, a portfolio of mutual funds and shares (with nominations registered), and a profitable family manufacturing business. He has a wife, a major son who runs the business, and a minor daughter with a Section 80U-certified disability. He wants to (i) leave clear instructions for after his death, (ii) provide a structured, private, lifetime income arrangement for his disabled daughter that avoids probate, (iii) understand whether his mutual-fund nominations will override his Will, (iv) transfer the Mumbai flat to his son tax-efficiently, and (v) understand the tax treatment of the income flowing to his daughter from the arrangement he sets up.
+
+**Q-CS1.** What is the most basic instrument Mr. Sharma should write to give clear post-death instructions, and will his Will need probate given the Mumbai flat?
+<details><summary>Answer & Explanation</summary>
+
+He should write a **Will** — the most basic legal instrument of all estate plans, effective only on his death and revocable anytime during his life. Because **probate is mandatory when the immovable property is situated in Mumbai** (one of the three Presidency towns, along with Kolkata and Chennai), his Will **will need probate** for the Mumbai flat. The court will issue notices to legal heirs for objections, advertise in a national newspaper, and the executor must prove his death, valid execution and that it is the last Will. Elsewhere probate would have been optional.
+</details>
+
+**Q-CS2.** Which tool best meets his goal of a structured, private, lifetime income arrangement for his disabled daughter that avoids probate — and why is it better than a nomination or a Will alone?
+<details><summary>Answer & Explanation</summary>
+
+A **private (family) trust** is the best fit. Unlike a Will, a trust is **effective as soon as created** (not only on death), **stays private** (a Will can become public record), and **avoids probate** (no court oversees a trust). It is also specifically suited to the **welfare of dependents, including a member with special needs**. A **nomination** would not work because its purpose is merely to simplify payment on death — it does not provide a structured income arrangement and is generally overridden by succession law. A Will alone takes effect only on death and may go through probate, delaying support. Mr. Sharma can name himself or a trusted trustee, define his daughter as beneficiary, and set distribution terms.
+</details>
+
+**Q-CS3.** Mr. Sharma has registered nominees on his mutual funds but his Will leaves those funds to his wife. If there is a dispute, who prevails — the nominee or the legatee under the Will?
+<details><summary>Answer & Explanation</summary>
+
+The **Will supersedes the nomination** for mutual funds. A nominee in most financial assets is treated only as a **trustee of the bequest** — not a legatee or beneficiary under the Indian Succession Act — and **succession rules (and the Will) prevail** in a dispute. The mutual fund can still validly pay the proceeds to the nominee (a valid discharge), but the onus is on the nominee to account to the rightful legatee; the wife (as legatee under the Will) would be entitled. The exceptions where a nominee gets absolute legal rights are assets under a separate Act — e.g., **Insurance Act** beneficial nominees and **EPF Act** nominees — which do not apply to ordinary mutual funds.
+</details>
+
+**Q-CS4.** Mr. Sharma wants to transfer the Mumbai flat to his son during his lifetime, tax-efficiently. Compare gifting versus leaving it by Will, including stamp duty and capital gains.
+<details><summary>Answer & Explanation</summary>
+
+**Gifting** to the son (a blood relative) is highly tax-efficient: there is **no income-tax liability within blood relatives**, and the transfer is immediate, reducing future litigation. However, because it is immovable property, the gift deed must be **compulsorily registered and stamp duty applies** (rate varies by state — some states give concessional rates on gifts to close relatives), and a gift deed is **irrevocable**. Leaving it by **Will** means **no stamp duty** and no tax to the son on receipt (only mutation needs to be applied), but the transfer waits until death and the Will is more open to challenge/delay. For an *immediate* lifetime transfer, the **gift deed** is the efficient route, accepting the one-time stamp-duty cost; if Mr. Sharma prefers to keep the flat until death and avoid stamp duty, the Will is better. If the son later sells, capital gains apply using the previous owner's cost of acquisition.
+</details>
+
+**Q-CS5.** Mr. Sharma sets up a determinate trust giving his disabled daughter a clearly defined share. How is the income flowing to her taxed, and how does her Section 80U disability affect clubbing?
+<details><summary>Answer & Explanation</summary>
+
+Because the daughter's share is **clearly defined**, it is a **determinate trust**, and under **Section 161(1)** the **trustee is taxed as a representative assessee** at the **beneficiary's applicable slab rate** — the trust is a **pass-through** entity, so what is taxable is the beneficiary's income, not the trust as a separate person. Normally, a **minor's income is clubbed with the parent's** under Section 64. However, since the daughter has a **Section 80U-certified disability, her income is NOT clubbed** with her parent's/guardian's income. This means Mr. Sharma can transfer higher-taxed assets into the minor (disabled) daughter's trust to reduce the family's overall tax liability, with her income assessed in her own hands at her slab rate (not at the Maximum Marginal Rate, which would apply only to a discretionary trust).
+</details>
+

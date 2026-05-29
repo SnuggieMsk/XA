@@ -707,3 +707,82 @@ A) Understanding clients' emotional impulses and using awareness, pre-agreed rul
 
 **Correct: A)** — The adviser's role is to understand impulses and deploy awareness, nudges, education, framing and objectivity to keep clients on plan. B) and D) cause harm. C) overpromises. Behavioural logic: the adviser is the calm, structured counterweight to the client's emotional, biased brain.
 </details>
+
+## 🧩 Case Study
+
+**Meet the client.** Anjali, 42, is a senior IT manager in Bengaluru earning well but under constant work stress. She comes to you, her Investment Adviser, with the following picture:
+
+- When stressed, she shops online late at night on her credit card, running up Rs 1.5 lakh she can't fully explain.
+- Last year gold rose, so she moved most of her money into gold; the year before she had chased small-cap funds.
+- She owns 16 mutual funds across all categories "to stay diversified," yet her returns just track the market and she can't keep up with them.
+- She refuses to invest outside India, saying "I only understand Indian companies."
+- She buys a new endowment insurance policy every March "to save tax," but her actual life cover is tiny relative to her home loan.
+- She made a quick 3× on one stock tip and now wants to put half her portfolio into similar tips.
+- She wants to fully fund her daughter's overseas university in 6 years, even if it means draining her own retirement fund, which is 12 years away.
+
+Work through the five sub-questions below.
+
+---
+
+**Sub-question 1: Anjali's late-night credit-card shopping when stressed — name the behaviour and describe the two-step fix plus the card issue.**
+
+<details><summary>Worked Answer</summary>
+
+This is **retail therapy** — a shopping/buying binge done to relieve emotional stress, not genuine need. In small doses it relieves stress, but it rarely stays moderate, and the economic cost eventually creates *more* stress.
+
+**The two-step fix:**
+1. **Make her conscious** that the spending is *triggered by stress*, not need — awareness comes first.
+2. **Set a specific budget** for indulgence; in extreme cases open a **separate account** holding only the budgeted amount, spending only from there via debit card or cash. This is a **self-imposed brake** / built-in expense limit.
+
+**The card issue:** Her **credit card induces impulsive spending** because it has no built-in brake — she can spend money she doesn't have. Switching to **debit/cash** restores the natural limit.
+</details>
+
+---
+
+**Sub-question 2: She rotates her whole portfolio into last year's winner (gold, then small-caps). Name the bias, explain why it fails, and give the antidote.**
+
+<details><summary>Worked Answer</summary>
+
+This is **chasing past performance** — investing in last year's winners assuming they'll keep winning. The chapter calls it **"driving a car by looking in the rear-view mirror"** — bound to crash.
+
+**Why it fails:** Most asset classes move in **cycles of growth and decline**, with an **inevitable reversion to the mean** (returns drift back to the long-run average). Last year's hot asset is often this year's laggard, so she keeps buying high and selling low.
+
+**Antidote:** A **pre-decided asset allocation policy with upper limits for each asset class** prevents over-exposure to any one hot asset. A **maximum exposure limit within an asset class** does the same for any single security. These limits, set in calm times, act as **nudges** that resist the emotional urge to chase.
+</details>
+
+---
+
+**Sub-question 3: She holds 16 overlapping funds yet tracks the market, AND refuses to invest abroad. Diagnose both, and give the corrective for each.**
+
+<details><summary>Worked Answer</summary>
+
+**Issue A — Over-diversification:** Owning 16 funds she can't manage adds *no real benefit* because diversification doesn't come from the *number* of securities. She could achieve similar diversification by simply buying a **single broad index fund** (e.g. a top-500 index fund). The adviser helps her find the **golden mean** — appropriate diversification based on her **risk profile, resources and time frame** — by trimming to a manageable portfolio.
+
+**Issue B — Home country bias:** Refusing foreign investment because only Indian companies feel familiar costs her the **diversification benefit** of assets that don't move in tandem with local markets. The **antidote** is for the adviser to get **educated on global investing** and then **educate her**, pointing to legal routes: the **LRS (up to USD 250,000/year)** and **Indian mutual fund schemes** investing in global indexes like the **S&P 500 and Nasdaq 100**.
+</details>
+
+---
+
+**Sub-question 4: Her March endowment-policy buying for tax, and her quick 3× stock win — name both biases and the adviser's response to each.**
+
+<details><summary>Worked Answer</summary>
+
+**Insurance-for-tax bias:** Buying insurance *only* to save tax leads to the **wrong and/or inadequate** insurance — exactly her situation (tiny cover versus a large home loan). The correct view: **adequate, appropriate insurance is the first step** of any financial plan; tax saving merely *reduces the cost* of good insurance. The cure is to **highlight the need for adequate pure insurance** and the **poor returns of investment-cum-insurance products** — for the same outlay, **term insurance + PPF invariably beats an endowment policy**.
+
+**Overconfidence from the 3× win:** A quick 3× is **mostly luck**, and even if partly skill, it's unlikely to be **consistently repeatable**. She is **attributing luck to skill**, tempting her to over-invest and wreck her asset allocation. Here the **adviser's influence can stand between the client and her big mistake** — temper the overconfidence and protect the agreed allocation (and its per-security limits).
+</details>
+
+---
+
+**Sub-question 5: She wants to drain her retirement fund (12 years away) to fully fund her daughter's overseas education (6 years away). How should the adviser handle this emotionally charged trade-off?**
+
+<details><summary>Worked Answer</summary>
+
+This is the classic **goal-prioritisation under emotion** problem and the **greed/fear (here, emotional attachment) cycle** where a near, emotionally-charged goal crowds out a vital but distant one. Anjali is willing to sacrifice **retirement** (feels far away, "not important now") for her daughter's education.
+
+The adviser plays an **objective role**:
+- **Quantify the compromise:** show exactly how much the vital **retirement** goal would be damaged by draining the fund — retirement is a goal she cannot take a loan for, while education is.
+- **Offer alternatives:** suggest a **partial education loan** for the higher education, which the **daughter can repay from her own earnings** after completing the course.
+
+This objective, calm guidance — being the **cool, calming influence** and presenting facts and alternatives — helps a highly emotional client make the **right decision** without simply overriding her feelings. The adviser doesn't dictate; he illuminates the trade-off and the options.
+</details>

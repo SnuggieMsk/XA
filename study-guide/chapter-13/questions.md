@@ -644,3 +644,355 @@ A) Pay unit-holders  B) Discharge liabilities due and payable, then meet winding
 - A) happens last (the balance).
 - C) and D) are incorrect.
 </details>
+
+## 🔴 Tier 3 — Hard: Numerical & Scenario (Q71–Q100)
+
+**Q71.** Mr. A bought 10,000 listed shares at Rs. 105 on 01-04-2020. A 1:2 bonus gave 5,000 bonus shares on 01-09-2023. He sold all 15,000 at Rs. 120 on 01-08-2024. What is the LTCG on the 10,000 original shares?
+A) Rs. 1,50,000  B) Rs. 6,00,000  C) Rs. 7,50,000  D) Rs. 12,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Original shares held 01-04-2020 to 01-08-2024 (>12 months) = long-term. LTCG = (Rs. 120 − Rs. 105) × 10,000 = **Rs. 1,50,000** (taxed at 12.50% under 112A on the part over Rs. 1,25,000).
+- B) is the bonus-share STCG, not the originals.
+- C) wrongly combines both.
+- D) is the gross sale value of the originals, not the gain.
+</details>
+
+**Q72.** Continuing Q71, what is the STCG on the 5,000 bonus shares (cost nil, held 01-09-2023 to 01-08-2024)?
+A) Rs. 1,50,000  B) Rs. 6,00,000  C) Rs. 75,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Bonus shares cost nil and were held about 11 months (≤12) = short-term. STCG = (Rs. 120 × 5,000) − nil = **Rs. 6,00,000**, taxed at 20% under Section 111A.
+- A) is the originals' LTCG.
+- C) and D) miscompute; the full sale value is the gain because cost is nil.
+</details>
+
+**Q73.** Mr. Paul (1,000 shares) gets a 2:1 rights offer at Rs. 250. He renounces the right to buy 500 shares to Mr. X at Rs. 200/share. His short-term capital gain is:
+A) Nil  B) Rs. 1,00,000  C) Rs. 1,25,000  D) Rs. 2,50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Gain = consideration − cost = (500 × Rs. 200) − nil = **Rs. 1,00,000**, short-term, at slab rates (a right is not covered by 111A).
+- A) is wrong: the gain is taxable.
+- C) is the cost the company would have charged (500 × Rs. 250), irrelevant to a renouncement.
+- D) double-counts.
+</details>
+
+**Q74.** Mr. Paul instead exercises the right, gets 500 shares at Rs. 250 (allotted 01-12-2024, listed, STT), and sells them at Rs. 520 on 25-01-2025. His capital gain is:
+A) Rs. 1,00,000 LTCG  B) Rs. 1,35,000 STCG at 20%  C) Rs. 2,60,000 STCG  D) Rs. 1,35,000 LTCG at 12.50%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Held under 12 months (01-12-2024 to 25-01-2025) = short-term. STCG = (Rs. 520 − Rs. 250) × 500 = **Rs. 1,35,000**, taxed at 20% under Section 111A (STT paid).
+- A) and D) are wrong: it is short-term, not long-term.
+- C) Rs. 2,60,000 is the sale value, not the gain.
+</details>
+
+**Q75.** Mr. X bought 10,000 A Ltd. shares at Rs. 58 (01-04-2023). After amalgamation he received 8,000 AB Ltd. shares and sold them at Rs. 100 (01-09-2024, listed, STT). His capital gain is:
+A) Rs. 8,00,000 STCG  B) Rs. 2,20,000 LTCG at 12.50%  C) Rs. 4,20,000 LTCG  D) Rs. 2,20,000 STCG at 20%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Holding runs from 01-04-2023 (about 17 months) = long-term. Sale = 8,000 × Rs. 100 = Rs. 8,00,000; cost = original 10,000 × Rs. 58 = Rs. 5,80,000; LTCG = **Rs. 2,20,000** at 12.50% under 112A on the part over Rs. 1,25,000.
+- A) and D) are wrong: it is long-term.
+- C) uses a wrong cost.
+</details>
+
+**Q76.** Mr. X bought 20,000 preference shares at Rs. 10 (01-01-2010), converted 2:1 to 10,000 equity shares (FMV Rs. 25 on 01-01-2023), and sold at Rs. 35 on 25-08-2024 (listed, STT). His LTCG is:
+A) Rs. 1,00,000  B) Rs. 1,50,000  C) Rs. 3,50,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — No tax at conversion (47(xb)). On sale: holding from 01-01-2010 = long-term; sale = 10,000 × Rs. 35 = Rs. 3,50,000; cost carries over = 20,000 × Rs. 10 = Rs. 2,00,000; LTCG = **Rs. 1,50,000** at 12.50% (112A) over Rs. 1,25,000. FMV Rs. 25 is ignored.
+- A) uses a wrong cost.
+- C) is the sale value.
+- D) is wrong: the later sale is a transfer.
+</details>
+
+**Q77.** Mr. X holds 1,000 units bought at Rs. 15 (cost Rs. 15,000). The fund segregates: segregated NAV Rs. 2/unit, total NAV before segregation Rs. 12/unit. The cost of the segregated units is:
+A) Rs. 2,000  B) Rs. 2,500  C) Rs. 12,500  D) Rs. 15,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Segregated cost = total cost × (segregated NAV ÷ total NAV) = Rs. 15,000 × (2 ÷ 12) = **Rs. 2,500** (Rs. 2.5/unit).
+- A) uses NAV not cost.
+- C) is the main-portfolio cost after subtraction.
+- D) is the full original cost.
+</details>
+
+**Q78.** Continuing Q77, the cost of the units remaining in the main portfolio is:
+A) Rs. 15,000  B) Rs. 12,500  C) Rs. 2,500  D) Rs. 17,500
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Main cost = original cost − segregated cost = Rs. 15,000 − Rs. 2,500 = **Rs. 12,500**. The total cost is split, not duplicated.
+- A) ignores the subtraction.
+- C) is the segregated cost.
+- D) wrongly adds.
+</details>
+
+**Q79.** Mr. B borrows 10,000 Reliance shares (fee Rs. 5/share), short-sells at Rs. 1,600, and buys a call (strike Rs. 1,600, premium Rs. 30). Price falls to Rs. 1,500; he squares off the short at Rs. 1,500 and sells the call at Rs. 10. His futures/short profit is:
+A) Rs. 5,00,000  B) Rs. 10,00,000  C) Rs. 16,00,000  D) Rs. 1,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Short-sold at Rs. 1,600, bought back at Rs. 1,500 → profit Rs. 100/share × 10,000 = **Rs. 10,00,000**.
+- A), C), D) miscompute the Rs. 100/share gain on 10,000 shares.
+</details>
+
+**Q80.** Continuing Q79, the loss on the call option (premium Rs. 30, sold at Rs. 10) over 10,000 shares is:
+A) Rs. 1,00,000  B) Rs. 2,00,000  C) Rs. 3,00,000  D) Rs. 50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Loss = (Rs. 30 − Rs. 10) × 10,000 = **Rs. 2,00,000** (premium paid Rs. 30, recovered Rs. 10).
+- A) uses the wrong difference.
+- C) ignores the Rs. 10 recovery.
+- D) is the lending fee, not the option loss.
+</details>
+
+**Q81.** Continuing Q79–Q80, the lending fee paid (Rs. 5/share × 10,000) and the net result are:
+A) Fee Rs. 50,000; net profit Rs. 7,50,000  B) Fee Rs. 50,000; net loss Rs. 7,50,000  C) Fee Rs. 5,00,000; net profit Rs. 5,00,000  D) Fee Rs. 50,000; net profit Rs. 12,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Fee = Rs. 5 × 10,000 = **Rs. 50,000**. Net = Rs. 10,00,000 (futures) − Rs. 2,00,000 (call) − Rs. 50,000 (fee) = **Rs. 7,50,000** profit (taxed at slab rate).
+- B) wrongly flips to a loss.
+- C) miscomputes the fee.
+- D) omits the call loss and fee.
+</details>
+
+**Q82.** Mr. B (Q79 setup) instead sees the price rise to Rs. 1,700; he exercises the call to take delivery and return the shares. He never closes a profit; he paid Rs. 30 premium and Rs. 5 fee per share. His total loss is:
+A) Rs. 3,00,000  B) Rs. 50,000  C) Rs. 3,50,000  D) Rs. 2,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Call premium = Rs. 30 × 10,000 = Rs. 3,00,000; lending fee = Rs. 5 × 10,000 = Rs. 50,000. Using the call to settle the short avoids a market loss, so the cost is just premium + fee = **Rs. 3,50,000** total loss.
+- A) omits the fee.
+- B) is only the fee.
+- D) is unrelated.
+</details>
+
+**Q83.** An investor's LTCG under Section 112A for the year is Rs. 1,75,000 (equity, STT paid). The taxable LTCG after the annual exemption is:
+A) Rs. 1,75,000  B) Rs. 1,25,000  C) Rs. 50,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Only the amount over the Rs. 1,25,000 exemption is taxed: Rs. 1,75,000 − Rs. 1,25,000 = **Rs. 50,000** (at 12.50%).
+- A) ignores the exemption.
+- B) is the exempt slice.
+- D) is wrong: there is taxable gain above the threshold.
+</details>
+
+**Q84.** Continuing Q83, the tax (before cess) on the Rs. 50,000 taxable LTCG at 12.50% is:
+A) Rs. 6,250  B) Rs. 10,000  C) Rs. 21,875  D) Rs. 5,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Tax = Rs. 50,000 × 12.50% = **Rs. 6,250** (before adding 4% cess).
+- B) uses 20%.
+- C) wrongly taxes the full Rs. 1,75,000.
+- D) uses 10%.
+</details>
+
+**Q85.** An investor has STCG of Rs. 4,00,000 under Section 111A (equity, STT). The tax (before cess) is:
+A) Rs. 40,000  B) Rs. 50,000  C) Rs. 80,000  D) Rs. 1,20,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Section 111A rate is 20%: Rs. 4,00,000 × 20% = **Rs. 80,000** (before 4% cess).
+- A) uses 10%.
+- B) uses 12.50%.
+- D) uses 30%.
+</details>
+
+**Q86.** Mr. A consolidated 2,000 shares (cost Rs. 100 each) 2:1 into 1,000 shares (cost Rs. 200 each), then sold all 1,000 at Rs. 260. His capital gain is:
+A) Rs. 60,000  B) Rs. 1,20,000  C) Rs. 2,60,000  D) Rs. 1,60,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Cost per share after consolidation = Rs. 200; gain = (Rs. 260 − Rs. 200) × 1,000 = **Rs. 60,000**. The holding period runs from the original purchase date.
+- B) wrongly doubles.
+- C) is the sale value.
+- D) uses the wrong cost.
+</details>
+
+**Q87.** A non-resident has interest on rupee-denominated bonds of an Indian company under Section 194LD. The Section 115A rate is:
+A) 5%  B) 10%  C) 20%  D) 30%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Such interest (rupee-denominated bonds / govt securities / municipal debt under 194LD) is taxed at **5%** under Section 115A.
+- B) applies to bonds under 115AC.
+- C) applies to MF/UTI units in foreign currency.
+- D) is unrelated.
+</details>
+
+**Q88.** A resident senior citizen (old regime) has total income of Rs. 4,50,000. Given Nil up to Rs. 3,00,000 and 5% on Rs. 3,00,001–5,00,000, the tax (before cess) is:
+A) Nil  B) Rs. 7,500  C) Rs. 15,000  D) Rs. 22,500
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For a senior citizen, the first Rs. 3,00,000 is Nil; the next Rs. 1,50,000 (Rs. 3,00,001–4,50,000) is taxed at 5% = **Rs. 7,500**.
+- A) ignores the slab above Rs. 3,00,000.
+- C) taxes the full Rs. 3,00,001–5,00,000 band, but income is only Rs. 4,50,000.
+- D) uses a wrong rate.
+</details>
+
+**Q89.** An assessee (old regime, not senior) has total income of Rs. 6,00,000. Using Nil to Rs. 2,50,000, 5% on Rs. 2,50,001–5,00,000, 20% on Rs. 5,00,001–10,00,000, the tax (before cess) is:
+A) Rs. 12,500  B) Rs. 32,500  C) Rs. 20,000  D) Rs. 45,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — 5% on Rs. 2,50,000 (the Rs. 2.5L–5L band) = Rs. 12,500; plus 20% on Rs. 1,00,000 (Rs. 5L–6L) = Rs. 20,000; total = **Rs. 32,500**.
+- A) covers only the first taxable band.
+- C) covers only the 20% band.
+- D) over-taxes.
+</details>
+
+**Q90.** A company buys back 800 shares at Rs. 150 (cost Rs. 90 each, held 8 months) post-01-10-2024. The dividend income and capital loss are:
+A) Dividend Rs. 1,20,000; short-term capital loss Rs. 72,000  B) Dividend Rs. 48,000; no loss  C) Dividend Rs. 1,20,000; long-term capital loss Rs. 72,000  D) Capital gain Rs. 48,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Dividend = 800 × Rs. 150 = Rs. 1,20,000 (full proceeds, no deduction). Cost = 800 × Rs. 90 = Rs. 72,000 becomes a **short-term capital loss** (held only 8 months).
+- B) wrongly nets.
+- C) wrongly calls it long-term.
+- D) uses the old netting approach.
+</details>
+
+**Q91.** A non-resident has interest on bonds of an Indian PSU purchased in foreign currency (Section 115AC). The rate is:
+A) 5%  B) 10%  C) 20%  D) 30%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Interest on bonds of an Indian company or PSU purchased in foreign currency is taxed at **10%** under Section 115AC.
+- A) is the 194LD rupee-bond rate.
+- C) and D) are not applicable here.
+</details>
+
+**Q92.** Mr. Z bought 1,000 listed shares at Rs. 200 (01-05-2023) and sold at Rs. 260 on 20-06-2024 (STT). The gain is:
+A) Rs. 60,000 STCG at 20%  B) Rs. 60,000 LTCG at 12.50%  C) Rs. 2,60,000 LTCG  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Held 01-05-2023 to 20-06-2024 (>12 months) = long-term. Gain = (Rs. 260 − Rs. 200) × 1,000 = **Rs. 60,000**, under 112A at 12.50% (below the Rs. 1,25,000 exemption, so effectively no tax this year alone).
+- A) is wrong: it is long-term, not short-term.
+- C) is the sale value.
+- D) ignores the computed gain.
+</details>
+
+**Q93.** A trader holds 5,000 shares as stock-in-trade at Rs. 80; a 1:1 bonus is allotted (cost nil per ICDS-VIII). She sells all 10,000 shares at Rs. 50. Her business income/loss is:
+A) Income Rs. 1,00,000  B) Loss Rs. 1,00,000  C) Income Rs. 5,00,000  D) Loss Rs. 4,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Total cost = original 5,000 × Rs. 80 = Rs. 4,00,000 (bonus cost nil, stock not enhanced). Sale = 10,000 × Rs. 50 = Rs. 5,00,000. Business income = Rs. 5,00,000 − Rs. 4,00,000 = **Rs. 1,00,000**.
+- B) wrongly treats it as a loss.
+- C) ignores the cost.
+- D) miscomputes.
+</details>
+
+**Q94.** An assessee opts for the new regime (FY 2024-25) with total income Rs. 8,00,000. Using Nil to Rs. 3,00,000; 5% on Rs. 3,00,001–7,00,000; 10% on Rs. 7,00,001–10,00,000, the tax (before cess/rebate) is:
+A) Rs. 20,000  B) Rs. 30,000  C) Rs. 40,000  D) Rs. 25,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — 5% on Rs. 4,00,000 (Rs. 3L–7L band) = Rs. 20,000; plus 10% on Rs. 1,00,000 (Rs. 7L–8L) = Rs. 10,000; total = **Rs. 30,000**.
+- A) covers only the 5% band.
+- C) over-taxes.
+- D) uses a wrong band.
+</details>
+
+**Q95.** Mr. P renounced a right for Rs. 80,000 (cost nil) and separately had a Rs. 50,000 long-term capital loss from a buyback. Assuming set-off is permitted, his net taxable position from these two items is:
+A) Rs. 80,000 STCG and a separate Rs. 50,000 LTCL (different categories)  B) Rs. 30,000 net gain by simply subtracting  C) Nil  D) Rs. 1,30,000 gain
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — The renouncement produces a **Rs. 80,000 short-term capital gain**; the buyback cost is a **long-term capital loss of Rs. 50,000**. A long-term capital loss can only be set off against long-term capital gains, so it cannot reduce this STCG; they remain in separate categories.
+- B) wrongly nets across loss categories.
+- C) and D) miscompute.
+</details>
+
+**Q96.** A fund consolidates two equity-oriented schemes. Mr. K held units in the consolidating scheme since 01-03-2021 at a cost of Rs. 40,000; he sells the consolidated units on 01-09-2024 for Rs. 70,000. The holding period and cost used are:
+A) From 01-03-2021; cost Rs. 40,000  B) From consolidation date; cost market value  C) From 01-03-2021; cost nil  D) From sale date; cost Rs. 70,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Consolidation is not a transfer; holding period includes the time in the consolidating scheme (**from 01-03-2021**) and cost carries over (**Rs. 40,000**), giving a long-term gain of Rs. 30,000.
+- B) and C) ignore the carry-over rule.
+- D) is nonsensical (cost cannot equal sale value here).
+</details>
+
+**Q97.** An online-game winning of Rs. 2,00,000 is taxed under Section 115BBJ at what rate, giving tax (before cess) of:
+A) 12.50%; Rs. 25,000  B) 20%; Rs. 40,000  C) 30%; Rs. 60,000  D) 60%; Rs. 1,20,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Online-game winnings are taxed at a flat **30%** (Section 115BBJ): Rs. 2,00,000 × 30% = **Rs. 60,000** before cess.
+- A) and B) use wrong rates.
+- D) uses the undisclosed-income rate.
+</details>
+
+**Q98.** Mr. Q bought 4,000 listed shares at Rs. 250; a 1:4 bonus gave 1,000 bonus shares. Two years later he sells only the 1,000 bonus shares at Rs. 300 (STT). Treating them as long-term, the LTCG is:
+A) Rs. 50,000  B) Rs. 3,00,000  C) Rs. 2,00,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Bonus shares have **nil cost**, so the entire sale value is the gain: 1,000 × Rs. 300 = **Rs. 3,00,000** LTCG (held >12 months), taxed under 112A at 12.50% over Rs. 1,25,000.
+- A) and C) wrongly assign a cost to bonus shares.
+- D) ignores that the gain equals the full sale value.
+</details>
+
+**Q99.** A lender lends F&O-eligible shares on the transaction date itself. The margin the lender must deposit is:
+A) 25% of lending price  B) 100% of lending price  C) Nil  D) 50% of lending price
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Normally a lender deposits 25%, but **if the securities are lent on the transaction date itself, no margin is required**.
+- A) is the normal (non-same-day) requirement.
+- B) is the borrower's requirement.
+- D) is not prescribed.
+</details>
+
+**Q100.** A close-ended scheme is wound up; after selling assets for Rs. 50,00,000 and paying Rs. 8,00,000 of liabilities and Rs. 2,00,000 winding-up expenses, the balance distributed to unit-holders is:
+A) Rs. 50,00,000  B) Rs. 42,00,000  C) Rs. 40,00,000  D) Rs. 48,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Proceeds first discharge liabilities and winding-up expenses; balance = Rs. 50,00,000 − Rs. 8,00,000 − Rs. 2,00,000 = **Rs. 40,00,000**, distributed in proportion to units (taxed like a normal redemption).
+- A) ignores deductions.
+- B) omits the expenses.
+- D) omits the liabilities.
+</details>
+
+## 🧩 Case Study
+
+**Scenario:** Mr. Arjun, a resident individual (old tax regime, not a senior citizen), has the following transactions during FY 2024-25, all in listed securities with STT paid where relevant:
+
+1. He bought **10,000 shares of Sunrise Ltd. at Rs. 105** on 01-04-2020. Sunrise declared a **1:2 bonus** (one bonus share for every two held), allotted **01-09-2023**. On **01-08-2024** he sold **all 15,000 shares at Rs. 120 each**.
+2. He held **2,000 shares of Delta Ltd. bought at Rs. 100 each**; Delta **consolidated 2 shares into 1** (face value Rs. 100 → Rs. 200). He later sold all consolidated shares at **Rs. 260 each**.
+3. He owned **20,000 preference shares of Orbit Ltd. (cost Rs. 10 each)** acquired 01-01-2010, **converted 2:1 into 10,000 equity shares** on 01-01-2023 (FMV Rs. 25), and sold them at **Rs. 35** on 25-08-2024.
+4. Orbit Ltd. also **bought back 500 of his other shares at Rs. 125** (cost Rs. 100, held over 2 years) on 20-02-2025 (post-01-10-2024 rule).
+5. He **lent F&O-eligible shares** through SLB and earned a **lending fee of Rs. 2,00,000**, incurring **Rs. 2,000** transaction charges.
+
+---
+
+<details><summary>Q-CS-1: Compute the capital gains from the Sunrise Ltd. shares (original + bonus) and their nature.</summary>
+
+**Answer:**
+- **Original 10,000 shares:** bought 01-04-2020, sold 01-08-2024 → held >12 months → **long-term**. LTCG = (Rs. 120 − Rs. 105) × 10,000 = **Rs. 1,50,000** (Section 112A, 12.50% over Rs. 1,25,000).
+- **Bonus 5,000 shares:** cost **nil**, allotted 01-09-2023, sold 01-08-2024 → about 11 months ≤ 12 → **short-term**. STCG = (Rs. 120 × 5,000) − 0 = **Rs. 6,00,000** (Section 111A, 20%).
+
+**Intuition:** The bonus shares have their own holding clock (from allotment) and zero cost — a classic STCG trap. Total from Sunrise = Rs. 1,50,000 LTCG + Rs. 6,00,000 STCG.
+</details>
+
+<details><summary>Q-CS-2: Compute the capital gain on the Delta Ltd. consolidated shares.</summary>
+
+**Answer:**
+- Total cost = 2,000 × Rs. 100 = Rs. 2,00,000. After 2:1 consolidation he holds **1,000 shares**; cost per share = Rs. 2,00,000 ÷ 1,000 = **Rs. 200**.
+- Gain = (Rs. 260 − Rs. 200) × 1,000 = **Rs. 60,000**.
+- Consolidation is **not a transfer**, so no tax occurred at consolidation; the holding period runs from the original purchase date.
+
+**Formula used:** cost per consolidated share = total original cost ÷ number of shares after consolidation. The total money paid does not change — it is just spread over fewer shares.
+</details>
+
+<details><summary>Q-CS-3: Compute the tax effect of the Orbit Ltd. preference-to-equity conversion and subsequent sale.</summary>
+
+**Answer:**
+- **At conversion (01-01-2023):** under Section 47(xb), conversion of preference shares into equity of the same company is **not a transfer** → **no capital gain**. The FMV of Rs. 25 is ignored.
+- **At sale (25-08-2024):** holding period carries over from 01-01-2010 → over 14 years → **long-term**. Sale = 10,000 × Rs. 35 = Rs. 3,50,000; cost carries over = 20,000 × Rs. 10 = Rs. 2,00,000; **LTCG = Rs. 1,50,000** (Section 112A, 12.50% over Rs. 1,25,000).
+
+**Intuition:** Conversion is tax-deferred — both the cost and the clock carry over to the new equity shares.
+</details>
+
+<details><summary>Q-CS-4: Explain the tax treatment of the Orbit Ltd. buyback (post-01-10-2024).</summary>
+
+**Answer:**
+- **Dividend:** the full proceeds = 500 × Rs. 125 = **Rs. 62,500** are taxed as **dividend** under Income from Other Sources, with **no deduction** for cost or expenses.
+- **Capital loss:** the cost = 500 × Rs. 100 = **Rs. 50,000** becomes a **long-term capital loss** (held over 2 years), available for set-off/carry-forward against long-term capital gains.
+- **Company:** no tax (buyback after 01-10-2024).
+
+**Intuition:** Post-Oct-2024, the whole buyback amount is dividend (not just the gain), and the cost is split off as a capital loss — they are not netted against each other.
+</details>
+
+<details><summary>Q-CS-5: Compute Mr. Arjun's taxable income from the SLB lending activity.</summary>
+
+**Answer:**
+- Lending under SLB is **not a transfer** (Section 47(xv)), so no capital gain arises from the lending itself.
+- The **lending fee is taxable** under PGBP (if in that business) or otherwise Income from Other Sources, and related expenses are deductible.
+- Taxable income = Rs. 2,00,000 − Rs. 2,000 = **Rs. 1,98,000**.
+
+**Intuition:** SLB lets a long-term holder earn extra income on idle shares; only the net fee (after expenses) is taxed, and getting back equivalent (not identical) scrips does not trigger capital gains.
+</details>

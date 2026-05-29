@@ -221,27 +221,27 @@ A) These relate to investment-cum-insurance products. C) These relate to need-an
 </details>
 
 **Q28.** In an endowment policy, if the insured survives the tenure, the insurer pays:
-A) Nothing  B) A lump sum equal to the sum assured plus any accrued bonus  C) Only the premiums paid  D) Twice the sum assured
+A) Nothing  B) Only the premiums paid  C) A lump sum equal to the sum assured plus any accrued bonus  D) Twice the sum assured
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — On survival, an endowment pays a lump sum equal to the sum assured plus any accrued bonus.
-A) Nothing is paid in a term plan on survival, not endowment. C) Return of premiums describes a different variant. D) Double sum assured is a rider feature.
+**Correct: C)** — On survival, an endowment pays a lump sum equal to the sum assured plus any accrued bonus.
+A) Nothing is paid in a term plan on survival, not endowment. B) Return of premiums describes a different variant. D) Double sum assured is a rider feature.
 </details>
 
 **Q29.** In endowment policies, the actual return calculated and declared every year but paid only at the end of the tenure is called:
-A) Guaranteed bonus  B) Accrued bonus  C) Reversionary surrender  D) Loyalty addition
+A) Guaranteed bonus  B) Reversionary surrender  C) Loyalty addition  D) Accrued bonus
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Accrued bonus is calculated/declared yearly but paid only at the end of the tenure (or on death, up to date of death).
-A) Guaranteed bonus is paid in the first few years as a fixed percentage. C) and D) are not the term used in the workbook for this.
+**Correct: D)** — Accrued bonus is calculated/declared yearly but paid only at the end of the tenure (or on death, up to date of death).
+A) Guaranteed bonus is paid in the first few years as a fixed percentage. B) and C) are not the term used in the workbook for this.
 </details>
 
 **Q30.** Whole life insurance policies provide cover for:
-A) A fixed 10-year term only  B) The entire life of the insured (or up to an upper age limit), provided premiums are paid  C) Only the earning years  D) Only until age 45
+A) A fixed 10-year term only  B) Only the earning years  C) Only until age 45  D) The entire life of the insured (or up to an upper age limit), provided premiums are paid
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Whole life policies cover the entire life of the insured or up to an upper age limit specified by the insurer, whichever is earlier, provided premiums are paid as contracted.
-A), C) and D) wrongly restrict the coverage period.
+**Correct: D)** — Whole life policies cover the entire life of the insured or up to an upper age limit specified by the insurer, whichever is earlier, provided premiums are paid as contracted.
+A), B) and C) wrongly restrict the coverage period.
 </details>
 
 **Q31.** In a unit-linked insurance policy (ULIP), who decides the kind of portfolio (debt/equity mix) for the savings portion?
@@ -253,27 +253,27 @@ A) In whole-life and endowment policies, the insured has no say — but ULIPs ar
 </details>
 
 **Q32.** In a ULIP, the insurer announces the Net Asset Value (NAV):
-A) Once a year  B) On a daily basis  C) Only at maturity  D) Every five years
+A) Once a year  B) Only at maturity  C) On a daily basis  D) Every five years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The insurer announces a Net Asset Value (NAV) on a daily basis for ULIPs.
-A), C) and D) are incorrect; ULIP NAV is daily, making the value track the market.
+**Correct: C)** — The insurer announces a Net Asset Value (NAV) on a daily basis for ULIPs.
+A), B) and D) are incorrect; ULIP NAV is daily, making the value track the market.
 </details>
 
 **Q33.** Mortgage (reducing term) insurance is characterised by:
-A) A sum assured that increases over time  B) A sum assured that keeps going down with time  C) A fixed sum assured forever  D) A guaranteed maturity bonus
+A) A sum assured that increases over time  B) A fixed sum assured forever  C) A guaranteed maturity bonus  D) A sum assured that keeps going down with time
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — In mortgage insurance the sum assured keeps going down with time, matching a reducing housing loan balance.
-A) The opposite is true. C) The sum assured is not fixed. D) It is a term variant with no maturity bonus.
+**Correct: D)** — In mortgage insurance the sum assured keeps going down with time, matching a reducing housing loan balance.
+A) The opposite is true. B) The sum assured is not fixed. C) It is a term variant with no maturity bonus.
 </details>
 
 **Q34.** A critical illness rider typically pays a pre-specified sum on diagnosis of a life-threatening illness AND:
-A) Immediate payout with no conditions  B) Survival for 30 days after such diagnosis  C) Survival for 1 year after diagnosis  D) Death within 30 days
+A) Immediate payout with no conditions  B) Survival for 1 year after diagnosis  C) Survival for 30 days after such diagnosis  D) Death within 30 days
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A critical illness rider pays on diagnosis of a life-threatening illness and survival for 30 days after such diagnosis.
-A) There is a survival condition. C) 1 year is incorrect. D) The rider requires survival, not death, after diagnosis.
+**Correct: C)** — A critical illness rider pays on diagnosis of a life-threatening illness and survival for 30 days after such diagnosis.
+A) There is a survival condition. B) 1 year is incorrect. D) The rider requires survival, not death, after diagnosis.
 </details>
 
 **Q35.** Under the Married Women's Property Act (MWPA), 1874, the nominees of the policy can only be:
@@ -327,27 +327,27 @@ A) and B) leave investment decisions to the insurer. D) Mortgage insurance is a 
 </details>
 
 **Q41.** Comparing the same Rs. 1 crore cover for 30 years from the same company: a pure term plan costs Rs. 9,416/year while an endowment costs Rs. 3,16,332/year. The big takeaway an adviser should highlight is:
-A) Endowment is always better value  B) The protection cost is tiny; most of the endowment premium is investment, which earns only ~3–5%  C) Term plans never pay out  D) Endowment guarantees high returns
+A) Endowment is always better value  B) Term plans never pay out  C) Endowment guarantees high returns  D) The protection cost is tiny; most of the endowment premium is investment, which earns only ~3–5%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The pure protection cost is just Rs. 9,416; the rest of the endowment premium is investment that typically yields only about 3–5% and is not guaranteed.
-A) and D) overstate endowment value; returns are low and not guaranteed. C) Term plans do pay if death occurs in the term.
+**Correct: D)** — The pure protection cost is just Rs. 9,416; the rest of the endowment premium is investment that typically yields only about 3–5% and is not guaranteed.
+A) and C) overstate endowment value; returns are low and not guaranteed. B) Term plans do pay if death occurs in the term.
 </details>
 
 **Q42.** A 25-year-old and a 55-year-old have identical incomes and assumptions. Whose Human Life Value is higher and why?
-A) The 55-year-old, because of higher savings  B) The 25-year-old, because more working years remain (and income tends to grow faster)  C) Both equal  D) Cannot be determined
+A) The 55-year-old, because of higher savings  B) Both equal  C) Cannot be determined  D) The 25-year-old, because more working years remain (and income tends to grow faster)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — HLV is higher for younger people because more years remain to retirement (higher Nper) and income tends to grow faster — both raise the present value of future income.
-A) Higher savings reduces *needs-based* insurance, not HLV. C) and D) are wrong; age clearly drives HLV.
+**Correct: D)** — HLV is higher for younger people because more years remain to retirement (higher Nper) and income tends to grow faster — both raise the present value of future income.
+A) Higher savings reduces *needs-based* insurance, not HLV. B) and C) are wrong; age clearly drives HLV.
 </details>
 
 **Q43.** Under the HLV method, if the assumed rate of income growth EQUALS the post-tax return on investment, the HLV equals:
-A) Zero  B) Current annual income × number of years left to retirement  C) The sum of all premiums  D) Twice the current income
+A) Current annual income × number of years left to retirement  B) Zero  C) The sum of all premiums  D) Twice the current income
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — When growth = return, the adjusted discounting rate becomes 0, so HLV = current annual income × years left to retirement (no discounting). Example in workbook: Rs. 10,00,000 × 27 = Rs. 2,70,00,000.
-A) HLV is not zero; the rate is zero. C) and D) are unrelated to the thumb rule.
+**Correct: A)** — When growth = return, the adjusted discounting rate becomes 0, so HLV = current annual income × years left to retirement (no discounting). Example in workbook: Rs. 10,00,000 × 27 = Rs. 2,70,00,000.
+B) HLV is not zero; the rate is zero. C) and D) are unrelated to the thumb rule.
 </details>
 
 **Q44.** "If income grows at 8% instead of 6% (return still 8%), the HLV goes DOWN." This statement is:

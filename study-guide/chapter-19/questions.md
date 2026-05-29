@@ -495,3 +495,274 @@ A) Direct real estate  B) REIT  C) Physical gold  D) Company debenture
 
 **Correct: B)** — Per the workbook's table, **REITs** are described as primarily investing in infrastructure projects like roads and bridges, spread over many projects and professionally managed. Direct real estate (A) is concentrated and self-managed. Gold (C) and a debenture (D) are different asset classes. (Answer per workbook table wording.)
 </details>
+
+## 🔴 Tier 3 — Scenario & Numerical (Q71–Q100)
+
+**Q71.** Mr. A has Rs. 60 lakh and wants a customised, concentrated equity portfolio in his own demat with negotiable fees. Mr. B has Rs. 1.2 crore and wants leveraged derivative strategies. The best products for A and B respectively are:
+A) MF and MF  B) PMS and AIF Cat 3  C) AIF Cat 3 and PMS  D) ULIP and PMS
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Mr. A (Rs. 60 lakh ≥ PMS minimum Rs. 50 lakh, wants customisation in own demat) fits **PMS**. Mr. B (Rs. 1.2 crore ≥ AIF minimum Rs. 1 crore, wants leveraged derivatives) fits **AIF Cat 3**. A ignores their needs. C swaps them (A's Rs. 60 lakh is below the Rs. 1 crore AIF minimum anyway). D's ULIP doesn't match A's demand. Match the corpus to the minimum and the need to the strategy.
+</details>
+
+**Q72.** A tax-saving FD pays 7% p.a. interest. The investor is in the 30% tax slab; FD interest is taxed yearly. What is the approximate post-tax return? (Formula: post-tax return = pre-tax rate × (1 − tax rate))
+A) 7.0%  B) 4.9%  C) 5.6%  D) 2.1%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Using **post-tax return = 7% × (1 − 0.30) = 7% × 0.70 = 4.9%**. Because FD interest is taxed every year, the investor keeps only 70% of the 7%. A (7.0%) ignores tax. C and D use wrong arithmetic. This is exactly why a tax-free PPF at 7% beats a taxable FD at 7% for a high-slab investor.
+</details>
+
+**Q73.** PPF yields 7.1% (tax-free) and a taxable FD yields 7.5% to a 30%-slab investor. Compare post-tax returns. (Formula: FD post-tax = 7.5% × (1 − 0.30))
+A) FD wins at 7.5%  B) PPF wins: 7.1% vs FD's 5.25%  C) Tie  D) FD wins: 5.25% vs 7.1%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **FD post-tax = 7.5% × 0.70 = 5.25%**, while PPF stays **7.1% tax-free**. So PPF (7.1%) beats the FD (5.25%) even though the FD's headline rate is higher. A ignores tax. C is wrong (they differ). D mislabels the winner. Tax-free status flips the apparent advantage — the core lesson of the ELSS/PPF/FD comparison.
+</details>
+
+**Q74.** An investor buys an SGB. After holding to maturity, they redeem it with RBI. They also received the semi-annual interest. Which statement on tax is correct?
+A) Both the capital gain and interest are taxable  B) Capital gain on RBI redemption is tax-free; interest is taxable  C) Both are tax-free  D) Only the interest is tax-free
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — On **redemption with RBI there is no capital-gains tax**, but the **2.50% interest is taxable** as per the IT Act. A wrongly taxes the redemption gain. C wrongly exempts the interest. D reverses the treatment. The capital-gains exemption on RBI redemption is the standout SGB tax benefit; interest is always taxable.
+</details>
+
+**Q75.** Two investors hold the same SGB. Investor X redeems with RBI at maturity; Investor Y sells in the secondary market before maturity. How does their capital-gains tax differ?
+A) Both pay capital gains  B) Neither pays  C) X pays nothing; Y is taxable as capital gains  D) Y pays nothing; X is taxable
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — **X (RBI redemption) pays no capital-gains tax; Y (sold in the market before maturity) is taxable as capital gains.** A and B are blanket and wrong. D reverses them. The exemption applies only on redemption with RBI, not on a market sale — an important distinction for advising SGB holders who need early exit.
+</details>
+
+**Q76.** A client wants a tax-saving product but says: "I want to be able to get my full money out in 3 years if needed." Among ELSS, PPF, NPS, tax-saving FD (5-yr), which uniquely allows full withdrawal at 3 years?
+A) PPF  B) NPS Tier 1  C) ELSS  D) Tax-saving FD
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — **ELSS** has a 3-year lock-in, after which the full amount can be withdrawn. PPF (A) locks for 15 years. NPS (B) locks till age 60. The tax-saving FD (D) locks for its full 5-year tenure. Only ELSS matches the 3-year full-exit requirement — but the client must accept equity risk.
+</details>
+
+**Q77.** A 35-year-old wants a retirement product where 60% can be taken tax-free at 60 but accepts that 40% becomes a taxable annuity. Which product is this, and what is the liquidity caveat?
+A) PPF; 15-year lock-in  B) ELSS; 3-year lock-in  C) NPS Tier 1; locked till age 60 (premature exit needs 80% to annuity)  D) ULIP; 5-year lock-in
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — This is **NPS Tier 1**: 60% tax-free at 60, 40% to a taxable annuity, **locked till age 60**, and a premature withdrawal requires using **80% of the amount to buy an annuity**. PPF (A) and ELSS (B) don't have the 60/40 annuity structure. ULIP (D) is insurance-cum-investment, not this pension design. The annuity rule is the NPS signature.
+</details>
+
+**Q78.** An investor compares two routes for Rs. 10 lakh of debt: (i) an open-ended debt fund growth option with withdrawals, (ii) a bank FD. Both earn ~7% pre-tax. Why might the debt-fund route give a better post-tax outcome?
+A) Debt funds are guaranteed  B) Each withdrawal from the growth option has a large capital element, unlike fully-taxed FD interest  C) FDs have higher fees  D) Debt funds are tax-free
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Per the workbook, **growth-option withdrawals carry a large element of capital** (return of your own principal), so less of each rupee is taxable income, unlike FD interest which is fully taxed. A is false (not guaranteed). C is not the stated reason. D is false (debt funds aren't tax-free). The capital-vs-income mix drives the tax efficiency.
+</details>
+
+**Q79.** A client needs Rs. 5 lakh of debt exposure that he might have to liquidate in 6 months. Rank liquidity (best to worst) among: bank FD, open-ended debt fund, FMP.
+A) FMP > debt fund > FD  B) FD > open-ended debt fund > FMP  C) Debt fund > FD > FMP  D) All equal
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **Bank FD has instant liquidity** (with penalty), an **open-ended debt fund is redeemable from the fund house** (possible exit load), and an **FMP is effectively very illiquid** despite being listed. So FD > debt fund > FMP. A reverses it. C misplaces the FD. D ignores real differences. For a 6-month possible exit, avoid the FMP.
+</details>
+
+**Q80.** An options buyer pays a premium of Rs. 8,000 on an index option. The market moves against them and they let it lapse. What is their maximum loss, and how does this compare to an equivalent index futures position?
+A) Unlimited; same as futures  B) Rs. 8,000; futures risk is like buying the index fund (not premium-capped)  C) Zero; futures is safer  D) Rs. 8,000; futures also capped at Rs. 8,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For an option **buyer the maximum loss is the premium = Rs. 8,000**. An **index futures** position carries risk "same as buying an index fund" — i.e., full exposure to the index move, not capped at a premium. A wrongly calls option loss unlimited. C is wrong (loss isn't zero). D wrongly caps futures loss. The premium cap is the option buyer's protection.
+</details>
+
+**Q81.** A high-slab investor must choose a gold route for an 8-year horizon, wanting interest income and a tax-free exit. Best choice and why?
+A) Physical gold — easy to store  B) Gold ETF — live pricing  C) SGB — 2.50% interest and tax-free capital gain if redeemed with RBI  D) Gold fund — NAV pricing
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Over 8 years (the SGB final-redemption point), **SGB** gives 2.50% p.a. interest and, if redeemed with RBI, **no capital-gains tax**. Physical gold (A) has storage cost and capital-gains tax. Gold ETF (B) and gold fund (D) pay no interest and gains are taxable. Interest + tax-free RBI redemption over 8 years = SGB.
+</details>
+
+**Q82.** An investor buys a Gold ETF on the exchange. Beyond the gold price move, which costs will reduce their net return that a SGB-with-RBI-redemption would avoid?
+A) Only GST  B) Brokerage, demat charges, and the buy-sell spread  C) Storage cost  D) Mortality charges
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Exchange-traded gold (ETF) incurs **brokerage, demat and buy-sell spread costs**. An SGB held to RBI redemption avoids these market-trading costs. A (GST) is actually "No" for Gold ETF. C (storage) doesn't apply to an ETF. D (mortality) is a ULIP charge. The trading frictions are the ETF's drag versus an SGB held to redemption.
+</details>
+
+**Q83.** An advisor compares an actively managed fund (expense ~1.8%) versus an index fund (expense ~0.3%) tracking the same benchmark. For the active fund to be worthwhile, it must:
+A) Match the benchmark exactly  B) Generate enough alpha to beat the index fund net of its higher cost  C) Have lower risk than the index  D) Pay interest
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The active fund attempts higher returns **net of its higher management cost**, so it is only worthwhile if its **alpha exceeds the ~1.5% extra cost** over the index fund. A describes the index fund's goal, not a justification for paying more. C and D are not the comparison. If active can't out-earn its extra fee, the cheaper index fund wins.
+</details>
+
+**Q84.** A client has Rs. 800 to invest monthly and wants diversified equity. Why is a mutual fund the only viable choice among MF, PMS, and AIF?
+A) MF gives guaranteed returns  B) MF minimum can be as low as Rs. 1,000 while PMS (Rs. 50 lakh) and AIF (Rs. 1 crore) are far beyond reach  C) PMS is tax-free  D) AIF is for retail
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **mutual fund's minimum (as low as Rs. 1,000)** is within reach, while **PMS needs Rs. 50 lakh and AIF Rs. 1 crore** — impossible for a small monthly saver. A is false (no guarantee). C is invented. D is false (AIF is for HNIs). The minimum-ticket ladder excludes PMS/AIF for small investors.
+</details>
+
+**Q85.** A ULIP issued in March 2023 has an annual premium of Rs. 3 lakh and sum assured Rs. 30 lakh. Is the maturity tax-exempt under Section 10(10D)?
+A) Yes, because SA is 10× premium  B) No, because the premium exceeds Rs. 2.5 lakh and the policy is post-1 Feb 2021  C) Yes, ULIPs are always exempt  D) No, because SA is below 10× premium
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Even though SA (Rs. 30 lakh) is 10× premium (Rs. 3 lakh), the policy was issued **after 1 Feb 2021 with premium > Rs. 2.5 lakh**, so the Finance Act 2021 amendment **removes the exemption**. A applies only the 10× rule and misses the Rs. 2.5 lakh trap. C is false. D is factually wrong (SA is exactly 10×). Both conditions must be checked.
+</details>
+
+**Q86.** A ULIP issued in March 2023 has an annual premium of Rs. 2 lakh and sum assured Rs. 25 lakh. Is the maturity tax-exempt?
+A) No, because post-2021 ULIPs are never exempt  B) Yes — premium is below Rs. 2.5 lakh and SA is ≥ 10× premium  C) No, SA below 10×  D) Yes, but only the interest portion
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Premium Rs. 2 lakh is **below the Rs. 2.5 lakh threshold**, and SA Rs. 25 lakh is **≥ 10× the Rs. 2 lakh premium**, so the maturity **remains exempt**. A overstates the rule. C is wrong (25 lakh is well above 10×). D invents a partial exemption. Below Rs. 2.5 lakh and SA ≥ 10× → still exempt.
+</details>
+
+**Q87.** An HNI is choosing between PMS and an equity mutual fund for the same equity strategy. Which difference about fee regulation is accurate?
+A) Both fees are SEBI-capped identically  B) MF max fee is SEBI-regulated by fund size; PMS has no upfront charge, operating expenses capped at 0.50%, the rest as agreed  C) PMS fee is fully SEBI-capped  D) MF charges no fees
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **MF maximum fees are SEBI-regulated and vary by fund size**, while **PMS allows no upfront charge, caps operating expenses at 0.50%, and the management/performance fee is negotiated**. A and C overstate PMS regulation. D is false. The negotiated PMS fee (fixed/performance/both) contrasts with the size-based MF cap.
+</details>
+
+**Q88.** A client wants property exposure with Rs. 5 lakh only. Direct property needs a large lump sum. What does the workbook suggest REITs/InvITs make possible?
+A) Guaranteed rent  B) Lower minimum exposure with diversification and professional management  C) Tax-free returns  D) Instant same-day settlement always
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — REITs/InvITs make a **lower minimum exposure possible**, with diversification across many properties/projects and professional management — fitting a Rs. 5 lakh budget. A (guaranteed rent), C (tax-free) and D (instant settlement) are not claimed by the workbook. The lower entry ticket plus diversification is the key REIT/InvIT benefit over direct property.
+</details>
+
+**Q89.** An investor compares a company deposit (8.5%, unsecured) and a debenture (8.0%, secured) from the same company. Which is the rational pick for a risk-averse investor, and why?
+A) Deposit, for the higher rate  B) Debenture, because it is secured (lower risk) — the 0.5% extra on the deposit is compensation for taking unsecured risk  C) Neither is different  D) Deposit, because debentures are unsecured
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A risk-averse investor should prefer the **secured debenture (8.0%)**; the deposit's extra 0.5% is precisely the **reward for bearing unsecured (higher) risk**. A chases yield while ignoring risk. C ignores the security difference. D has the facts backwards (deposits are unsecured, debentures secured). Risk-averse → secured, lower-yield debenture.
+</details>
+
+**Q90.** An investor is told an ETF is "liquid like a share." On Indian exchanges, what realistic caveat must the advisor add?
+A) ETFs settle T+0 always  B) Except for a couple of ETFs, liquidity is often very poor with large NAV-price gaps and wide buy-sell spreads  C) ETFs have no spread  D) ETFs are guaranteed by the AMC
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The realistic caveat: on Indian exchanges, **except for a couple of ETFs, liquidity is very poor**, with big gaps between the NAV and quoted price and wide buy-sell spreads. A, C and D overstate ETF convenience. So a buy-and-hold investor might be better served by a regular index fund redeemable at NAV from the AMC.
+</details>
+
+**Q91.** A subscriber wants to keep NPS as a low-risk retirement vehicle, comparable to PPF on principal safety. What allocation choice achieves this, and what trade-off remains versus PPF?
+A) 75% equity; PPF is riskier  B) Higher G-sec proportion; but NPS still has the 40%-annuity rule and lock-in till 60, unlike PPF's tax-free withdrawal  C) Max Alternative Investments; no trade-off  D) Equal equity and gold; PPF has no lock-in
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Choosing a **higher proportion of G-secs** lowers NPS risk toward PPF-like safety, but NPS still imposes the **40%-compulsory-annuity (taxable) rule and lock-in till age 60**, whereas PPF allows tax-free withdrawal at maturity. A raises risk. C and D contain false claims (no trade-off / PPF has no lock-in). Even safe NPS differs from PPF on exit and tax.
+</details>
+
+**Q92.** A client wants index exposure for exactly 2 months expecting a short-term rise, with the smallest upfront outlay and capped downside. Which derivative fits best and why?
+A) Index fund — long term  B) Index option (buy) — short horizon and loss capped at premium  C) Index futures — but downside not capped  D) ETF — long-term holding
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **bought index option** suits a short (days-to-~3-month) horizon and caps the maximum loss at the premium paid. An index fund (A) and ETF (D) are long-term actual investments, not short trades. Index futures (C) fit the horizon but the downside is not premium-capped (risk like the underlying). Short horizon + capped loss = buy an option.
+</details>
+
+**Q93.** Comparing index futures and an index fund on time horizon: a client says "I'll hold this for 10 years." Which is appropriate and why?
+A) Index futures — they roll forever  B) Index fund — it is an actual investment that can be held for very long/lifetime, while futures max out around 3 months  C) Both equally  D) Index options — long-dated forever
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — An **index fund is an actual investment held for very long tenures or lifetime**, whereas **index futures only last up to ~3 months**. A is wrong — futures don't roll forever costlessly. C ignores the horizon mismatch. D overstates option tenor. For a 10-year hold, the fund is the right instrument.
+</details>
+
+**Q94.** A 40-year-old earning member with two dependent children and a home loan asks if a personal accident policy is enough protection. What should the advisor explain?
+A) Yes, PA covers all death  B) No — PA covers only accidental death/disability; life insurance (any-cause death) is essential, with PA as an add-on  C) Yes, PA is cheaper  D) No — only health insurance is needed
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **PA covers only accidental death and disability**; for a sole earner with dependents and a loan, **life insurance (covering death from any cause) is essential**, and PA is a useful add-on (especially for permanent total disability). A is false (PA is accident-only). C ignores the coverage gap. D wrongly substitutes health cover. Life cover first, PA as a supplement.
+</details>
+
+**Q95.** An investor compares Gold ETF vs Gold Fund redemption mechanics. Which statement is accurate?
+A) Both redeem at end-of-day NAV from the AMC  B) Gold ETF is sellable on the exchange (decent liquidity, costs apply); gold fund is redeemed by the fund house at end-of-day NAV  C) Gold fund trades intraday on exchange  D) Neither can be sold
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **Gold ETF is sold on the exchange** (decent liquidity, but brokerage/spread costs apply), while a **gold fund is redeemed by the fund house at end-of-day NAV**. A wrongly makes both AMC-redeemed. C wrongly makes the fund exchange-traded. D is false. The exchange-vs-AMC route is the practical difference for the client.
+</details>
+
+**Q96.** An investor seeking maximum safety of principal among debt routes chooses between a single debt instrument, an open-ended debt fund, and a bank FD. Which two offer relatively higher safety, and through what mechanisms?
+A) Single instrument (rating) and FMP (lock-in)  B) Bank FD (high safety) and open-ended debt fund (diversification across instruments)  C) Only the single debt instrument  D) Company deposit and debenture
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **bank FD has pretty high safety**, and an **open-ended debt fund gains relatively higher safety through diversification** across many instruments (for the same rating). A single instrument (C) is concentrated and less safe. A and D introduce products not in this trio or with different risk profiles. Bank-backing and diversification are the two safety mechanisms.
+</details>
+
+**Q97.** A client with Rs. 70 lakh wants concentrated, customised equity, but a friend with Rs. 9 lakh wants the same strategy. Why can only the first use PMS?
+A) PMS is tax-free for large investors  B) PMS minimum is Rs. 50 lakh; the Rs. 9 lakh friend falls short and should use a mutual fund  C) PMS minimum is Rs. 1 crore  D) The friend should use an AIF
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **PMS requires a Rs. 50 lakh minimum**; the Rs. 70 lakh client qualifies but the Rs. 9 lakh friend does not and should use a **mutual fund** (min as low as Rs. 1,000). A is invented. C is the AIF minimum, not PMS. D is wrong — AIF needs Rs. 1 crore, even further out of reach. The minimum-ticket rule gates PMS access.
+</details>
+
+**Q98.** An investor wants a single number to judge ULIP performance like a mutual fund's return, but struggles. The advisor explains the core reason and a related disclosure point. Which captures both?
+A) ULIPs don't invest in markets; and disclose more than MFs  B) Mortality and other charges are deducted from fund value (hard to compute post-expense return); and ULIPs have lower disclosure with fewer comparison services  C) ULIPs are SEBI-capped; and disclose daily NAV like MFs  D) ULIPs are tax products; and have no charges
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The post-expense return is hard to compute because **mortality and other charges are deducted from the fund value**, and separately, **ULIPs have lower disclosure standards with fewer independent comparison services** than MFs. A is false on both counts (ULIPs are market-linked; disclose less). C is wrong (IRDAI-regulated, weaker disclosure). D is false. Embedded charges plus weaker disclosure explain the difficulty.
+</details>
+
+**Q99.** A retiree compares a market-linked retirement product (NPS G-sec option) and a non-market-linked one (PPF) on principal risk and liquidity. Which comparison is correct?
+A) NPS G-sec is high risk; PPF is liquid  B) NPS risk depends on option (G-sec = low); both have lock-ins, with non-market-linked liquidity even poorer  C) PPF is market-linked; NPS is fixed  D) Both have instant liquidity
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **NPS risk depends on the chosen option (G-sec = low)**, and **tax-advantaged retirement products carry lock-ins**; the workbook notes liquidity tends to be **even poorer in principal-guaranteed (non-market-linked) products**. A wrongly calls G-sec NPS high risk. C reverses the products. D is false (both have lock-ins). Lock-ins exist precisely to preserve funds for retirement.
+</details>
+
+**Q100.** An advisor must pick a gold route for a client who refuses any storage hassle, wants exchange-listed live pricing, and is fine paying brokerage. Which fits, and what is the main cost caveat?
+A) Physical gold; storage cost  B) Gold ETF; brokerage, demat and buy-sell spread costs apply  C) SGB; locked 8 years  D) Gold fund; only NAV, no costs
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **Gold ETF** gives exchange-listed, live (intraday) pricing with no storage hassle; the caveat is **brokerage, demat and buy-sell spread costs**. Physical gold (A) involves storage. SGB (C) suits a long horizon but is not about live intraday trading and has its own redemption schedule. D wrongly claims a gold fund has no costs (it has AMC charges and NAV-only pricing). Live pricing + brokerage = Gold ETF.
+</details>
+
+## 🧩 Case Study
+
+**Scenario:** Mrs. Iyer, aged 45, is in the 30% tax slab. She approaches you, her investment adviser, with these goals:
+1. Save tax under Section 80C while keeping her capital sovereign-safe and her returns tax-free.
+2. Invest a small monthly amount (Rs. 5,000) into diversified equity without picking stocks.
+3. Allocate Rs. 60 lakh to a customised, concentrated equity portfolio held in her own demat account.
+4. Add a gold allocation for 8 years that earns income and gives a tax-free exit.
+5. Ensure her family is protected if she dies of any cause, and additionally against disability from an accident.
+
+She has compared a tax-saving FD (7.5% taxable) against PPF (7.1% tax-free) and is unsure which gives a better post-tax return.
+
+<details><summary>Q1. For goal 1 (sovereign-safe, tax-free 80C), which product do you recommend over a tax-saving FD, and prove the post-tax comparison?</summary>
+
+**Recommend PPF.** PPF is sovereign (government-backed, low risk) and its returns are entirely tax-free, matching "sovereign-safe + tax-free."
+
+**Post-tax proof (Formula: post-tax return = pre-tax rate × (1 − tax rate)):**
+- Tax-saving FD: 7.5% × (1 − 0.30) = 7.5% × 0.70 = **5.25%** post-tax (interest taxed yearly).
+- PPF: **7.1% tax-free** = 7.1% post-tax.
+
+Since **7.1% > 5.25%**, PPF wins despite the FD's higher headline rate. The lesson: tax treatment can reverse an apparent rate advantage. (PPF also offers max Rs. 1,50,000/year contribution and a 15-year lock-in.)
+</details>
+
+<details><summary>Q2. For goal 2 (Rs. 5,000/month diversified equity, no stock-picking), what fits, and why not PMS or AIF?</summary>
+
+**Recommend an equity mutual fund (e.g., an index fund or diversified equity fund).** A mutual fund accepts amounts as low as Rs. 1,000, spreads risk across many securities (diversification), and needs no personal stock-picking expertise — ideal for a Rs. 5,000 monthly saver.
+
+**Why not PMS or AIF:** PMS requires a minimum of **Rs. 50 lakh** and AIF requires **Rs. 1 crore** — both far beyond a Rs. 5,000 monthly budget. They also suit HNIs seeking customised or complex strategies, not small-ticket diversified investing. The minimum-ticket ladder (MF Rs. 1,000 → PMS Rs. 50 lakh → AIF Rs. 1 crore) settles it.
+</details>
+
+<details><summary>Q3. For goal 3 (Rs. 60 lakh, customised, concentrated, own demat), what fits, and how does it differ from a mutual fund?</summary>
+
+**Recommend PMS (Portfolio Management Services).** Her Rs. 60 lakh clears the **Rs. 50 lakh PMS minimum**. PMS holds investments in the **investor's own demat account**, can be **customised** to her needs, and is **not SEBI-capped on concentration** — so a concentrated portfolio is allowed.
+
+**Difference from a mutual fund:** A mutual fund is a **pooled** vehicle with units allocated to all investors in common, **SEBI-regulated for broad-basing** (so it can't be deliberately concentrated), with fees capped by SEBI by fund size. PMS, by contrast, allows customisation/concentration, no upfront charge, operating expenses capped at 0.50%, and a negotiated (fixed/performance/both) fee. Customisation + own demat + concentration = PMS.
+</details>
+
+<details><summary>Q4. For goal 4 (8-year gold allocation with income and tax-free exit), which gold route, and what are the tax mechanics?</summary>
+
+**Recommend Sovereign Gold Bonds (SGB).** SGBs match an 8-year horizon (final redemption after 8 years; redeemable on anniversaries after 5 years).
+
+**Tax/income mechanics:**
+- SGBs pay **2.50% p.a. interest**, semi-annually — the only gold form with income. This **interest is taxable** under the IT Act.
+- If **redeemed with RBI** (e.g., at the 8-year maturity), there is **no capital-gains tax** — a tax-free exit on the capital gain.
+- (If she instead sold in the secondary market before maturity, the gain would be taxable as capital gains.)
+
+Versus alternatives: physical gold has GST, storage cost, purity worries and taxable gains; Gold ETFs/funds pay no interest and gains are taxable. So SGB uniquely delivers income + tax-free RBI redemption.
+</details>
+
+<details><summary>Q5. For goal 5 (any-cause death protection plus accident disability cover), what combination do you advise, and why is one product alone insufficient?</summary>
+
+**Recommend Life Insurance as the core, with Personal Accident (PA) insurance as an add-on.**
+
+- **Life insurance** covers death due to **any cause** (including accident) — essential for an income earner with dependents. This is the foundation of her family's protection.
+- **Personal Accident insurance** covers **death due to accident only**, but crucially also covers **temporary/permanent, total/partial disability arising from an accident** — which life insurance does **not** cover.
+
+**Why one alone is insufficient:** Life insurance alone leaves a gap because it does not pay for disability. PA insurance alone is inadequate because it does not cover non-accidental (e.g., illness) death. Combining them gives any-cause death cover (life insurance) plus accident-disability cover (PA add-on). PA is a supplement, not a substitute, for life insurance.
+</details>
+

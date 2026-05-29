@@ -708,4 +708,45 @@ A) Biases can be completely eliminated by willpower alone  B) While it is imposs
 **Correct: B)** — The chapter states it is impossible to be fully unbiased, but discipline and checklists help mitigate biases. A) overclaims (biases cannot be fully eliminated); C) checklists do not guarantee returns; D) is false — the chapter says vigilance reduces cognitive errors.
 </details>
 
+## 🧩 Case Study
+
+> **Meet Vikram.** Vikram, 45, is a successful surgeon and a new client of yours (his Investment Adviser). Reviewing his finances, you uncover the following:
+>
+> 1. He keeps three rigidly separate pools: a "kids' education" fund (only FDs), a "retirement" fund (only gold), and a "fun money" account where he aggressively day-trades pharma stocks, treating any annual bonus as "house money" to gamble with.
+> 2. He owns shares in a struggling diagnostics company he founded years ago and inherited some textile-mill shares from his father. He flatly refuses to sell either, even though both drag down his diversification — "they're part of my story."
+> 3. He sold his profitable IT holding the moment it rose 12% but is still holding a hospital stock down 45%, insisting "it'll come back to what I paid."
+> 4. Because he is a doctor, he trades heavily in pharma and biotech, certain his medical background gives him an edge; after three good years he says, "I clearly read this sector better than the market."
+> 5. When you send him a list of 70 well-rated mutual funds to diversify into, he keeps "needing more time to study them all" and, months later, still hasn't invested a rupee.
+
+**CS-Q1.** In behaviour (1), Vikram treats bonus money and his three pools as fundamentally different kinds of money. Which bias is this, and what is the textbook remedy?
+<details><summary>Answer & Explanation</summary>
+
+**Bias: Mental Accounting (a cognitive / information-processing error).** Vikram codes money into non-fungible "buckets" (education, retirement, fun) and treats a bonus as risk-it-all "house money," even though money is fungible. The chapter (Thaler, 1999) notes people take more risk with windfalls/lottery-type money and over-manage separate buckets, blocking whole-portfolio optimisation. **Remedy:** treat all money as fungible — the same regardless of origin or intended use — and optimise the portfolio as a single whole rather than per bucket. The psychology: labelling money makes it feel "different," but every rupee buys the same things, so the labels lead to sub-optimal choices.
+</details>
+
+**CS-Q2.** In behaviour (2), Vikram refuses to sell his founded company's shares and the inherited textile shares. Name the bias, identify its two attributes, and explain why this is endowment bias rather than the disposition effect.
+<details><summary>Answer & Explanation</summary>
+
+**Bias: Endowment Bias (an emotional bias).** Vikram values these assets more simply because he owns them ("part of my story"), especially the inherited shares — the chapter's exact example of inherited stocks rarely being sold even when they don't fit the strategy. **Its two attributes are (i) valuing ownership and (ii) loss aversion.** **Why not disposition effect?** The disposition effect is specifically the *asymmetric trading pattern* of selling winners early and holding losers; here the driver is sentimental over-valuation of owned/inherited assets regardless of any win/loss pattern. The psychology: ownership creates an emotional attachment that inflates perceived value beyond what a detached buyer would pay.
+</details>
+
+**CS-Q3.** Behaviour (3) — selling the IT winner at +12% but clinging to the hospital loser down 45% — illustrates which bias, and which prospect-theory premises explain it?
+<details><summary>Answer & Explanation</summary>
+
+**Bias: Loss Aversion, expressed as the Disposition Effect (Shefrin & Statman, 1985).** Vikram sells the winner quickly and holds the loser hoping to "get back to what I paid." **Prospect-theory premises at work:** (i) people are **risk-averse about gains** (so he grabs the 12% early), (ii) people are **risk-seeking about losses** (so he gambles by holding the −45% loser to avoid booking the loss), and (iii) **losses hurt more than equivalent gains please**, which is why the pain of realising the loss feels unbearable. Note the "what I paid" reference also shows **anchoring** on his purchase price, but the dominant, defining behaviour is the disposition effect rooted in loss aversion. The psychology: booking a loss converts a "paper" loss into a painful, certain one, so he prefers to gamble.
+</details>
+
+**CS-Q4.** In behaviour (4), Vikram over-trades pharma and credits three good years to his medical "edge." Name the primary bias and its amplifier, explain why it is NOT stereotyping, and describe two observable behaviours the chapter links to it.
+<details><summary>Answer & Explanation</summary>
+
+**Primary bias: Overconfidence Bias, amplified by Self-Attribution Bias.** Vikram has unwarranted faith in his own judgment and credits a sector-wide bull run to personal skill ("confusing brains with a bull market"). **Why not stereotyping?** Stereotyping judges *investments* by a group's representative characteristics (e.g., "famous manager = good company"); Vikram instead over-rates *his own ability* — that is overconfidence. **Two observable behaviours the chapter links to overconfidence:** portfolio/sector concentration (all-in on pharma/biotech) and excessive trading (heavy day-trading); others include sticking with loss-making stocks in sectors he thinks he knows. The psychology: a feedback loop from recent wins blurs the line between skill and luck, leading him to underestimate risk.
+</details>
+
+**CS-Q5.** In behaviour (5), Vikram never invests from the 70-fund list. Identify the bias, contrast it with bounded rationality, and recommend a practical, chapter-supported remedy an adviser could use.
+<details><summary>Answer & Explanation</summary>
+
+**Bias: Choice Paralysis.** Too many options (70 funds) and too much information lead Vikram to keep "studying" and ultimately not decide at all. **Contrast with bounded rationality:** a boundedly-rational investor would *satisfice* — quickly pick a good-enough fund using thumb rules under limited time — and actually invest; Vikram instead freezes and takes no action, which is the hallmark of choice paralysis rather than satisficing. **Practical remedy (chapter-supported):** reduce the choice set and use a **nudge / sensible default** (Thaler) — e.g., present a short curated shortlist or a pre-set default allocation/auto-investment plan — and apply **discipline and a checklist**, which the chapter says help mitigate biases. The psychology: when evaluation feels overwhelming, simplifying the decision and providing a default removes the paralysis without forcing a rushed, biased choice.
+</details>
+
+
 

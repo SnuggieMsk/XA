@@ -40,10 +40,10 @@ A) The need to take the risk  B) The colour of their car  C) The bank's lending 
 </details>
 
 **Q6.** According to Table 18.1, as the number of earning members in a family increases, risk appetite:
-A) Decreases  B) Increases  C) Stays the same  D) Becomes zero
+A) Increases  B) Decreases  C) Stays the same  D) Becomes zero
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — More earning members means more income coming in to cushion losses, so risk appetite increases (all else equal). It does not decrease (A) or stay flat (C); B is the direct statement from Table 18.1. "Zero" (D) is nonsensical.
+**Correct: A)** — More earning members means more income coming in to cushion losses, so risk appetite increases (all else equal). It does not decrease (B) or stay flat (C); A is the direct statement from Table 18.1. "Zero" (D) is nonsensical.
 </details>
 
 **Q7.** According to Table 18.1, as the number of dependent members increases, risk appetite:
@@ -54,10 +54,10 @@ A) Increases  B) Decreases  C) Is unaffected  D) Doubles
 </details>
 
 **Q8.** According to Table 18.1, a longer life expectancy leads to a risk appetite that is:
-A) Lower  B) Higher  C) Unchanged  D) Negative
+A) Lower  B) Unchanged  C) Higher  D) Negative
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A longer life expectancy means a longer investment horizon and more time to recover from downturns, so risk appetite is higher. Lower (A) and unchanged (C) contradict the table; "negative" (D) is meaningless for appetite.
+**Correct: C)** — A longer life expectancy means a longer investment horizon and more time to recover from downturns, so risk appetite is higher. Lower (A) and unchanged (B) contradict the table; "negative" (D) is meaningless for appetite.
 </details>
 
 **Q9.** According to Table 18.1, the relationship between age and the risk that can be taken is:
@@ -706,5 +706,72 @@ A) Match the portfolio only to the client's willingness, ignoring capacity and g
 <details><summary>Answer & Explanation</summary>
 
 **Correct: B)** — Good practice reconciles willingness, ability, required return and horizon; diversifies across low/negatively-correlated assets; and reviews/rebalances periodically. Ignoring capacity and goals (A), forcing all-equity on the young (C), and chasing last year's winner (D) all violate the chapter's principles.
+</details>
+
+## 🧩 Case Study
+
+**The Deshmukh family — a real-world risk-profiling assignment.**
+
+Rohit Deshmukh (age 38) is a software architect earning Rs. 36 lakh a year in a stable job. His wife Sneha (age 35) is a homemaker. They have two children (ages 8 and 5) and Rohit supports his retired parents. They have a home loan with EMIs running for another 12 years, an emergency fund covering 4 months of expenses, and an investible corpus of Rs. 40 lakh. On the questionnaire, Rohit scores as "Aggressive" and says he "loves the thrill of equity." Their goals are: (1) children's higher education in 12 years, needing Rs. 80 lakh; (2) a car purchase in 18 months, needing Rs. 12 lakh; and (3) retirement in 22 years. Rohit asks you to "put everything in equities."
+
+---
+
+**Sub-question 1:** Distinguish Rohit's risk *willingness* from his risk *ability/capacity*, and state which dimensions pull in opposite directions.
+
+<details><summary>Worked answer</summary>
+
+**Willingness (psychology):** High. He scores Aggressive and enjoys equity volatility — this is about his attitude to losses, not his finances.
+
+**Ability/capacity (resources & obligations):** Mixed and partly constrained. Factors raising it: he is relatively young (38), highly employable (software architect), has a steady job, regular income (Rs. 36 lakh) and a reasonable Rs. 40 lakh corpus. Factors lowering it: he is the *single* earner, has *four* dependents (wife, two young children, retired parents), and carries a long home loan — more dependents and liabilities reduce the ability to absorb losses.
+
+**Opposing pull:** His *willingness* is high, but his *dependents and loan* hold his *ability* down. Per the chapter, good profiling weighs **both** willingness and ability (including the ability to incur and absorb losses), so the adviser cannot simply act on his aggressive appetite.
+</details>
+
+**Sub-question 2:** Rohit wants "everything in equities." Using the concentration examples in the chapter, explain two distinct risks of an all-equity portfolio for this family.
+
+<details><summary>Worked answer</summary>
+
+**Risk 1 — volatility/uncertainty of value (the "Latika" problem):** Latika put all her money in equities and was never sure she would have the required funds when needed because the value kept fluctuating. For the Deshmukhs, the **car goal is only 18 months away** — an equity dip just before then could leave them short.
+
+**Risk 2 — concentration in one asset class:** The chapter stresses that risk comes from concentrating the portfolio in one category; a single market fall would hit the *entire* portfolio at once, with no other asset rising to cushion it. As the single earner with four dependents and a loan, Rohit cannot afford that downside.
+
+**Conclusion:** All-equity ignores liquidity (for the near goal) and diversification, so it is unsuitable despite his appetite.
+</details>
+
+**Sub-question 3:** For the **car goal (Rs. 12 lakh in 18 months)**, what allocation is suitable and why? Contrast it with the education goal's horizon.
+
+<details><summary>Worked answer</summary>
+
+**Car goal — 18 months (short horizon):** Suitable assets are **lower-risk and liquid** — cash, bank deposits, short-term/liquid mutual fund schemes (the chapter's "liquidity" and "capital preservation" categories). With only 18 months there is **no time to recover** from an equity fall, so equity is unsuitable here regardless of Rohit's appetite. The chapter's lesson (Jayant) is that as a goal nears, money should sit in safer assets.
+
+**Contrast — education goal (12 years):** A long 12-year horizon can absorb short-term volatility, so it can carry a meaningful **growth/equity** allocation, rebalanced toward safety as the goal approaches (again, the Jayant principle). **Same family, different goal, different allocation** — because suitable allocation is a function of the *investment period* plus ability and willingness.
+</details>
+
+**Sub-question 4:** Estimate the required return for the **education goal** and judge whether it conflicts with prudent risk-taking. (They can allocate Rs. 20 lakh of the corpus to this goal; target Rs. 80 lakh in 12 years.)
+
+<details><summary>Worked answer</summary>
+
+**Required growth:** Rs. 20 lakh must become Rs. 80 lakh — that is **4×** in 12 years.
+
+**Using the rule of 72:** money doubles in 72 ÷ rate years. Two doublings (×4) in 12 years means each doubling takes ~6 years, so required return ≈ 72 ÷ 6 = **~12% per year**.
+
+**Judgement:** A ~12% target needs a **growth-oriented (equity-heavy) but diversified** allocation over the long horizon — which is feasible and broadly consistent with Rohit's willingness, provided it is **not** 100% equity and is **rebalanced** toward safety as the goal nears. So for *this* long goal, his appetite and the required return align reasonably; the conflict is mainly with the *short-term* car goal, not the education goal. (Note: 12% is illustrative; advisers should use realistic, documented assumptions.)
+</details>
+
+**Sub-question 5:** Recommend a structure for the family that reconciles all three dimensions, and state two SEBI Reg 16 obligations the adviser must meet.
+
+<details><summary>Worked answer</summary>
+
+**Goal-based, diversified structure (strategic asset allocation):**
+- **Car (18 months):** liquid/short-term debt and cash — capital preservation and liquidity.
+- **Education (12 years):** growth-oriented but diversified mix (equity + some debt/gold for low correlation), targeting ~12%, rebalanced toward safety as it nears.
+- **Retirement (22 years):** the most equity-tilted bucket, given the longest horizon, still diversified.
+- **Across all:** maintain/strengthen the emergency fund; diversify using low/negatively-correlated assets so a fall in one is cushioned by another; **review at least once a year** and rebalance to stay aligned (not to chase prices).
+
+This respects his **high willingness** (meaningful equity in long goals), his **constrained ability** (liquidity buffers, no all-in bets given dependents/loan), and the **required return** (≈12% only where the horizon supports it).
+
+**Two SEBI Reg 16 obligations:**
+1. **Profile before advising and obtain objective information** — assess both willingness *and* ability to take and absorb losses using fair, clear, non-leading questions; complete the risk profile **before** any advice and obtain his consent on it (no free trial otherwise).
+2. **Update the profile on life events** — e.g., if a child's education timeline, the loan, income, or dependents change, the profile must be refreshed; reviews are recommended on changes in family composition, income/expenses, or assets/liabilities.
 </details>
 
