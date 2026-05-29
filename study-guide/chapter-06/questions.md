@@ -663,3 +663,398 @@ A) Sell all assets  B) Know where all the client's investments are, so the whole
 - D) contradicts the need to understand the full financial picture.
 </details>
 
+## 🔴 Tier 3 — Hard: Numerical & Scenario (Q71–Q100)
+
+**Q71.** A client spends Rs. 12,000/month today. At 7% inflation, what will the equivalent monthly expense be in 25 years (use the same factor as the workbook's Rs. 10,000 → Rs. 54,724)?
+A) Rs. 30,000  B) Rs. 54,724  C) Rs. 65,669  D) Rs. 84,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Future = Present × (1.07)^25. The workbook's factor is 54,724 ÷ 10,000 = 5.4724. So 12,000 × 5.4724 ≈ Rs. 65,669.
+- A) ignores inflation growth.
+- B) is the figure for Rs. 10,000, not Rs. 12,000.
+- D) overstates (would imply a factor of 7).
+</details>
+
+**Q72.** Today's relevant monthly expense is Rs. 9,000, inflation 7%, 25 years to retire. Using Future = PV × (1.07)^25, the monthly expense at retirement is:
+A) Rs. 18,000  B) Rs. 48,847  C) Rs. 81,411  D) Rs. 1,30,258
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — 9,000 × (1.07)^25 = 9,000 × 5.4274 ≈ Rs. 48,847 (workbook Scenario 1). The formula compounds today's expense forward at inflation.
+- A) merely doubles, ignoring compounding.
+- C) is the Rs. 15,000 case.
+- D) is the Rs. 24,000 case.
+</details>
+
+**Q73.** Compute the real (inflation-adjusted) return if the corpus earns 9% and post-retirement inflation is 6%, using (1+r)/(1+i) − 1.
+A) 3.00%  B) 2.83%  C) 1.89%  D) 15.5%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — (1.09/1.06) − 1 = 1.028302 − 1 = 0.02830 ≈ 2.83%. The division (not simple subtraction) gives slightly less than 3%.
+- A) 3% is the rough subtraction 9%−6%.
+- C) 1.89% is the workbook's 8%/6% case.
+- D) is meaningless here.
+</details>
+
+**Q74.** Verify the early-withdrawal loss: Mr. E withdraws Rs. 75,000 with 30 years left at 8.5% p.a. Future Value = PV × (1+r)^n. Approximately how much is lost?
+A) Rs. 75,000  B) Rs. 2.55 lakh  C) Rs. 8.66 lakh  D) Rs. 22.5 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — FV = 75,000 × (1.085)^30. (1.085)^30 ≈ 11.56, so 75,000 × 11.56 ≈ Rs. 8.67 lakh ≈ Rs. 8.66 lakh (workbook). This is the future corpus the withdrawal sacrifices.
+- A) ignores compounding.
+- B) ≈ 75,000 × 3.4, far too few years' growth.
+- D) overstates the compounding factor.
+</details>
+
+**Q75.** If instead Mr. E had 20 years (not 30) to retirement at 8.5%, the future value lost on Rs. 75,000 would be closest to (use (1.085)^20 ≈ 5.11):
+A) Rs. 75,000  B) Rs. 1.91 lakh  C) Rs. 3.83 lakh  D) Rs. 8.66 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — FV = 75,000 × (1.085)^20 ≈ 75,000 × 5.11 ≈ Rs. 3.83 lakh. Fewer years means less compounding, so the loss is smaller than the 30-year Rs. 8.66 lakh.
+- A) ignores growth.
+- B) uses about half the correct factor.
+- D) is the 30-year figure, more time than given.
+</details>
+
+**Q76.** A client wants the same Rs. 1.18 crore corpus. At 12% return, the workbook gives Rs. 6,280/month if he starts at 35 (25 years). Starting at 40 (20 years) the requirement is Rs. 11,928. By roughly what multiple does the monthly saving rise when he delays from 35 to 40?
+A) ~1.1×  B) ~1.9×  C) ~3.5×  D) ~5×
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — 11,928 ÷ 6,280 ≈ 1.9×. Five fewer years of compounding nearly doubles the monthly requirement.
+- A) understates the jump.
+- C) ~3.5× is the 30-vs-40 comparison (3,376 → 11,928).
+- D) overstates it.
+</details>
+
+**Q77.** For the same Rs. 1.18 crore corpus at 12%, starting at 30 needs Rs. 3,376/month and at 40 needs Rs. 11,928/month. The 40-year-old must save how many times more than the 30-year-old?
+A) ~1.5×  B) ~2×  C) ~3.5×  D) ~10×
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — 11,928 ÷ 3,376 ≈ 3.53 ≈ 3.5×. Starting 10 years later more than triples the monthly burden — the cost of lost compounding.
+- A) and B) understate.
+- D) overstates.
+</details>
+
+**Q78.** Using PMT logic, which input change would REDUCE the monthly savings needed for a fixed corpus target?
+A) Increasing nper (more years to invest)  B) Reducing the rate of return  C) Increasing the corpus target  D) Shortening the horizon
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — More periods (a longer horizon) lets compounding do more work, so each month's required saving falls (e.g., 30 years needs Rs. 3,376 vs 20 years' Rs. 11,928).
+- B) a lower return raises the saving needed.
+- C) a bigger target raises the saving.
+- D) a shorter horizon raises the saving.
+</details>
+
+**Q79.** A client's corpus PV is computed with rate = 1.89%/12, nper = 300, pmt = −81,411. Which scenario and corpus does this correspond to?
+A) Scenario 1, Rs. 1.17 crore  B) Scenario 2, Rs. 1.95 crore  C) Scenario 3, Rs. 3.11 crore  D) Scenario 2, Rs. 1.17 crore
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Rs. 81,411 is Scenario 2's monthly expense at retirement (from Rs. 15,000 today), giving a corpus of about Rs. 1.95 crore.
+- A) Scenario 1's pmt is Rs. 48,847.
+- C) Scenario 3's pmt is Rs. 1,30,258.
+- D) pairs the right scenario with the wrong corpus.
+</details>
+
+**Q80.** A client steps up a Rs. 5,000 SIP by 10% each year. What is the SIP amount in year 3 (rounded)?
+A) Rs. 5,500  B) Rs. 6,050  C) Rs. 6,500  D) Rs. 5,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Year 1: 5,000; Year 2: 5,000 × 1.10 = 5,500; Year 3: 5,500 × 1.10 = Rs. 6,050. Each year multiplies the prior amount by 1.10.
+- A) is the year-2 amount.
+- C) overshoots.
+- D) ignores the step-up.
+</details>
+
+**Q81.** The workbook's example uses (1.07)^25 ≈ 5.427 to grow Rs. 9,000 to Rs. 48,847. If inflation were only 5%, (1.05)^25 ≈ 3.386. The retirement expense on Rs. 9,000 would then be about:
+A) Rs. 30,474  B) Rs. 48,847  C) Rs. 18,000  D) Rs. 60,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — 9,000 × 3.386 ≈ Rs. 30,474. Lower inflation means a smaller future expense, hence a smaller corpus needed.
+- B) is the 7% figure.
+- C) just doubles, ignoring the factor.
+- D) overstates.
+</details>
+
+**Q82.** A 25-year EPF balance grows at 8.5%. If a client withdraws Rs. 1,00,000 today with 25 years to retirement, the lost future value is closest to (use (1.085)^25 ≈ 7.69):
+A) Rs. 1,00,000  B) Rs. 3.85 lakh  C) Rs. 7.69 lakh  D) Rs. 11.56 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — FV = 1,00,000 × (1.085)^25 ≈ 1,00,000 × 7.69 ≈ Rs. 7.69 lakh. Same method as Mr. E, but a different amount/horizon.
+- A) ignores growth.
+- B) uses far too small a factor.
+- D) uses the 30-year factor (11.56), more time than given.
+</details>
+
+**Q83.** Scenario: A 35-year-old (retire 60, life to 85) has today's full expense of Rs. 25,000. Using the 60% rule, his retirement-relevant expense today is:
+A) Rs. 25,000  B) Rs. 15,000  C) Rs. 10,000  D) Rs. 40,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — 60% of Rs. 25,000 = Rs. 15,000 (workbook Scenario 2's monthly expense). The rule trims current expenses to the ~50–60% likely needed in retirement.
+- A) ignores the 60% rule.
+- C) and D) use the wrong percentages.
+</details>
+
+**Q84.** Continuing Q83: at 7% inflation over 25 years, the monthly expense at retirement (15,000 × 5.427) is about Rs. 81,411, and the workbook corpus is:
+A) Rs. 1.17 crore  B) Rs. 1.95 crore  C) Rs. 3.11 crore  D) Rs. 81,411
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Scenario 2 (Rs. 15,000 today → Rs. 81,411 at retirement) yields a corpus of about Rs. 1.95 crore via PV at the 1.89% real return over 300 months.
+- A) is Scenario 1.
+- C) is Scenario 3.
+- D) is the monthly expense, not the corpus.
+</details>
+
+**Q85.** A client expects an 8% return but 7% post-retirement inflation. His real return per (1+r)/(1+i) − 1 is closest to:
+A) 1.00%  B) 0.93%  C) 1.89%  D) 1.50%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — (1.08/1.07) − 1 = 1.009346 − 1 = 0.00935 ≈ 0.93%. Higher inflation (7% vs 6%) shrinks the real return below the workbook's 1.89%.
+- A) is the rough subtraction (8%−7%).
+- C) is the 8%/6% value.
+- D) does not match.
+</details>
+
+**Q86.** A client's monthly expense at retirement is Rs. 1,30,258 (Scenario 3). Over 300 months at 1.89%/12 real return, the PV (corpus) is approximately:
+A) Rs. 1.17 crore  B) Rs. 1.95 crore  C) Rs. 3.11 crore  D) Rs. 3.9 crore
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Scenario 3 (Rs. 24,000 today → Rs. 1,30,258 at retirement) gives a corpus of about Rs. 3.11 crore. Larger expenses scale the corpus up proportionally.
+- A) is Scenario 1, B) is Scenario 2.
+- D) overstates the workbook figure.
+</details>
+
+**Q87.** Mr. A needs Rs. 2.0 crore in 20 years at 12%, requiring Rs. 20,217/month fixed. If he could instead earn 15%, would the required fixed monthly saving be higher or lower?
+A) Higher  B) Lower  C) Unchanged  D) Zero
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A higher return means compounding does more of the work, so a smaller monthly contribution reaches the same Rs. 2.0 crore. In PMT, raising rate (with corpus fixed) lowers the payment.
+- A) reverses the relationship.
+- C) ignores the effect of return.
+- D) overstates — you still need to contribute something.
+</details>
+
+**Q88.** A client steps up a Rs. 10,000 SIP by 7% annually. The year-2 amount is:
+A) Rs. 10,070  B) Rs. 10,700  C) Rs. 17,000  D) Rs. 11,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Year 2 = 10,000 × (1 + 7%) = 10,000 × 1.07 = Rs. 10,700. A 7% step-up multiplies by 1.07 each year.
+- A) applies 0.7%, not 7%.
+- C) applies 70%.
+- D) applies 10%.
+</details>
+
+**Q89.** Two clients have a Rs. 1.18 crore target at 12%. Client P starts at 30 (Rs. 3,376/month). Over 30 years (360 months), roughly how much does Client P contribute in TOTAL (ignoring growth)?
+A) ~Rs. 12.15 lakh  B) ~Rs. 40 lakh  C) ~Rs. 1.18 crore  D) ~Rs. 3,376
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Total contributions = 3,376 × 360 ≈ Rs. 12.15 lakh. The gap between this and the Rs. 1.18 crore corpus (~Rs. 1.06 crore) is the power of compounding at 12%.
+- B) overstates contributions.
+- C) is the final corpus, not contributions.
+- D) is one month only.
+</details>
+
+**Q90.** Client Q starts at 40 (Rs. 11,928/month, 240 months) for the same Rs. 1.18 crore. His total contributions (ignoring growth) are about:
+A) ~Rs. 12.15 lakh  B) ~Rs. 28.6 lakh  C) ~Rs. 1.18 crore  D) ~Rs. 11,928
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — 11,928 × 240 ≈ Rs. 28.6 lakh. Starting later, Client Q must put in over twice the rupees that early-starter P contributed (~Rs. 12.15 lakh) for the same corpus — compounding had less time, so contributions had to carry more of the load.
+- A) is Client P's total.
+- C) is the final corpus.
+- D) is one month.
+</details>
+
+**Q91.** A 55-year-old retiree needs an income product. Which evaluation pair from the workbook applies, and why?
+A) Cost & Return — because growth dominates  B) Inflation & Capital Protection — income must beat inflation for longevity and capital must be safe  C) Risk & Tax efficiency — accumulation focus  D) Brand & Liquidity
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For income-generating products at the retirement stage, the workbook prescribes Inflation (income must beat inflation against longevity risk) and Capital Protection (avoid products that fluctuate the capital).
+- A) and C) are accumulation/growth factors.
+- D) is not the workbook's stated pair for income products.
+</details>
+
+**Q92.** Scenario: A client withdrew his EPF on a job change after 3 years of service. What are the tax and continuity consequences?
+A) Tax-free and service continues  B) Taxable withdrawal, and he restarts contributions with the new employer  C) Tax-free but service resets  D) No tax and he keeps the old account
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Under 5 years of service, withdrawing the old EPF is taxable; having withdrawn rather than transferred, he must start over with the new employer (where the required contribution has already risen).
+- A), C), D) misstate the sub-5-year tax rule and the loss of continuity.
+</details>
+
+**Q93.** A client switching jobs in year 6 transfers (not withdraws) his EPF. Tax outcome?
+A) Taxable because he switched  B) No tax incidence on transfer; old service period is added to total service  C) Tax at 20% flat  D) Forfeiture of interest
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Transferring incurs no tax incidence, and the old service period is included in total service. (He has also crossed 5 years, so even a withdrawal would be tax-free — but transfer keeps compounding.)
+- A) transfer is not a taxable event.
+- C) and D) are not stated outcomes.
+</details>
+
+**Q94.** Using the workbook's factors, which client faces the LARGEST corpus requirement, and roughly how much?
+A) Rs. 9,000 today → Rs. 1.17 crore  B) Rs. 15,000 today → Rs. 1.95 crore  C) Rs. 24,000 today → Rs. 3.11 crore  D) All equal
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — The highest current expense (Rs. 24,000) inflates to the highest retirement expense (Rs. 1,30,258) and the largest corpus, about Rs. 3.11 crore. Corpus scales with the expense level.
+- A) and B) are smaller scenarios.
+- D) is false — they differ.
+</details>
+
+**Q95.** A client argues that since the real return is only ~1.89%, the corpus barely matters. The correct intuition is:
+A) He is right — skip the corpus  B) A low real return actually makes the corpus LARGER, because money grows slowly relative to rising costs, so more capital is needed up front  C) A low real return makes the corpus smaller  D) Real return has no effect on the corpus
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — In PV, a lower discount (real) rate produces a larger present value — you need a bigger lump sum because it grows little above inflation. That is why the corpus figures are large (Rs. 1.17–3.11 crore).
+- A) is dangerously wrong.
+- C) reverses the PV relationship.
+- D) ignores that the real return is the PV discount rate.
+</details>
+
+**Q96.** A client aged 32 (long horizon) is choosing between a low-cost equity mutual fund (higher risk, growth) and an immediate annuity (income). For accumulation, which fits and why?
+A) The annuity — guaranteed income now  B) The equity fund — long horizon allows riding downside cycles to grow and beat inflation  C) Neither  D) Both equally
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Pre-retirement accumulation favours growth products that can ride out volatility over 15–20+ years and beat inflation; income products like annuities suit the retirement/post-retirement phases.
+- A) An annuity locks in income he doesn't yet need and forgoes growth.
+- C) and D) ignore the clear suitability match.
+</details>
+
+**Q97.** A retiree wants to leave money to heirs and keep funds accessible. In the post-retirement (75+) phase, which factor newly gains importance per the workbook?
+A) Maximum growth  B) Liquidity (to leave money for heirs)  C) High risk  D) Tax-loss harvesting
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — In the post-retirement phase the objective of leaving money for heirs makes liquidity a primary factor, alongside capital protection, low return and least risk.
+- A) and C) are unsuitable for the very old age phase.
+- D) is not mentioned as the added factor.
+</details>
+
+**Q98.** A client invests a one-time Rs. 50,000 in EPF earning 8.5% and leaves it untouched for 30 years. Its future value (using (1.085)^30 ≈ 11.56) is about:
+A) Rs. 50,000  B) Rs. 1.5 lakh  C) Rs. 5.78 lakh  D) Rs. 8.66 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — FV = 50,000 × 11.56 ≈ Rs. 5.78 lakh. This is exactly the compounding the Mr. E example warns you forfeit if you withdraw early.
+- A) ignores growth.
+- B) uses far too small a factor.
+- D) is the figure for a Rs. 75,000 withdrawal, not Rs. 50,000.
+</details>
+
+**Q99.** Scenario: Mr. A's fixed plan is Rs. 20,217/month for Rs. 2.0 crore in 20 years at 12%. He instead starts a step-up SIP at a lower amount, rising 7% yearly. The main risk/benefit trade-off is:
+A) He guarantees a higher corpus  B) He eases early cash flow and rides compounding, but must discipline himself to actually step up each year  C) He pays no return  D) He finishes in 5 years
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Stepping up starts lower (easier early on) and increases with income, capturing compounding; the trade-off is the discipline to keep increasing contributions as planned.
+- A) no corpus is guaranteed.
+- C) the 12% return still applies.
+- D) the horizon stays 20 years.
+</details>
+
+**Q100.** A client has Rs. 1.18 crore as the target but can only save Rs. 6,280/month and is currently 35 (25 years, 12%). Five years pass and he hasn't started. Now at 40 he needs Rs. 11,928/month. What is the key lesson?
+A) Returns dropped  B) Procrastination forces a much higher monthly saving (here ~1.9×) because compounding had 5 fewer years  C) The corpus shrank  D) Inflation rose
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Same corpus, same 12% return — only the start age changed. Delaying from 35 to 40 raises the requirement from Rs. 6,280 to Rs. 11,928 (≈1.9×), purely from lost compounding time. Start early.
+- A) the return is unchanged at 12%.
+- C) the target stayed Rs. 1.18 crore.
+- D) inflation is not the variable that changed here.
+</details>
+
+## 🧩 Case Study
+
+**Meet Ramesh.** Ramesh is 35 years old and plans to retire at 60. He expects to live until 85. His current household expense is Rs. 25,000/month. He has an EPF balance and is contributing regularly. He assumes:
+- Pre-retirement inflation: **7% p.a.**
+- Post-retirement inflation: **6% p.a.**
+- Return on the retirement corpus during retirement: **8% p.a.**
+- Return during the accumulation phase: **12% p.a.**
+- Retirement expenses ≈ **60%** of current expenses (no liabilities at retirement)
+- EPF interest: **8.5% p.a.**
+
+Ramesh asks his adviser five questions.
+
+---
+
+**Sub-question 1:** What is Ramesh's retirement-relevant monthly expense *today*, and what will it be at retirement (age 60)?
+
+<details><summary>Worked Answer</summary>
+
+**Step 1 — Apply the 60% rule (today's relevant expense):**
+Retirement-relevant expense today = 60% × Rs. 25,000 = **Rs. 15,000/month**.
+(At retirement, loans and children's goals end, so he needs roughly 50–60% of today's spend.)
+
+**Step 2 — Inflate to retirement using Future = Present × (1 + inflation)^years:**
+- inflation = 7%, years to retire = 60 − 35 = 25.
+- (1.07)^25 ≈ 5.427.
+- Future monthly expense = 15,000 × 5.427 ≈ **Rs. 81,411/month**.
+
+This matches the workbook's Scenario 2. Intuition: prices rise ~7% every year, so 25 years of compounding multiplies the expense more than fivefold.
+</details>
+
+**Sub-question 2:** What inflation-adjusted (real) return should the adviser use to size the corpus, and why?
+
+<details><summary>Worked Answer</summary>
+
+**Formula:** Real Return = [(1 + return) ÷ (1 + post-retirement inflation)] − 1.
+- return = 8%, post-retirement inflation = 6%.
+- Real return = (1.08 ÷ 1.06) − 1 = 1.018868 − 1 = 0.01887 ≈ **1.89% p.a.** (≈ 1.89%/12 per month).
+
+**Why use the real return?** During retirement the corpus grows at 8%, but the cost of living keeps rising at 6%. The *purchasing power* of the corpus therefore grows by only ~1.89%. Discounting future expenses at this real rate builds the rising-cost effect into the corpus automatically — so we don't have to inflate every single future month separately.
+
+Note it is slightly below the rough 8% − 6% = 2% because the exact formula divides rather than subtracts.
+</details>
+
+**Sub-question 3:** Using the Excel PV function, what corpus does Ramesh need at age 60?
+
+<details><summary>Worked Answer</summary>
+
+**Formula:** =PV(rate, nper, pmt, [fv], [type])
+- **rate** = real return per month = 1.89%/12.
+- **nper** = post-retirement months = (85 − 60) × 12 = 25 × 12 = **300**.
+- **pmt** = monthly expense at retirement = Rs. 81,411, entered as **−81,411** (it is a cash outflow).
+- **fv** = blank (0) — the corpus is drawn down to zero by age 85.
+- **type** = 0 (payments at period end).
+
+=PV(1.89%/12, 300, −81411) ≈ **Rs. 1.95 crore** (workbook Scenario 2).
+
+Intuition: the corpus is simply the present value, at age 60, of 300 monthly withdrawals that keep pace with 6% inflation, discounted at the 1.89% real return. A low real return makes the required lump sum large.
+</details>
+
+**Sub-question 4:** Using the Excel PMT function, how much must Ramesh save per month (12% return) to build a Rs. 1.18 crore corpus if he starts now at 35? How would it change if he had started at 30 or delayed to 40?
+
+<details><summary>Worked Answer</summary>
+
+**Formula:** =PMT(rate, nper, pv, [fv], [type])
+- **rate** = 12%/12 per month.
+- **pv** = corpus target = Rs. 1.18 crore.
+- **fv** = 0; **type** = 0.
+- **nper** = months from start age to 60.
+
+| Start age | Years | nper (months) | Monthly saving |
+|---|---|---|---|
+| 30 | 30 | 360 | **Rs. 3,376** |
+| 35 | 25 | 300 | **Rs. 6,280** |
+| 40 | 20 | 240 | **Rs. 11,928** |
+
+Starting at 35, Ramesh needs about **Rs. 6,280/month**.
+- Starting 5 years earlier (30) would cut it to Rs. 3,376 — almost half.
+- Delaying to 40 raises it to Rs. 11,928 — about **1.9×** the age-35 figure (and ~3.5× the age-30 figure).
+
+**Lesson:** the corpus and return are identical; only the time for compounding changes. Each year of delay sharply raises the monthly burden — start early.
+</details>
+
+**Sub-question 5:** Ramesh is tempted to withdraw Rs. 75,000 from his EPF now (30 years before age 65/retirement-horizon) for a discretionary expense, and is also about to change jobs. What should the adviser advise?
+
+<details><summary>Worked Answer</summary>
+
+**(a) The cost of early withdrawal — Future Value lost:**
+FV = amount × (1 + r)^n = 75,000 × (1.085)^30.
+- (1.085)^30 ≈ 11.56.
+- FV ≈ 75,000 × 11.56 ≈ **Rs. 8.66 lakh**.
+
+So withdrawing Rs. 75,000 today sacrifices about **Rs. 8.66 lakh** of future retirement corpus — because that money loses 30 years of compounding at 8.5%. The adviser should discourage the discretionary withdrawal and, if unavoidable, urge Ramesh to "fill the gap later" with higher contributions.
+
+**(b) On the job change — transfer, don't withdraw:**
+- If Ramesh has served **less than 5 years** and withdraws the old EPF, the withdrawal becomes **taxable**.
+- Instead, he should **transfer** the EPF to the new employer using his **UAN** (12-digit lifelong number) — completely online, with UAN/KYC updated. This incurs **no tax**, adds the **old service period** to his total service (helping cross the 5-year tax-free mark), and preserves **compounding** on the old corpus.
+- (If it were NPS, the same **PRAN** would simply move with him, or continue under the **All Citizen Model**.)
+
+**Bottom line:** Don't withdraw early (it costs ~Rs. 8.66 lakh of future corpus); transfer the EPF on the job change to avoid tax and keep compounding intact.
+</details>
+
+
+

@@ -17,11 +17,11 @@ A) Companies Act, 2013  B) Income Tax Act, 1961  C) FEMA, 1999  D) SEBI Act, 199
 </details>
 
 **Q2.** Which body administers matters relating to the Income Tax Act, 1961?
-A) RBI  B) SEBI  C) Central Board of Direct Taxes (CBDT)  D) Ministry of Corporate Affairs
+A) Central Board of Direct Taxes (CBDT)  B) SEBI  C) RBI  D) Ministry of Corporate Affairs
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Administration of the Act is assigned to the Central Board of Direct Taxes (CBDT), which also issues Circulars and Notifications.
-- A) RBI is the central bank, handling monetary policy and FEMA.
+**Correct: A)** — Administration of the Act is assigned to the Central Board of Direct Taxes (CBDT), which also issues Circulars and Notifications.
+- C) RBI is the central bank, handling monetary policy and FEMA.
 - B) SEBI regulates securities markets.
 - D) Ministry of Corporate Affairs handles company law.
 </details>
@@ -45,11 +45,11 @@ A) January 1 to December 31  B) April 1 to March 31  C) July 1 to June 30  D) Oc
 </details>
 
 **Q5.** The financial year in which income is earned is called the:
-A) Assessment Year  B) Previous Year  C) Accounting Year  D) Base Year
+A) Previous Year  B) Assessment Year  C) Accounting Year  D) Base Year
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The financial year for which one calculates tax liability (the year income is earned) is the 'Previous Year' (PY), defined by Section 3.
-- A) Assessment Year is the year *following* the previous year, when income is assessed.
+**Correct: A)** — The financial year for which one calculates tax liability (the year income is earned) is the 'Previous Year' (PY), defined by Section 3.
+- B) Assessment Year is the year *following* the previous year, when income is assessed.
 - C) and D) are not defined terms in the Act for this purpose.
 </details>
 
@@ -74,11 +74,11 @@ A) AY 2020-21  B) AY 2021-22  C) AY 2022-23  D) AY 2023-24
 </details>
 
 **Q8.** Section 3 of the Act defines 'Previous Year' as:
-A) Any 12 months chosen by the taxpayer  B) The financial year immediately preceding the assessment year  C) The financial year immediately following the assessment year  D) The calendar year of income
+A) The financial year immediately preceding the assessment year  B) Any 12 months chosen by the taxpayer  C) The financial year immediately following the assessment year  D) The calendar year of income
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 3 defines 'Previous Year' as the financial year immediately preceding the assessment year.
-- A) The taxpayer cannot freely choose; it is fixed as April–March.
+**Correct: A)** — Section 3 defines 'Previous Year' as the financial year immediately preceding the assessment year.
+- B) The taxpayer cannot freely choose; it is fixed as April–March.
 - C) reverses the relationship; the PY *precedes* the AY.
 - D) India uses the financial year, not the calendar year.
 </details>
@@ -152,11 +152,11 @@ A) Section 2(31)  B) Section 6  C) Section 56  D) Section 80C
 </details>
 
 **Q16.** Citizenship and residential status under the Income Tax Act are:
-A) The same concept  B) Different concepts  C) Both determined by FEMA  D) Both determined by SEBI
+A) Different concepts  B) The same concept  C) Both determined by FEMA  D) Both determined by SEBI
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — They are very different concepts. A person can be a citizen of another country but a resident of India under the Income Tax Act.
-- A) They are explicitly stated to be different.
+**Correct: A)** — They are very different concepts. A person can be a citizen of another country but a resident of India under the Income Tax Act.
+- B) They are explicitly stated to be different, not the same.
 - C) and D) Residential status under the Act is determined under Section 6, not by FEMA or SEBI.
 </details>
 
@@ -171,11 +171,11 @@ A) Once in a lifetime  B) Every financial year  C) From day to day  D) Every fiv
 </details>
 
 **Q18.** Into how many categories can the residential status of an individual be classified?
-A) Two  B) Three  C) Four  D) Five
+A) Two  B) Four  C) Five  D) Three
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Three categories: (a) Resident and Ordinarily Resident (ROR), (b) Resident but Not Ordinarily Resident (RNOR), and (c) Non-Resident (NR).
-- A), C), D) are incorrect counts.
+**Correct: D)** — Three categories: (a) Resident and Ordinarily Resident (ROR), (b) Resident but Not Ordinarily Resident (RNOR), and (c) Non-Resident (NR).
+- A), B), C) are incorrect counts.
 </details>
 
 **Q19.** From which financial year did residential status begin to depend on citizenship, period of stay AND total Indian income?
@@ -240,13 +240,13 @@ A) 182 days  B) 365 days  C) 729 days  D) 730 days
 </details>
 
 **Q26.** A Resident and Ordinarily Resident (ROR) individual is taxed in India on:
-A) Only Indian income  B) Only foreign income  C) Worldwide income  D) Nothing
+A) Only Indian income  B) Only foreign income  C) Nothing  D) Worldwide income
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — An ROR pays tax in India on worldwide income (income received/accrued in India plus income accruing outside India).
+**Correct: D)** — An ROR pays tax in India on worldwide income (income received/accrued in India plus income accruing outside India).
 - A) That describes a Non-Resident's general position.
 - B) Foreign income alone is never the rule.
-- D) An ROR is fully taxable.
+- C) An ROR is fully taxable, not exempt.
 </details>
 
 **Q27.** A Non-Resident is taxed in India on:
@@ -259,11 +259,11 @@ A) Worldwide income  B) Only Indian income (received/accrued or deemed in India)
 </details>
 
 **Q28.** How many heads of income are there under the Income Tax Act?
-A) Three  B) Four  C) Five  D) Six
+A) Three  B) Four  C) Six  D) Five
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — There are five heads: Salary, House Property, Profits & Gains from Business or Profession, Capital Gains, and Income from Other Sources.
-- A), B), D) are incorrect counts.
+**Correct: D)** — There are five heads: Salary, House Property, Profits & Gains from Business or Profession, Capital Gains, and Income from Other Sources.
+- A), B), C) are incorrect counts.
 </details>
 
 **Q29.** Income from salary is taxable only if there exists a relationship of:
@@ -664,4 +664,386 @@ A) EET  B) ETE  C) EEE  D) TEE always
 - B) ETE describes 5-year tax-saving FDs and SCSS.
 - D) They become TEE only when the new regime removes the deduction; their classic category is EEE.
 </details>
+
+---
+
+## 🔴 Tier 3 — Hard: Numerical & Scenario (Q71–Q100)
+
+**Q71.** Mr. C (Indian citizen) stays 298 days in India in FY 2024-25 and a total of 578 days across the 7 preceding years, and was non-resident in 9 of the 10 preceding years. His status for FY 2024-25 is:
+A) Non-resident  B) ROR  C) RNOR  D) Deemed resident
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Step 1: 298 ≥ 182 days → Resident. Step 2 (NOR test, satisfy ANY one): he stayed 578 days (≤729) in 7 years AND was non-resident in 9 of 10 years — both NOR conditions met → RNOR.
+- A) Non-resident is wrong because 298 ≥ 182.
+- B) ROR requires failing both NOR tests; he satisfies them, so not ROR.
+- D) Deemed resident is for Indian citizens with >₹15 lakh Indian income not taxed elsewhere — not these facts.
+</details>
+
+**Q72.** Mr. Vilayati (PIO, non-resident for 20 years) comes to India for employment on 1 April 2024 and stays the whole year. His status for FY 2024-25 is:
+A) Non-resident  B) RNOR  C) ROR  D) Exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — He stays the full FY (>182 days) → Resident. For NOR, satisfying ANY one suffices: he was non-resident in 9 of 10 preceding years AND spent fewer than 730 days in the 7 preceding years. So → RNOR.
+- A) >182 days means he is resident.
+- C) ROR requires failing both NOR tests; he satisfies them.
+- D) Residents are not exempt.
+</details>
+
+**Q73.** Continuing Q72, by FY 2026-27 (after two full resident years), Mr. Vilayati's status becomes:
+A) RNOR still  B) ROR  C) Non-resident  D) Deemed resident
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — By FY 2026-27 he stays >182 days (resident). For NOR: he is NOT non-resident in 9 of 10 years (he was resident in FY 2024-25 and 2025-26) and he has now spent more than 730 days in the preceding 7 years. He fails BOTH NOR conditions → ROR.
+- A) He no longer satisfies either NOR condition.
+- C) >182 days means resident.
+- D) Deemed resident needs the >₹15 lakh/no-foreign-tax test, not these facts.
+</details>
+
+**Q74.** Continuing the Vilayati case, his foreign bond interest is taxable in India in:
+A) FY 2024-25 only  B) FY 2025-26 only  C) FY 2026-27 onwards (when he becomes ROR)  D) All three years
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — As RNOR in FY 2024-25 and 2025-26, his passive foreign bond interest is NOT taxed in India. From FY 2026-27 he is ROR (worldwide income), so the bond interest becomes taxable in India.
+- A) and B) RNOR years do not tax this foreign income.
+- D) The first two years (RNOR) do not tax it.
+</details>
+
+**Q75.** Mr. B's basic salary is ₹15,00,000. Employer EPF = ₹21,600 (well within 12% of salary). The taxable add-back of employer's EPF is:
+A) ₹21,600  B) Nil  C) ₹1,80,000  D) ₹2,31,600
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Employer EPF is taxable only to the extent it exceeds 12% of salary. ₹21,600 is within 12% of ₹15,00,000 (12% = ₹1,80,000), so the taxable add-back is Nil under section 17(1)(vi).
+- A) The full amount is not added because it is within the 12% limit.
+- C) ₹1,80,000 is the 12% threshold, not the add-back.
+- D) ₹2,31,600 is the total employer contribution, not the EPF add-back.
+</details>
+
+**Q76.** Same Mr. B: employer NPS = ₹2,10,000, total employer contribution = ₹2,31,600. Is there a section 17(2)(vii) add-back for exceeding ₹7,50,000?
+A) Yes, ₹2,31,600  B) Yes, ₹1,50,000  C) No add-back (aggregate within ₹7,50,000)  D) Yes, ₹7,50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — The aggregate employer contribution (₹2,31,600) is within the ₹7,50,000 limit, so there is no 17(2)(vii) add-back.
+- A), B), D) all assume an excess over ₹7,50,000, but the aggregate is below the limit.
+</details>
+
+**Q77.** For Mr. B (gross salary ₹17,10,000 = ₹15,00,000 + ₹2,10,000 employer NPS perquisite), the taxable salary (A) after standard deduction under the OLD regime is:
+A) ₹16,35,000  B) ₹16,60,000  C) ₹17,10,000  D) ₹15,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Gross salary ₹17,10,000 − old-regime standard deduction ₹50,000 = ₹16,60,000.
+- A) ₹16,35,000 uses the new-regime standard deduction of ₹75,000.
+- C) ₹17,10,000 is before standard deduction.
+- D) ₹15,00,000 ignores the employer NPS perquisite and the deduction.
+</details>
+
+**Q78.** Mr. B (old regime): employee EPF ₹21,600 + PPF ₹1,50,000 under 80C, NPS 80CCD(1B) ₹50,000, employer NPS 80CCD(2) at 10% of ₹15,00,000. The 80CCD(2) deduction is:
+A) ₹1,50,000  B) ₹2,10,000  C) ₹50,000  D) ₹1,71,600
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Old-regime 80CCD(2) for a private employee = 10% of salary = 10% × ₹15,00,000 = ₹1,50,000 (even though employer actually contributed ₹2,10,000, the deduction is capped at 10%).
+- B) ₹2,10,000 is the new-regime cap (14%), not old (10%).
+- C) ₹50,000 is the 80CCD(1B) figure.
+- D) ₹1,71,600 is not a relevant figure.
+</details>
+
+**Q79.** Mr. B (old regime): Taxable salary ₹16,60,000 less total deductions = ₹1,50,000 (80C) + ₹50,000 (80CCD(1B)) + ₹1,50,000 (80CCD(2)) = ₹3,50,000. Taxable income is:
+A) ₹14,25,000  B) ₹13,10,000  C) ₹16,60,000  D) ₹15,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Taxable income = ₹16,60,000 − ₹3,50,000 = ₹13,10,000.
+- A) ₹14,25,000 is the new-regime answer.
+- C) ₹16,60,000 ignores the deductions.
+- D) ₹15,00,000 is just the basic salary.
+</details>
+
+**Q80.** Mr. B (NEW regime): gross salary ₹17,10,000, standard deduction ₹75,000, and the ONLY available deduction 80CCD(2) at 14% of ₹15,00,000 = ₹2,10,000. Taxable income is:
+A) ₹13,10,000  B) ₹14,25,000  C) ₹16,35,000  D) ₹17,10,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — New regime: ₹17,10,000 − ₹75,000 = ₹16,35,000; less 80CCD(2) ₹2,10,000 = ₹14,25,000. (80C and 80CCD(1B) are not available in the new regime.)
+- A) ₹13,10,000 is the old-regime answer.
+- C) ₹16,35,000 is before the 80CCD(2) deduction.
+- D) ₹17,10,000 ignores all deductions.
+</details>
+
+**Q81.** Mr. A (old regime): salary ₹15,00,000; self-occupied house with home-loan interest ₹5,00,000; 80C eligible ₹1,80,000. House-property income (self-occupied) is the negative of interest, capped at:
+A) −₹5,00,000  B) −₹2,00,000  C) −₹1,50,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Self-occupied annual value is Nil; the loss = interest, but capped at ₹2,00,000 under the old regime. So house-property income = −₹2,00,000.
+- A) −₹5,00,000 ignores the ₹2 lakh cap.
+- C) −₹1,50,000 is the 80C cap, not the interest cap.
+- D) Nil applies under the NEW regime, not the old.
+</details>
+
+**Q82.** Continuing Q81 (old regime): Gross Total Income = ₹15,00,000 − ₹2,00,000 = ₹13,00,000. The 80C deduction (eligible ₹1,80,000) is allowed as:
+A) ₹1,80,000  B) ₹1,50,000  C) ₹2,00,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — 80C is capped at ₹1,50,000, so although ₹1,80,000 was spent, only ₹1,50,000 is deductible.
+- A) ₹1,80,000 exceeds the cap.
+- C) ₹2,00,000 is the house-property interest cap, not 80C.
+- D) Some 80C is allowed (up to the cap).
+</details>
+
+**Q83.** Continuing Q81–82 (old regime): Taxable income = ₹13,00,000 − ₹1,50,000 (80C) =
+A) ₹15,00,000  B) ₹13,00,000  C) ₹11,50,000  D) ₹10,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Taxable income = ₹13,00,000 − ₹1,50,000 = ₹11,50,000.
+- A) ₹15,00,000 ignores both the house-property loss and 80C.
+- B) ₹13,00,000 is the GTI before 80C.
+- D) ₹10,00,000 is not a step in the calculation.
+</details>
+
+**Q84.** Same facts (self-occupied, interest ₹5,00,000) but NEW regime. Mr. A's taxable income is:
+A) ₹11,50,000  B) ₹13,00,000  C) ₹15,00,000  D) ₹10,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — In the new regime, self-occupied interest deduction is not available (house-property income = Nil) and 80C is not available. So taxable income = full salary ₹15,00,000.
+- A) ₹11,50,000 is the old-regime answer.
+- B) ₹13,00,000 wrongly allows the house-property loss.
+- D) ₹10,00,000 is not relevant.
+</details>
+
+**Q85.** Mr. A has a LET-OUT house: annual value ₹2,20,000; standard deduction 30%. The standard deduction amount is:
+A) ₹44,000  B) ₹66,000  C) ₹73,333  D) ₹1,10,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Standard deduction (section 24a) = 30% of NAV = 30% × ₹2,20,000 = ₹66,000.
+- A) ₹44,000 is 20%.
+- C) ₹73,333 is one-third (33.3%), not 30%.
+- D) ₹1,10,000 is 50%.
+</details>
+
+**Q86.** Continuing Q85: annual value ₹2,20,000 − standard deduction ₹66,000 − interest ₹5,00,000. The house-property income is:
+A) −₹2,80,000  B) −₹3,46,000  C) −₹5,00,000  D) +₹1,54,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — House-property income = ₹2,20,000 − ₹66,000 − ₹5,00,000 = −₹3,46,000 (a loss). For let-out property there is no cap on interest.
+- A) −₹2,80,000 forgets to subtract the standard deduction correctly.
+- C) −₹5,00,000 ignores the net annual value contribution.
+- D) It is a loss, not a positive figure.
+</details>
+
+**Q87.** Continuing Q86 (old regime): the loss of ₹3,46,000 can be set off against salary in the current year up to:
+A) ₹3,46,000  B) ₹2,00,000  C) ₹1,50,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Inter-head set-off of house-property loss is capped at ₹2,00,000 under the old regime.
+- A) ₹3,46,000 ignores the ₹2 lakh cap.
+- C) ₹1,50,000 is the 80C cap.
+- D) Some set-off IS allowed, up to ₹2 lakh.
+</details>
+
+**Q88.** Continuing Q86–87: the balance house-property loss to be carried forward is:
+A) ₹2,00,000  B) ₹3,46,000  C) ₹1,46,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Carried-forward loss = total loss − set off = ₹3,46,000 − ₹2,00,000 = ₹1,46,000 (carried forward up to 8 years, set off only against future house-property income).
+- A) ₹2,00,000 is the amount already set off.
+- B) ₹3,46,000 is the total loss before set-off.
+- D) There is a remaining loss to carry forward.
+</details>
+
+**Q89.** Continuing the let-out case: under the NEW regime, can the ₹2,00,000 portion be set off against salary in the current year?
+A) Yes, ₹2,00,000  B) No set off against other heads (₹0), but ₹1,46,000 still carried forward  C) Yes, full ₹3,46,000  D) No carry forward at all
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — In the new regime, inter-head set-off of house-property loss is not allowed (deemed set off), so ₹0 against salary; however, the ₹1,46,000 balance loss is still carried forward (set off only against future house-property income).
+- A) and C) The new regime disallows inter-head set-off.
+- D) Carry forward of the house-property loss is still allowed.
+</details>
+
+**Q90.** Mr. Gora, a non-Indian-origin UK citizen, has worked in India since 2005 without travelling abroad (stays >182 days every year). His status for FY 2024-25 is:
+A) Non-resident  B) RNOR  C) ROR  D) Deemed resident
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — He stays >182 days each year for many years, so he is resident and fails both NOR tests (not non-resident 9/10 years, and far more than 729 days in 7 years) → ROR. His UK rental income is therefore taxable in India.
+- A) >182 days means resident.
+- B) He fails the NOR tests.
+- D) Deemed-resident applies to Indian citizens.
+</details>
+
+**Q91.** Mr. Gora (ROR) has rental income in the UK. Is it taxable in India?
+A) No, because he is a foreigner  B) Yes, because an ROR pays tax on global income  C) Only if remitted to India  D) Only under FEMA
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — As an ROR, Mr. Gora pays tax on his global income in India, so his UK rental income is taxable in India.
+- A) Citizenship does not exempt foreign income for an ROR.
+- C) Taxability does not depend on remittance for an ROR.
+- D) FEMA is a separate law; this is about income tax.
+</details>
+
+**Q92.** A partnership firm has income exceeding ₹1 crore. Using effective tax rate = rate × (1 + surcharge) × (1 + cess) with 30%, 12% surcharge and 4% cess, the effective rate is:
+A) 30%  B) 34.944%  C) 42.744%  D) 33.6%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Effective rate = 30% × (1 + 0.12) × (1 + 0.04) = 30% × 1.12 × 1.04 = 34.944%.
+- A) 30% ignores surcharge and cess.
+- C) 42.744% is the individual MMR (37% surcharge).
+- D) 33.6% applies surcharge but forgets the 4% cess.
+</details>
+
+**Q93.** Maximum Marginal Rate (MMR) for an individual: highest slab 30%, surcharge = 30% × 37% = 11.1%, cess = 4% of (30% + 11.1%). The cess component is:
+A) 1.2%  B) 1.644%  C) 1.11%  D) 4%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Cess = 4% × (30% + 11.1%) = 4% × 41.1% = 1.644%.
+- A) 1.2% is 4% of 30% only (ignores surcharge in the base).
+- C) 1.11% confuses surcharge with cess.
+- D) 4% is the cess rate, not the cess amount on income.
+</details>
+
+**Q94.** Adding it up: highest slab 30% + surcharge 11.1% + cess 1.644% gives an MMR of:
+A) 41.1%  B) 42.744%  C) 34.944%  D) 45%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — MMR = 30 + 11.1 + 1.644 = 42.744%.
+- A) 41.1% omits the cess.
+- C) 34.944% is the partnership-firm effective rate.
+- D) 45% is not the computed figure.
+</details>
+
+**Q95.** An individual has total income ₹20,00,000 and income tax payable ₹4,29,000. The effective tax rate is:
+A) 30%  B) 21.45%  C) 42.744%  D) 4.29%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For an individual on slabs, effective rate = total tax ÷ total income = ₹4,29,000 ÷ ₹20,00,000 = 21.45%.
+- A) 30% is the highest slab, not the effective average.
+- C) 42.744% is the MMR.
+- D) 4.29% misplaces the decimal.
+</details>
+
+**Q96.** Under the NEW regime (FY 2024-25), the section 87A rebate of up to ₹25,000 is available if total income is up to:
+A) ₹5,00,000  B) ₹7,00,000  C) ₹12,00,000  D) ₹7,28,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — From AY 2024-25 (FY 2024-25), a resident individual under the new regime with total income up to ₹7,00,000 can claim a rebate of up to ₹25,000.
+- A) ₹5,00,000 (with ₹12,500 rebate) is the old-regime limit.
+- C) ₹12,00,000 (₹60,000 rebate) is from FY 2025-26.
+- D) ₹7,28,000 is the marginal-relief ceiling, not the rebate threshold.
+</details>
+
+**Q97.** Under the NEW regime from FY 2025-26, the section 87A rebate of up to ₹60,000 applies for total income up to:
+A) ₹7,00,000  B) ₹10,00,000  C) ₹12,00,000  D) ₹15,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Effective FY 2025-26 (AY 2026-27), the rebate is up to ₹60,000 for total income up to ₹12,00,000, with marginal relief just above.
+- A) ₹7,00,000 (₹25,000) is the FY 2024-25 new-regime limit.
+- B) ₹10,00,000 is not a threshold.
+- D) ₹15,00,000 is not the rebate threshold.
+</details>
+
+**Q98.** The section 87A rebate is NOT available against tax on:
+A) Salary income  B) House property income  C) Long-term capital gains under section 112A  D) Interest income
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — The 87A rebate is not available against tax payable under section 112A (LTCG on listed equity shares / equity MF units etc.) or under section 111 (accumulated PF balance).
+- A), B), D) are normal incomes against which the rebate can apply.
+</details>
+
+**Q99.** Under the OLD regime, the section 87A rebate of up to ₹12,500 is available to a resident individual with total income not exceeding:
+A) ₹2,50,000  B) ₹5,00,000  C) ₹7,00,000  D) ₹12,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The old-regime 87A rebate is up to ₹12,500 for a resident individual whose total income does not exceed ₹5,00,000.
+- A) ₹2,50,000 is the basic exemption limit, not the rebate threshold.
+- C) ₹7,00,000 (₹25,000) is the new-regime FY 2024-25 limit.
+- D) ₹12,00,000 (₹60,000) is the new-regime FY 2025-26 limit.
+</details>
+
+**Q100.** Gross Total Income (Section 80B(5)) is computed by: (1) summing the five heads, (2) clubbing income, (3) setting off losses — and it is the figure BEFORE which deductions?
+A) Standard deduction  B) Chapter VI-A deductions  C) Section 24(a)  D) Section 87A rebate
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — GTI is total income computed before any deduction under Chapter VI-A. Total Income = GTI − Chapter VI-A deductions.
+- A) Standard deduction is taken within the salary head, before GTI.
+- C) Section 24(a) is the house-property standard deduction, within that head.
+- D) The 87A rebate is applied to *tax*, not to income.
+</details>
+
+---
+
+## 🧩 Case Study
+
+**Scenario:** Mr. Rajan is an Indian citizen and a salaried employee. For FY 2024-25 (AY 2025-26) the following details apply:
+
+- He stayed in India for **210 days** in FY 2024-25, and a total of **600 days** across the 7 preceding financial years; he was a non-resident in 9 of the 10 preceding years (he recently returned after a long overseas posting).
+- **Basic salary:** ₹16,00,000. Employer EPF contribution ₹1,80,000; employer NPS contribution ₹2,24,000. Employee 80C-eligible investments (EPF + LIC + PPF) total ₹2,00,000; employee NPS 80CCD(1B) ₹50,000.
+- He owns **one let-out house**: annual value ₹3,00,000, municipal taxes paid ₹20,000, home-loan interest ₹4,00,000.
+- He has a **bank account in Dubai** earning interest of ₹1,00,000 (passive; not connected to any India-controlled business).
+
+(Assume the OLD tax regime unless stated; salary for NPS/EPF percentage limits = basic salary ₹16,00,000.)
+
+<details><summary>Q-CS-1. What is Mr. Rajan's residential status for FY 2024-25, and is the Dubai interest taxable in India?</summary>
+
+**Step 1 — Resident test:** He stayed 210 days ≥ 182 days in the PY → **Resident**.
+**Step 2 — NOR test (satisfy ANY one):**
+- Non-resident in 9 of 10 preceding years → satisfied; AND
+- In India 600 days (≤ 729 days) in the 7 preceding years → satisfied.
+Since he satisfies the NOR conditions, he is **Resident but Not Ordinarily Resident (RNOR)**.
+
+**Dubai interest:** An RNOR is taxed on Indian income plus foreign income only if it is from a business controlled from / profession set up in India. The Dubai bank interest is passive and not so connected, so it is **NOT taxable in India**. (Intuition: RNOR gives a "shield" to genuinely foreign passive income.)
+</details>
+
+<details><summary>Q-CS-2. Compute Mr. Rajan's gross salary, after testing the employer EPF and the ₹7,50,000 aggregate-contribution rule.</summary>
+
+**Employer EPF add-back:** Employer EPF is taxable only above 12% of salary. 12% × ₹16,00,000 = ₹1,92,000. Employer EPF of ₹1,80,000 is *within* ₹1,92,000 → **add-back = Nil** [section 17(1)(vi)].
+
+**Employer NPS:** The whole employer NPS contribution ₹2,24,000 is added to salary as a perquisite [section 17(1)(viii)].
+
+**₹7,50,000 aggregate rule [section 17(2)(vii)]:** Aggregate employer contribution = EPF ₹1,80,000 + NPS ₹2,24,000 = ₹4,04,000, which is **below ₹7,50,000** → **no further add-back**.
+
+**Gross salary = ₹16,00,000 + ₹2,24,000 = ₹18,24,000.**
+</details>
+
+<details><summary>Q-CS-3. Compute taxable salary income (head: Salary) under the OLD regime after standard deduction and the salary-linked NPS/80C deductions.</summary>
+
+Start from gross salary ₹18,24,000.
+
+**Less standard deduction (old regime): ₹50,000** → Net salary = ₹17,74,000.
+
+Now the deductions from Gross Total Income that relate to him:
+- **80C:** eligible ₹2,00,000 but **capped at ₹1,50,000**.
+- **80CCD(1B):** employee NPS ₹50,000 (allowed in old regime).
+- **80CCD(2):** employer NPS, old-regime cap = **10% of salary** = 10% × ₹16,00,000 = ₹1,60,000 (employer gave ₹2,24,000, but deduction is capped at 10%).
+
+So the salary head contributes **₹17,74,000** to GTI; the 80C/80CCD deductions (₹1,50,000 + ₹50,000 + ₹1,60,000 = ₹3,60,000) are applied later from GTI (shown in Q-CS-5).
+(Note: 80CCE caps 80C + 80CCC + 80CCD(1) at ₹1,50,000; here 80C alone already hits ₹1,50,000, and 80CCD(1B)/80CCD(2) are over and above that cap.)
+</details>
+
+<details><summary>Q-CS-4. Compute the income from the let-out house property.</summary>
+
+**Formula:** Income from house property = Net Annual Value − 30% standard deduction − interest on loan (no cap for let-out).
+
+- Annual Value (A) = ₹3,00,000
+- Less municipal taxes paid (B) = ₹20,000
+- **Net Annual Value (C = A − B) = ₹2,80,000**
+- Less standard deduction (section 24a) = 30% × ₹2,80,000 = **₹84,000**
+- Less interest on home loan = **₹4,00,000** (let-out → no limit)
+
+**Income from house property = ₹2,80,000 − ₹84,000 − ₹4,00,000 = −₹2,04,000 (a loss).**
+</details>
+
+<details><summary>Q-CS-5. Compute Mr. Rajan's Gross Total Income and Total Income (old regime), applying loss set-off and Chapter VI-A deductions.</summary>
+
+**Step A — Heads of income:**
+- Salary (after standard deduction) = ₹17,74,000
+- House property = −₹2,04,000 (loss)
+- Dubai interest = not taxable (RNOR) → ₹0
+
+**Step B — Inter-head set-off of house-property loss (old regime, capped at ₹2,00,000):**
+Loss is ₹2,04,000 but only **₹2,00,000** can be set off against other heads this year.
+GTI = ₹17,74,000 − ₹2,00,000 = **₹15,74,000**.
+The remaining **₹4,000** house-property loss is **carried forward** (up to 8 years, set off only against future house-property income).
+
+**Step C — Chapter VI-A deductions:**
+- 80C ₹1,50,000 + 80CCD(1B) ₹50,000 + 80CCD(2) ₹1,60,000 = **₹3,60,000**.
+
+**Total Income = GTI − Chapter VI-A = ₹15,74,000 − ₹3,60,000 = ₹12,14,000.**
+
+**Intuition recap:** RNOR shielded the Dubai interest; the let-out interest created a loss but inter-head relief is capped at ₹2 lakh (old regime), with the tiny ₹4,000 balance carried forward; and employer NPS deduction was limited to 10% of salary in the old regime.
+</details>
+
 

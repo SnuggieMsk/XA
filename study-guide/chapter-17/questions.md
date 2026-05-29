@@ -248,3 +248,250 @@ A) Hunger and thirst  B) Greed and fear  C) Profit and loss only  D) Tax and ref
 
 **Correct: B)** — Clients cycle through greed (over-exuberance) and fear (paralysis). A) is unrelated. C) and D) are not the emotional cycle described. Behavioural logic: markets trigger swings the adviser must steady.
 </details>
+
+## 🟡 Tier 2 — Medium: Application (Q36–Q70)
+
+**Q36.** A client confesses he shops online late at night whenever work stress peaks, then feels guilty. What should the adviser do FIRST?
+A) Tell him to delete all shopping apps  B) Make him conscious that his spending is stress-induced  C) Open a new investment account  D) Recommend a credit card with cashback
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The first step for retail therapy is awareness — link the spending to stress. A) is forceful and not the prescribed first step. C) is irrelevant. D) worsens impulsive spending. Behavioural logic: recognising the trigger comes before fixing it.
+</details>
+
+**Q37.** After making the client aware, what concrete tool should the adviser set up to limit his stress-shopping?
+A) A specific budget, possibly a separate account funded only with the budgeted amount  B) A larger overdraft  C) A new credit card  D) A monthly cash bonus
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Step two is a specific budget/separate account — a self-imposed brake. B) and C) increase spending power. D) adds money to splurge. Behavioural logic: a hard limit physically stops overspending.
+</details>
+
+**Q38.** A client wants to pay only with credit cards "for convenience." Given his impulsive habits, what is the better suggestion?
+A) Use a debit card or cash so a built-in brake limits spending  B) Get a second credit card  C) Raise the credit limit  D) Pay only the minimum due each month
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Debit/cash impose a natural brake; credit cards induce impulsive spending. B) and C) remove the brake further. D) traps him in debt. Behavioural logic: you can't overspend money you don't physically have.
+</details>
+
+**Q39.** A client phones every week wanting to buy or sell something "because the market moved." Which bias is driving this and how should the adviser respond?
+A) Action bias — prime him in advance on the value of patience and long-term investing  B) Anchoring — give him a price target  C) Home country bias — suggest foreign stocks  D) Framing — reword the statement
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Frequent buy/sell urges signal action bias; the cure is priming for patience. B), C) and D) target unrelated biases. Behavioural logic: trading itch is calmed by preparing the mind for "dull" investing in advance.
+</details>
+
+**Q40.** A client says "Gold did great last year, move everything into gold." What should the adviser explain?
+A) Asset classes cycle and revert to the mean; past winners often don't repeat  B) Gold always rises  C) He should also borrow to buy more gold  D) Past performance guarantees future returns
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — This is chasing past performance; the adviser explains cycles and reversion to the mean. B) and D) are false. C) is reckless. Behavioural logic: investing by the rear-view mirror eventually crashes.
+</details>
+
+**Q41.** To stop a client from repeatedly piling into last year's hot asset class, the adviser should:
+A) Set a pre-decided asset allocation policy with upper limits per asset class  B) Let the client decide each month  C) Remove all limits for flexibility  D) Concentrate the portfolio in one fund
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Upper limits per asset class cap over-exposure to any hot asset. B) and C) invite chasing. D) is over-concentration. Behavioural logic: rules pre-set in calm prevent emotional over-allocation.
+</details>
+
+**Q42.** A client refuses to invest abroad, saying "I only understand Indian companies." Which bias is this and what's the antidote?
+A) Home country bias — educate him on the benefits/opportunities of global investing  B) Overconfidence — tell him to bet bigger  C) Action bias — get him to trade more  D) Mental accounting — split his money into jars
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Familiarity-driven domestic-only investing is home country bias; the cure is education. B), C) and D) target other biases. Behavioural logic: unfamiliarity is fixed with knowledge, not pressure.
+</details>
+
+**Q43.** A wealthy client wants global diversification but worries about access. The adviser can point out that he may:
+A) Use LRS (up to USD 250,000/year) or Indian MF schemes investing in S&P 500/Nasdaq 100  B) Only invest through illegal channels  C) Not invest abroad at all  D) Remit unlimited amounts freely
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — LRS allows up to USD 250,000/year, and Indian MFs offer S&P 500/Nasdaq 100 exposure. B) is wrong/illegal. C) ignores legal routes. D) overstates the LRS limit. Behavioural logic: easy legal routes dissolve the access excuse behind home country bias.
+</details>
+
+**Q44.** A client wants to buy an endowment policy "to save tax." The adviser should:
+A) Highlight the need for adequate pure insurance and the poor returns of bundled products  B) Endorse it because tax saving is the priority  C) Suggest two endowment policies  D) Say insurance and tax are unrelated
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — The cure is highlighting adequate pure insurance and the weak returns of investment-cum-insurance products. B) repeats the bias. C) compounds it. D) is false (the link is tax-driven). Behavioural logic: separate protection from investment for better outcomes.
+</details>
+
+**Q45.** A client with a young family wants tax-efficient protection plus growth. Which is the chapter's preferred logic?
+A) Term policy + PPF, which invariably beats an equivalent endowment policy  B) Endowment policy alone  C) ULIP only for the tax break  D) No insurance, only equities
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Term + PPF invariably beats an equivalent endowment policy. B) and C) bundle inefficiently. D) leaves the family unprotected. Behavioural logic: pure protection plus an efficient investment outperforms a bundled product.
+</details>
+
+**Q46.** A client proudly holds 14 mutual funds across caps "for safety." The adviser should note this is:
+A) Over-diversification; a single top-500 index fund could give similar diversification  B) Perfect diversification  C) Over-concentration  D) Home country bias
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Too many overlapping funds is over-diversification; one broad index fund suffices. B) is wrong. C) is the opposite. D) is unrelated. Behavioural logic: diversification is about breadth, not the number of funds.
+</details>
+
+**Q47.** A client has 90% of his wealth in his employer's single stock. The adviser identifies this as:
+A) Over-concentration requiring diversification across asset classes/securities  B) Over-diversification  C) The golden mean  D) A nudge
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Everything in one security is over-concentration; spread it out. B) is the opposite. C) is the ideal balance, not this. D) is unrelated. Behavioural logic: one bad event in that company could wipe him out.
+</details>
+
+**Q48.** A cautious client only reacts when told what he stands to lose, not what he could gain. The adviser should:
+A) Frame the recommendation as a loss avoided, matching the client's preference  B) Ignore framing and stick to numbers  C) Use only gain-framing always  D) Refuse to advise emotional clients
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Match the frame (loss-frame here) to how the client responds. B) misses the persuasion lever. C) ignores his preference. D) abandons the adviser's role. Behavioural logic: wording the same fact the client's way wins his buy-in.
+</details>
+
+**Q49.** A client made 5× on one small stock bet and now wants to bet his whole portfolio on similar picks. The adviser should:
+A) Note overconfidence (luck mistaken for skill) and protect the asset allocation  B) Encourage him to bet bigger  C) Match the bet with borrowed money  D) Praise his repeatable skill
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — A quick 5× is mostly luck; overconfidence threatens his allocation, and the adviser stands between client and mistake. B), C) and D) feed the bias. Behavioural logic: one lucky win is not proof of repeatable skill.
+</details>
+
+**Q50.** The adviser sets a ground rule that the portfolio rebalances whenever an asset drifts beyond its target band. This is an example of:
+A) A nudge that automatically books profit high and buys low  B) Market timing  C) Chasing past performance  D) Over-concentration
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Pre-agreed rebalancing is a nudge that mechanically sells high and buys low. B) is discretionary timing. C) is the opposite behaviour. D) is unrelated. Behavioural logic: the rule forces the opposite of what emotion urges.
+</details>
+
+**Q51.** During a market crash a client wants to sell everything in panic. The adviser's primary role is to:
+A) Be the cool, calming influence keeping him on the pre-planned journey  B) Agree and liquidate immediately  C) Recommend leveraged short positions  D) Stop returning his calls
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — In fear, the adviser is the calming anchor keeping the client on plan. B) locks in losses. C) adds risk. D) abandons him. Behavioural logic: steadying emotion prevents fear-driven mistakes.
+</details>
+
+**Q52.** During a euphoric bull run a client wants to dump his plan and go all-in on equities. The adviser should:
+A) Restrain over-exuberance and keep him on the agreed allocation  B) Encourage all-in buying  C) Suggest he borrow to invest more  D) Remove all asset-allocation limits
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Greed (over-exuberance) leads to rash moves; the adviser keeps him on plan. B), C) and D) feed the greed. Behavioural logic: the calm adviser prevents both fear and greed mistakes.
+</details>
+
+**Q53.** A client emotionally insists on fully funding her daughter's foreign education even if it guts her retirement fund. The adviser should:
+A) Objectively show how much retirement is compromised and offer a partial education loan the daughter can repay  B) Agree silently and drain the retirement fund  C) Refuse to discuss retirement  D) Tell her the daughter shouldn't study abroad
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — The adviser objectively shows the compromise and offers alternatives like a partial education loan. B) harms her future. C) avoids the duty. D) is judgemental and unhelpful. Behavioural logic: objective framing helps emotional clients choose well.
+</details>
+
+**Q54.** A client says he'll "definitely beat the market" because he reads business news daily. This is which bias, and the response?
+A) Overconfidence — don't let it dilute risk management or distort allocation  B) Framing — reword his goals  C) Home country bias — go global  D) Action bias — prime patience
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Believing he'll surely beat the market is overconfidence, which can dilute risk management. B), C) and D) are unrelated biases here. Behavioural logic: reading news doesn't make outperformance repeatable.
+</details>
+
+**Q55.** A client treats his year-end bonus as "fun money" to gamble on hot stocks but is careful with salary. This reflects:
+A) Mental accounting — treating money differently by origin/intended use  B) Anchoring  C) Framing  D) Action bias
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Treating bonus money differently from salary is mental accounting. B) is reliance on a reference number. C) is wording. D) is the trading urge. Behavioural logic: money is fungible; labelling it "fun money" justifies riskier bets.
+</details>
+
+**Q56.** A client fixates on the price at which he originally bought a stock and refuses to sell below it. This is:
+A) Anchoring — relying on pre-existing information (purchase price)  B) Home country bias  C) Over-diversification  D) Framing
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Clinging to the purchase price is anchoring on pre-existing information. B), C) and D) are unrelated. Behavioural logic: the old price is irrelevant to the stock's future, yet it anchors the decision.
+</details>
+
+**Q57.** Per Prospect Theory, a client is likely to be:
+A) Risk-averse about gains (sell winners early) but risk-seeking about losses (hold losers)  B) Risk-seeking about gains and risk-averse about losses  C) Indifferent to gains and losses  D) Always rational
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Prospect Theory: risk-averse on gains, risk-seeking on losses. B) reverses it. C) and D) describe a robot, not a human. Behavioural logic: people lock in gains early but cling to losers hoping to break even.
+</details>
+
+**Q58.** A client refuses to sell a losing stock, saying "I'll wait till it gets back to what I paid." Per Prospect Theory this is because:
+A) Monetary losses hurt more than equivalent gains, so he avoids realising the loss  B) He is being perfectly rational  C) He dislikes gains  D) He has home country bias
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Losses hurt more than equal gains, so he won't realise the loss. B) is wrong. C) is nonsense. D) is unrelated. Behavioural logic: the pain of crystallising a loss drives loss-aversion behaviour.
+</details>
+
+**Q59.** Which best illustrates using a nudge rather than force?
+A) Pre-agreed ground rules the client buys into that auto-trigger good actions  B) Locking the client's account  C) Threatening to drop the client  D) Charging penalties for trading
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — A nudge is a pre-agreed gentle default, not coercion. B), C) and D) are forceful or punitive. Behavioural logic: the client still chooses freely, but the easy path is the good one.
+</details>
+
+**Q60.** A client wants "excitement" from his investments. Echoing Samuelson, the adviser should explain that:
+A) Investing should be dull; excitement belongs in Las Vegas, not the portfolio  B) Investing should be thrilling  C) He should day-trade for fun  D) Excitement boosts returns
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Samuelson's point: investing should be dull; seek excitement elsewhere. B), C) and D) contradict this. Behavioural logic: chasing thrills leads to over-trading and losses.
+</details>
+
+**Q61.** A client's portfolio has grown so that equities are far above their target weight after a rally. The pre-agreed rebalancing nudge will:
+A) Book some profit by trimming equities and buy into the lagging asset class  B) Buy even more equities  C) Sell everything  D) Do nothing ever
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Rebalancing trims the overweight winner and tops up the laggard — sell high, buy low. B) chases the rally. C) is extreme. D) defeats the purpose. Behavioural logic: the rule enforces discipline against greed.
+</details>
+
+**Q62.** A client wants to invest based purely on which fund topped the charts last year. The adviser's most relevant warning is:
+A) Reversion to the mean — last year's topper may underperform next year  B) Foreign markets are risky  C) Insurance is the first step  D) Credit cards induce spending
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Chasing the top fund ignores reversion to the mean. B), C) and D) are true elsewhere but irrelevant here. Behavioural logic: rankings flip across cycles.
+</details>
+
+**Q63.** A maximum exposure limit WITHIN a single asset class (e.g. per security) primarily controls:
+A) Over-concentration in any one security  B) Home country bias  C) Action bias  D) Framing
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — A per-security cap prevents over-concentration within an asset class. B), C) and D) are unrelated. Behavioural logic: it stops one favourite stock from dominating the portfolio.
+</details>
+
+**Q64.** A client says he understands US tech but is scared of "foreign tax and legal rules." The adviser should:
+A) Acknowledge compliance complexity but educate on legal routes like LRS and global MF schemes  B) Tell him foreign investing is impossible  C) Say tax rules never matter  D) Force him to file foreign returns
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Compliance complexity is a real listed barrier, but education on legal routes is the antidote. B) is false. C) is wrong. D) is coercive and unhelpful. Behavioural logic: knowledge dissolves the fear behind home country bias.
+</details>
+
+**Q65.** An adviser notices a client buys insurance every March purely to cut taxes. The best intervention is to:
+A) Review whether the cover is adequate and appropriate, not just tax-efficient  B) Buy more of the same policy  C) Cancel all insurance  D) Praise the tax saving and stop there
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Refocus on adequate, appropriate cover (the first step of a plan), not tax alone. B) repeats the error. C) is reckless. D) endorses the bias. Behavioural logic: tax saving merely reduces the cost of good insurance; it isn't the goal.
+</details>
+
+**Q66.** A client's emotional spending spikes after a stressful job loss. Beyond awareness and budgeting, the adviser's broader role is to:
+A) Help make the behaviour self-limiting so it doesn't spiral into more financial stress  B) Encourage more shopping to feel better  C) Suggest a payday loan  D) Ignore it as personal
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — The adviser helps make the behaviour self-limiting before its economic cost creates more stress. B), C) and D) worsen or neglect the problem. Behavioural logic: short-term relief becomes long-term harm if unchecked.
+</details>
+
+**Q67.** A client insists on checking and tweaking his portfolio daily. The adviser's priming message should stress:
+A) Long-term consistency and patience; investing rewards stillness, not constant action  B) Daily trading maximises returns  C) Frequent transactions are free  D) Markets must be timed daily
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Priming for patience and long-term consistency counters action bias. B), C) and D) are false. Behavioural logic: constant tinkering converts investing into costly trading.
+</details>
+
+**Q68.** Two clients get the same advice. One is sold by "you'll gain X," the other by "you'll lose Y if you don't." This demonstrates that the adviser should:
+A) Diagnose and use the framing each client responds to, confirmed through discussion  B) Always use gain-framing  C) Never reframe advice  D) Give different advice to each
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Diagnose the preferred frame and confirm via discussion; the advice stays the same, only the wording changes. B) ignores individual differences. C) wastes the lever. D) is wrong — the recommendation is identical. Behavioural logic: framing affects acceptance, not the underlying advice.
+</details>
+
+**Q69.** A client over-invests in one asset after a lucky win, distorting his allocation. The chapter says the adviser's influence can:
+A) Stand between the client and her big mistake  B) Guarantee future profits  C) Eliminate all market risk  D) Replace the client's judgement entirely
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — The adviser's influence "can stand between the client and her big mistake." B) and C) overpromise. D) overstates the adviser's role. Behavioural logic: the adviser is a guardrail against overconfidence-driven errors.
+</details>
+
+**Q70.** When resources can't fund all goals, the adviser's emotional-management role is to:
+A) Objectively help prioritise goals and present alternatives (e.g. education loan)  B) Fund every goal equally regardless of resources  C) Let emotion decide entirely  D) Drop the lower-priority goal without discussion
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — The adviser objectively prioritises and offers alternatives like a partial education loan. B) is impossible with limited resources. C) repeats the bias. D) is high-handed. Behavioural logic: objectivity guides emotional clients to sound trade-offs.
+</details>

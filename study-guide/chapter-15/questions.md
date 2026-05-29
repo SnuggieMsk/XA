@@ -248,3 +248,250 @@ A) Two  B) Three (author/settlor, trustee, beneficiary)  C) Four  D) No limit
 
 **Correct: B)** — A trust has **three parties**: the author/settlor, the trustee and the beneficiary (plus trust property and a specific object as elements). A) Two is too few. C) Four adds a non-existent party. D) "No limit" is wrong — three distinct roles are required (though the settlor may also be a trustee or beneficiary).
 </details>
+
+## 🟡 Tier 2 — Medium: Application (Q36–Q70)
+
+**Q36.** Mr. Rao wants to ensure his minor son with special needs is financially cared for and that the arrangement starts working immediately and stays private, avoiding probate. Which tool best fits?
+A) A simple nomination  B) A family trust  C) A joint bank account  D) A succession certificate
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **family trust** is effective as soon as created, stays private, avoids probate, and is ideal for the welfare of dependents including those with special needs. A) A nomination only simplifies payment on death and is overridden by succession law. C) A joint account can be superseded by heirs' claims and does not provide structured caregiving. D) A succession certificate only applies after death where there is no Will.
+</details>
+
+**Q37.** A client wants to disinherit a fraudulent family member and appoint a trusted executor, but wants to keep the document changeable during his lifetime. Which tool fits best?
+A) An irrevocable trust  B) A gift deed  C) A Will  D) A power of attorney
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — A **Will** lets the testator take away the rights of a disobedient/fraudulent member, appoint a faithful executor, and remains revocable/changeable during his lifetime. A) An irrevocable trust cannot easily be changed and the settlor loses control. B) A gift takes effect immediately and is irrevocable — not for post-death disinheritance. D) A POA only authorises someone to act during life and dies with the principal.
+</details>
+
+**Q38.** A wealthy individual wants to shield assets from potential future creditors so they are not legally owned by him. Which is the most suitable, even though he must give up control?
+A) Revocable trust  B) Joint holding  C) Asset Protection Trust (irrevocable)  D) Nomination
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — An **Asset Protection Trust (APT)**, which is irrevocable, removes legal ownership from the settlor (he becomes only a beneficiary holding equitable interest), shielding assets from creditors; its drawback is that it is irrevocable and the settlor gives up control. A) A revocable trust does NOT protect assets because they can be withdrawn anytime. B) Joint holding gives no creditor shield. D) Nomination does not protect against creditors.
+</details>
+
+**Q39.** Grandparents want to transfer an immovable property to their grandchild immediately during their lifetime, tax-free within blood relatives, accepting that stamp duty and registration will apply. Which tool?
+A) Will  B) Gift deed  C) Nomination  D) Family settlement
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **gift deed** transfers immovable property immediately, is tax-free among blood relatives, and reduces litigation since it is registered — though stamp duty applies and it is irrevocable. A) A Will only takes effect on death, defeating "immediately." C) Nomination just names who collects money on death. D) A family settlement is for resolving disputes/rival claims, not a straightforward gift.
+</details>
+
+**Q40.** Which statement correctly distinguishes a Will from a family trust?
+A) Both take effect only on death  B) A Will is effective only on death, while a trust is effective as soon as created  C) Neither can be made private  D) A trust always passes through probate
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **Will is effective only on death**, whereas a **trust is effective as soon as it is created**. A) is wrong — a trust does not wait for death. C) is wrong — a trust stays private while a Will can become public record. D) is wrong — a trust does NOT pass through probate; a Will may.
+</details>
+
+**Q41.** A revocable trust is best described as ______.
+A) a strong asset-protection tool  B) an alternative to a Will, taxed in the settlor's hands  C) a trust that cannot be modified  D) a charitable trust
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **revocable trust** lets the settlor retain control and modify/terminate it; it is considered an **alternative to a Will**, does NOT protect assets (they can be withdrawn), and its income is taxed in the **settlor's** hands. A) is wrong — it does not protect assets. C) describes an irrevocable trust. D) is unrelated to revocability.
+</details>
+
+**Q42.** Under which condition can a trust be revoked, per the Indian Trust Act?
+A) Whenever any one beneficiary wishes  B) When created to pay the settlor's debts to creditors  C) Only by court order in all cases  D) Never, once created
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A trust can be revoked if it was **specifically created by the settlor for payment of his debts to creditors** (also: with the consent of competent beneficiaries, or where a non-testamentary/verbal trust reserved revocation power). A) is wrong — it needs consent of *all competent* beneficiaries, not any one. C) and D) are too absolute.
+</details>
+
+**Q43.** A discretionary private trust (shares of beneficiaries not determinate) is generally taxed at ______.
+A) the slab rate of each beneficiary  B) the Maximum Marginal Rate (MMR), i.e., 30%  C) a flat 10%  D) zero, being a pass-through
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Where beneficiaries' shares are not determinate/unknown (a discretionary trust under Section 164(1)), the income is taxed at the **Maximum Marginal Rate (MMR) = 30%**, subject to exceptions. A) Slab rates apply to *determinate* trusts. C) 10% is invented. D) The pass-through benefit applies to determinate trusts where the *beneficiary's* income is taxed, not the trust at zero.
+</details>
+
+**Q44.** Which trust has beneficiaries clearly specified with ascertained shares, where trustees have no discretion over distribution?
+A) Discretionary trust  B) Determinate (specific) trust  C) Public trust  D) Hybrid trust
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **determinate (specific) trust** clearly specifies beneficiaries and their ascertained shares; trustees must distribute per the fixed ratio in the deed. A) A discretionary trust gives trustees full discretion. C) A public trust is for the general public/charity. D) A hybrid trust mixes fixed + discretionary features.
+</details>
+
+**Q45.** A hybrid trust is one in which the trustee ______.
+A) has no duties at all  B) pays a fixed amount as set by the settlor and has discretion over the rest  C) must give everything to charity  D) cannot distribute any income
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **hybrid trust** has features of both determinate and discretionary trusts: the trustee pays a **fixed amount** as provisioned by the settlor and exercises **discretion** over the remaining property. A) describes a simple trust. C) and D) are not features of a hybrid trust.
+</details>
+
+**Q46.** An oral (unwritten) trust can be validly declared only for ______ property.
+A) immovable  B) movable  C) both movable and immovable  D) only agricultural
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A trust can be declared **orally only where movable property** is settled (by transferring possession with a direction to hold under trust). For **immovable** property a written trust deed is required. So A) and C) are wrong, and D) is not a recognised distinction in the text.
+</details>
+
+**Q47.** Section 47(iii) of the Income Tax Act exempts from capital gains tax any transfer of capital assets under a/an ______.
+A) revocable trust  B) irrevocable trust  C) joint holding  D) nomination
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Section **47(iii)** exempts the transferor from capital gains tax for a transfer under an **irrevocable trust**. A) Transfers to a **revocable** trust ARE subject to capital gains tax. C) and D) are not covered by Section 47(iii).
+</details>
+
+**Q48.** Settling immovable property into a trust during the settlor's lifetime via a registered deed ______, whereas settling it through a Will ______.
+A) attracts no stamp duty; attracts stamp duty  B) attracts stamp duty; does not attract stamp duty  C) is illegal; is legal  D) both attract GST
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Settling immovable property in trust **during the settlor's lifetime** through a registered document **attracts stamp duty** (Article 58, Central Stamp Act); settlement **through a Will** does **NOT** attract stamp duty. A) reverses this. C) and D) are incorrect — neither is illegal and GST is not the relevant levy.
+</details>
+
+**Q49.** Why is a private trust described as a "pass-through" (flow-through) entity for tax?
+A) Because it pays the highest tax itself  B) Because the income is treated as the beneficiary's income, taxed in their hands  C) Because it never files returns  D) Because it is a separate legal person
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — In a **pass-through entity**, income "flows through" so it is treated as the **beneficiary's income**; receipts by the trustee on behalf of the beneficiary are not taxable, and the trustee pays tax only in a representative capacity. A) is wrong. C) is wrong — a trust does file returns. D) is wrong — a private trust has **no separate legal identity**.
+</details>
+
+**Q50.** A POA is being set up so that one person can act broadly for the principal across many transactions. This is a ______.
+A) Special POA  B) Special POA for registration  C) General POA  D) Durable medical POA
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — A **General POA** confers broad authority to act generally or in more than one transaction. A) A **Special POA** is narrow — limited to a specific transaction. B) A **Special POA for registration** authorises presenting a document for registration. D) "Durable medical POA" is not a category named in the chapter.
+</details>
+
+**Q51.** Under a Special POA, the authority of the agent ______.
+A) is broad and ongoing  B) expires on completion of the specific transaction  C) never expires  D) passes to the agent's heirs
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — In a **Special POA**, authority is narrow and **expires on the completion of the transaction** for which it was granted. A) describes a General POA. C) is wrong — a POA can be revoked and ends on completion/death. D) is wrong — POA authority does not pass to the agent's heirs.
+</details>
+
+**Q52.** A POA is NOT compulsorily registrable because ______.
+A) it transfers ownership of immovable property  B) it merely authorises the donee to act, without creating/transferring any interest in property  C) it is always oral  D) stamp duty replaces registration
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A POA only authorises the donee to act on the donor's behalf and **does not create, declare, assign, limit or extinguish any interest in immovable property**, so it is not compulsorily registrable — *unless* it creates an interest/charge in immovable property. A) is the opposite of the truth. C) is wrong — POAs are written instruments. D) Stamp duty is separate and does apply, but it is not a substitute for registration.
+</details>
+
+**Q53.** Who among the following is authorised under Section 85 of the Indian Evidence Act to authenticate a POA?
+A) A chartered accountant  B) A Notary Public  C) A bank manager  D) A stockbroker
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Section 85 authorises a **Notary Public** (also a court/judge/magistrate, an Indian Consul/Vice-Consul, or a Central Government representative) to authenticate a POA. A), C) and D) are not among the listed authorities.
+</details>
+
+**Q54.** A POA is revoked under Section 201 of the Indian Contract Act when ______.
+A) the principal goes on a long holiday  B) either the principal or agent is declared insolvent  C) the agent gets married  D) one year passes automatically
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A POA is revoked when, among other things, **either the principal or the agent is declared insolvent** (also: principal revokes, holder renounces, business completed, or death of either party). A), C) and D) are not listed grounds — there is no automatic one-year expiry, and holidays/marriage of the agent do not revoke it.
+</details>
+
+**Q55.** Under Section 202, if the agent has an interest in the agency, the POA ______.
+A) can be revoked anytime by the principal alone  B) cannot be revoked without the agent's consent  C) is automatically void  D) must be registered
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Section 202 provides that where the **agent has an interest in the agency**, the POA **cannot be revoked without the agent's consent**. A) is the general rule but it is overridden here. C) and D) are incorrect — an interest-coupled agency is not void and registration is unrelated.
+</details>
+
+**Q56.** A natural guardianship that requires no legal provision because it arises by birth lasts until the child reaches ______.
+A) 16 years  B) 18 years  C) 21 years  D) 25 years
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Parents are the **natural guardians** of their child until the child reaches the age of legal maturity, i.e., **18 years**. The other ages are distractors; 18 is the age of majority used here.
+</details>
+
+**Q57.** A guardian appointed under the provisions of a Will (mostly for minor children) is a ______ guardian.
+A) natural  B) court-appointed  C) testamentary  D) de facto
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — A **testamentary guardian** is appointed under a Will, mostly for minor children, and manages the child's affairs within the limits set in the Will. A) Natural guardianship arises by birth. B) Court-appointed guardians are appointed by courts for those with no living parents/incapacitated persons. D) "De facto" is not one of the three named types.
+</details>
+
+**Q58.** A "Guardian of the Estate" is responsible for ______.
+A) custody and physical care of the person  B) managing the financial affairs  C) only medical decisions  D) only educational decisions
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **Guardian of the Estate** manages the **financial affairs** (bank accounts, investments, loans/concessions). A) describes a **Guardian of the Person** (custody and care). C) and D) are too narrow — financial management is the defining role of the estate guardian.
+</details>
+
+**Q59.** Which is an advantage of writing a Will, as listed in the chapter?
+A) It avoids all taxes permanently  B) It prevents confusion among family members about disposing of property  C) It cannot be challenged  D) It removes the need for any executor
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A Will ensures there is **no confusion among family** about how to dispose of property after death; it is also personal, handles special situations, can disinherit fraudulent members, offers tax advantages, and lets one appoint an executor. A) is overstated — it offers tax advantages in many situations, not "all taxes permanently." C) is wrong — Wills can be challenged. D) is the opposite — a Will appoints an executor.
+</details>
+
+**Q60.** Probate is granted only to the executor appointed in the Will; if there is no executor, the court instead issues ______.
+A) a succession certificate  B) letters of administration  C) a legal heir certificate  D) a gift deed
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — If there is no executor (or he is incapable/refuses/has died before proving the Will), the court issues **letters of administration**. A) A succession certificate applies when there is *no Will*. C) A legal heir certificate (Tehsildar) identifies heirs. D) A gift deed is unrelated.
+</details>
+
+**Q61.** Which family business ownership model passes ownership down to all descendants, whether or not they work in the company, and is described as the most sought-after?
+A) Owner-Operator  B) Partnership  C) Distributed  D) Public
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — In the **Distributed** model, ownership passes to all descendants regardless of involvement and is the most sought-after model. A) **Owner-Operator** keeps control with one person/couple. B) **Partnership** lets only leaders own it. D) **Public** has some shares publicly traded, run by professional managers.
+</details>
+
+**Q62.** Which valuation method for a family business is also known as the discounted cash flow method?
+A) Capitalizing of Earnings  B) Projected Earnings  C) Market Approach  D) Net Asset Value
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The **Projected Earnings** method, valuing the business on anticipated future earnings, is also known as the **discounted cash flow** method. A) **Capitalizing of Earnings** uses current cash flow available. C) **Market Approach** compares similar businesses. D) **Net Asset Value** uses the value of assets like real estate/machinery.
+</details>
+
+**Q63.** Asset protection through a Limited Liability Partnership (LLP) works because ______.
+A) owners are always personally liable for all debts  B) the entity is protected by law and individual owners are not held liable for the entity's debt  C) LLPs cannot be sued  D) creditors are barred from courts
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Entities such as private limited companies/LLPs are protected by law and **individual owners are not held liable for the entity's debt**, shielding personal assets — except the individual can still be held accountable for fraudulent transfers. A) is the opposite. C) and D) are incorrect — LLPs can be sued and creditors can use courts.
+</details>
+
+**Q64.** When property is received through a Will or inheritance, the beneficiary ______.
+A) pays gift tax immediately  B) has no tax implication on receipt, but must apply for mutation  C) must re-register the property to gain ownership  D) pays capital gains on receipt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — There are **no tax implications on the beneficiary** when property is received via Will/inheritance, and re-registration is not required, but **mutation** must be applied with local civil authorities. A) and D) are wrong — no gift or capital gains tax on receipt (capital gains apply only if the inheritor later *sells*). C) is wrong — fresh registration is not required.
+</details>
+
+**Q65.** A client wants reciprocal benefits with his spouse so each leaves their property to the other, each being both testator and legatee. Which tool fits?
+A) Joint Will  B) Mutual Will  C) Concurrent Will  D) Holograph Will
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **mutual Will** is exactly this: two testators confer reciprocal benefits, each acting as both testator and legatee. A) A joint Will is treated as two separate wills and need not be reciprocal. C) Concurrent Wills handle property in different countries. D) A holograph Will is simply one in the testator's handwriting.
+</details>
+
+**Q66.** Which of the following is a stated disadvantage of a trust?
+A) It guarantees zero tax  B) The settlor loses control over the properties transferred to the trust  C) It always avoids stamp duty  D) Trustees have unlimited powers
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A disadvantage is that the **settlor loses control** over properties transferred to/gifted to the trust; trusts can also be complex, expensive, and attract high stamp duty on immovable property. A) is wrong — trusts are a tax-planning tool, not a zero-tax guarantee. C) is wrong — immovable property transfers can attract high stamp duty. D) is wrong — trustees' powers are *restricted* by the deed.
+</details>
+
+**Q67.** A revocable transfer of an income-producing asset to a trust results in the income being taxed in the hands of the ______ (Section 61).
+A) trustee personally  B) transferor (settlor)  C) beneficiary always  D) government
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Where income arises from a **revocable transfer** of an asset, that income is taxed in the hands of the **transferor (settlor)** under Section 61. A) The trustee is taxed only in a representative capacity (in determinate trusts), not personally here. C) is wrong for a revocable transfer. D) is incorrect.
+</details>
+
+**Q68.** A minor child's income suffering from a disability specified under Section 80U ______.
+A) is always clubbed with the parent's income  B) is NOT clubbed with the parent's/guardian's income  C) is exempt from tax entirely  D) is taxed at MMR
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Under Section 64, a minor's income is normally clubbed with the parent's, but income of a minor child suffering from a **Section 80U disability is NOT clubbed** — so transferring higher-taxed assets to such a minor's trust can reduce the parent's liability. A) is the general rule, but the exception applies here. C) is overstated (not blanket exempt). D) MMR is unrelated to clubbing.
+</details>
+
+**Q69.** An offshore trust that is irrevocable and has both resident and non-resident beneficiaries is taxed such that ______.
+A) the whole trust is taxed in India  B) only the Indian beneficiary is taxed on what they receive  C) it is entirely tax-free  D) the trustee is taxed on all global income in India
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For an irrevocable offshore trust with mixed residents, **only the Indian beneficiary is taxed on the distribution they receive**, and the trustee has no representative role in India. A) and D) are wrong — India does not tax the entire trust/global income here. C) is wrong — the Indian beneficiary is taxed on receipts.
+</details>
+
+**Q70.** A client (an NRI) wants someone in India to handle his banking and property while he stays abroad. The POA executed abroad must be ______.
+A) registered with SEBI  B) authenticated/attested by the Indian Embassy/Consulate and notarized where executed  C) translated into Hindi only  D) approved by RBI before use
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A POA executed outside India must be **authenticated/attested by the Indian Embassy/Consulate and notarized where executed**; it then remains valid even after the person returns to India. A) SEBI registration is irrelevant. C) Translation into Hindi is not a stated requirement. D) RBI pre-approval is not required.
+</details>

@@ -248,4 +248,251 @@ A) Chase short-term price movements  B) Keep it aligned to the investor's risk a
 
 **Correct: B)** — Ideally a portfolio is rebalanced to stay aligned to the investor's risk/return requirements and reflect changes in their needs — not to profit from short-term price moves (A), generate brokerage (C), or copy the adviser (D).
 </details>
-</content>
+
+## 🟡 Tier 2 — Medium: Application (Q36–Q70)
+
+**Q36.** Rohan, 25, single, no dependents, in a stable IT job with good savings, says he is excited by market ups and downs. Which grade fits best?
+A) Conservative  B) Moderate  C) Aggressive  D) Cannot be profiled
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Young age, no dependents, steady income, savings and a daring psyche all push both ability and willingness up, matching the Aggressive grade (willing to risk a significant portion). Conservative (A) and Moderate (B) understate his capacity and appetite, and every client can be profiled (D is wrong).
+</details>
+
+**Q37.** Mrs. Iyer, a 68-year-old widow living off her savings, says she cannot bear to see her capital fall. Which model allocation feature suits her?
+A) 50% equities and 20% sector funds  B) A high allocation to safer investments such as debt and a low allocation to equity  C) 100% in a single mid-cap stock  D) Borrowing to buy gold
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A person close to/in retirement who fears capital loss needs a higher allocation to safer debt and lower equity. The aggressive 50%+20% mix (A) is unsuitable, a single stock (C) is dangerous concentration, and leveraged gold (D) adds risk — all wrong for her.
+</details>
+
+**Q38.** A client has a very high willingness to take risk (loves volatility) but has five dependents and an irregular freelance income. The adviser should conclude that the client's:
+A) Ability to take risk is high  B) Ability to take risk is constrained, even though willingness is high  C) Profile is automatically aggressive  D) Risk profile need not be checked
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Willingness is psychological and high here, but many dependents and irregular income reduce the financial ability to take risk. Good profiling considers both, so ability is constrained (B). The high ability (A) and automatic aggressive (C) ignore the dependents/income, and profiling is mandatory (D wrong).
+</details>
+
+**Q39.** An investor keeps all his money in a savings bank account earning very low interest and finds he cannot accumulate enough for future goals. This illustrates a problem of:
+A) Too much liquidity but inadequate growth from concentration in one low-return category  B) Excessive equity risk  C) Currency risk  D) Over-diversification
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Like Kamal in the chapter, parking everything in a low-interest savings account is concentration in one low-return category, so the corpus cannot grow. It is not equity risk (B — he holds no equity), currency risk (C), or over-diversification (D — he is under-diversified).
+</details>
+
+**Q40.** Latika invests all her money in equities and is unsure she will have the funds when needed because the value keeps fluctuating. The core problem is:
+A) She has too much debt  B) Concentration in one volatile asset class  C) She paid too much tax  D) Her income is irregular
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — All-equity means concentration in one volatile asset class, so the value swings and funds may not be available when needed. She has no debt issue (A), the problem is not tax (C), and her income is not the stated issue (D).
+</details>
+
+**Q41.** Harmeet holds most of her wealth in gold jewellery and cannot generate income for monthly expenses. The lesson is that gold mainly offers:
+A) Regular income  B) Growth/appreciation but not regular income  C) Guaranteed liquidity instantly  D) Capital preservation with interest
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Gold is a growth/appreciation asset; it does not pay regular income, which is why Harmeet cannot meet monthly expenses from it. So A is wrong, gold is not the chapter's example for instant liquidity (C), and it does not pay interest (D).
+</details>
+
+**Q42.** Gayatri lives on fixed interest from bank FDs but her expenses keep rising, so she falls short. This shows the risk of:
+A) Holding only fixed-income with no growth assets to beat rising expenses  B) Holding too much equity  C) Over-trading  D) Excessive gold
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Fixed FD interest does not rise with her growing expenses, so she needs some growth assets to keep pace — a concentration problem in fixed income. She holds no equity (B), is not trading (C), and holds no gold (D).
+</details>
+
+**Q43.** Jayesh invested only in real estate and could not sell it or borrow quickly when he urgently needed funds. His portfolio lacked:
+A) Growth  B) Liquidity  C) A demat account  D) Insurance
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Real estate is hard to sell quickly, so Jayesh's all-real-estate portfolio lacked liquidity for an urgent need. The issue was not growth (A — property can grow), a demat account (C), or insurance (D).
+</details>
+
+**Q44.** For the goal of "liquidity," which set of investments is most suitable?
+A) Equity shares and real estate  B) Cash, bank deposits and short-term mutual fund schemes  C) Sector funds and gold  D) Long-term gilt funds
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Liquidity is best served by cash, bank deposits and short-term MF schemes that can be accessed quickly. Equity/real estate (A) and sector funds/gold (C) are growth assets; long-term gilt funds (D) are not the liquidity choice.
+</details>
+
+**Q45.** For the objective of "regular income," the most suitable investments are:
+A) Deposits, debt instruments/debt funds and real estate  B) Diversified equity funds  C) Gold ETFs only  D) Liquid funds only
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Regular income comes from deposits, debt instruments/debt funds and real estate (rent). Diversified equity (B) is for growth, gold ETFs (C) give no income, and liquid funds (D) are for liquidity/preservation, not steady income.
+</details>
+
+**Q46.** For "capital preservation," the chapter suggests:
+A) Mid-cap equity funds  B) Cash, bank deposits and ultra-short-term funds  C) Sector funds  D) Real estate
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Capital preservation is served by cash, bank deposits and ultra-short-term funds, which carry very low risk to principal. Mid-cap equity (A), sector funds (C) and real estate (D) all carry capital-loss risk.
+</details>
+
+**Q47.** Jayant saved for his children's education in equity for 8 years; the goal is now just 4 years away. The most appropriate action is to:
+A) Add more equity to maximise returns  B) Move funds towards less risky investments to protect the accumulated amount  C) Switch entirely to a single stock  D) Stop reviewing the portfolio
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — As a goal nears, equity fluctuations could damage the accumulated corpus, so Jayant should rebalance towards less risky investments. Adding equity (A) increases risk near the goal, a single stock (C) is dangerous, and stopping reviews (D) is the opposite of good practice.
+</details>
+
+**Q48.** A "Young call centre/BPO employee with no dependents (high risk profile)" model portfolio suggests 50% in:
+A) Gold ETF  B) Equities/diversified equity schemes (preferably via SIP)  C) Liquid schemes  D) Gilt funds
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The high-risk young employee model puts 50% in equities/diversified equity schemes, preferably via SIP, suiting a long horizon and high appetite. Gold ETF (A) is 10%, liquid (C) is part of the small cash slice, and gilt funds (D) are not in this model.
+</details>
+
+**Q49.** In the model portfolio for a "Young married, single income family with two school-going kids (moderate risk profile)," the equity/diversified equity allocation is:
+A) 50%  B) 35%  C) 15%  D) 0%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The moderate young family model allocates 35% to equities/diversified equity. 50% (A) is the high-risk young employee, 15% (C) is the equity slice for the 70s couple, and 0% (D) fits no model here.
+</details>
+
+**Q50.** In the model portfolio for a "Couple in their seventies, no immediate family support (conservative to moderate)," the diversified equity index allocation is:
+A) 50%  B) 35%  C) 15%  D) 5%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — The 70s couple model has 15% in a diversified equity index scheme (plus 5% gold ETF and large debt/liquid slices). 50% (A) and 35% (B) are far too aggressive for them, and 5% (D) is the gold ETF portion.
+</details>
+
+**Q51.** An investor expecting a strong rally wants to temporarily increase equity beyond his long-term plan. This decision belongs to:
+A) Strategic asset allocation  B) Tactical asset allocation  C) Capital preservation  D) Rebalancing back to plan
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Temporarily over-weighting equities on a market view is a tactical asset allocation call. Strategic (A) is goal-based and ignores forecasts, capital preservation (C) is an objective, and rebalancing (D) brings weights back to plan, not above it.
+</details>
+
+**Q52.** Tactical asset allocation is described as suitable mainly for:
+A) First-time investors with small savings  B) Seasoned investors operating with large investible surpluses  C) All retirees  D) Anyone who dislikes risk
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Tactical calls suit seasoned investors with large surpluses, and even they should limit the portion used for frequent tactical calls. First-timers (A), all retirees (C) and risk-averse investors (D) are not the intended users.
+</details>
+
+**Q53.** Under strategic asset allocation, the allocation to an asset class will NOT be increased on the basis of:
+A) A change in the investor's goals  B) The expected performance of the asset class  C) A change in the investor's time horizon  D) A change in the investor's risk profile
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Strategic allocation does not raise weights based on expected asset performance — that would be tactical. It changes only when fundamentals like goals (A), horizon (C) or risk profile (D) change.
+</details>
+
+**Q54.** Because strategic asset allocation ignores forecasts, the trade-off is that the portfolio:
+A) Is protected from forecast errors but will not benefit from over-exposure to a hot asset  B) Always beats the market  C) Cannot be rebalanced  D) Has no risk
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — By not chasing forecasts, the portfolio is shielded from forecast errors but also misses gains from over-weighting a top-performing asset. It does not always beat the market (B), it is rebalanced periodically (C is wrong), and no portfolio is risk-free (D).
+</details>
+
+**Q55.** An adviser uses a system that automatically shifts money between equity and debt based on pre-set valuation triggers. This is:
+A) Strategic asset allocation  B) Tactical asset allocation  C) Dynamic asset allocation  D) Concentration
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Pre-defined models with valuation/performance triggers that remove subjectivity describe dynamic asset allocation. Strategic (A) is goal-based, tactical (B) is a subjective human call, and concentration (D) is the opposite of allocation.
+</details>
+
+**Q56.** A salaried, high-income investor in his 30s with goals 20 years away should generally:
+A) Hold mostly debt with little equity  B) Prefer higher-return assets like equity given the long horizon and high income  C) Keep everything in a savings account  D) Avoid any risk profiling
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — With far-off goals and a strong income, he can prefer higher-return assets such as equity. Mostly-debt (A) suits someone near retirement, all-savings (C) earns too little for long goals, and profiling is always required (D).
+</details>
+
+**Q57.** The main reason different asset classes provide diversification is that their returns:
+A) Always move together  B) Do not rise and fall together because they are driven by different factors  C) Are guaranteed by SEBI  D) Are always equal
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Asset classes are driven by different economic factors, so they do not rise and fall together; a fall in one can be cushioned by a rise in another. Moving together (A) and being equal (D) defeat diversification, and SEBI does not guarantee returns (C).
+</details>
+
+**Q58.** International research cited in the chapter suggests portfolio performance is better explained by:
+A) Stock selection within an asset class  B) Asset allocation and investment policy  C) The broker chosen  D) The number of trades made
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Research suggests asset allocation and investment policy explain performance better than picking individual securities (stock selection, A). The broker (C) and trade count (D) are not the explanation cited.
+</details>
+
+**Q59.** A portfolio review should help answer all of the following EXCEPT:
+A) Are all the goals still relevant?  B) Are the investments performing as expected?  C) Which colour suits the client's car?  D) Do investments need changing if no longer suitable?
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Reviews check goal relevance (A), performance (B) and suitability (D). The colour of a car (C) is irrelevant and not a review question.
+</details>
+
+**Q60.** If a review shows a goal is under-funded because returns lagged, the investor can:
+A) Save more for the goal or divert funds from a less important goal  B) Do nothing and hope  C) Cancel the risk profile  D) Only sue the adviser
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — When a goal is under-funded, the investor can save more or move funds from a less important goal. Doing nothing (B), cancelling the profile (C) and suing (D) do not solve the funding gap.
+</details>
+
+**Q61.** A client says "there is no right answer" frustrates her in a risk questionnaire and she keeps trying to pick the 'best' option. The adviser should explain that:
+A) She should guess the adviser's preferred answer  B) Honest answers matter because the tool reflects her true preferences, not a correct answer  C) The questionnaire is pointless  D) She must choose the most aggressive option
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — There is genuinely no right answer; the tool only helps if she answers truthfully about her own preferences. Guessing the adviser's choice (A), calling it pointless (C) or forcing aggressiveness (D) all defeat the purpose.
+</details>
+
+**Q62.** A 55-year-old with two children still in college and a home loan, but a secure government job, is best described as having:
+A) High willingness and high ability  B) Reduced ability due to dependents and a loan, regardless of any willingness  C) No need for asset allocation  D) An automatically aggressive profile
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Dependents and a loan reduce ability to absorb losses, even if a secure job helps a little. So ability is constrained (B). It is not unconstrained high ability (A), everyone needs allocation (C), and the profile is not automatically aggressive (D).
+</details>
+
+**Q63.** Which combination best illustrates an "efficient" asset allocation per the chapter?
+A) Two assets that always rise and fall together  B) Equity and gold, which behaved differently during 2007–09  C) Five different mid-cap equity funds  D) Only one asset class held in large size
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Equity and gold had low/negative correlation (in 2007–09 equity fell, gold rose), giving real diversification. Assets that move together (A), several similar equity funds (C) and a single asset class (D) do not provide efficient diversification.
+</details>
+
+**Q64.** An adviser building a portfolio must balance the required return with:
+A) An appropriate level of risk  B) The broker's commission  C) The adviser's mood  D) The newspaper headline
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Portfolio construction balances the required return against an appropriate level of risk for the investor. Commission (B), mood (C) and headlines (D) are not the balancing factors.
+</details>
+
+**Q65.** Why can no single investment meet all of an investor's needs?
+A) Because SEBI forbids single investments  B) Because no one asset provides growth, liquidity, regular income, capital protection and adequate return all at once  C) Because all investments are identical  D) Because investors only have one goal
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Each asset has its own focus (growth, income, liquidity, etc.), so no single one meets every need; a portfolio is required. SEBI does not forbid single investments (A), assets differ (C is wrong), and investors usually have multiple goals (D).
+</details>
+
+**Q66.** The suitable asset allocation for a person is described as a function of the investment period and their:
+A) Ability and willingness to take risk  B) Favourite stock  C) Choice of bank  D) Social media following
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Suitable allocation depends on the investment period available and the investor's ability and willingness to take risk. A favourite stock (B), bank (C) and social media (D) are not the determinants.
+</details>
+
+**Q67.** A client wants a portfolio that protects capital but also grows over time and pays some income. The best approach is to:
+A) Put everything in one safe FD  B) Build a portfolio combining different assets matched to each objective  C) Buy a single equity stock  D) Hold only gold
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Different objectives (preservation, growth, income) need different assets, so a multi-asset portfolio matched to each objective is best. A single FD (A) gives no growth, one stock (C) is risky concentration, and only gold (D) gives no income.
+</details>
+
+**Q68.** A 70s couple who are physically and mentally very sound with a large investible corpus might, compared to the standard 70s model, be advised:
+A) 0% equity  B) Slightly more equity exposure than the standard 70s model  C) 90% equity  D) Only sector funds
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The chapter tweaks the standard 70s model (e.g., adding direct equity alongside the index portion) so a sound, well-funded couple takes slightly more equity. Zero equity (A) is too cautious given their strength, while 90% equity (C) or only sector funds (D) are far too aggressive.
+</details>
+
+**Q69.** Asset allocation and diversification together are said to:
+A) Eliminate all risk completely  B) Reduce the risk of loss and stabilize the returns of a portfolio  C) Guarantee a fixed return  D) Increase concentration
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Asset allocation and diversification reduce the risk of loss and stabilize returns, because not all assets fall together. They do not eliminate all risk (A), guarantee a fixed return (C), or increase concentration (D — they reduce it).
+</details>
+
+**Q70.** For diversification benefits to actually materialise, the investments must be selected so that they:
+A) Rise and fall together  B) Do not rise and fall together  C) Are all from the same sector  D) Are all equities
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Diversification works only if investments do not rise and fall together (low/negative correlation). Assets that move together (A), share one sector (C) or are all equities (D) provide little real diversification.
+</details>
+

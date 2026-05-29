@@ -248,3 +248,250 @@ A) Allowed against LTCG covered under Section 112A  B) Not allowed against LTCG 
 
 **Correct: B)** — The Section 87A rebate is *not* available against tax payable on LTCG covered under Section 112A; it is allowed only on the tax on the remaining total income. A) directly contradicts this rule. C) and D) misstate the scope — the rule specifically denies the rebate on 112A LTCG.
 </details>
+
+## 🟡 Tier 2 — Medium: Application (Q36–Q70)
+
+**Q36.** Mr. A buys listed equity shares and sells them after 10 months (STT paid on both legs). The gain is:
+A) LTCG taxed at 12.50%  B) STCG taxed at 20% under Section 111A  C) STCG taxed at slab rates  D) Exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Listed shares held 10 months (≤12) are short-term; with STT paid, STCG is taxed at 20% under Section 111A. A) needs >12 months holding to be long-term. C) slab rates apply only when STT/listing conditions fail. D) is wrong — STCG on equity is not exempt.
+</details>
+
+**Q37.** Mr. B sells listed equity shares held for 18 months with STT paid. His total 112A LTCG for the year is ₹90,000. Tax on this LTCG is:
+A) 12.50% of ₹90,000  B) 20% of ₹90,000  C) Nil  D) 10% of ₹90,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — LTCG under Section 112A is exempt up to ₹1,25,000 a year. Since ₹90,000 < ₹1,25,000, no tax is payable. A), B) and D) all wrongly tax an amount that falls within the exempt slab; only the excess over ₹1.25 lakh is taxed at 12.50%.
+</details>
+
+**Q38.** A resident shareholder receives dividend of ₹2,00,000 and pays ₹60,000 interest on a loan taken to buy those shares. The maximum interest deduction allowed is:
+A) ₹60,000  B) ₹40,000  C) ₹20,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Interest deduction against dividend is capped at 20% of the dividend income. Formula: deduction = min(actual interest, 20% × dividend). Here 20% × ₹2,00,000 = ₹40,000, which is less than the ₹60,000 actually paid, so only ₹40,000 is allowed. A) ignores the cap. C) misapplies the percentage. D) is wrong — some deduction is allowed.
+</details>
+
+**Q39.** Which of the following is taxed as business income rather than capital gains?
+A) Sale of listed equity held 2 years  B) Gain on F&O trading on a recognised exchange  C) Dividend from preference shares  D) Sale of unlisted shares held 3 years
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — F&O (derivatives) gains are taxed as business income (PGBP) or other sources. A) and D) are capital gains (LTCG). C) is dividend income taxed at slab rates. Only B) is business income.
+</details>
+
+**Q40.** Compared with listed equity shares, unlisted equity shares differ mainly in that they:
+A) Have no capital gains tax  B) Use a 24-month long-term threshold and STCG at slab rates  C) Are always exempt up to ₹1.25 lakh  D) Are taxed only on dividend
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Unlisted shares use a 24-month (not 12-month) long-term threshold, and their STCG is taxed at slab rates (since 111A's 20% needs listing/STT). A) is wrong — they are taxable. C) is wrong — the ₹1.25 lakh exemption (112A) needs listing/STT, generally unavailable for unlisted. D) is wrong — capital gains are also taxed.
+</details>
+
+**Q41.** When unlisted equity shares are offered for sale under an IPO, the gain is taxed:
+A) At slab rates always  B) Under Section 112A  C) As business income  D) Exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Where unlisted shares are offered for sale under an IPO, the gain is chargeable under Section 112A. A) and D) are incorrect; the IPO route specifically attracts 112A. C) is wrong — it is capital gains, not business income.
+</details>
+
+**Q42.** The conversion of a share warrant into shares is treated for tax purposes as:
+A) A non-taxable event  B) A transfer of the share warrant  C) Dividend income  D) A forfeiture
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Conversion of a warrant into shares is treated as a transfer of the warrant; capital gain = FMV of shares (Sec 50D) minus the strike price. A) is wrong — it is a taxable transfer. C) and D) are unrelated events.
+</details>
+
+**Q43.** On conversion of a listed warrant into shares after 14 months, the resulting gain is:
+A) Short-term, slab rate  B) Short-term, 20%  C) Long-term, 12.50%  D) Exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — A listed warrant converted after more than 12 months gives long-term capital gain taxed at 12.50%. A) and B) describe short-term treatment, which applies only if converted within 12 months. D) is wrong — the gain is taxable.
+</details>
+
+**Q44.** On conversion of a warrant into shares, the full value of consideration (per Section 50D) is:
+A) The strike price  B) The upfront 25% paid  C) The fair market value of the shares on the date of conversion  D) The face value of shares
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Section 50D deems the full value of consideration to be the FMV of the shares on the date of conversion. A) strike price is the *cost*, not the consideration. B) the upfront 25% is part of the price paid, not the sale value. D) face value is irrelevant.
+</details>
+
+**Q45.** On a simple transfer (sale) of a share warrant to another person, the cost of acquisition is:
+A) FMV of underlying shares  B) The upfront payment/price paid for the warrant  C) The strike price  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — On transfer of the warrant itself, gain = sale price minus the upfront price paid for the warrant. A) FMV of shares applies on conversion, not on a plain transfer. C) strike price applies to conversion. D) nil cost is not correct here.
+</details>
+
+**Q46.** A non-resident receives dividend from a domestic company. Which is true?
+A) Slab rates apply with full deductions  B) Taxed at special rates, no expenditure deduction, no Chapter VIA  C) Always exempt  D) Taxed only under DTAA at 30%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For non-residents, dividend is taxed at special rates (subject to DTAA), with no expenditure deduction and no Chapter VIA (80C–80U) deductions. A) is the resident treatment (with a capped interest deduction). C) is wrong — it is taxable. D) misstates DTAA — most DTAAs give 5%–15%, not a flat 30%.
+</details>
+
+**Q47.** Under most DTAAs India has signed, dividend in the source country is taxed in the range of:
+A) 0% to 5%  B) 5% to 15%  C) 20% to 30%  D) 30% to 40%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Most DTAAs tax dividend in the source country at 5% to 15% of the gross dividend in the hands of the beneficial owner. A), C) and D) are outside the stated range.
+</details>
+
+**Q48.** F&O loss treated as non-speculative business loss can be set off against:
+A) Salary income  B) Any head except salary  C) Only speculative income  D) Only capital gains
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Non-speculative F&O business loss can be set off against income under any head except salary. A) is wrong — salary is specifically excluded. C) describes a speculative loss restriction. D) is too narrow — set-off is broader than capital gains.
+</details>
+
+**Q49.** Unabsorbed F&O (business) loss can be carried forward for up to:
+A) 4 assessment years  B) 8 assessment years  C) Indefinitely  D) 2 assessment years
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Unabsorbed business loss can be carried forward up to 8 assessment years, set off only against business income. A), C) and D) are incorrect periods; the limit is 8 years.
+</details>
+
+**Q50.** To carry forward an F&O business loss, the assessee must:
+A) Pay advance tax  B) File the return on or before the due date  C) Maintain audited books always  D) Get SEBI approval
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The right to carry forward and set off business loss is preserved only if the return is filed on or before the due date; missing it forfeits the carry-forward. A) advance tax does not affect carry-forward. C) audit depends on turnover, not carry-forward. D) SEBI approval is irrelevant.
+</details>
+
+**Q51.** Under the ICAI Guidance Note, F&O turnover includes the premium received on:
+A) Purchase of options  B) Sale of options  C) Delivery of shares  D) Dividend distribution
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Turnover includes the total of favourable and unfavourable differences plus the premium received on *sale* of options (and reverse-trade differences). A) premium *paid* on purchase is not separately added as turnover. C) and D) are unrelated to F&O turnover.
+</details>
+
+**Q52.** Under the presumptive scheme (Section 44AD) for digital/cheque receipts, profit is presumed at:
+A) 6% of turnover  B) 8% of turnover  C) 12.50% of turnover  D) 50% of turnover
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — For receipts through banking/digital modes, profit is presumed at 6% of turnover (8% for cash receipts). B) 8% applies to cash receipts. C) and D) are not the 44AD rates.
+</details>
+
+**Q53.** Section 44AD presumptive scheme is available if total turnover does not exceed:
+A) ₹1 crore  B) ₹2 crore (or ₹3 crore)  C) ₹5 crore  D) ₹10 crore
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The presumptive scheme under Section 44AD is available subject to total turnover not exceeding ₹2 crore (or ₹3 crore, as the case may be). A), C) and D) are not the prescribed thresholds for 44AD as stated in the chapter.
+</details>
+
+**Q54.** A person opting for Section 44AD presumptive scheme can pay 100% of advance tax in a single instalment by:
+A) 15 June  B) 15 September  C) 15 December  D) 15 March
+<details><summary>Answer & Explanation</summary>
+
+**Correct: D)** — Under the presumptive scheme the person can pay 100% of advance tax in a single instalment up to 15 March of the relevant financial year. A), B) and C) are the normal quarterly advance-tax dates that do not apply to 44AD assessees.
+</details>
+
+**Q55.** A speculative business loss can be set off only against:
+A) Any business income  B) Speculative income  C) Capital gains  D) Salary
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A speculative loss can be set off only against speculative income. A) is wrong — that is the rule for non-speculative losses. C) and D) cannot absorb a speculative loss.
+</details>
+
+**Q56.** Which condition makes a derivative transaction NON-speculative under Section 43(5)?
+A) Settled without delivery off-exchange  B) Carried on a recognised exchange through a SEBI-registered broker with a time-stamped contract note showing client ID and PAN  C) Done privately between two parties  D) Settled in cash overseas
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Exchange-traded derivatives are non-speculative when carried on a recognised exchange via a SEBI-registered intermediary with a time-stamped contract note showing the unique client ID and PAN. A), C) and D) describe off-exchange/private dealings that do not meet the 43(5) conditions.
+</details>
+
+**Q57.** For bonus stripping under Section 94(8) to apply, the original units must be acquired within:
+A) 3 months before the record date  B) 9 months before the record date  C) 3 months after the record date  D) 12 months before the record date
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Section 94(8) applies if the person acquires securities/units within 3 months *before* the record date and is allotted bonus units on that date. B) and D) are wrong windows for acquisition. C) describes a period after, not before, the record date.
+</details>
+
+**Q58.** Bonus stripping rules ignore the loss only if the original units are sold within:
+A) 3 months after the record date  B) 6 months after the record date  C) 9 months after the record date  D) 12 months after the record date
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — The loss is ignored if the original units are transferred within 9 months *after* the record date while the person continues to hold the bonus units. A), B) and D) are incorrect windows; the rule uses 9 months.
+</details>
+
+**Q59.** The surcharge on capital gains under Sections 111A/112/112A is capped at a maximum of:
+A) 10%  B) 15%  C) 25%  D) 37%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Surcharge on 111A/112/112A capital gains is capped at 15% (it does not rise to 25%/37% as on other income). A) 10% applies in the ₹50 lakh–₹1 crore band. C) and D) are the higher surcharge rates that apply to *other* income, not these capital gains.
+</details>
+
+**Q60.** Which deduction is NOT allowed against STCG taxed at 20% under Section 111A?
+A) Brokerage on the sale  B) Cost of acquisition  C) Deductions under Sections 80C to 80U  D) Transfer expenses
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — No deduction under Sections 80C to 80U is allowed against STCG covered by Section 111A. A), B) and D) (brokerage, cost of acquisition, transfer expenses) are part of computing the gain itself and are allowed; only Chapter VIA deductions are barred.
+</details>
+
+**Q61.** For LTCG taxed at 12.50% on shares of an Indian company bought in foreign currency by a non-resident, the foreign-currency computation method is:
+A) Mandatory  B) Optional  C) Not allowed  D) Allowed only for listed shares
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — The foreign-currency mode of computing capital gains is not allowed when the LTCG is taxed at the concessional 12.50% rate. A) and B) wrongly permit it. D) adds a condition not present — it is simply disallowed for the 12.50% LTCG.
+</details>
+
+**Q62.** Dividend received by a non-resident from an equity-oriented mutual fund (not from IFSC) is taxed at a special rate of:
+A) 10%  B) 12.50%  C) 20%  D) 30%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — A non-resident's dividend from an equity-oriented MF is taxed at a special rate of 20% (10% if received from an IFSC unit), plus surcharge and cess, subject to DTAA. A) 10% applies only to IFSC-unit dividends. B) is a capital-gains rate. D) 30% is not the stated special rate.
+</details>
+
+**Q63.** STCG on units of an equity-oriented mutual fund, with STT paid at sale, is taxed at:
+A) 12.50%  B) 20%  C) Slab rates  D) Exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — STCG on equity-oriented MF units is taxed at 20% if STT is paid at sale (Section 111A-type treatment). A) is the LTCG rate. C) slab rates apply only if STT is not paid. D) is wrong — STCG is taxable.
+</details>
+
+**Q64.** If STT is NOT paid at the time of transfer of equity-oriented MF units, the LTCG is taxed at:
+A) Exempt  B) 12.50% (without the ₹1.25 lakh exemption)  C) 20%  D) Slab rates
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Even where STT is not paid at transfer, LTCG on equity-oriented MF units is still taxed at 12.50% — but it loses the ₹1.25 lakh exemption that Section 112A grants when STT is paid. A) is wrong — it is taxable. C) is the STCG rate. D) slab rates do not apply to this LTCG.
+</details>
+
+**Q65.** For a unit of an equity-oriented MF that was NOT listed on a recognised exchange as on 31-01-2018, the FMV for grandfathering is taken as:
+A) The highest quoted price  B) The net asset value (NAV) as on that date  C) The face value  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Where the unit was not listed on 31-01-2018, its FMV for grandfathering is the net asset value (NAV) as on that date. A) the highest quoted price applies to *listed* units/shares. C) face value and D) nil are not used.
+</details>
+
+**Q66.** A resident individual has other income of ₹1,85,000 and LTCG on unlisted shares of ₹2,50,000 (basic exemption ₹2,50,000). The LTCG actually charged to tax is:
+A) ₹2,50,000  B) ₹1,85,000  C) ₹65,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A resident individual can use the unused basic exemption against 111A/112/112A gains. Shortfall = ₹2,50,000 − ₹1,85,000 = ₹65,000. This ₹65,000 absorbs part of the LTCG, so only ₹2,50,000 − ₹65,000 = ₹1,85,000 of LTCG is taxed. A) ignores the absorption. C) wrongly taxes only the shortfall. D) is wrong — some LTCG remains taxable.
+</details>
+
+**Q67.** Which of these is treated as an "Over-The-Counter" (OTC) derivative rather than exchange-traded?
+A) Index futures on NSE  B) Stock options on BSE  C) A customised forward contract between two parties  D) Currency futures on a recognised exchange
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — A forward contract is customised and dealt directly between two parties without an exchange mechanism — i.e., OTC. A), B) and D) are standardised, exchange-traded derivatives, not OTC.
+</details>
+
+**Q68.** A call option gives the holder the right (not obligation) to:
+A) Sell an asset by a certain date at a certain price  B) Buy an asset by a certain date at a certain price  C) Receive a dividend  D) Convert shares into debentures
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A call option gives the right, but not the obligation, to *buy* an asset by a certain date at a stated price. A) describes a *put* option (right to sell). C) and D) are unrelated to options.
+</details>
+
+**Q69.** Which swap involves exchanging both principal and interest in two different currencies?
+A) Interest rate swap  B) Currency swap  C) Equity swap  D) Commodity swap
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A currency swap entails swapping both principal and interest between parties, with cash flows in two different currencies. A) an interest rate swap exchanges only interest cash flows in the same currency. C) and D) are not the swaps defined in the chapter.
+</details>
+
+**Q70.** Most commodity derivative contracts (barring a few like crude oil and natural gas) result in:
+A) Cash settlement only  B) Compulsory delivery  C) No settlement  D) Conversion into equity
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Almost all commodity contracts result in compulsory delivery, except a few like crude oil and natural gas. A) cash settlement is the exception, not the rule. C) and D) are incorrect — commodity contracts do settle, typically by delivery.
+</details>

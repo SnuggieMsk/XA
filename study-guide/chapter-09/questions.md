@@ -94,11 +94,11 @@ A) As a capital loss in the shareholder's hands  B) As a deduction from dividend
 </details>
 
 **Q11.** Under which sections is TDS deducted from dividend?
-A) Section 80C / 80D  B) Section 194 or 194K  C) Section 234A / 234B  D) Section 2(22)
+A) Section 194 or 194K  B) Section 80C / 80D  C) Section 234A / 234B  D) Section 2(22)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Tax is deducted from dividend under Section 194 or Section 194K (for units), as the case may be.
-- A) Wrong — 80C/80D are deduction sections.
+**Correct: A)** — Tax is deducted from dividend under Section 194 or Section 194K (for units), as the case may be.
+- B) Wrong — 80C/80D are deduction sections.
 - C) Wrong — 234A/234B relate to interest for default.
 - D) Wrong — 2(22) defines dividend, it is not a TDS section.
 </details>
@@ -624,3 +624,340 @@ A) ₹80,000  B) ₹40,000 (from the friend)  C) ₹0  D) ₹30,000
 - B) Wrong — the friend's ₹40,000 alone does not exceed ₹50,000, so it is not taxed.
 - D) Wrong — there is no partial taxation; below the threshold means nil.
 </details>
+
+## 🔴 Tier 3 — Hard: Numerical & Scenario (Q71–Q100)
+
+**Q71.** Mr. G receives, from non-relatives in one year, free securities of FMV ₹30,000 and ₹25,000. What is the taxable IFOS amount?
+A) ₹0  B) ₹5,000  C) ₹55,000  D) ₹25,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Formula: aggregate FMV of free securities from non-relatives = ₹30,000 + ₹25,000 = ₹55,000. Since ₹55,000 **exceeds** ₹50,000, the **whole** ₹55,000 is taxable (threshold, not deduction).
+- A) Wrong — the aggregate crosses the threshold, so it is not nil.
+- B) Wrong — you do not subtract ₹50,000 (₹55,000 − ₹50,000).
+- D) Wrong — both gifts aggregate; you cannot ignore one.
+</details>
+
+**Q72.** Mr. H buys securities of FMV ₹1,50,000 for ₹1,10,000. The difference is:
+A) Taxable in full at ₹40,000  B) Not taxable  C) Taxable at ₹50,000  D) Taxable at ₹10,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Difference = FMV − Consideration = ₹1,50,000 − ₹1,10,000 = ₹40,000. Since ₹40,000 does **not exceed** ₹50,000, nothing is taxable.
+- A) Wrong — the difference is below the threshold, so it is not taxed.
+- C), D) Wrong — neither figure is correct; the result is nil.
+</details>
+
+**Q73.** Mr. I receives two lots of securities for inadequate consideration in the year: Lot 1 FMV ₹90,000 paid ₹60,000; Lot 2 FMV ₹70,000 paid ₹40,000. Taxable IFOS?
+A) ₹30,000  B) ₹60,000  C) ₹10,000  D) ₹0
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Aggregate difference = (₹90,000 − ₹60,000) + (₹70,000 − ₹40,000) = ₹30,000 + ₹30,000 = ₹60,000. Since ₹60,000 exceeds ₹50,000, the whole ₹60,000 is taxable.
+- A) Wrong — that is only one lot's difference; both aggregate.
+- C) Wrong — you do not subtract ₹50,000.
+- D) Wrong — the aggregate crosses the threshold.
+</details>
+
+**Q74.** Gross interest from securities is ₹1,00,000. Collection charges are ₹4,000 and interest on a loan taken to buy the securities is ₹16,000. Taxable interest from securities is:
+A) ₹1,00,000  B) ₹96,000  C) ₹80,000  D) ₹84,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Formula: Taxable interest = Gross interest − Collection charges − Interest on borrowings − Other related revenue expenditure. = ₹1,00,000 − ₹4,000 − ₹16,000 = ₹80,000.
+- A) Wrong — it ignores both deductions.
+- B) Wrong — it deducts only collection charges.
+- D) Wrong — it deducts only the borrowing interest.
+</details>
+
+**Q75.** Gross interest is ₹2,50,000. Permissible deductions: collection charges ₹5,000, borrowing interest ₹45,000, other revenue expenditure ₹10,000. Taxable interest?
+A) ₹2,50,000  B) ₹1,90,000  C) ₹2,00,000  D) ₹1,40,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Taxable = ₹2,50,000 − (₹5,000 + ₹45,000 + ₹10,000) = ₹2,50,000 − ₹60,000 = ₹1,90,000.
+- A) Wrong — it ignores all deductions.
+- C) Wrong — it deducts only ₹50,000.
+- D) Wrong — it over-deducts.
+</details>
+
+**Q76.** Mr. J receives free securities of FMV ₹52,000 from a friend. By how much does the taxable amount exceed the threshold, and what is taxable?
+A) Exceeds by ₹2,000; taxable ₹2,000  B) Exceeds by ₹2,000; taxable ₹52,000  C) Does not exceed; taxable ₹0  D) Taxable ₹50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — ₹52,000 exceeds ₹50,000 by ₹2,000. Because the threshold is crossed, the **whole** ₹52,000 is taxable (not just the ₹2,000 excess). This is the classic "cliff" trap.
+- A) Wrong — the excess does not become the taxable amount; the whole sum is taxed.
+- C) Wrong — ₹52,000 does exceed ₹50,000.
+- D) Wrong — ₹50,000 is the threshold, not the taxable figure.
+</details>
+
+**Q77.** Mr. K (mercantile system) holds debentures. Interest accrued: ₹6,000 (Feb 2026) and ₹6,000 (May 2026). Both received in June 2026. How much interest is taxable in FY 2025-26?
+A) ₹12,000  B) ₹6,000  C) ₹0  D) ₹3,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Under the mercantile (accrual) basis, only interest accruing in FY 2025-26 (i.e. the ₹6,000 that accrued in Feb 2026) is taxable that year. The ₹6,000 accruing in May 2026 belongs to FY 2026-27.
+- A) Wrong — the May 2026 accrual is in the next year.
+- C) Wrong — accrual occurred in Feb 2026, so it is taxable then.
+- D) Wrong — the full Feb accrual of ₹6,000 is taxed, not half.
+</details>
+
+**Q78.** Same facts as Q77 but Mr. K follows the cash system. How much is taxable in FY 2025-26?
+A) ₹12,000  B) ₹6,000  C) ₹0  D) ₹9,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Under the cash (receipt) basis, interest is taxed when received. Both amounts are received in June 2026 (FY 2026-27), so nothing is taxable in FY 2025-26.
+- A), B) Wrong — receipt, not accrual, governs the cash system; nothing was received in 2025-26.
+- D) Wrong — no amount was received in 2025-26.
+</details>
+
+**Q79.** A shareholder receives buy-back proceeds of ₹4,00,000 (after 1 Oct 2024); cost of those shares was ₹2,50,000. What amount is taxed as dividend under IFOS?
+A) ₹1,50,000  B) ₹4,00,000  C) ₹2,50,000  D) ₹0
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The full buy-back proceeds of ₹4,00,000 are taxed as dividend; no deduction for expenses (or cost) is allowed against it.
+- A) Wrong — the cost is not netted off the dividend; ₹4,00,000 − ₹2,50,000 = ₹1,50,000 is wrong here.
+- C) Wrong — that is the cost, not the dividend.
+- D) Wrong — the proceeds are fully taxable as dividend.
+</details>
+
+**Q80.** Continuing Q79, what happens to the ₹2,50,000 cost of acquisition?
+A) Deducted from the ₹4,00,000 dividend  B) Treated as a capital loss eligible for set-off  C) Added to dividend income  D) Carried as a deduction next year against dividend
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The cost ₹2,50,000 is treated as a capital loss in the shareholder's hands, eligible for set-off per applicable provisions.
+- A) Wrong — no deduction against dividend is allowed.
+- C), D) Wrong — it is a capital loss, not an addition or a dividend-deduction.
+</details>
+
+**Q81.** Mr. L receives free securities FMV ₹48,000 from a friend in Year 1, and ₹49,000 free from another friend in Year 2. Taxable in each year?
+A) ₹0 in both years  B) ₹48,000 and ₹49,000  C) ₹0 and ₹49,000  D) ₹97,000 in Year 2
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — The ₹50,000 threshold is applied to the aggregate received **during each year** separately. Year 1: ₹48,000 ≤ ₹50,000 → nil. Year 2: ₹49,000 ≤ ₹50,000 → nil.
+- B) Wrong — both years are below the threshold, so nothing is taxed.
+- C) Wrong — Year 2 is also below the threshold.
+- D) Wrong — amounts from different years are not aggregated together.
+</details>
+
+**Q82.** Ms. M receives free securities of FMV ₹35,000 from her cousin and ₹20,000 from a friend in one year. Taxable amount?
+A) ₹0  B) ₹35,000  C) ₹55,000  D) ₹5,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — A cousin is NOT a relative, so both gifts count. Aggregate from non-relatives = ₹35,000 + ₹20,000 = ₹55,000, which exceeds ₹50,000, so the whole ₹55,000 is taxable.
+- A) Wrong — cousin's gift is not exempt.
+- B) Wrong — both gifts aggregate.
+- D) Wrong — you do not subtract the threshold.
+</details>
+
+**Q83.** Ms. N receives free securities of FMV ₹2,00,000 from her father and ₹45,000 from a colleague in one year. Taxable?
+A) ₹2,45,000  B) ₹2,00,000  C) ₹45,000  D) ₹0
+<details><summary>Answer & Explanation</summary>
+
+**Correct: D)** — Father is a relative → his ₹2,00,000 gift is exempt and excluded. The colleague's ₹45,000 is the only countable amount; since ₹45,000 ≤ ₹50,000, nothing is taxable.
+- A), B) Wrong — the father's gift is exempt.
+- C) Wrong — ₹45,000 alone does not exceed the threshold.
+</details>
+
+**Q84.** A shareholder in a foreign currency receives interest of USD 1,000 on a security, due in May. No TDS applies. At what date's SBI TT buying rate is it converted?
+A) Last day of May  B) Last day of April  C) First day of May  D) Date of receipt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Conversion uses the SBI TT buying rate on the last day of the month **immediately preceding** the month income is due. Income is due in May, so the rate as on the last day of April is used.
+- A) Wrong — May is the month income is due, not the preceding month.
+- C), D) Wrong — neither the first day of May nor receipt date is the prescribed date for the non-TDS case.
+</details>
+
+**Q85.** Same as Q84 but the income IS subject to TDS. Which date's rate applies?
+A) Last day of April  B) The date on which tax is required to be deducted  C) Last day of May  D) 31 March
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — When the foreign-currency income is subject to TDS, conversion is done at the rate on the date on which tax is required to be deducted.
+- A) Wrong — that is the non-TDS rule.
+- C), D) Wrong — these are not the prescribed TDS-conversion dates.
+</details>
+
+**Q86.** Mr. O receives free securities of aggregate FMV exactly ₹50,000 from a friend. Taxable amount?
+A) ₹50,000  B) ₹0  C) ₹25,000  D) ₹1
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Tax arises only if the aggregate **exceeds** ₹50,000. Exactly ₹50,000 does not exceed ₹50,000, so nothing is taxable.
+- A) Wrong — the threshold is not crossed at exactly ₹50,000.
+- C), D) Wrong — there is no partial taxation; here it is nil.
+</details>
+
+**Q87.** Mr. P buys securities of FMV ₹1,00,000 for ₹49,000 from a friend. Taxable difference?
+A) ₹49,000  B) ₹51,000  C) ₹1,000  D) ₹0
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Difference = FMV − Consideration = ₹1,00,000 − ₹49,000 = ₹51,000. Since ₹51,000 exceeds ₹50,000, the whole ₹51,000 is taxable.
+- A) Wrong — ₹49,000 is the price paid, not the taxable difference.
+- C) Wrong — you do not subtract the ₹50,000 threshold from ₹51,000.
+- D) Wrong — the difference crosses the threshold.
+</details>
+
+**Q88.** Gross interest from securities is ₹60,000 and the only related expense is collection charges of ₹62,000 (an unusual loss year). The other-sources income from this security is:
+A) ₹60,000  B) Negative ₹2,000 (a loss of ₹2,000)  C) ₹0 always  D) ₹62,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Taxable interest = Gross interest − permissible deductions = ₹60,000 − ₹62,000 = −₹2,000, i.e. a computed loss of ₹2,000 from this source.
+- A) Wrong — it ignores the deduction.
+- C) Wrong — the computation does not force zero; it yields the net of income minus deductions.
+- D) Wrong — ₹62,000 is the expense, not the income.
+</details>
+
+**Q89.** In one year, Ms. Q receives: free securities FMV ₹30,000 from a friend; securities FMV ₹80,000 bought for ₹70,000 from another friend. Total taxable IFOS from gifts?
+A) ₹40,000  B) ₹0  C) ₹30,000  D) ₹10,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Aggregate benefit = (free ₹30,000) + (FMV − consideration: ₹80,000 − ₹70,000 = ₹10,000) = ₹40,000. Since ₹40,000 does **not exceed** ₹50,000, nothing is taxable.
+- A) Wrong — ₹40,000 is the aggregate benefit, but it is below the threshold so it is not taxed.
+- C), D) Wrong — these are individual components, not the taxable result; the result is nil.
+</details>
+
+**Q90.** A closely held company advances ₹2,00,000 to a shareholder out of accumulated profits of ₹5,00,000. The deemed dividend under Section 2(22)(e) is generally limited to:
+A) ₹5,00,000  B) The advance, to the extent of accumulated profits (here ₹2,00,000)  C) ₹0  D) ₹7,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The loan/advance is a deemed dividend out of accumulated profits; here the advance of ₹2,00,000 is fully covered by accumulated profits of ₹5,00,000, so ₹2,00,000 is the deemed dividend.
+- A) Wrong — accumulated profits cap the amount but the advance is only ₹2,00,000.
+- C) Wrong — it is a deemed dividend, not nil.
+- D) Wrong — you do not add advance and accumulated profits.
+</details>
+
+**Q91.** Ms. R receives free securities FMV ₹55,000 from a friend, but ₹10,000 of those shares are received "on the occasion of her marriage." How much is taxable?
+A) ₹55,000  B) ₹45,000  C) ₹0  D) ₹5,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Receipts on the occasion of marriage are excluded. After removing the ₹10,000 marriage-occasion gift, the countable aggregate = ₹55,000 − ₹10,000 = ₹45,000. Since ₹45,000 ≤ ₹50,000, nothing is taxable.
+- A) Wrong — the marriage-occasion portion is excluded.
+- B) Wrong — ₹45,000 is the countable aggregate but it is below the threshold, so nil is taxed.
+- D) Wrong — there is no partial taxation.
+</details>
+
+**Q92.** Gross interest ₹3,00,000; deductions: collection charges ₹6,000, borrowing interest ₹1,20,000, other revenue expenses ₹14,000. Net taxable interest?
+A) ₹1,60,000  B) ₹1,80,000  C) ₹3,00,000  D) ₹1,40,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Total deductions = ₹6,000 + ₹1,20,000 + ₹14,000 = ₹1,40,000. Taxable = ₹3,00,000 − ₹1,40,000 = ₹1,60,000.
+- B) Wrong — that wrongly deducts ₹1,20,000 only.
+- C) Wrong — ignores deductions.
+- D) Wrong — that is the deduction total, not the net income.
+</details>
+
+**Q93.** Mr. S receives free securities FMV ₹1,20,000 under his late uncle's will. Taxable amount?
+A) ₹1,20,000  B) ₹70,000  C) ₹0  D) ₹50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Property received under a will is not chargeable under this provision, regardless of value, so the taxable amount is ₹0.
+- A), D) Wrong — the will exception is unconditional, so no part is taxed.
+- B) Wrong — there is no "excess over ₹50,000" calculation for will/inheritance receipts.
+</details>
+
+**Q94.** Mr. T (cash system) has debenture interest received as: ₹4,000 in FY 2025-26 (which had accrued in FY 2024-25) and ₹4,000 accruing AND received in FY 2025-26. Taxable in FY 2025-26?
+A) ₹4,000  B) ₹8,000  C) ₹0  D) ₹12,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Under the cash system, all interest **received** during the year is taxable that year, regardless of when it accrued. Received in FY 2025-26 = ₹4,000 + ₹4,000 = ₹8,000.
+- A) Wrong — both receipts count, not just one.
+- C) Wrong — both were received in 2025-26.
+- D) Wrong — only ₹8,000 was received that year.
+</details>
+
+**Q95.** Mr. U receives ₹60,000 free securities from a non-relative and separately receives a ₹5,00,000 loan from a closely held company in which he is a shareholder (out of accumulated profits). Identify the heads.
+A) Both under capital gains  B) ₹60,000 gift taxable as IFOS, and the ₹5,00,000 deemed dividend also under IFOS  C) Gift under IFOS; loan exempt  D) Both exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The ₹60,000 free securities (exceeding ₹50,000) are taxable as IFOS; the ₹5,00,000 loan from a closely held company out of accumulated profits is a deemed dividend, also taxed under IFOS.
+- A) Wrong — neither is a capital gain.
+- C) Wrong — the loan is a deemed dividend, not exempt.
+- D) Wrong — both are taxable.
+</details>
+
+**Q96.** Mr. V buys unquoted shares of FMV ₹3,00,000 (computed under Rule 11UA) for ₹2,30,000 from a friend. Taxable IFOS?
+A) ₹70,000  B) ₹20,000  C) ₹0  D) ₹3,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — FMV is determined under Rule 11UA (unquoted method). Difference = ₹3,00,000 − ₹2,30,000 = ₹70,000, which exceeds ₹50,000, so the whole ₹70,000 is taxable.
+- B) Wrong — you do not subtract the ₹50,000 threshold.
+- C) Wrong — the difference exceeds the threshold.
+- D) Wrong — only the FMV-minus-consideration difference is taxed, not the full FMV (since consideration was paid).
+</details>
+
+**Q97.** In a year, Mr. W has: dividend ₹40,000 (TDS deducted under s.194), interest on government securities ₹25,000 (investment), and a free gift of securities FMV ₹30,000 from a friend. Which amounts are IFOS, and is the gift taxable?
+A) Only dividend is IFOS; gift taxable  B) Dividend ₹40,000 and interest ₹25,000 are IFOS; gift of ₹30,000 not taxable  C) All three including the gift fully taxable  D) Nothing is IFOS
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Dividend (₹40,000) and interest on investment securities (₹25,000) are both IFOS. The free gift of ₹30,000 is from a non-relative but ₹30,000 ≤ ₹50,000, so the gift is not taxable.
+- A) Wrong — interest on securities is also IFOS, and the ₹30,000 gift is below the threshold.
+- C) Wrong — the gift is below the ₹50,000 threshold, so not taxable.
+- D) Wrong — dividend and interest are clearly IFOS.
+</details>
+
+**Q98.** Mr. X receives, in one year from non-relatives: free securities FMV ₹20,000; securities FMV ₹90,000 bought for ₹50,000. Total taxable IFOS from gifts?
+A) ₹0  B) ₹40,000  C) ₹60,000  D) ₹20,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Aggregate benefit = (free ₹20,000) + (FMV − consideration: ₹90,000 − ₹50,000 = ₹40,000) = ₹60,000. Since ₹60,000 exceeds ₹50,000, the whole ₹60,000 is taxable.
+- A) Wrong — the aggregate crosses the threshold.
+- B) Wrong — that ignores the ₹20,000 free gift.
+- D) Wrong — that ignores the inadequate-consideration difference.
+</details>
+
+**Q99.** A non-resident receives ₹1,00,000 dividend from an Indian company. Which statement is most accurate?
+A) It is exempt because DDT was paid  B) It is taxable in his hands under IFOS, with DTAA/MLI provisions also applying  C) It is taxed only in his home country  D) It is taxed as capital gains in India
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Post-DDT-abolition, dividend is taxable in the recipient's hands under IFOS; for a non-resident, DTAA and MLI provisions also come into play.
+- A) Wrong — DDT no longer applies from AY 2021-22.
+- C) Wrong — India can tax it (subject to DTAA), it is not solely home-country taxed.
+- D) Wrong — it is dividend (IFOS), not capital gains.
+</details>
+
+**Q100.** Mr. Y receives free securities FMV ₹55,000 from his mother's sister (Mausi) and ₹20,000 free from a friend in one year. Taxable IFOS?
+A) ₹75,000  B) ₹55,000  C) ₹20,000  D) ₹0
+<details><summary>Answer & Explanation</summary>
+
+**Correct: D)** — Mother's sister (Mausi) is a listed relative, so her ₹55,000 gift is exempt and excluded. The countable aggregate from non-relatives = ₹20,000 (friend), which is ≤ ₹50,000, so nothing is taxable.
+- A), B) Wrong — the Mausi gift is exempt.
+- C) Wrong — the ₹20,000 friend gift alone does not exceed the threshold.
+</details>
+
+## 🧩 Case Study
+
+**Scenario:** Mr. Arjun, a resident individual following the **mercantile (accrual) system**, has the following transactions during the financial year:
+1. He receives **dividend of ₹60,000** from an Indian listed company (TDS deducted under Section 194).
+2. He earns **interest of ₹1,00,000** on debentures held as an **investment**; he paid **collection charges of ₹3,000** and **₹22,000 interest** on a loan taken specifically to buy those debentures.
+3. He receives **free securities of FMV ₹40,000 from his brother** and **free securities of FMV ₹65,000 from a close friend**, both in the same year.
+4. He buys **unquoted shares of FMV ₹2,80,000 (per Rule 11UA) for ₹2,10,000** from another friend.
+5. On **20 October 2024**, he receives **buy-back proceeds of ₹5,00,000**; his cost of those shares was ₹3,20,000.
+
+<details><summary>Q-CS-1: Under which head is the ₹60,000 dividend taxable, and at what rate?</summary>
+
+**Answer:** It is taxable under **Income from Other Sources** at Mr. Arjun's **applicable slab rate**.
+**Why:** After DDT was abolished (Finance Act, 2020; effective AY 2021-22), dividend is taxable in the shareholder's hands under IFOS at the shareholder's slab rate. TDS under Section 194 is only a collection mechanism; the income still enters IFOS and is taxed at slab rates (the TDS is adjusted against final liability).
+</details>
+
+<details><summary>Q-CS-2: Compute the taxable interest on debentures.</summary>
+
+**Answer:** ₹75,000.
+**Formula:** Taxable interest = Gross interest − Collection charges − Interest on borrowings to buy the securities − Other related revenue expenditure.
+**Calculation:** ₹1,00,000 − ₹3,000 − ₹22,000 = **₹75,000**.
+**Logic:** Collection charges and interest on a loan taken specifically to buy the securities are both permissible deductions against interest on securities. Since the debentures are held as an investment (not stock-in-trade), the interest is IFOS. Under the mercantile system it is taxed on accrual.
+</details>
+
+<details><summary>Q-CS-3: How much of the gifts in point 3 is taxable?</summary>
+
+**Answer:** ₹65,000 is taxable.
+**Working:** The brother is a **relative**, so his ₹40,000 gift is **exempt** and excluded entirely. Only the friend's gift counts: aggregate from non-relatives = **₹65,000**. Since ₹65,000 **exceeds** ₹50,000, the **whole ₹65,000** is taxable (the ₹50,000 is a threshold, not a deduction).
+**Intuition:** Cross the ₹50,000 line and the entire amount falls in — there is no "first ₹50,000 free."
+</details>
+
+<details><summary>Q-CS-4: What is the taxable amount on the unquoted shares bought for inadequate consideration (point 4)?</summary>
+
+**Answer:** ₹70,000.
+**Formula:** Taxable = FMV (per Rule 11UA) − Consideration paid, if the aggregate difference exceeds ₹50,000.
+**Calculation:** ₹2,80,000 − ₹2,10,000 = **₹70,000**. Since ₹70,000 > ₹50,000, the whole ₹70,000 is taxable as IFOS.
+**Note:** FMV of unquoted shares is determined under Rule 11UA's prescribed method for unquoted shares/securities.
+</details>
+
+<details><summary>Q-CS-5: How is the ₹5,00,000 buy-back (point 5) taxed, and what happens to the ₹3,20,000 cost?</summary>
+
+**Answer:** The **full ₹5,00,000** is taxed as **dividend under IFOS** (buy-back on 20 October 2024 is after the 1 October 2024 cut-off). **No deduction for expenses** is allowed against it. Separately, the **₹3,20,000 cost** of the bought-back shares is treated as a **capital loss** in Mr. Arjun's hands, eligible for set-off as per applicable provisions.
+**Intuition:** Buy-back now has two effects — the proceeds are fully taxed as dividend (gross, no netting of cost), while your original cost becomes a capital loss you can set off against capital gains elsewhere.
+</details>
+

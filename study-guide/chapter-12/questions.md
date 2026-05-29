@@ -396,3 +396,415 @@ A) Taxable as other sources  B) Taxable as capital gains  C) Exempt from tax  D)
 
 Intuition: A loan is money you eventually owe back, not income — so it is tax-free when received.
 </details>
+
+## 🟡 Tier 2 — Medium: Application (Q36–Q70)
+
+**Q36.** An employee exercises an ESOP. FMV on exercise is Rs. 800; price paid is Rs. 200; 500 shares. The perquisite taxed as salary is:
+A) Rs. 1,00,000  B) Rs. 3,00,000  C) Rs. 4,00,000  D) Rs. 5,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Perquisite = (FMV on exercise − price paid) × shares = (800 − 200) × 500 = 600 × 500 = Rs. 3,00,000.
+- A) Wrong: Rs. 1,00,000 = only 200 × 500 (the price paid), not the discount.
+- C) Wrong: Rs. 4,00,000 = 800 × 500 (full FMV), ignoring the price paid.
+- D) Wrong: Rs. 5,00,000 has no basis here.
+
+Intuition: You are taxed on the *bargain* — the gap between true value and what you actually paid, across all shares.
+</details>
+
+**Q37.** ESOP shares are listed equity shares, sold after 18 months with STT paid. The long-term capital gain is taxable under:
+A) Section 111A at 20%  B) Section 112A at 12.50% above Rs. 1,25,000  C) Section 112 at 12.50%  D) Slab rates
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Listed equity shares with STT held over 12 months → LTCG under Section 112A at 12.50% on the amount exceeding Rs. 1,25,000.
+- A) Wrong: 111A (20%) is for short-term gains on STT-paid equity.
+- C) Wrong: 112 (without the 1.25 lakh exemption) applies to unlisted shares or no-STT cases.
+- D) Wrong: slab rates apply to short-term unlisted/no-STT shares.
+
+Intuition: Listed + STT + long-term = the "favoured" 112A bucket with a Rs. 1.25 lakh free allowance.
+</details>
+
+**Q38.** ESOP shares (listed, STT-paid) are sold within 6 months of allotment. The short-term capital gain is taxed:
+A) At 12.50% under Section 112A  B) At 20% under Section 111A  C) At slab rates  D) Exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Short-term gain on STT-paid equity is taxed at 20% under Section 111A.
+- A) Wrong: 112A is for long-term gains.
+- C) Wrong: slab rates apply only when STT is not paid (no-STT short-term).
+- D) Wrong: it is not exempt.
+
+Intuition: Sold quickly (≤12 months) on a stock exchange with STT → the special 20% short-term rate.
+</details>
+
+**Q39.** Unlisted equity shares allotted under ESOP (no STT) are sold after 30 months. The gain is:
+A) STCG at slab rate  B) LTCG at 12.50% under Section 112  C) LTCG at 12.50% under Section 112A  D) Exempt under Section 47
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Unlisted shares held over 24 months → LTCG at 12.50% under Section 112 (no Rs. 1.25 lakh exemption, since that is only for 112A).
+- A) Wrong: held 30 months > 24, so it is long-term, not short-term.
+- C) Wrong: 112A needs STT-paid listed equity; unlisted no-STT uses 112.
+- D) Wrong: Section 47 exemption relates to SGB redemption, not unlisted shares.
+
+Intuition: Unlisted shares have a longer 24-month threshold; once past it, 12.50% under 112.
+</details>
+
+**Q40.** Mr. A (an individual) holds SGBs to maturity and redeems them. The capital gain on redemption is:
+A) Taxed at 12.50%  B) Taxed at slab rate  C) Not taxable (redemption by individual is not a transfer)  D) Taxed at 20%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Redemption of SGBs by an individual is not a transfer (Section 47), so no capital gain arises.
+- A), B), D) Wrong: with no transfer there is no capital gain to tax at any rate.
+
+Intuition: Hold-to-redeem as an individual = the gold price appreciation is tax-free. A big SGB advantage.
+</details>
+
+**Q41.** A *trust* (non-individual) redeems SGBs after holding for 18 months. The gain is taxed:
+A) Not taxable  B) As LTCG at 12.50%  C) As STCG at slab  D) At 20%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For a non-individual, redemption is taxable; held over 12 months → LTCG at 12.50% (SGBs are listed).
+- A) Wrong: the Section 47 exemption applies only to *individuals*.
+- C) Wrong: 18 months > 12 months, so it is long-term, not short-term.
+- D) Wrong: 20% is the short-term equity rate, not relevant here.
+
+Intuition: Only individuals get the redemption exemption; a trust is taxed normally as LTCG.
+</details>
+
+**Q42.** An individual *sells* SGBs in the secondary market after 20 months. The gain is:
+A) Exempt (Section 47)  B) LTCG at 12.50%  C) STCG at slab  D) Taxed at 20%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The Section 47 exemption applies only to redemption, not to a secondary-market *sale*. Held over 12 months → LTCG at 12.50%.
+- A) Wrong: exemption covers redemption, not transfer/sale.
+- C) Wrong: 20 months > 12 months, so it is long-term.
+- D) Wrong: 20% is the equity short-term rate.
+
+Intuition: Selling on the exchange is a "transfer" — so even an individual pays LTCG. Redemption is the only escape.
+</details>
+
+**Q43.** When an SGB is sold in the secondary market before the interest due date, the accrued interest portion of the sale price is:
+A) Added to capital gains  B) Reduced from sale consideration and taxed as interest (other sources)  C) Exempt  D) Taxed at 12.50%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Interest accrued from the last coupon date to the sale date is carved out of the consideration and taxed under "Income from other sources"; the remainder is the sale price for capital gains.
+- A) Wrong: it is interest, not capital gain — including it would mistax it.
+- C) Wrong: interest is taxable, not exempt.
+- D) Wrong: 12.50% is the LTCG rate, not the interest rate (interest is at slab).
+
+Intuition: The buyer effectively pays you for interest built up so far — that bit is interest income, not gain on the bond.
+</details>
+
+**Q44.** Mr. B repays a housing loan of Rs. 1,70,000 (eligible under 80C) and contributes Rs. 65,000 to NPS. His maximum total deduction is:
+A) Rs. 1,50,000  B) Rs. 2,00,000  C) Rs. 2,35,000  D) Rs. 1,70,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — 80C is capped at Rs. 1,50,000 (exhausted by the housing loan repayment), and the NPS Rs. 50,000 is claimed additionally under 80CCD(1B). Total = 1,50,000 + 50,000 = Rs. 2,00,000.
+- A) Wrong: ignores the extra Rs. 50,000 NPS benefit.
+- C) Wrong: you cannot claim the full Rs. 65,000 NPS extra — 80CCD(1B) caps the additional deduction at Rs. 50,000.
+- D) Wrong: 80C is limited to 1.5 lakh, not 1.7 lakh.
+
+Intuition: The Rs. 1.5 lakh basket is full, but NPS unlocks a separate Rs. 50,000 room (max).
+</details>
+
+**Q45.** Under the new tax regime, which NPS deduction remains available to a salaried employee?
+A) 80CCD(1) employee contribution  B) 80CCD(1B) additional Rs. 50,000  C) 80CCD(2) employer contribution  D) None at all
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Under the new regime, the employee's own deductions (80CCD(1) and 80CCD(1B)) are not available, but the employer's contribution deduction under 80CCD(2) is still allowed (at 14% of salary).
+- A), B) Wrong: these are old-regime only.
+- D) Wrong: 80CCD(2) survives in the new regime.
+
+Intuition: The new regime strips most personal deductions but keeps the employer-NPS perk to encourage retirement savings via employers.
+</details>
+
+**Q46.** Where NPS withdrawal is used in the same year to buy an annuity plan, the tax treatment is:
+A) The withdrawal is taxed but the annuity is exempt  B) No tax on the amount used to buy the annuity; the annuity income is taxed when received  C) Both fully exempt  D) Both fully taxable
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — No tax on the withdrawn amount used to purchase the annuity; the annuity/pension income received later is taxable.
+- A) Wrong: reversed — the purchase is exempt, the income is taxed.
+- C) Wrong: the eventual annuity income is taxable.
+- D) Wrong: the purchase itself is not taxed.
+
+Intuition: Rolling money into an annuity is tax-neutral; you pay tax later as you actually receive pension.
+</details>
+
+**Q47.** Rental income earned by a REIT directly from property is:
+A) Taxed at the REIT level only  B) Exempt at REIT level (10(23FCA)) and taxed in the unit-holder's hands  C) Fully exempt for everyone  D) Taxed at both levels
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Rental income is exempt at the REIT level under Section 10(23FCA) and taxed in unit-holders' hands when distributed (pass-through).
+- A) Wrong: rental is a pass-through, not taxed at REIT level.
+- C) Wrong: it is taxed once — at the unit-holder.
+- D) Wrong: pass-through means single-level taxation, not double.
+
+Intuition: Rent flows through the REIT pipe to investors, who pay the tax.
+</details>
+
+**Q48.** Capital gains on the sale of real estate property by a REIT are taxed:
+A) In the unit-holder's hands  B) At the REIT level (its own hands)  C) Exempt entirely  D) Half at each level
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Capital gains on property are not pass-through; they are taxed at the REIT level itself.
+- A) Wrong: only rent and SPV interest/dividend pass through, not capital gains.
+- C) Wrong: they are taxable.
+- D) Wrong: there is no split.
+
+Intuition: Pass-through covers regular income streams; one-off property gains stay and are taxed at the REIT.
+</details>
+
+**Q49.** Dividend received by a REIT from an SPV that has opted for the concessional regime under Section 115BAA, when distributed, is:
+A) Exempt for unit-holders  B) Taxable in unit-holders' hands  C) Taxed at the REIT level  D) Taxed at 20%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — If the SPV opted for 115BAA, the distributed dividend is taxable in unit-holders' hands (pass-through). It is exempt to unit-holders only if the SPV did NOT opt for 115BAA.
+- A) Wrong: exemption applies only when the SPV did not opt for 115BAA.
+- C) Wrong: SPV dividend is exempt at REIT level under 10(23FC).
+- D) Wrong: no fixed 20% applies; the unit-holder pays at applicable rates.
+
+Intuition: If the SPV already paid full tax (no 115BAA), the dividend is exempt to investors; if the SPV used the concessional regime, investors pay.
+</details>
+
+**Q50.** Long-term capital gains on the *transfer* of listed REIT units with STT paid are taxed under:
+A) Section 111A at 20%  B) Section 112A at 12.50% above Rs. 1,25,000  C) Section 112 at 12.50%  D) Section 56(2)(xii)
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — STT-paid listed units held over 12 months → LTCG under Section 112A at 12.50% above Rs. 1,25,000.
+- A) Wrong: 111A (20%) is for short-term gains.
+- C) Wrong: 112 applies when STT is not paid.
+- D) Wrong: 56(2)(xii) covers redemption, not transfer.
+
+Intuition: Listed units with STT mirror equity treatment — LTCG at 12.50% with the 1.25 lakh shield.
+</details>
+
+**Q51.** Listed REIT units become long-term after a holding period of more than:
+A) 12 months  B) 24 months  C) 36 months  D) 8 years
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Listed REIT units are long-term if held for more than 12 months (unlisted: more than 24 months).
+- B) Wrong: 24 months applies to *unlisted* units.
+- C) Wrong: 36 months is an older threshold not used here.
+- D) Wrong: 8 years is the SGB tenor.
+
+Intuition: "Listed = liquid = shorter 12-month threshold," like listed shares.
+</details>
+
+**Q52.** The TDS rate under Section 194LBA on rental income distributed by a REIT to a *resident* unit-holder is:
+A) 5%  B) 10%  C) 20%  D) 30%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — REITs deduct TDS at 10% for resident unit-holders on rental, dividend (from SPV) and interest (from SPV) distributions.
+- A) Wrong: 5% applies to interest distributed to a non-resident.
+- C) Wrong: no 20% rate under 194LBA.
+- D) Wrong: 30% applies to rental distributed to a non-resident (other than foreign company).
+
+Intuition: Residents face a flat 10% withholding; non-residents face higher, income-specific rates.
+</details>
+
+**Q53.** A Category-I AIF (registered as a trust) earns business income. This business income is:
+A) Passed through and taxed in unit-holders' hands  B) Taxed at the AIF level at maximum marginal rate  C) Exempt entirely  D) Taxed at 12.50%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Business income is NOT passed through; for a trust-form AIF it is taxed at the maximum marginal rate (MMR) at the AIF level; it is exempt for unit-holders under 10(23FBB).
+- A) Wrong: business income is the one stream that does not pass through.
+- C) Wrong: it is taxed, just at the AIF level.
+- D) Wrong: 12.50% is an LTCG rate, not the MMR for trust business income.
+
+Intuition: The fund pays tax on its own trading profits; investors only get taxed on the *other* income that passes through.
+</details>
+
+**Q54.** "Other income" (non-business) of a Category-II AIF is exempt at the AIF level under Section 10(23FBA) and:
+A) Exempt for unit-holders too  B) Taxable in the unit-holders' hands, retaining its character  C) Taxed at the AIF at MMR  D) Taxed at 10%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Other income passes through: exempt at the AIF (10(23FBA)) and taxable in unit-holders' hands in the same nature and proportion.
+- A) Wrong: someone must pay — it is taxed at the unit-holder level.
+- C) Wrong: only business income is taxed at the AIF.
+- D) Wrong: 10% is the TDS rate, not the final tax rate; the unit-holder pays at applicable rates.
+
+Intuition: The AIF is a transparent pipe for non-business income — it keeps its original flavour (capital gains stay capital gains, etc.) in the investor's hands.
+</details>
+
+**Q55.** Income credited by a Category-I/II AIF that is not actually paid to the investor during the year is:
+A) Never taxed  B) Deemed credited to investors on the last day of the previous year  C) Taxed only when paid in a later year  D) Taxed at the AIF level
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — If not paid/credited, the income is deemed credited to investors on the last day of the previous year, in their proportion.
+- A) Wrong: it is taxed via the deeming provision.
+- C) Wrong: tax cannot be deferred to a later year merely by withholding payment.
+- D) Wrong: pass-through income is taxed at the investor level.
+
+Intuition: You cannot dodge tax by leaving money inside the fund — the law "deems" you received it at year-end.
+</details>
+
+**Q56.** Business losses of a Category-I/II AIF are:
+A) Passed through to unit-holders  B) Carried forward at the AIF level, not passed to unit-holders  C) Lost forever  D) Set off against unit-holders' salary
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Business losses are carried forward at the AIF level and are NOT passed to unit-holders (only non-business losses pass through, since AY 2020-21).
+- A) Wrong: only non-business losses pass through.
+- C) Wrong: they are carried forward, not lost.
+- D) Wrong: AIF losses cannot offset an investor's salary.
+
+Intuition: Since business *income* is taxed at the AIF, business *losses* logically stay there too.
+</details>
+
+**Q57.** Non-business losses of an AIF can be passed to a unit-holder only if the unit has been held for at least:
+A) 6 months  B) 12 months  C) 24 months  D) 36 months
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Non-business losses pass through except where the unit has not been held for at least 12 months.
+- A), C), D) Wrong: the threshold stated is 12 months.
+
+Intuition: A minimum 12-month holding prevents short-term "loss shopping" by investors who briefly buy units.
+</details>
+
+**Q58.** The TDS rate under Section 194LBB on income distributed by an AIF to a resident unit-holder is:
+A) 5%  B) 10%  C) 12.50%  D) 20%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — AIFs deduct TDS at 10% on income distributed to resident unit-holders (rates in force for foreign unit-holders).
+- A), C), D) Wrong: the stated resident rate is 10%.
+
+Intuition: A simple flat 10% withholding mirrors the REIT/194LBA resident rate.
+</details>
+
+**Q59.** A gold ETF is bought on 01-06-2023 and sold on 01-12-2024. The capital gain is:
+A) Always long-term at 12.50%  B) Always short-term at slab rate  C) Exempt  D) Taxed under 112A
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A gold ETF bought after 01-04-2023 and sold before 01-04-2025 is always treated as short-term and taxed at slab rates, regardless of holding period.
+- A) Wrong: the special rule overrides the long-term treatment for this window.
+- C) Wrong: it is taxable.
+- D) Wrong: 112A is for equity, not gold ETFs.
+
+Intuition: For this specific buy/sell window, the law says "no long-term benefit" — treat it as short-term at slab.
+</details>
+
+**Q60.** A gold ETF bought on 01-03-2018 and sold on 25-03-2025 (held over 7 years) gives a gain taxed:
+A) At slab rate as short-term  B) As LTCG at 12.50%  C) Exempt under Section 47  D) Under 112A at 12.50%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Bought before 01-04-2023, so the short-term-only rule does not apply; held over 12 months → LTCG taxed at 12.50%.
+- A) Wrong: the special short-term window rule applies only to ETFs bought after 01-04-2023.
+- C) Wrong: Section 47 covers SGB redemption, not gold ETFs.
+- D) Wrong: 112A is for equity; gold ETF LTCG uses the non-equity 12.50% rate.
+
+Intuition: Older purchases keep normal long-term treatment — 12.50% after 12 months.
+</details>
+
+**Q61.** Long-term capital gains on equity index ETFs (over 12 months, STT paid) are taxed under:
+A) Section 112 at 12.50%  B) Section 112A at 12.50% above Rs. 1,25,000  C) Slab rate  D) Section 111A at 20%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Equity index ETFs are taxed like listed equity-oriented mutual funds: LTCG over 12 months at 12.50% above Rs. 1,25,000 under Section 112A.
+- A) Wrong: 112 (no 1.25 lakh shield) is for non-STT / unlisted assets.
+- C) Wrong: slab applies to gold ETFs (short term), not equity index LTCG.
+- D) Wrong: 111A (20%) is the short-term equity rate.
+
+Intuition: Index ETFs track equity, so they inherit equity's favourable 112A treatment.
+</details>
+
+**Q62.** Any sum received from a life insurance policy, including bonus, is generally:
+A) Taxable as other sources  B) Exempt under Section 10(10D)  C) Taxed as capital gains  D) Taxed at 12.50%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The general rule is that life insurance proceeds (including bonus) are exempt under Section 10(10D), subject to specific exceptions.
+- A), C), D) Wrong: these apply only in exception cases (e.g., high-premium policies), not the general rule.
+
+Intuition: Insurance maturity/death proceeds are normally tax-free — that is the whole point of the benefit.
+</details>
+
+**Q63.** For a policy issued on or after 01-04-2012, 10(10D) exemption is lost if the annual premium in any year exceeds what percentage of the sum assured?
+A) 5%  B) 10%  C) 15%  D) 20%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Policies issued on/after 01-04-2012 lose exemption if premium in any year exceeds 10% of the sum assured.
+- A) Wrong: 5% is not a threshold here.
+- C) Wrong: 15% is the 80C deduction cap for disabled/specified-disease persons (policies on/after 01-04-2013), not the 10(10D) test.
+- D) Wrong: 20% applies to older policies (01-04-2003 to 31-03-2012).
+
+Intuition: After Apr-2012, your cover (sum assured) must be at least 10x the premium for the proceeds to stay tax-free.
+</details>
+
+**Q64.** Any sum received on the *death* of the insured person under a life policy is:
+A) Always exempt, regardless of premium-to-sum-assured ratio  B) Taxable if premium exceeds 10% of sum assured  C) Taxed as capital gains  D) Taxable as other sources
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Death proceeds are always exempt; the 10%/20% premium conditions do not apply to death claims.
+- B) Wrong: the premium tests apply to maturity proceeds, never death.
+- C), D) Wrong: death proceeds are not taxed under any head.
+
+Intuition: A death benefit to a family is always protected from tax — no exceptions.
+</details>
+
+**Q65.** A high-value ULIP (issued on/after 01-02-2021) loses 10(10D) exemption when aggregate annual premium exceeds:
+A) Rs. 1,00,000  B) Rs. 2,50,000  C) Rs. 5,00,000  D) Rs. 10,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — ULIPs issued on/after 01-02-2021 lose 10(10D) exemption if the aggregate premium of affected policies exceeds Rs. 2,50,000.
+- A) Wrong: not the stated threshold.
+- C) Wrong: Rs. 5,00,000 is the *endowment* premium threshold (policies on/after 01-04-2023).
+- D) Wrong: not a stated figure.
+
+Intuition: Big-ticket ULIPs (>Rs. 2.5 lakh premium) are treated like investments (capital assets), not pure insurance.
+</details>
+
+**Q66.** The long-term capital gain on an equity-oriented fund within a high-premium ULIP is taxed at:
+A) 20%  B) 12.50%  C) Slab rate  D) Exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Equity-oriented funds within high-premium ULIPs are taxed at the concessional 12.50% for LTCG (long-term period being 1 year).
+- A) Wrong: 20% is the *short-term* rate for such equity-oriented ULIP funds.
+- C) Wrong: slab applies to non-equity ULIP short-term gains.
+- D) Wrong: high-premium ULIP gains are taxable.
+
+Intuition: The equity fund inside the ULIP is taxed like equity — 12.50% LTCG, 20% STCG.
+</details>
+
+**Q67.** For endowment policies taken on/after 01-04-2023, maturity proceeds become taxable as other sources if the aggregate premium during the policy term exceeds:
+A) Rs. 1,50,000  B) Rs. 2,50,000  C) Rs. 5,00,000  D) Rs. 10,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — For endowment policies on/after 01-04-2023, if aggregate premium exceeds Rs. 5,00,000, maturity proceeds are taxable as other sources even if the 10%-of-sum-assured test is met.
+- A) Wrong: Rs. 1.5 lakh is the 80C cap, not this threshold.
+- B) Wrong: Rs. 2.5 lakh is the high-value ULIP threshold.
+- D) Wrong: not the stated figure.
+
+Intuition: After Apr-2023, even a "compliant" big endowment (premium > Rs. 5 lakh) loses its tax-free maturity.
+</details>
+
+**Q68.** The minimum holding periods to avoid claw-back of 80C deductions are:
+A) ULIP 2 years, life policy 5 years  B) ULIP 5 years, life policy 2 years  C) Both 3 years  D) Both 5 years
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — ULIP of UTI/LIC must be held 5 years; a life insurance policy must be held 2 years. Early termination makes earlier deductions taxable.
+- A) Wrong: the periods are reversed.
+- C), D) Wrong: the two products have different periods (5 vs 2).
+
+Intuition: ULIPs (investment-linked) get the longer 5-year lock; plain life policies need only 2 years.
+</details>
+
+**Q69.** A reverse mortgage transaction under a notified scheme is excluded from "transfer" by which provision?
+A) Section 10(43)  B) Section 47(xvi)  C) Section 56(2)(xii)  D) Section 112A
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Section 47(xvi) excludes a notified reverse mortgage from being a "transfer," so no capital gain arises; Section 10(43) then exempts the loan received.
+- A) Wrong: 10(43) exempts the loan amount, but the "not a transfer" rule is 47(xvi).
+- C) Wrong: 56(2)(xii) covers REIT/business-trust distributions.
+- D) Wrong: 112A is the equity LTCG section.
+
+Intuition: 47(xvi) handles the "is it a transfer?" question; 10(43) handles the "is the loan income?" question.
+</details>
+
+**Q70.** Which statement correctly distinguishes SGB *interest* from SGB *capital gains* for an individual holding to maturity?
+A) Both are exempt  B) Both are taxable  C) Interest is taxable as other sources; redemption gain is exempt  D) Interest is exempt; redemption gain is taxable
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — The 2.5% interest is taxable under "Income from other sources" each year, while the capital gain on redemption is exempt (Section 47, individual).
+- A) Wrong: interest is taxable.
+- B) Wrong: the redemption gain is exempt for an individual.
+- D) Wrong: reversed — interest is the taxable part, not the gain.
+
+Intuition: Two cash flows, two treatments: you pay tax on the coupon, but the gold appreciation on redemption is free.
+</details>
+

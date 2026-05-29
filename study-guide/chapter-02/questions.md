@@ -565,3 +565,310 @@ A) USD 1,00,000 per annum  B) USD 2,50,000 per annum  C) USD 5,00,000 per annum 
 **Correct: B)** — Residents may use their LRS entitlement of up to USD 2,50,000 per annum to buy foreign-currency-denominated life insurance policies; these are governed by the foreign country's regulations, so caution is advised.
 A), C) and D) are incorrect LRS limits.
 </details>
+
+## 🔴 Tier 3 — Hard: Numerical & Scenario (Q71–Q100)
+
+**Q71.** Surinder took a 25-year investment-cum-insurance policy with sum assured Rs. 10,00,000, premiums paid half-yearly. After 5 years he stops paying. What is the paid-up sum assured?
+A) Rs. 1,00,000  B) Rs. 2,00,000  C) Rs. 4,00,000  D) Rs. 5,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Formula: Paid-up SA = Sum Assured × (premiums paid ÷ total premiums due). Total premiums = 25 years × 2 (half-yearly) = 50. Paid in 5 years = 5 × 2 = 10. So = 10,00,000 × (10/50) = Rs. 2,00,000.
+A) Rs. 1,00,000 would be 5/50 — wrong premium count. C) and D) overstate the proportion paid. The logic: you keep the share of cover equal to the share of premiums actually paid.
+</details>
+
+**Q72.** A policy has a sum assured of Rs. 12,00,000, term 20 years, premiums paid quarterly. The holder stops after 8 years. What is the paid-up value?
+A) Rs. 4,80,000  B) Rs. 6,00,000  C) Rs. 4,00,000  D) Rs. 9,60,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Total premiums = 20 × 4 = 80. Paid = 8 × 4 = 32. Paid-up SA = 12,00,000 × (32/80) = 12,00,000 × 0.4 = Rs. 4,80,000.
+B) Rs. 6,00,000 wrongly uses 8/16 (annual). C) Rs. 4,00,000 uses the wrong ratio. D) Rs. 9,60,000 = 64/80, mixing up paid vs unpaid.
+</details>
+
+**Q73.** A traditional policy paid total premiums of Rs. 3,00,000 so far. What is the minimum surrender value the policyholder can expect (general minimum, not last-two-years)?
+A) Rs. 30,000  B) Rs. 90,000  C) Rs. 2,10,000  D) Rs. 2,70,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Minimum surrender value = 30% of all premiums paid. = 30% × 3,00,000 = Rs. 90,000.
+A) Rs. 30,000 is 10%, not the rule. C) Rs. 2,10,000 = 70% (single-premium minimum). D) Rs. 2,70,000 = 90% (only in the last two years).
+</details>
+
+**Q74.** A single-premium policy paid Rs. 5,00,000. The holder surrenders within the first three years. What guaranteed surrender value applies (minimum)?
+A) Rs. 1,50,000  B) Rs. 2,50,000  C) Rs. 3,50,000  D) Rs. 4,50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — For single-premium policies, the guaranteed surrender value within the first three years is 70% of total premium. = 70% × 5,00,000 = Rs. 3,50,000.
+A) Rs. 1,50,000 = 30% (the traditional regular-premium minimum). B) Rs. 2,50,000 = 50%, not a defined rate. D) Rs. 4,50,000 = 90%, which only applies in the last two years.
+</details>
+
+**Q75.** An adviser uses the HLV thumb rule for a client earning Rs. 8,00,000 a year with 30 years to retirement, where assumed income growth equals the post-tax return. The HLV is:
+A) Rs. 2,40,00,000  B) Rs. 24,00,000  C) Rs. 80,00,000  D) Rs. 4,80,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — When income growth = return, the discounting rate is 0, so HLV = annual income × years to retirement = 8,00,000 × 30 = Rs. 2,40,00,000.
+B) Rs. 24,00,000 is only 3 years' income. C) Rs. 80,00,000 is 10 years. D) Rs. 4,80,00,000 doubles incorrectly.
+</details>
+
+**Q76.** Using the workbook thumb rule: income Rs. 10,00,000, 27 years to retirement, growth = return. HLV equals:
+A) Rs. 1,00,00,000  B) Rs. 2,70,00,000  C) Rs. 2,70,000  D) Rs. 27,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Rate = 0 → HLV = income × years = 10,00,000 × 27 = Rs. 2,70,00,000 (exactly the workbook figure).
+A) Rs. 1,00,00,000 ignores the multiplier. C) and D) drop zeros / use the wrong multiplier.
+</details>
+
+**Q77.** What adjusted (real) discounting rate results from an 8% investment return and 6% inflation?
+A) 2.00%  B) 1.89%  C) 14.00%  D) 0.75%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Adjusted rate = ((1 + 8%)/(1 + 6%)) − 1 = (1.08/1.06) − 1 = 1.8867% ≈ 1.89%.
+A) 2.00% is the simple subtraction (8 − 6), an approximation, not the exact formula. C) 14% adds the rates. D) 0.75% is unrelated.
+</details>
+
+**Q78.** In Anil's needs analysis, his monthly income is Rs. 1,50,000; personal expenses Rs. 10,000; EMI Rs. 32,000; insurance premium Rs. 25,000. What is the monthly income to be replaced for the family?
+A) Rs. 1,50,000  B) Rs. 1,15,000  C) Rs. 83,000  D) Rs. 67,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Income to replace = Total income − (personal needs + EMI + insurance premium) = 1,50,000 − (10,000 + 32,000 + 25,000) = 1,50,000 − 67,000 = Rs. 83,000/month.
+A) is the gross income, not what the family needs. B) Rs. 1,15,000 forgets some deductions. D) Rs. 67,000 is the deductions total, not the residual.
+</details>
+
+**Q79.** Continuing Anil's case: Rs. 83,000/month income to replace converts to an annual figure of:
+A) Rs. 8,30,000  B) Rs. 9,96,000  C) Rs. 10,00,000  D) Rs. 6,72,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Annual = monthly × 12 = 83,000 × 12 = Rs. 9,96,000.
+A) Rs. 8,30,000 multiplies by 10. C) Rs. 10,00,000 is a rounded guess. D) Rs. 6,72,000 wrongly uses Rs. 56,000.
+</details>
+
+**Q80.** In Anil's case, his wife is 49 and expected to live to 80. The number of years (Nper) over which income must be provided is:
+A) 49  B) 31  C) 80  D) 27
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Nper = 80 − 49 = 31 years.
+A) 49 is the wife's current age. C) 80 is her life expectancy. D) 27 is from a different example (HLV thumb rule).
+</details>
+
+**Q81.** In Anil's case the corpus to generate Rs. 9,96,000/year for 31 years at an adjusted rate of 1.89% (payments at beginning of year) is about Rs. 2,36,43,984. After adding the Rs. 40,00,000 loan and deducting Rs. 1 crore existing cover and Rs. 50 lakh investments, the additional insurance required is:
+A) Rs. 2,36,43,984  B) Rs. 2,76,43,984  C) Rs. 1,26,43,984  D) Rs. 86,43,984
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Total required = corpus 2,36,43,984 + loan 40,00,000 = 2,76,43,984. Deduct existing cover 1,00,00,000 + investments 50,00,000 = 1,50,00,000. Additional cover = 2,76,43,984 − 1,50,00,000 = Rs. 1,26,43,984.
+A) is the corpus alone. B) is the gross total before deductions. D) deducts too much.
+</details>
+
+**Q82.** Why is Anil's Rs. 50 lakh house NOT deducted in the needs-based calculation?
+A) It has no resale value  B) Personal assets like the residence are not sold by the family even after death  C) It is already mortgaged fully  D) Houses cannot be valued
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The residential house (and personal jewellery) are personal assets the family will not want to sell, so they are excluded from the deductible assets.
+A) The house has value; that is not the reason. C) The loan is added separately as a liability. D) Houses can be valued (here Rs. 50 lakh).
+</details>
+
+**Q83.** For a return-of-premium term plan: pure term premium Rs. 9,416/yr, return-of-premium plan Rs. 17,473/yr, 30-year tenure. What is the extra premium (the effective annual investment)?
+A) Rs. 9,416  B) Rs. 17,473  C) Rs. 8,057  D) Rs. 26,889
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Extra premium = 17,473 − 9,416 = Rs. 8,057 per year. This is the amount effectively "invested" to fund the premium refund.
+A) and B) are the individual premiums. D) adds the two premiums instead of subtracting.
+</details>
+
+**Q84.** In the same return-of-premium example, the amount refunded at maturity is "30 times the annual premium." That equals:
+A) Rs. 5,24,190  B) Rs. 2,82,480  C) Rs. 2,41,710  D) Rs. 17,473
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Refund = 30 × annual premium of Rs. 17,473 = Rs. 5,24,190.
+B) Rs. 2,82,480 = 30 × 9,416 (the pure term premium, wrong). C) Rs. 2,41,710 = 30 × 8,057 (extra premium, not the refund). D) is one year's premium.
+</details>
+
+**Q85.** Given extra premium Rs. 8,057/yr (PMT), Nper 30, PV 0, FV −Rs. 5,24,190, payments at beginning, the implied RATE is:
+A) About 4.61% p.a.  B) About 8% p.a.  C) About 0% p.a.  D) About 12% p.a.
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Using Excel's RATE function on these inputs gives 4.61% p.a. — the return the insured earns on the extra premium for choosing return of premium.
+B), C) and D) are not the computed implied return; 4.61% is the workbook figure, usually a poor return.
+</details>
+
+**Q86.** For an endowment example: endowment premium Rs. 3,16,332/yr, pure term Rs. 9,416/yr. What extra premium (PMT) is used to find the implied return?
+A) Rs. 3,16,332  B) Rs. 3,06,916  C) Rs. 9,416  D) Rs. 3,25,748
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Extra premium = 3,16,332 − 9,416 = Rs. 3,06,916 per year (the investment portion).
+A) is the full endowment premium. C) is the protection cost. D) adds the two figures.
+</details>
+
+**Q87.** With extra premium Rs. 3,06,916/yr (PMT), Nper 30, PV 0, FV −Rs. 2,14,00,000, payments at beginning, the implied RATE is about:
+A) 3%  B) 5%  C) 8%  D) 10%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The Excel RATE function returns about 5% p.a. on these inputs — the implied return on the extra premium for choosing the endowment. The workbook notes such returns are typically 3–5% and not guaranteed.
+A), C) and D) are not the computed figure here; 5% is the example result.
+</details>
+
+**Q88.** A client pays an annual ULIP premium of Rs. 3,13,200 with a sum assured of Rs. 1 crore (policy issued before 01.02.2021). Is the maturity value tax-free?
+A) No, because premium exceeds Rs. 2.5 lakh  B) Yes, because the sum assured (Rs. 1 crore) is more than 10 × annual premium  C) No, ULIPs are never tax-free  D) Yes, all ULIPs are tax-free
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For policies before 01.02.2021, the maturity is exempt if sum assured ≥ 10 × annual premium. 10 × 3,13,200 = Rs. 31,32,000, and Rs. 1 crore exceeds this, so it is exempt.
+A) The Rs. 2.5 lakh capital-gains rule applies only to policies on/after 01.02.2021. C) and D) are too absolute.
+</details>
+
+**Q89.** A ULIP is taken on 01.06.2022 with an annual premium of Rs. 4,00,000. How is the maturity proceed taxed?
+A) Fully tax-free  B) As capital gains (premium exceeds Rs. 2.5 lakh, policy after 01.02.2021)  C) As salary  D) As income from other sources
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Under the Finance Act 2021, ULIPs with annual premium above Rs. 2.5 lakh taken on/after 01.02.2021 have maturity proceeds taxed as capital gains. Rs. 4,00,000 > Rs. 2.5 lakh and 01.06.2022 is after the cut-off.
+A) Not tax-free due to the high premium. C) Salary is unrelated. D) "Income from other sources" is the traditional-policy (premium > Rs. 5 lakh) rule, not ULIPs.
+</details>
+
+**Q90.** A traditional (non-ULIP) policy is issued on 01.05.2023 with an annual premium of Rs. 6,00,000. The maturity proceeds are taxed as:
+A) Capital gains  B) Tax-free  C) Income from other sources  D) Business income
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — For traditional policies issued on/after 01.04.2023 with premium above Rs. 5 lakh, maturity proceeds are taxable as "Income from other sources." Premium Rs. 6,00,000 > Rs. 5 lakh and the date qualifies.
+A) Capital gains is the ULIP rule. B) Not tax-free here. D) Business income is unrelated.
+</details>
+
+**Q91.** Mr Jeevan (age 35) needs Rs. 100 lakh cover. Option 1: term premium Rs. 1,100/month + invest Rs. 25,000/month in a mutual fund. What is the combined monthly outgo, and how does Option 2's ULIP premium compare?
+A) Rs. 26,100; equal to the ULIP's Rs. 26,100/month  B) Rs. 25,000; less than the ULIP  C) Rs. 1,100; more than the ULIP  D) Rs. 50,000; double the ULIP
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Option 1 outgo = 1,100 + 25,000 = Rs. 26,100/month, exactly matching Option 2's ULIP premium of Rs. 26,100/month — the comparison is designed to be like-for-like.
+B) ignores the term premium. C) ignores the investment. D) doubles incorrectly.
+</details>
+
+**Q92.** In Mr Jeevan's comparison, a Type II ULIP means that on death before maturity, the beneficiary receives:
+A) Only the fund value  B) Only the sum assured  C) The sum assured PLUS the fund value  D) The higher of sum assured or fund value
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — In a Type II ULIP, on death before maturity the plan pays the sum assured amount PLUS the fund value; on maturity, only the fund value is payable.
+A) and B) describe partial payouts. D) "higher of" is another structure, not Type II.
+</details>
+
+**Q93.** In Option 2 (ULIP), what happens if the monthly premium is not paid within the grace period during the first 5 years?
+A) Nothing changes  B) The entire contract moves to a discontinued policy account and insurance coverage stops  C) The policy becomes paid-up with full cover  D) The investment continues normally
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — In the first 5 years the two contracts are indivisible; non-payment within the grace period moves the entire contract to a discontinued policy account and the insurance coverage stops.
+A) and D) ignore the consequence. C) ULIPs do not become full-cover paid-up here.
+</details>
+
+**Q94.** A 60-year-old wealthy investor wants to put a large lump sum into a ULIP mainly for investment, and does not really need insurance cover. The adviser should note that:
+A) The ULIP is ideal because of guaranteed returns  B) The mortality charge becomes an additional unnecessary cost, and qualifying for 10× cover may be costly/difficult  C) ULIPs have no charges for older investors  D) Insurance is always required regardless of needs
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Where insurance is not required, the ULIP's mortality (insurance) charge is just an extra cost; older wealthy investors often don't need large cover and find the 10× requirement hard/costly to obtain on health grounds.
+A) ULIP returns are market-linked, not guaranteed. C) Charges still apply. D) The workbook stresses cover should be needs-driven.
+</details>
+
+**Q95.** A client buys term insurance for Rs. 8 crore where telescopic rates cap at Rs. 2 crore per insurer. He buys four Rs. 2 crore policies from the same insurer. Five years later his need falls to Rs. 4 crore. What is the practical benefit of this structure?
+A) He must surrender all policies  B) He can simply let two of the four policies lapse, keeping Rs. 4 crore cover  C) He gets a refund of all premiums  D) He must buy a new policy
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Splitting into four Rs. 2 crore policies lets him drop (let lapse) two policies as his need declines, retaining exactly Rs. 4 crore — the flexibility the workbook highlights.
+A) He need not surrender all. C) Term plans give no premium refund. D) No new purchase is needed.
+</details>
+
+**Q96.** An investor takes a bank loan against the security of his investment-cum-insurance policy after a past loan default. Apart from liquidity, what additional benefit does the workbook mention?
+A) It increases the sum assured  B) It is a good way to rebuild a damaged credit score  C) It makes the policy tax-free  D) It waives future premiums
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Taking a loan from a bank/NBFC against the security of an investment-cum-insurance policy is a good way to rebuild a credit score after a past default.
+A), C) and D) are not benefits the workbook attributes to such a loan.
+</details>
+
+**Q97.** A married man buys a MWPA policy naming his wife. He later divorces her and wants to change the nominee to his new spouse. Under the MWP Act:
+A) He can freely change the nominee  B) He cannot change the nominee; the ex-wife continues to be the nominee  C) The policy lapses on divorce  D) The court automatically reassigns it
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Under MWPA, nominees cannot be changed after purchase; even after divorce, the wife continues to be the nominee. This rigidity is a known drawback of MWPA.
+A) contradicts MWPA's core rule. C) Divorce does not lapse the policy. D) There is no automatic court reassignment.
+</details>
+
+**Q98.** A MWPA policy has a survival benefit payable while the insured is alive. Who receives this survival benefit?
+A) The insured person himself  B) The nominees (spouse/children), not the insured  C) The insured's parents  D) The insurer keeps it
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Under MWPA, even survival benefits are paid to the nominees (spouse/children), not to the insured person, who has no right to the amounts under the policy.
+A) The insured cannot claim it. C) Parents cannot be MWPA nominees. D) The insurer pays out, it does not keep the benefit.
+</details>
+
+**Q99.** A client compares a critical illness rider (accelerated sum insured, attached to a term plan) against a standalone critical illness policy from a general insurer. The workbook's "ironic" observation is that:
+A) The standalone policy is always cheaper  B) In most cases the term policy with an equal accelerated critical-illness cover is cheaper than the standalone policy  C) They cost exactly the same  D) Riders are always more expensive
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Ironically, in most cases a term policy with an equal critical-illness cover on an accelerated sum-insured basis is cheaper than just a standalone critical-illness policy from a general insurance company.
+A), C) and D) contradict this observation.
+</details>
+
+**Q100.** An adviser receives a foreign-currency investment-cum-insurance policy proposal bought via LRS. According to the workbook, the correct evaluation order is:
+A) Compare investment returns first, then check cover  B) Cover the protection needs first; only if sufficient, evaluate the investment portion against similar LRS instruments  C) Buy it because it is in foreign currency  D) Reject all foreign policies outright
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Like any investment-cum-insurance product, protection needs must be covered first; only if that is sufficient should the investment portion be risk-profiled, checked for suitability and compared with similar foreign-currency LRS instruments.
+A) reverses the priority. C) ignores suitability and the foreign-regulation caution. D) is too extreme — foreign policies are allowed, just to be used with caution.
+</details>
+
+## 🧩 Case Study
+
+**Scenario — Vikram's Insurance Planning**
+
+Vikram is 40 years old with a monthly income of Rs. 2,00,000. He spends Rs. 15,000/month on personal expenses, pays an EMI of Rs. 40,000/month on a Rs. 50 lakh home loan (current outstanding Rs. 50,00,000), and pays Rs. 20,000/month towards an existing insurance premium. He wants to provide for his wife, currently 45, expected to live to 80. Assume expected inflation is 6% and post-tax return on investments is 8%. His existing life cover is Rs. 80,00,000, he has other investments of Rs. 60,00,000, and his house is worth Rs. 50,00,000. He also asks his adviser to confirm a few rules before he buys a new term plan.
+
+Use the needs-based (income replacement) method. The adjusted rate is ((1+8%)/(1+6%)) − 1 = 1.89%. For a beginning-of-year annuity of Rs. X over n years at 1.89%, assume the present-value factor works out such that the corpus for Rs. 15,00,000/year over 35 years ≈ Rs. 3,84,00,000 (rounded for this exercise).
+
+<details><summary>Q1 — What is the annual income to be replaced for Vikram's family?</summary>
+
+**Step 1 — Identify deductions that stop being a family need:** personal expenses (Rs. 15,000), EMI (Rs. 40,000) and the insurance premium (Rs. 20,000) are amounts that are not part of the income the family needs to live on.
+
+**Step 2 — Monthly income to replace** = Total income − (personal needs + EMI + insurance premium)
+= 2,00,000 − (15,000 + 40,000 + 20,000)
+= 2,00,000 − 75,000 = **Rs. 1,25,000/month.**
+
+**Step 3 — Annualise:** 1,25,000 × 12 = **Rs. 15,00,000 per annum.**
+
+Intuition: insurance must replace only the income the family actually relies on, after removing the earner's own personal spend, the loan EMI (the loan is handled separately) and the premium outgo.
+</details>
+
+<details><summary>Q2 — What is the number of years (Nper) over which income must be provided, and what adjusted rate applies?</summary>
+
+**Nper:** The wife is 45 and is expected to live to 80, so income must be provided for 80 − 45 = **35 years.**
+
+**Adjusted (real) rate:** Formula = ((1 + investment return) / (1 + inflation)) − 1 = ((1 + 8%)/(1 + 6%)) − 1 = (1.08/1.06) − 1 = 1.8867% ≈ **1.89%.**
+
+Intuition: the corpus earns 8% but the family's costs rise at 6%, so the money only "really" grows at the gap of about 1.89%. We discount the future income stream at this real rate. Nper falls (and so does the corpus) as the dependent gets older — which is why insurance need declines with age.
+</details>
+
+<details><summary>Q3 — What corpus is needed to generate Rs. 15,00,000/year for 35 years, and what is the total fund requirement after adding the loan?</summary>
+
+**Step 1 — Corpus:** Using the PV of a beginning-of-year annuity: PV(rate = 1.89%, Nper = 35, PMT = −15,00,000, type = 1). For this exercise the corpus ≈ **Rs. 3,84,00,000.**
+
+This corpus, invested at 8% while expenses rise at 6%, will exactly fund Rs. 15,00,000/year (growing with inflation) for 35 years and be drawn down to zero by the end.
+
+**Step 2 — Add the liability:** The Rs. 50,00,000 outstanding home loan must be repaid, so add it.
+Total funds required = 3,84,00,000 + 50,00,000 = **Rs. 4,34,00,000.**
+
+Intuition: the family needs enough to (a) replace lost income and (b) clear outstanding debts.
+</details>
+
+<details><summary>Q4 — What is the additional life insurance cover Vikram should buy?</summary>
+
+**Step 1 — Identify deductible existing resources:** existing life cover Rs. 80,00,000 + other investments Rs. 60,00,000 = Rs. 1,40,00,000.
+
+**Note — do NOT deduct the house:** the Rs. 50,00,000 residence is a personal asset the family will not sell, so it is excluded.
+
+**Step 2 — Additional cover required** = Total funds required − existing resources
+= 4,34,00,000 − 1,40,00,000 = **Rs. 2,94,00,000.**
+
+Intuition: the new term plan only needs to fill the *gap* between what the family will require and what Vikram has already arranged (cover + investments). The home is left out because it is not a sellable resource for the family.
+</details>
+
+<details><summary>Q5 — Vikram wants the new term plan to last 20 years with an annual premium of Rs. 60,000. (a) What minimum sum assured must IRDAI rules give him? (b) If he prefers a "return of premium" variant, what should the adviser warn?</summary>
+
+**Part (a) — Minimum sum assured:** Vikram is 40 (below 45) and the term (20 years) is more than 10 years. Rule: minimum sum assured = 10 × annual premium = 10 × 60,000 = **Rs. 6,00,000.**
+(Note: this is just the regulatory *minimum*; his actual needs analysis shows he should buy about Rs. 2.94 crore, far above this floor. The 10× rule also keeps maturity proceeds tax-friendly.)
+
+**Part (b) — Return-of-premium warning:** In a return-of-premium variant the premium is much higher; the extra premium is invested by the insurer to refund premiums at the end. The implied return on that extra premium is typically low (about 4.61% p.a. in the workbook example). The adviser should warn that Vikram is effectively earning a poor return on the extra outgo, and a pure term plan plus investing the difference separately is usually better — protection first, investments where they are most efficient.
+
+Intuition: insurance should primarily provide cheap, adequate cover. Bundling a weak "savings" feature (return of premium) into the term plan dilutes that efficiency.
+</details>
+

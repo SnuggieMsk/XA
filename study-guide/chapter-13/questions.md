@@ -319,3 +319,328 @@ A) Fully exempt  B) Treated like a normal redemption (capital gains as usual)  C
 - A) is wrong: it is not exempt.
 - C) and D) are incorrect heads.
 </details>
+
+## 🟡 Tier 2 — Medium: Application (Q36–Q70)
+
+**Q36.** Mr. A holds bonus shares allotted on 01-09-2023 (listed) and sells them on 01-08-2024. The bonus shares are:
+A) Long-term, since original shares were held long  B) Short-term, because held about 11 months from allotment  C) Exempt  D) Long-term, because the company is listed
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The bonus clock runs from allotment (01-09-2023). From 01-09-2023 to 01-08-2024 is about 11 months, which is not more than 12 months, so they are **short-term**.
+- A) is wrong: the original shares' holding does not transfer to bonus shares.
+- C) is wrong: they are taxable.
+- D) is wrong: listing alone does not make a gain long-term; holding period decides.
+</details>
+
+**Q37.** A bonus share (cost nil) is sold for a gain after being held 14 months (listed, STT paid). The gain is taxed under:
+A) Section 111A at 20%  B) Section 112A at 12.50% over Rs. 1,25,000  C) Slab rates  D) Section 115BBH at 30%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Held more than 12 months (listed) = long-term; with STT paid, equity LTCG falls under **Section 112A at 12.50% on the amount over Rs. 1,25,000**.
+- A) 111A is for short-term gains.
+- C) slab rates do not apply to equity LTCG with STT.
+- D) 115BBH is for Virtual Digital Assets.
+</details>
+
+**Q38.** Mr. A acquired 2,000 shares at Rs. 100 each, then the company consolidated 2 shares into 1. After consolidation he holds 1,000 shares. Cost per consolidated share is:
+A) Rs. 100  B) Rs. 200  C) Rs. 50  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Formula: cost per new share = total original cost ÷ number of shares after consolidation. Total cost = 2,000 × Rs. 100 = Rs. 2,00,000; after 2:1 consolidation he has 1,000 shares; Rs. 2,00,000 ÷ 1,000 = **Rs. 200**. Intuition: half the shares, so each carries double the cost.
+- A) Rs. 100 ignores the consolidation.
+- C) Rs. 50 would be a split, not consolidation.
+- D) Nil is for bonus shares.
+</details>
+
+**Q39.** Mr. A bought 1,000 shares at Rs. 150 each; the company split 1 share into 2. After the split he holds 2,000 shares. Cost per split share is:
+A) Rs. 150  B) Rs. 300  C) Rs. 75  D) Rs. 50
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Cost per new share = total cost ÷ shares after split. Total = 1,000 × Rs. 150 = Rs. 1,50,000; after 1:2 split he has 2,000 shares; Rs. 1,50,000 ÷ 2,000 = **Rs. 75**. Intuition: twice the shares, so each carries half the cost.
+- A) ignores the split.
+- B) doubles instead of halving.
+- D) Rs. 50 is the new face value, not the cost.
+</details>
+
+**Q40.** Post-01-10-2024, a company buys back shares from Mr. X for Rs. 62,500 (original cost Rs. 50,000, held over 2 years). How is this treated?
+A) Rs. 12,500 capital gain  B) Rs. 62,500 dividend + Rs. 50,000 long-term capital loss  C) Rs. 62,500 exempt  D) Rs. 62,500 business income
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Under the new rule the full Rs. 62,500 is taxed as **dividend** (no cost deduction), and the Rs. 50,000 cost becomes a **long-term capital loss** (held over 2 years) eligible for set-off.
+- A) is the old "net the gain" approach, no longer applicable.
+- C) the old exemption was withdrawn from 01-10-2024.
+- D) dividend, not business income.
+</details>
+
+**Q41.** In a post-Oct-2024 buyback, the company that buys back the shares:
+A) Pays 20% distribution tax  B) Pays no tax  C) Pays 30% tax  D) Pays dividend distribution tax
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For buybacks on or after 01-10-2024, the **company has no tax liability**; the tax shifts to the shareholder (as dividend).
+- A) is the pre-Oct-2024 company position.
+- C) and D) are not applicable to buybacks now.
+</details>
+
+**Q42.** Mr. Paul renounces his right to buy 500 shares to Mr. X for Rs. 200 per share. His capital gain is:
+A) Rs. 1,00,000 short-term, taxed at slab rate  B) Rs. 1,00,000 long-term at 12.50%  C) Rs. 1,00,000 at 20% under 111A  D) Nil, exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Gain = consideration − cost = (500 × Rs. 200) − nil = **Rs. 1,00,000**, short-term, taxed at Mr. Paul's slab rate (a right is not a listed equity share, so 111A does not apply).
+- B) is wrong: the right is short-term, not long-term.
+- C) is wrong: 111A's 20% does not cover rights.
+- D) is wrong: the gain is taxable.
+</details>
+
+**Q43.** A buyer purchases right shares by paying Rs. 200/share to the renouncer and Rs. 250/share to the company. His cost of acquisition per share is:
+A) Rs. 200  B) Rs. 250  C) Rs. 450  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — For a buyer who acquires rights entitlement from another shareholder, cost = amount paid to renouncer + amount paid to the company = Rs. 200 + Rs. 250 = **Rs. 450**.
+- A) and B) capture only one leg.
+- D) Nil is for the original shareholder's renounced right, not for an exercising buyer.
+</details>
+
+**Q44.** Mr. X bought A Ltd. shares on 01-04-2023; A Ltd. amalgamated into AB Ltd. on 01-08-2024 and he sold AB Ltd. shares on 01-09-2024. The holding period is reckoned from:
+A) 01-08-2024  B) 01-09-2024  C) 01-04-2023  D) The amalgamation announcement date
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — For amalgamation, the holding period of the new shares runs from the **original acquisition date** of the amalgamating-company shares (01-04-2023), making the holding about 17 months (long-term).
+- A) and D) are wrong: amalgamation does not reset the clock.
+- B) is the sale date.
+</details>
+
+**Q45.** A lender earns Rs. 2,00,000 lending fee under SLB and pays Rs. 2,000 transaction charges. Taxable income from lending is:
+A) Rs. 2,00,000  B) Rs. 1,98,000  C) Rs. 2,02,000  D) Nil (not a transfer)
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The fee is taxable (PGBP or Other Sources) and related expenses are deductible: Rs. 2,00,000 − Rs. 2,000 = **Rs. 1,98,000**.
+- A) ignores the deductible expense.
+- C) adds instead of subtracting expenses.
+- D) is wrong: although lending is not a transfer (no capital gain), the fee itself is taxable income.
+</details>
+
+**Q46.** A borrower in SLB sells the borrowed shares. Any gain or loss on that sale is taxable under:
+A) Income from other sources only  B) Capital gains or PGBP, as the case may be  C) Always exempt  D) Salary
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The borrower buys/sells the stock, so gains or losses fall under **capital gains or PGBP**, depending on whether held as investment or stock-in-trade; the lending fee paid is deductible.
+- A) is incomplete.
+- C) is wrong: borrower transactions are taxable.
+- D) is an unrelated head.
+</details>
+
+**Q47.** Mr. X converts 20,000 preference shares (cost Rs. 10 each) into 10,000 equity shares (2:1). On later sale, his cost of acquisition of the equity shares is:
+A) Rs. 2,00,000  B) Rs. 1,00,000  C) Nil  D) FMV at conversion
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Cost carries over from the preference shares: 20,000 × Rs. 10 = **Rs. 2,00,000**. The FMV at conversion is ignored because conversion is not a transfer (47(xb)).
+- B) wrongly divides by the equity count.
+- C) Nil is for bonus shares.
+- D) FMV is not used under the carry-over rule.
+</details>
+
+**Q48.** A mutual fund segregates its portfolio. The cost of acquisition of the segregated units is computed as: total cost ×
+A) (NAV of total portfolio ÷ NAV of segregated asset)  B) (NAV of asset transferred to segregated portfolio ÷ NAV of total portfolio before segregation)  C) (Segregated units ÷ total units)  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Segregated cost = total portfolio cost × (NAV of asset transferred to segregated portfolio ÷ NAV of total portfolio immediately before segregation). It splits the cost in proportion to value moved to the side pocket.
+- A) inverts the ratio.
+- C) uses unit counts instead of NAV.
+- D) is wrong: a cost is assigned, not nil.
+</details>
+
+**Q49.** After segregation, the cost assigned to the segregated units is:
+A) Added to the main portfolio cost  B) Reduced from the main portfolio's cost  C) Ignored  D) Treated as a loss
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The cost allocated to the segregated units is **subtracted from the main portfolio's cost**, so the total cost is simply split between the two, not duplicated.
+- A) would double-count the cost.
+- C) and D) misstate the treatment.
+</details>
+
+**Q50.** When two schemes consolidate, the cost of acquisition of the consolidated units is:
+A) Nil  B) Market value at consolidation  C) The cost of the units in the consolidating scheme  D) Face value
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — The cost carries over: it equals the **cost of the units held in the consolidating scheme**, and the holding period includes the time held there.
+- A), B), D) do not reflect the carry-over rule.
+</details>
+
+**Q51.** A close-ended mutual fund scheme is normally wound up:
+A) Whenever the AMC wishes  B) On expiry of its fixed duration / redemption of units (unless rolled over)  C) Only on SEBI direction  D) Never
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A close-ended scheme is wound up on the **expiry of its fixed duration** on redemption of units, unless it is rolled over for a further period.
+- A) is wrong: there is a defined trigger.
+- C) is only one of the routes for other (open-ended) schemes.
+- D) is incorrect.
+</details>
+
+**Q52.** What percentage of unit-holders passing a resolution can trigger winding up of a mutual fund scheme?
+A) 51%  B) 66%  C) 75%  D) 90%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — A scheme may be wound up if **75%** of the unit-holders pass a resolution to wind it up (other routes: a trustee-opinion event or SEBI direction).
+- A), B), D) are not the prescribed threshold.
+</details>
+
+**Q53.** Mr. Rishabh holds 10,000 shares as stock-in-trade at Rs. 400 each, then the company splits 1:2 (20,000 shares). He sells all at Rs. 207. His business income is:
+A) Rs. 1,40,000  B) Rs. 70,000  C) Rs. 1,40,00,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Post-split cost = Rs. 40,00,000 ÷ 20,000 = Rs. 200/share. Business income = 20,000 × (Rs. 207 − Rs. 200) = **Rs. 1,40,000**.
+- B) halves wrongly.
+- C) ignores the cost subtraction.
+- D) is wrong: there is a Rs. 7/share profit.
+</details>
+
+**Q54.** Which statement about the lender's margin in SLB is correct?
+A) Lender deposits 100% of lending price  B) Lender deposits 25% of the lending price (nil if lent on the transaction date)  C) Lender deposits no margin ever  D) Lender deposits 50%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The lender deposits **25% of the lending price** as margin; if the securities are lent on the transaction date itself, no margin is required.
+- A) 100% is the borrower's requirement.
+- C) and D) misstate the rule.
+</details>
+
+**Q55.** The borrower in SLB is required to deposit:
+A) 25% of the lending price  B) 100% of the lending price plus lending fee and applicable margins  C) Nothing  D) Only the lending fee
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The borrower deposits **100% of the lending price, the lending fee, value-at-risk and extreme-loss margins upfront**, plus daily mark-to-market margin thereafter.
+- A) is the lender's margin.
+- C) and D) understate the borrower's obligation.
+</details>
+
+**Q56.** A right that is exercised gives shares whose holding period is reckoned from:
+A) The offer date  B) The date of allotment of the right shares  C) The renouncement date  D) The original share purchase
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For shares acquired by exercising a right, the holding period runs from the **date of allotment of those right shares**.
+- A) and C) relate to the right itself (renouncement), not the allotted shares.
+- D) applies to splits/mergers/pref-conversions, not exercised rights.
+</details>
+
+**Q57.** If a stock-in-trade holder profits from selling right shares, the gain is taxable as:
+A) Short-term capital gain  B) Business income  C) Long-term capital gain  D) Dividend
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Profits from right shares (or renunciation of a right) when the underlying shares are held as **stock-in-trade** are taxed as **business income**; the cost of a renounced right is deemed nil.
+- A) and C) apply only to capital assets.
+- D) is unrelated.
+</details>
+
+**Q58.** Under the new buyback regime, "no deduction for expenses or cost of acquisition" means:
+A) The shareholder can deduct the cost from the dividend  B) The full proceeds are dividend, and the cost is separately a capital loss  C) Nothing is taxable  D) The cost is added to income
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Against the dividend, no deduction is allowed, so the **entire proceeds are dividend**; the cost of acquisition is dealt with separately as a **capital loss**.
+- A) directly contradicts the rule.
+- C) and D) misstate the treatment.
+</details>
+
+**Q59.** Which of the following is NOT regarded as a "transfer" under the Income Tax Act?
+A) Sale of bonus shares  B) Conversion of preference shares into equity (47(xb))  C) Renouncement of a right  D) Sale of right shares after exercise
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Conversion of preference shares into equity of the same company is specifically **not a transfer** (47(xb)).
+- A), C), D) are all genuine transfers that attract capital gains tax.
+</details>
+
+**Q60.** For a virtual digital asset (VDA), the special tax rate under Section 115BBH is:
+A) 12.50%  B) 20%  C) 30%  D) 60%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Income from the transfer of any Virtual Digital Asset is taxed at a flat **30%** under Section 115BBH.
+- A) and B) are equity LTCG/STCG rates.
+- D) 60% is for undisclosed income under 115BBE.
+</details>
+
+**Q61.** Undisclosed income under Sections 68/69 etc. is taxed under Section 115BBE at:
+A) 30%  B) 40%  C) 60%  D) 20%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Section 115BBE taxes undisclosed/unexplained income (Sections 68, 69, 69A–D) at **60%**.
+- A) is the VDA/online-game rate.
+- B) and D) are not prescribed here.
+</details>
+
+**Q62.** Health and education cess is levied at what rate on income tax plus surcharge?
+A) 2%  B) 3%  C) 4%  D) 5%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Health and education cess is **4%** of (income tax + surcharge).
+- A), B), D) are not the current cess rate.
+</details>
+
+**Q63.** The surcharge on capital gains covered under Sections 111A, 112 and 112A is capped at:
+A) 10%  B) 15%  C) 25%  D) 37%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Surcharge on these capital gains is **capped at 15%** (Nil up to Rs. 50 lakh, 10% from Rs. 50 lakh–1 crore, 15% above Rs. 1 crore).
+- A) is the mid-slab figure only.
+- C) and D) apply to "any other income," not to these capital gains.
+</details>
+
+**Q64.** Under the old tax regime (Individual/HUF), income above Rs. 10,00,000 is taxed at:
+A) 20%  B) 25%  C) 30%  D) 15%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — In the old regime, income above Rs. 10,00,000 is taxed at **30%** (Nil up to Rs. 2,50,000; 5% Rs. 2,50,001–5,00,000; 20% Rs. 5,00,001–10,00,000).
+- A) is the Rs. 5–10 lakh slab rate.
+- B) and D) are not old-regime slab rates.
+</details>
+
+**Q65.** A non-resident's LTCG from transfer of a specified asset purchased in foreign currency is taxed under Section 115E at:
+A) 10%  B) 12.5%  C) 20%  D) 30%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Section 115E taxes a Non-Resident Indian's LTCG from a specified foreign-currency-purchased asset at **12.5%**.
+- A) and C) relate to other 115A/115AC incomes.
+- D) is the VDA rate.
+</details>
+
+**Q66.** For a non-resident, income received in respect of units of specified Mutual Funds/UTI purchased in foreign currency is taxed under Section 115A at:
+A) 5%  B) 10%  C) 20%  D) 30%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Such income is taxed at **20%** under Section 115A.
+- A) 5% applies to certain interest (e.g., 194LD).
+- B) 10% applies to interest on bonds under 115AC, or dividend from an IFSC unit.
+- D) 30% is unrelated here.
+</details>
+
+**Q67.** A non-resident's dividend income (not at a special rate) is generally taxed under Section 115A at 20%, but at what rate if received from a unit in an IFSC?
+A) 5%  B) 10%  C) 15%  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Dividend received from a unit in an IFSC is taxed at **10%** under Section 115A; otherwise the rate is 20%.
+- A), C), D) are not the prescribed IFSC dividend rate.
+</details>
+
+**Q68.** Which best describes the benefit of SLB to the lender?
+A) Avoiding settlement failure  B) Earning incremental return (lending fee) on an idle portfolio  C) Covering a short position  D) Arbitrage between spot and futures
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For a lender, SLB provides **incremental return (lending fee) on an otherwise idle portfolio** — useful for long-term holdings such as mutual funds.
+- A), C), D) are benefits to the **borrower**, not the lender.
+</details>
+
+**Q69.** When a mutual fund scheme is "shut" (newspaper notice given), the trustees/AMC must:
+A) Continue redeeming units  B) Cease creating, cancelling, issuing or redeeming units  C) Immediately distribute assets  D) Convert it into a close-ended scheme
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — From the date of publication, the trustee/AMC must **cease carrying on business, and cease creating, cancelling, issuing or redeeming units** of the scheme.
+- A) directly contradicts the rule.
+- C) happens later, after disposing of assets and paying liabilities.
+- D) is not part of winding up.
+</details>
+
+**Q70.** In a winding up, the sale proceeds of the scheme's assets are used FIRST to:
+A) Pay unit-holders  B) Discharge liabilities due and payable, then meet winding-up expenses  C) Pay the AMC fees only  D) Buy new securities
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Proceeds are **first used to discharge liabilities due and payable**, then to provide for winding-up expenses; only the **balance** is paid to unit-holders in proportion to their interest.
+- A) happens last (the balance).
+- C) and D) are incorrect.
+</details>

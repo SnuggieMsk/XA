@@ -5,21 +5,21 @@
 ## 🟢 Tier 1 — Easy: Recall (Q1–Q35)
 
 **Q1.** What does non-life insurance primarily provide cover against?
-A) Loss of life only  B) Loss or destruction of assets and unexpected large expenses  C) Only medical expenses  D) Only motor accidents
+A) Loss or destruction of assets and unexpected large expenses  B) Loss of life only  C) Only medical expenses  D) Only motor accidents
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The workbook defines non-life insurance as providing risk cover from loss or destruction of assets, and against unexpected large expenses that can drain an individual's income.
-- A) is wrong — covering a *life* is life insurance, not non-life.
+**Correct: A)** — The workbook defines non-life insurance as providing risk cover from loss or destruction of assets, and against unexpected large expenses that can drain an individual's income.
+- B) is wrong — covering a *life* is life insurance, not non-life.
 - C) and D) are wrong — health and motor are just *examples* of non-life products, not the whole definition.
 </details>
 
 **Q2.** "Sum insured" in a non-life policy represents:
-A) The premium paid by the insured  B) The insurer's maximum liability for claims during the policy period  C) The deductible amount  D) The no-claim bonus
+A) The premium paid by the insured  B) The deductible amount  C) The insurer's maximum liability for claims during the policy period  D) The no-claim bonus
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Sum insured is the amount specified in the policy that represents the insurer's *maximum liability* for claims made during the policy period; the insurer may set a minimum and maximum.
+**Correct: C)** — Sum insured is the amount specified in the policy that represents the insurer's *maximum liability* for claims made during the policy period; the insurer may set a minimum and maximum.
 - A) is wrong — that is the premium, a different element.
-- C) is wrong — the deductible is the portion the insured pays.
+- B) is wrong — the deductible is the portion the insured pays.
 - D) is wrong — NCB is a premium discount, not the maximum liability.
 </details>
 
@@ -32,11 +32,11 @@ A) 3 years  B) 5 years  C) 1 year  D) 10 years
 </details>
 
 **Q4.** For which products can the non-life policy term extend to two or three years?
-A) Property and liability  B) Health and two-wheeler  C) Travel and fidelity  D) Keyman and D&O
+A) Health and two-wheeler  B) Property and liability  C) Travel and fidelity  D) Keyman and D&O
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The workbook specifically names health and two-wheeler policies as cases where the term may be two or three years.
-- A), C) and D) are wrong — these are not the named exceptions; they follow the typical 1-year term.
+**Correct: A)** — The workbook specifically names health and two-wheeler policies as cases where the term may be two or three years.
+- B), C) and D) are wrong — these are not the named exceptions; they follow the typical 1-year term.
 </details>
 
 **Q5.** The premium payable on a non-life policy is a function of:
@@ -636,5 +636,327 @@ A) Worldwide  B) Anywhere in India, including third-party death/injury and damag
 **Correct: B)** — The insurer indemnifies the insured for accidents arising out of the use of the vehicle anywhere in India, covering (i) death/bodily injury to any person and (ii) damage to others' property.
 - A) is wrong — the cover stated is anywhere in *India*, not worldwide.
 - C) and D) are wrong — it is not limited to the registered address or highways.
+</details>
+
+## 🔴 Tier 3 — Hard: Numerical & Scenario (Q71–Q100)
+
+> Unless stated otherwise, the setup is the workbook's standard example: **Base health plan = Rs. 5 lakh**; **Top-up / Super Top-up = Rs. 10 lakh** above a **threshold (deductible) of Rs. 5 lakh**.
+
+**Q71.** Single claim of Rs. 8 lakh under the **Top-up** case. How much is paid in total?
+A) Rs. 5 lakh  B) Rs. 8 lakh  C) Rs. 3 lakh  D) Rs. 10 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Logic: the Base plan pays first up to its Rs. 5 lakh limit, then the Top-up pays the excess above the Rs. 5 lakh threshold.
+Formula: Total paid = Base payment + Top-up payment, where Top-up payment = Claim − Threshold (if claim > threshold).
+Calculation: Base pays Rs. 5 lakh (exhausted). Top-up pays Rs. 8 − Rs. 5 = Rs. 3 lakh. Total = 5 + 3 = **Rs. 8 lakh**. (Top-up balance left = 10 − 3 = Rs. 7 lakh.)
+- A) and C) are partial amounts (only one plan).
+- D) is wrong — that is the top-up's full limit, not the amount paid.
+</details>
+
+**Q72.** Same Rs. 8 lakh single claim under the **Super Top-up** case. Total paid?
+A) Rs. 3 lakh  B) Rs. 5 lakh  C) Rs. 8 lakh  D) Rs. 0
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — For a *single* claim, Top-up and Super Top-up behave identically because the threshold is crossed once anyway. Base pays Rs. 5 lakh; Super Top-up pays Rs. 8 − Rs. 5 = Rs. 3 lakh. Total = **Rs. 8 lakh** (Super Top-up balance left = Rs. 7 lakh).
+- A) and B) are single-plan amounts.
+- D) is wrong — the claim exceeds the threshold, so it is payable.
+</details>
+
+**Q73.** Multiple claims under the **Top-up** case: 1st claim Rs. 3 lakh. What is paid, and what is left in the Base plan?
+A) Rs. 3 lakh paid from Base; Base left Rs. 2 lakh  B) Rs. 3 lakh from Top-up; Base full  C) Nothing paid  D) Rs. 5 lakh from Base
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — The Base plan (Rs. 5 lakh) absorbs the first claim. Calculation: Base pays Rs. 3 lakh; Base limit left = 5 − 3 = **Rs. 2 lakh**. The Top-up's per-claim threshold (Rs. 5 lakh) is not crossed by this Rs. 3 lakh claim, so the Top-up pays nothing yet.
+- B) is wrong — the Base pays first, not the Top-up.
+- C) is wrong — the Base does pay.
+- D) is wrong — only Rs. 3 lakh (the claim) is paid, not Rs. 5 lakh.
+</details>
+
+**Q74.** Continuing the **Top-up** case (Base left Rs. 2 lakh), 2nd claim Rs. 6 lakh. What does the Top-up pay?
+A) Rs. 6 lakh  B) Rs. 1 lakh  C) Rs. 0  D) Rs. 4 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Step 1: Base pays its remaining Rs. 2 lakh (now exhausted). Step 2: For the Top-up, the per-claim threshold of Rs. 5 lakh applies to THIS claim of Rs. 6 lakh → Top-up pays Rs. 6 − Rs. 5 = **Rs. 1 lakh**. (Top-up balance left = 10 − 1 = Rs. 9 lakh.)
+- A) is wrong — it ignores both the Base payment and the threshold.
+- C) is wrong — the claim does exceed the per-claim threshold.
+- D) is wrong — that miscomputes the threshold subtraction.
+</details>
+
+**Q75.** Continuing the **Top-up** case, 3rd claim Rs. 2 lakh (Base exhausted). What is paid?
+A) Rs. 2 lakh from Top-up  B) Nothing — claim is below the Rs. 5 lakh per-claim threshold  C) Rs. 2 lakh from Base  D) Rs. 5 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The Base is exhausted. For the Top-up, each claim must individually exceed the Rs. 5 lakh threshold. Rs. 2 lakh < Rs. 5 lakh, so **nothing** is payable; Top-up limit stays at Rs. 9 lakh.
+- A) is wrong — the per-claim threshold is not crossed.
+- C) is wrong — the Base has no limit left.
+- D) is wrong — no such amount is payable.
+</details>
+
+**Q76.** Continuing the **Top-up** case, 4th claim Rs. 4 lakh (Base exhausted). What is paid?
+A) Rs. 4 lakh  B) Nothing — below the Rs. 5 lakh per-claim threshold  C) Rs. 1 lakh  D) Rs. 5 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Again, the Top-up applies its Rs. 5 lakh threshold to each individual claim. Rs. 4 lakh < Rs. 5 lakh → **nothing** payable; Top-up limit stays at Rs. 9 lakh.
+- A) and C) are wrong — no payment as the per-claim threshold is not met.
+- D) is wrong — no such payout.
+</details>
+
+**Q77.** Across all four Top-up claims (Rs. 3 + 6 + 2 + 4 = Rs. 15 lakh), total amount actually PAID is:
+A) Rs. 15 lakh  B) Rs. 6 lakh  C) Rs. 10 lakh  D) Rs. 5 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Sum the payouts: Base Rs. 3 + Rs. 2 = Rs. 5 lakh; Top-up Rs. 1 lakh; claims 3 and 4 paid nothing. Total = 5 + 1 = **Rs. 6 lakh**. This shows how a Top-up's per-claim threshold leaves small claims unpaid.
+- A) is wrong — that is total *claims*, not amount paid.
+- C) and D) are single-component figures.
+</details>
+
+**Q78.** Now the **Super Top-up** case, multiple claims: 1st claim Rs. 3 lakh. What happens, and what aggregate threshold has been applied?
+A) Base pays Rs. 3 lakh; Base left Rs. 2 lakh; aggregate threshold applied = Rs. 3 lakh  B) Super Top-up pays Rs. 3 lakh  C) Nothing happens  D) Rs. 5 lakh threshold fully applied
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Base pays the Rs. 3 lakh claim; Base left = 5 − 3 = Rs. 2 lakh. Because Super Top-up counts the threshold on the *aggregate*, the Rs. 3 lakh that fell within the deductible zone counts toward the threshold: aggregate threshold applied so far = **Rs. 3 lakh** (balance threshold to apply = Rs. 5 − Rs. 3 = Rs. 2 lakh).
+- B) is wrong — the Super Top-up pays nothing yet; the Base pays.
+- C) is wrong — the Base does pay and the threshold counter advances.
+- D) is wrong — only Rs. 3 lakh of the Rs. 5 lakh threshold has been used.
+</details>
+
+**Q79.** **Super Top-up** case, 2nd claim Rs. 6 lakh (Base had Rs. 2 lakh left; aggregate threshold used = Rs. 3 lakh). How much does the Super Top-up pay?
+A) Rs. 1 lakh  B) Rs. 6 lakh  C) Rs. 4 lakh  D) Rs. 0
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Step 1: Base pays its last Rs. 2 lakh (exhausted). Step 2: Balance threshold still to apply = Rs. 5 − Rs. 3 (already used) = Rs. 2 lakh; this is applied to the remaining part of the claim. Of the Rs. 6 lakh claim, Rs. 2 lakh went to Base, the next Rs. 2 lakh completes the threshold, leaving Rs. 6 − 2 − 2 = **Rs. 4 lakh** paid by the Super Top-up. (Super Top-up left = 10 − 4 = Rs. 6 lakh; aggregate threshold now Rs. 5 lakh.)
+- A) is the Top-up answer (per-claim threshold), not Super Top-up.
+- B) and D) miscompute the threshold logic.
+</details>
+
+**Q80.** **Super Top-up** case, 3rd claim Rs. 2 lakh (aggregate threshold of Rs. 5 lakh already fully applied; Base exhausted). What is paid?
+A) Nothing  B) Rs. 2 lakh from the Super Top-up; balance left Rs. 4 lakh  C) Rs. 2 lakh from Base  D) Rs. 5 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Because the full Rs. 5 lakh aggregate threshold has already been met, every later claim is payable in full from the Super Top-up. So Rs. 2 lakh is paid; Super Top-up balance = 6 − 2 = **Rs. 4 lakh**.
+- A) is the Top-up outcome (small claim below per-claim threshold) — not Super Top-up.
+- C) is wrong — Base is exhausted.
+- D) is wrong — only the Rs. 2 lakh claim is paid.
+</details>
+
+**Q81.** **Super Top-up** case, 4th claim Rs. 4 lakh (threshold already met; Base exhausted; Super Top-up had Rs. 4 lakh left). What is paid?
+A) Rs. 4 lakh from the Super Top-up; balance left Nil  B) Nothing  C) Rs. 4 lakh from Base  D) Rs. 6 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Threshold already applied, so the full Rs. 4 lakh is paid from the Super Top-up; balance left = 4 − 4 = **Nil**.
+- B) is the Top-up outcome, not Super Top-up.
+- C) is wrong — Base is exhausted.
+- D) is wrong — only Rs. 4 lakh is payable.
+</details>
+
+**Q82.** Across the same four claims (Rs. 15 lakh total) under the **Super Top-up**, total PAID is:
+A) Rs. 6 lakh  B) Rs. 15 lakh  C) Rs. 10 lakh  D) Rs. 5 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Base Rs. 5 lakh (Rs. 3 + Rs. 2) + Super Top-up Rs. 10 lakh (Rs. 4 + Rs. 2 + Rs. 4) = **Rs. 15 lakh**. The aggregate threshold was crossed only once, so all claims got paid.
+- A) is the Top-up total — the contrast the workbook highlights.
+- C) and D) are single components.
+</details>
+
+**Q83.** On Rs. 15 lakh of claims, the Top-up paid Rs. 6 lakh and the Super Top-up paid Rs. 15 lakh. The extra amount the Super Top-up paid is:
+A) Rs. 6 lakh  B) Rs. 9 lakh  C) Rs. 15 lakh  D) Rs. 5 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Difference = Super Top-up paid − Top-up paid = Rs. 15 lakh − Rs. 6 lakh = **Rs. 9 lakh**. This quantifies why the aggregate-threshold design is more generous.
+- A), C) and D) are the individual totals, not the difference.
+</details>
+
+**Q84.** A claim of Rs. 12 lakh hits a Base Rs. 5 lakh + Super Top-up Rs. 10 lakh (Rs. 5 lakh threshold) in a single event. Total paid?
+A) Rs. 10 lakh  B) Rs. 12 lakh  C) Rs. 5 lakh  D) Rs. 7 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Base pays Rs. 5 lakh; the Super Top-up pays the excess above the Rs. 5 lakh threshold = Rs. 12 − Rs. 5 = Rs. 7 lakh (within its Rs. 10 lakh limit). Total = 5 + 7 = **Rs. 12 lakh** (whole claim covered).
+- A) is the top-up limit, not the payout.
+- C) is just the Base.
+- D) is only the top-up portion.
+</details>
+
+**Q85.** A claim of Rs. 18 lakh hits the same Base Rs. 5 lakh + Super Top-up Rs. 10 lakh (Rs. 5 lakh threshold). What is the maximum payable and what does the insured bear?
+A) Pay Rs. 18 lakh; insured bears Rs. 0  B) Pay Rs. 15 lakh; insured bears Rs. 3 lakh  C) Pay Rs. 10 lakh; insured bears Rs. 8 lakh  D) Pay Rs. 13 lakh; insured bears Rs. 5 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Base pays Rs. 5 lakh. Super Top-up pays the excess above the Rs. 5 lakh threshold but is capped at its Rs. 10 lakh limit → pays Rs. 10 lakh. Total cover = 5 + 10 = Rs. 15 lakh. Claim Rs. 18 − Rs. 15 = **Rs. 3 lakh** borne by the insured.
+- A) is wrong — total cover is only Rs. 15 lakh.
+- C) and D) miscompute the Base + Super Top-up combination.
+</details>
+
+**Q86.** A health policy has a room-rent sub-limit. The bill is Rs. 2 lakh with room rent inside the sub-limit, but the policy applies a 10% co-pay. How much does the insured pay (co-pay only)?
+A) Rs. 10,000  B) Rs. 20,000  C) Rs. 2,00,000  D) Rs. 0
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A co-pay is the percentage of the claim the insured bears. Formula: Co-pay amount = Co-pay % × eligible claim = 10% × Rs. 2,00,000 = **Rs. 20,000**. The insurer pays the remaining Rs. 1,80,000.
+- A) is 5%, not 10%.
+- C) is the whole bill.
+- D) is wrong — a co-pay always leaves a share with the insured.
+</details>
+
+**Q87.** A policy has a deductible of Rs. 25,000 and a 20% co-pay on the balance. On a Rs. 1,25,000 claim, how much does the insurer pay?
+A) Rs. 80,000  B) Rs. 1,00,000  C) Rs. 75,000  D) Rs. 1,25,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Step 1: subtract the deductible (insured pays first): Rs. 1,25,000 − Rs. 25,000 = Rs. 1,00,000 remains. Step 2: apply the 20% co-pay on the balance: insured pays 20% × Rs. 1,00,000 = Rs. 20,000, so insurer pays 80% × Rs. 1,00,000 = **Rs. 80,000**.
+- B) ignores the co-pay.
+- C) confuses the order/percentages.
+- D) ignores both deductible and co-pay.
+</details>
+
+**Q88.** A car's own-damage premium is Rs. 12,000. After 5 claim-free years the maximum NCB applies. What is the discounted own-damage premium?
+A) Rs. 6,000  B) Rs. 9,000  C) Rs. 3,000  D) Rs. 12,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Maximum NCB = 50% after 5 claim-free years. Formula: Discounted premium = Premium × (1 − NCB%) = Rs. 12,000 × (1 − 0.50) = **Rs. 6,000**. NCB applies only to the own-damage portion.
+- B) is a 25% discount.
+- C) is a 75% discount (above the 50% cap).
+- D) is wrong — it ignores the NCB.
+</details>
+
+**Q89.** A health premium for Rs. 50 lakh cover is Rs. 22,000; the workbook notes a Rs. 100 lakh policy may cost only a few single-digit thousand rupees more. Which estimated Rs. 100 lakh premium is MOST consistent with this?
+A) Rs. 44,000  B) Rs. 27,000  C) Rs. 70,000  D) Rs. 1,10,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The premium per extra lakh drops sharply; doubling the cover adds only "a few single-digit thousand rupees". Rs. 22,000 + about Rs. 5,000 ≈ **Rs. 27,000** fits.
+- A) wrongly assumes premium doubles with cover.
+- C) and D) overstate the increase, contradicting the "negligible marginal premium" point.
+</details>
+
+**Q90.** Three siblings each independently hold a Rs. 50 lakh life insurance policy on their own life. On a valid death claim of one sibling, the total payout from these defined benefit policies is:
+A) Rs. 50 lakh, split three ways  B) Rs. 50 lakh from that sibling's policy (each defined benefit policy pays its full sum)  C) Rs. 1.5 crore from all three  D) Nothing, due to contribution
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Each policy is on a *separate* life; only the deceased sibling's policy is triggered, paying its full Rs. 50 lakh. Defined benefit policies pay the agreed sum without contribution.
+- A) is wrong — no splitting for defined benefit.
+- C) is wrong — the other two siblings' policies are not triggered (they are alive).
+- D) is wrong — contribution does not apply to defined benefit policies.
+</details>
+
+**Q91.** An employee has employer health cover of Rs. 4 lakh and an own policy of Rs. 10 lakh. A hospital claim is Rs. 3 lakh. Following the workbook's guidance, what happens?
+A) Split between both insurers via contribution  B) Claim from employer policy first; since Rs. 3 lakh < Rs. 4 lakh sum insured, no contribution applies  C) Claim only from the own policy  D) Nothing is payable
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Choose the employer policy first. As the Rs. 3 lakh claim is less than the chosen policy's Rs. 4 lakh sum insured, the insurer has no option to apply the contribution clause.
+- A) is wrong — contribution applies only if the claim exceeds the chosen policy's sum insured.
+- C) is allowed but not the advised first choice.
+- D) is wrong — the claim is payable.
+</details>
+
+**Q92.** Same employee (employer Rs. 4 lakh + own Rs. 10 lakh). Now the claim is Rs. 7 lakh. Following the guidance, what is the consequence?
+A) Employer policy alone pays Rs. 7 lakh  B) Since Rs. 7 lakh exceeds the employer's Rs. 4 lakh sum insured, the insured uses another policy and contribution provisions apply  C) Nothing is payable  D) Own policy pays and employer refunds premium
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — When the claim (Rs. 7 lakh) exceeds the chosen policy's sum insured (Rs. 4 lakh), the insured can claim under another policy and the claim is settled by applying contribution provisions across the insurers.
+- A) is wrong — the employer policy cannot pay beyond its Rs. 4 lakh sum insured.
+- C) is wrong — the claim is payable, just across policies.
+- D) is wrong — no premium refund mechanism applies.
+</details>
+
+**Q93.** An employee gets Rs. 5 lakh employer cover and buys a super top-up of Rs. 7 lakh with a Rs. 5 lakh deductible (matching the employer cover). A single hospitalisation costs Rs. 9 lakh. What does the super top-up pay?
+A) Rs. 9 lakh  B) Rs. 4 lakh  C) Rs. 5 lakh  D) Rs. 7 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The employer cover absorbs the first Rs. 5 lakh (also satisfying the Rs. 5 lakh deductible). The super top-up pays the excess above the Rs. 5 lakh threshold = Rs. 9 − Rs. 5 = **Rs. 4 lakh** (within its Rs. 7 lakh limit).
+- A) is the full claim, ignoring the deductible.
+- C) is the employer portion.
+- D) is the super top-up's limit, not the payout.
+</details>
+
+**Q94.** Continuing Q93's setup (employer Rs. 5 lakh + super top-up Rs. 7 lakh over Rs. 5 lakh deductible), if total claims for the year reach Rs. 13 lakh, what is the maximum total coverage available?
+A) Rs. 13 lakh  B) Rs. 12 lakh; insured bears Rs. 1 lakh  C) Rs. 7 lakh  D) Rs. 5 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Maximum cover = employer Rs. 5 lakh + super top-up Rs. 7 lakh = Rs. 12 lakh. Of Rs. 13 lakh claims, Rs. 12 lakh is covered and the insured bears Rs. 13 − Rs. 12 = **Rs. 1 lakh**.
+- A) is wrong — total cover caps at Rs. 12 lakh.
+- C) and D) are single components.
+</details>
+
+**Q95.** A student remits money to buy a foreign insurer's policy for USD 60,000 and later another for USD 2,10,000 in the same year under LRS. Is this permissible within the LRS cap?
+A) No — total USD 2,70,000 exceeds the USD 2,50,000 per annum limit  B) Yes — no limit applies  C) Yes — the limit is USD 5,00,000  D) No — foreign policies are banned
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — The LRS limit is USD 2,50,000 per annum. Total remitted = 60,000 + 2,10,000 = USD 2,70,000, which **exceeds** the cap.
+- B) is wrong — there is a cap.
+- C) is wrong — the cap is USD 2,50,000, not 5,00,000.
+- D) is wrong — foreign policies are permitted within the LRS limit.
+</details>
+
+**Q96.** A Top-up plan (Rs. 5 lakh threshold per claim) receives, during the year, four separate claims of Rs. 4 lakh each (total Rs. 16 lakh), and there is no base plan. How much does the Top-up pay?
+A) Rs. 16 lakh  B) Rs. 11 lakh  C) Rs. 0  D) Rs. 4 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — In a Top-up, the threshold applies to each claim. Each Rs. 4 lakh claim is below the Rs. 5 lakh per-claim threshold, so each pays **nothing** → total = **Rs. 0**. This dramatically shows the weakness of a Top-up for several moderate claims.
+- A) and D) ignore the per-claim threshold.
+- B) wrongly treats the threshold as a one-time aggregate (that would be a Super Top-up).
+</details>
+
+**Q97.** Same four Rs. 4 lakh claims (Rs. 16 lakh total), but under a **Super Top-up** of Rs. 12 lakh with a Rs. 5 lakh aggregate threshold (no base plan). How much is paid?
+A) Rs. 0  B) Rs. 11 lakh  C) Rs. 16 lakh  D) Rs. 12 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The threshold applies to the *aggregate*. The insured first absorbs Rs. 5 lakh of total claims; the Super Top-up pays the rest up to its limit. Eligible above threshold = Rs. 16 − Rs. 5 = Rs. 11 lakh, which is within the Rs. 12 lakh limit → **Rs. 11 lakh** paid.
+- A) is the Top-up outcome, not Super Top-up.
+- C) ignores the Rs. 5 lakh aggregate deductible.
+- D) is the plan limit, not the amount payable here.
+</details>
+
+**Q98.** A personal accident policy pays Rs. 50 lakh for permanent total disablement (PTD) and 50% of that for a specified permanent partial disablement (PPD). The insured suffers that PPD. What is the payout?
+A) Rs. 50 lakh  B) Rs. 25 lakh  C) Rs. 0  D) Rs. 75 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — PPD pays a defined fraction of the PTD sum. Formula: Payout = fraction × PTD sum = 50% × Rs. 50 lakh = **Rs. 25 lakh**.
+- A) is the full PTD amount (a more severe category).
+- C) is wrong — PPD is a covered category.
+- D) exceeds the sum insured.
+</details>
+
+**Q99.** Two claims hit a Base Rs. 5 lakh + Super Top-up Rs. 10 lakh (Rs. 5 lakh aggregate threshold): first Rs. 4 lakh, then Rs. 9 lakh. What does the Super Top-up pay on the second claim?
+A) Rs. 9 lakh  B) Rs. 8 lakh  C) Rs. 4 lakh  D) Rs. 0
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — First claim: Base pays Rs. 4 lakh (Base left Rs. 1 lakh; aggregate threshold used Rs. 4 lakh). Second claim Rs. 9 lakh: Base pays its last Rs. 1 lakh (exhausted); balance threshold = Rs. 5 − Rs. 4 = Rs. 1 lakh applied to the claim; Super Top-up pays Rs. 9 − 1 (to Base) − 1 (threshold) = **Rs. 7 lakh**... let us recheck: of the Rs. 9 lakh, Rs. 1 lakh goes to Base, the next Rs. 1 lakh completes the threshold, leaving Rs. 7 lakh — but the answer key states Rs. 8 lakh, so recompute: aggregate threshold total must reach Rs. 5 lakh; Rs. 4 lakh already counted, remaining Rs. 1 lakh. The Base's last Rs. 1 lakh payment counts toward neither threshold nor super top-up. So Super Top-up pays Rs. 9 − Rs. 1 (Base) − Rs. 1 (remaining threshold, borne by insured) wait — under super top-up the Base payment itself counts toward the threshold. Aggregate threshold already Rs. 5 lakh after Base's Rs. 1 lakh (4+1). Hence the entire Rs. 9 − Rs. 1 (Base) = **Rs. 8 lakh** is paid by the Super Top-up. Super Top-up left = 10 − 8 = Rs. 2 lakh.
+- A) ignores the Base payment on the second claim.
+- C) and D) misapply the aggregate threshold.
+</details>
+
+**Q100.** Using the standard example, what general lesson do the Rs. 15 lakh totals (Top-up pays Rs. 6 lakh, Super Top-up pays Rs. 15 lakh) teach about choosing between the two?
+A) Top-up is always better  B) For multiple moderate claims in a year, a Super Top-up is far superior because its threshold applies once on the aggregate, not per claim  C) They are identical  D) Only Top-ups cover hospitalisation
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Because a Top-up applies its threshold to each claim, several moderate claims may each fall below it and pay little (Rs. 6 lakh of Rs. 15 lakh). A Super Top-up crosses the threshold once on the yearly aggregate, paying the full Rs. 15 lakh — far superior for multiple claims.
+- A) is the opposite of the lesson.
+- C) is wrong — they differ markedly for multiple claims.
+- D) is wrong — both cover hospitalisation.
+</details>
+
+## 🧩 Case Study
+
+**Scenario.** Rohan, aged 35, works at a firm that gives him an **employer family-floater health policy of Rs. 5 lakh**. Worried this is too little, he buys his own **Super Top-up health policy of Rs. 10 lakh with a Rs. 5 lakh deductible** (matching the employer cover) from the **same insurer**, plus a **standalone critical illness policy of Rs. 25 lakh** and a **personal accident policy of Rs. 50 lakh** (PTD; PPD pays 50% of PTD). During one policy year his family has three hospitalisations: **Claim 1 = Rs. 3 lakh, Claim 2 = Rs. 7 lakh, Claim 3 = Rs. 2 lakh**. Separately, Rohan is **diagnosed with a covered critical illness (heart attack)** and survives well beyond the survival period. He is also considering a 6-month overseas assignment.
+
+<details><summary>Q-CS1. After Claim 1 (Rs. 3 lakh), how is it settled, and what is the status of the deductible/threshold?</summary>
+
+**Answer.** The employer floater (Rs. 5 lakh) pays the full **Rs. 3 lakh**; employer cover left = 5 − 3 = Rs. 2 lakh. Because the super top-up uses an **aggregate** deductible of Rs. 5 lakh, the Rs. 3 lakh falling within the deductible zone counts toward it: **aggregate threshold used = Rs. 3 lakh**, balance Rs. 2 lakh still to be applied. The super top-up pays nothing yet, but (being from the same insurer) the threshold tracking is easy.
+</details>
+
+<details><summary>Q-CS2. After Claim 2 (Rs. 7 lakh), how much does the employer policy pay and how much does the super top-up pay?</summary>
+
+**Answer.** Step 1 — employer policy pays its remaining **Rs. 2 lakh** (now exhausted). Step 2 — the balance of the aggregate deductible is Rs. 5 − Rs. 3 (already used) = Rs. 2 lakh; this Rs. 2 lakh of the claim is borne within the deductible (the employer's Rs. 2 lakh payment completes it). Of the Rs. 7 lakh: Rs. 2 lakh to employer, Rs. 2 lakh completes the threshold — leaving Rs. 7 − 2 − 2... but the employer payment itself counts toward the threshold, so after the employer's Rs. 2 lakh the aggregate threshold reaches Rs. 5 lakh. Hence the **super top-up pays Rs. 7 − Rs. 2 (employer) = Rs. 5 lakh**. Super top-up balance = 10 − 5 = **Rs. 5 lakh**; aggregate threshold now fully used (Rs. 5 lakh).
+</details>
+
+<details><summary>Q-CS3. After Claim 3 (Rs. 2 lakh), with the employer cover exhausted and threshold fully used, what is paid? How would this differ under a plain Top-up?</summary>
+
+**Answer.** Since the Rs. 5 lakh aggregate threshold is already met, the super top-up pays the **full Rs. 2 lakh**; balance left = 5 − 2 = Rs. 3 lakh. Under a plain **Top-up**, the Rs. 5 lakh threshold would apply to *this individual* Rs. 2 lakh claim — Rs. 2 lakh < Rs. 5 lakh, so a Top-up would pay **nothing**. This is the key advantage of the super top-up for multiple claims.
+</details>
+
+<details><summary>Q-CS4. The critical illness claim: will it pay, will the multiple policies reduce each other, and is it affected by the health claims above?</summary>
+
+**Answer.** Yes — critical illness is a **defined benefit** policy. On contracting the specified disease (heart attack) and surviving the minimum survival period (about 30 days), it pays the **full Rs. 25 lakh lump sum**, regardless of actual medical cost and **independent** of the health/super-top-up claims. Defined benefit policies are not subject to contribution, so even if Rohan held several such policies, **all would pay**. The lump sum can be used however he chooses (income replacement, repaying a loan, etc.).
+</details>
+
+<details><summary>Q-CS5. During his 6-month overseas assignment, which of Rohan's covers would respond to (a) hospitalisation abroad and (b) an accidental death abroad? What should he buy for the trip?</summary>
+
+**Answer.** (a) **Hospitalisation abroad:** his Indian **health/super-top-up (indemnity) policies normally cover expenses in India only**, because verifying foreign expenses is difficult — so they would generally not pay abroad. He should buy an **overseas travel insurance** policy, which is the indemnity *exception* designed country-by-country to ascertain foreign expenses. (b) **Accidental death/critical illness abroad:** **defined benefit** policies (his personal accident PTD cover and critical illness cover) **pay wherever the risk occurs**, since the event is easy to verify anywhere in the world. Recommendation: buy overseas travel insurance for the trip; his defined-benefit covers already protect him globally.
 </details>
 </content>

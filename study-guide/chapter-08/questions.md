@@ -15,13 +15,13 @@ A) Income from Other Sources  B) Profits and Gains of Business  C) Capital Gains
 </details>
 
 **Q2.** Capital asset is defined under which section of the Income Tax Act?
-A) Section 2(47)  B) Section 2(14)  C) Section 54  D) Section 111A
+A) Section 2(47)  B) Section 111A  C) Section 54  D) Section 2(14)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Section 2(14)** defines "capital asset" as property of any kind held by an assessee.
+**Correct: D)** — **Section 2(14)** defines "capital asset" as property of any kind held by an assessee.
 - A) Section 2(47) defines "transfer", not capital asset.
+- B) Section 111A sets the short-term tax rate on STT-paid equity.
 - C) Section 54 is an exemption (house-to-house reinvestment).
-- D) Section 111A sets the short-term tax rate on STT-paid equity.
 </details>
 
 **Q3.** Which of the following is NOT treated as a capital asset?
@@ -651,4 +651,379 @@ A) Date of transfer  B) Date of receipt of the consideration  C) End of the fina
 **Correct: B)** — Section 54H shifts the timelines (for Sections 54, 54B, 54D, 54EC, 54F) to run from the **date of receipt of the consideration** in compulsory-acquisition cases.
 - A) The transfer date is overridden here.
 - C), D) Not relevant dates.
+</details>
+
+## 🔴 Tier 3 — Hard: Numerical & Scenario (Q71–Q100)
+
+**Q71.** Mr. A sells listed equity shares (STT-paid) held for 8 months. Sale value ₹6,00,000; cost ₹4,00,000; brokerage ₹10,000. Compute his tax.
+A) ₹38,000  B) ₹40,000  C) ₹25,000  D) ₹47,500
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Held 8 months (< 12) = STCG under Section 111A.
+**Formula:** STCG = Full value − Expenditure on transfer − Cost of acquisition.
+= 6,00,000 − 10,000 − 4,00,000 = **₹1,90,000**. Tax @ 20% = 1,90,000 × 0.20 = **₹38,000**.
+- B) ₹40,000 forgets to deduct the ₹10,000 brokerage (2,00,000 × 20%).
+- C) ₹25,000 wrongly uses 12.5% (that's the long-term rate).
+- D) ₹47,500 uses 25% — not a capital-gains rate.
+</details>
+
+**Q72.** Same shares as Q71 but held for 15 months; LTCG before exemption is ₹1,90,000 and these are his only equity LTCG for the year. Tax?
+A) ₹23,750  B) ₹8,125  C) ₹19,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Held > 12 months = LTCG under Section 112A.
+**Formula:** Taxable LTCG = LTCG − ₹1,25,000 exemption; Tax = Taxable × 12.5%.
+= 1,90,000 − 1,25,000 = 65,000 taxable. Tax = 65,000 × 0.125 = **₹8,125**.
+- A) ₹23,750 taxes the full 1,90,000 at 12.5% (ignores the ₹1.25 lakh exemption).
+- C) ₹19,000 uses the 10% old rate on 1,90,000.
+- D) Not nil — gain exceeds ₹1,25,000.
+</details>
+
+**Q73.** An equity investor has STT-paid LTCG of exactly ₹1,25,000 for the year. The tax payable is:
+A) ₹15,625  B) ₹12,500  C) Nil  D) ₹25,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Only the LTCG **exceeding ₹1,25,000** is taxed. Here gain = ₹1,25,000, so taxable = 0 → **Nil tax**.
+- A) ₹15,625 = 1,25,000 × 12.5% wrongly taxes the exempt slice.
+- B), D) Apply wrong rates to the exempt amount.
+</details>
+
+**Q74.** Land bought in FY 2005-06 for ₹20,00,000 is sold in FY 2024-25. CII 2005-06 = 117; CII 2024-25 = 363. The indexed cost of acquisition is approximately:
+A) ₹62,05,128  B) ₹40,00,000  C) ₹72,60,000  D) ₹20,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — **Formula:** Indexed cost = Cost × (CII of transfer year ÷ CII of acquisition year).
+= 20,00,000 × (363 ÷ 117) = 20,00,000 × 3.1026 = **₹62,05,128**.
+- B) ₹40,00,000 just doubles the cost arbitrarily.
+- C) ₹72,60,000 multiplies cost × (363/100).
+- D) ₹20,00,000 ignores indexation entirely.
+</details>
+
+**Q75.** Continuing Q74: the land is sold for ₹90,00,000. Under the OLD method (20% with indexation), the tax is approximately:
+A) ₹5,58,974  B) ₹14,00,000  C) ₹8,75,000  D) ₹11,17,949
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — LTCG (old) = Sale − Indexed cost = 90,00,000 − 62,05,128 = ₹27,94,872. Tax @ 20% = 27,94,872 × 0.20 = **₹5,58,974**.
+- B) ₹14,00,000 ignores indexation (70,00,000 × 20%).
+- C) ₹8,75,000 = 70,00,000 × 12.5%.
+- D) ₹11,17,949 doubles the correct figure (uses 40% by error).
+</details>
+
+**Q76.** Continuing Q74/Q75: under the NEW method (12.5% without indexation), the tax is:
+A) ₹5,58,974  B) ₹8,75,000  C) ₹14,00,000  D) ₹3,49,359
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — LTCG (new) = 90,00,000 − 20,00,000 = ₹70,00,000. Tax @ 12.5% = 70,00,000 × 0.125 = **₹8,75,000**.
+- A) ₹5,58,974 is the old-method (indexed) tax.
+- C) ₹14,00,000 applies 20% to the un-indexed gain.
+- D) ₹3,49,359 applies 12.5% to the indexed gain (mixing the methods wrongly).
+</details>
+
+**Q77.** Based on Q75 and Q76, since the property was bought before but sold after 23 July 2024, the final tax payable is:
+A) ₹8,75,000  B) ₹5,58,974  C) Average of both  D) Sum of both
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The taxpayer pays the **lower** of the two methods: lower of ₹5,58,974 (old) and ₹8,75,000 (new) = **₹5,58,974**.
+- A) That is the higher figure.
+- C), D) The rule is lower-of, not average or sum.
+</details>
+
+**Q78.** Ms. P sells a long-term plot for ₹80,00,000 (indexed cost ₹50,00,000) and invests ₹30,00,000 in NHAI bonds within 6 months. Exemption under Section 54EC and remaining taxable LTCG?
+A) Exemption ₹30,00,000; taxable ₹Nil  B) Exemption ₹30,00,000; taxable Nil but capped at ₹50 lakh  C) Exemption ₹30,00,000; taxable LTCG Nil  D) Exemption ₹30,00,000; taxable LTCG = ₹Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — LTCG = 80,00,000 − 50,00,000 = ₹30,00,000. Section 54EC exemption = lower of (amount invested ₹30,00,000, cap ₹50,00,000) = ₹30,00,000. The whole gain is sheltered → **taxable LTCG = Nil**.
+- A), B), D) describe the same arithmetic but are worded misleadingly; the clean correct statement is C — full ₹30 lakh exempt, gain Nil, well within the ₹50 lakh cap.
+</details>
+
+**Q79.** Mr. Q has LTCG of ₹70,00,000 on a plot and invests ₹60,00,000 in NHAI/REC bonds. Exemption under 54EC is:
+A) ₹60,00,000  B) ₹50,00,000  C) ₹70,00,000  D) ₹10,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Exemption = lower of amount invested (₹60,00,000) and the ₹50,00,000 cap = **₹50,00,000**. (Taxable LTCG = 70,00,000 − 50,00,000 = ₹20,00,000.)
+- A) Ignores the ₹50 lakh cap.
+- C) Exempts the whole gain wrongly.
+- D) Is the taxable balance minus errors.
+</details>
+
+**Q80.** Mr. R sells a long-term asset (not a house) for net consideration ₹1,00,00,000; LTCG is ₹40,00,000. He invests ₹50,00,000 in a new house. Section 54F exemption?
+A) ₹40,00,000  B) ₹20,00,000  C) ₹50,00,000  D) ₹25,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **Formula (54F, proportionate):** Exemption = LTCG × (Amount invested ÷ Net consideration).
+= 40,00,000 × (50,00,000 ÷ 1,00,00,000) = 40,00,000 × 0.5 = **₹20,00,000**.
+- A) Assumes full gain exempt (only if entire net consideration invested).
+- C) Confuses investment amount with exemption.
+- D) Uses a wrong ratio.
+</details>
+
+**Q81.** Continuing Q80: the LTCG remaining taxable after the 54F exemption (asset is a non-equity LTCA) is taxed at 12.5%. Tax payable?
+A) ₹2,50,000  B) ₹5,00,000  C) ₹2,00,000  D) ₹4,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Taxable LTCG = 40,00,000 − 20,00,000 = ₹20,00,000. Tax @ 12.5% = 20,00,000 × 0.125 = **₹2,50,000**.
+- B) ₹5,00,000 taxes the full ₹40 lakh at 12.5% (ignores exemption).
+- C) ₹2,00,000 uses 10%.
+- D) ₹4,00,000 uses 20%.
+</details>
+
+**Q82.** An investor's only capital transaction is STT-paid equity LTCG of ₹3,25,000. Tax payable?
+A) ₹40,625  B) ₹25,000  C) ₹37,500  D) ₹65,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Taxable = 3,25,000 − 1,25,000 = ₹2,00,000. Tax @ 12.5% = 2,00,000 × 0.125 = **₹25,000**.
+- A) ₹40,625 taxes full 3,25,000 at 12.5%.
+- C) ₹37,500 uses 3,00,000 base.
+- D) ₹65,000 uses 20% on taxable.
+</details>
+
+**Q83.** Mr. S has STT-paid equity STCG of ₹2,50,000 (Section 111A). Tax payable?
+A) ₹31,250  B) ₹50,000  C) ₹25,000  D) ₹37,500
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Section 111A STCG is taxed at 20% with no ₹1.25 lakh exemption (that exemption is only for LTCG). Tax = 2,50,000 × 0.20 = **₹50,000**.
+- A) ₹31,250 uses 12.5%.
+- C) ₹25,000 wrongly applies the 1.25 lakh exemption then 20%.
+- D) ₹37,500 uses 15%.
+</details>
+
+**Q84.** Mr. T sells gold (held 40 months) for ₹15,00,000; cost ₹6,00,000; selling expense ₹50,000. Compute the tax (LTCG, no indexation).
+A) ₹1,06,250  B) ₹1,12,500  C) ₹1,70,000  D) ₹85,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Gold held > 24 months = LTCG, taxed at 12.5% without indexation (no ₹1.25 lakh exemption — that's only equity).
+LTCG = 15,00,000 − 50,000 − 6,00,000 = ₹8,50,000. Tax = 8,50,000 × 0.125 = **₹1,06,250**.
+- B) ₹1,12,500 forgets to deduct the ₹50,000 expense.
+- C) ₹1,70,000 uses 20%.
+- D) ₹85,000 uses 10%.
+</details>
+
+**Q85.** Mr. U bought listed equity on 10-Jan-2017 for ₹2,00,000; FMV on 31-01-2018 was ₹3,50,000; he sells (STT-paid) in 2025 for ₹6,00,000. Cost of acquisition under Section 112A grandfathering?
+A) ₹2,00,000  B) ₹3,50,000  C) ₹6,00,000  D) ₹1,50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **Formula:** Cost = higher of [actual cost; lower of (FMV on 31-01-2018, sale value)].
+Lower of (3,50,000 FMV, 6,00,000 sale) = 3,50,000. Higher of (2,00,000 actual, 3,50,000) = **₹3,50,000**.
+- A) Actual cost is lower, so not used.
+- C) Sale value is not the cost.
+- D) Not a derived figure.
+</details>
+
+**Q86.** Continuing Q85: LTCG and tax (assume this is his only equity LTCG)?
+A) LTCG ₹2,50,000; tax ₹15,625  B) LTCG ₹4,00,000; tax ₹34,375  C) LTCG ₹2,50,000; tax ₹31,250  D) LTCG ₹2,50,000; tax Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — LTCG = 6,00,000 − 3,50,000 = ₹2,50,000. Taxable = 2,50,000 − 1,25,000 = 1,25,000. Tax = 1,25,000 × 0.125 = **₹15,625**.
+- B) Uses ₹2,00,000 cost (ignores grandfathering) and wrong rate.
+- C) Forgets the ₹1.25 lakh exemption.
+- D) Gain exceeds ₹1.25 lakh, so not nil.
+</details>
+
+**Q87.** Mr. V (resident) sells a debenture (listed) held 14 months for a gain of ₹3,00,000. The tax treatment is:
+A) LTCG at 12.5% (no exemption) = ₹37,500  B) LTCG at 12.5% over ₹1.25 lakh  C) STCG at slab  D) Section 111A 20%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Listed debentures held > 12 months are long-term, taxed at **12.5%** with **no ₹1.25 lakh exemption** (that exemption is only for STT-paid equity under 112A). Tax = 3,00,000 × 0.125 = **₹37,500**.
+- B) The ₹1.25 lakh exemption does not apply to debentures.
+- C) Held > 12 months, not short-term.
+- D) Section 111A is only for STT-paid equity.
+</details>
+
+**Q88.** Mrs. W sells a residential house (LTCA), LTCG ₹90,00,000, and buys one new house for ₹70,00,000 within 2 years. Section 54 exemption and balance?
+A) Exemption ₹70,00,000; taxable ₹20,00,000  B) Exemption ₹90,00,000; taxable Nil  C) Exemption ₹20,00,000; taxable ₹70,00,000  D) Exemption ₹50,00,000; taxable ₹40,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Section 54 exempts the amount of capital gains invested in the new house (lower of gain or amount invested, capped at ₹10 cr). Invested ₹70,00,000 < gain ₹90,00,000 → exemption ₹70,00,000; taxable = ₹20,00,000.
+- B) Only ₹70 lakh was reinvested, not the full gain.
+- C) Reverses the figures.
+- D) ₹50 lakh cap is for 54EC, not 54.
+</details>
+
+**Q89.** Continuing Q88: the ₹20,00,000 taxable LTCG on the house is taxed at 12.5% (new, no indexation). Tax?
+A) ₹2,50,000  B) ₹4,00,000  C) ₹2,00,000  D) ₹1,87,500
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — 20,00,000 × 0.125 = **₹2,50,000**.
+- B) Uses 20%.
+- C) Uses 10%.
+- D) Uses ₹15,00,000 base by error.
+</details>
+
+**Q90.** Mr. X sells a plot for ₹50,00,000 (LTCG ₹30,00,000). He invests ₹15,00,000 in 54EC bonds and ₹10,00,000 in a new house under 54F (net consideration fully attributable). Assume 54F exemption proportionate = ₹6,00,000. Total exemption?
+A) ₹21,00,000  B) ₹15,00,000  C) ₹25,00,000  D) ₹30,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Exemptions under different sections can be combined: 54EC ₹15,00,000 + 54F ₹6,00,000 = **₹21,00,000**.
+- B) Counts only 54EC.
+- C) Adds the ₹10 lakh investment instead of the ₹6 lakh proportionate 54F exemption.
+- D) Assumes whole gain exempt.
+</details>
+
+**Q91.** A house bought FY 2010-11 for ₹40,00,000 is sold FY 2024-25 for ₹1,80,00,000. CII 2010-11 = 167; CII 2024-25 = 363. Indexed cost?
+A) ₹86,94,611  B) ₹40,00,000  C) ₹1,45,20,000  D) ₹66,80,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Indexed cost = 40,00,000 × (363 ÷ 167) = 40,00,000 × 2.1737 = **₹86,94,611**.
+- B) Ignores indexation.
+- C) Multiplies by (363/100).
+- D) Multiplies by 1.67.
+</details>
+
+**Q92.** Continuing Q91: old-method LTCG and tax at 20%?
+A) LTCG ₹93,05,389; tax ₹18,61,078  B) LTCG ₹1,40,00,000; tax ₹28,00,000  C) LTCG ₹93,05,389; tax ₹11,63,174  D) LTCG ₹86,94,611; tax ₹17,38,922
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — LTCG (old) = 1,80,00,000 − 86,94,611 = ₹93,05,389. Tax @ 20% = **₹18,61,078**.
+- B) Ignores indexation.
+- C) Applies 12.5% to indexed gain (wrong rate for old method).
+- D) Treats indexed cost as the gain.
+</details>
+
+**Q93.** Continuing Q91/Q92: new-method LTCG and tax at 12.5%, then the final payable?
+A) New LTCG ₹1,40,00,000; new tax ₹17,50,000; pay ₹17,50,000  B) New tax ₹17,50,000; pay ₹18,61,078  C) New tax ₹28,00,000; pay ₹18,61,078  D) New tax ₹17,50,000; pay lower = nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — New LTCG = 1,80,00,000 − 40,00,000 = ₹1,40,00,000; tax @ 12.5% = ₹17,50,000. Final = **lower of** ₹18,61,078 (old) and ₹17,50,000 (new) = **₹17,50,000**.
+- B) Picks the higher as payable.
+- C) Wrong new tax figure.
+- D) Tax is not nil.
+</details>
+
+**Q94.** Mr. Y has equity LTCG ₹1,50,000 and equity STCG (111A) ₹1,00,000 in the year. Total capital-gains tax?
+A) ₹23,125  B) ₹21,250  C) ₹31,250  D) ₹20,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — LTCG: (1,50,000 − 1,25,000) × 12.5% = 25,000 × 0.125 = ₹3,125. STCG: 1,00,000 × 20% = ₹20,000. Total = 3,125 + 20,000 = **₹23,125**. (The ₹1.25 lakh exemption applies only to LTCG, not STCG.)
+- B) Applies the exemption to STCG too.
+- C) Taxes full LTCG at 12.5% plus STCG.
+- D) Counts only STCG.
+</details>
+
+**Q95.** Mr. Z, an NRI, has LTCG of ₹20,00,000 on Indian shares (foreign-currency acquired); net consideration ₹50,00,000; he invests ₹25,00,000 in eligible new assets. Section 115F exemption?
+A) ₹10,00,000  B) ₹20,00,000  C) ₹25,00,000  D) ₹12,50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — **Formula (115F):** Exemption = Capital gain × (Investment ÷ Net consideration) = 20,00,000 × (25,00,000 ÷ 50,00,000) = 20,00,000 × 0.5 = **₹10,00,000**.
+- B) Assumes full gain exempt.
+- C) Uses the investment amount directly.
+- D) Uses a wrong ratio.
+</details>
+
+**Q96.** Mr. AB sells unlisted debentures in Dec 2024 (held 5 years) at a gain of ₹4,00,000. Tax treatment?
+A) LTCG at 12.5% = ₹50,000  B) STCG (always, s.50AA) at slab rate  C) LTCG at 20% indexed  D) Exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Unlisted debentures transferred after 23 July 2024 are **always short-term** under Section 50AA, regardless of the 5-year holding; taxed at **slab rate**.
+- A), C) Never long-term.
+- D) Not exempt.
+</details>
+
+**Q97.** Mr. CD sells a long-term plot, LTCG ₹12,00,000. He invests ₹12,00,000 in 54EC bonds but only ₹4,00,000 within 6 months and ₹8,00,000 after 8 months. Exemption?
+A) ₹12,00,000  B) ₹4,00,000  C) ₹8,00,000  D) Nil
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Only investment made **within 6 months** qualifies. ₹4,00,000 invested in time → exemption ₹4,00,000; the ₹8,00,000 invested after the window does not qualify.
+- A) Counts the late investment.
+- C) Counts only the disqualified portion.
+- D) Some valid investment was made.
+</details>
+
+**Q98.** Mr. EF converts a capital asset (cost ₹5,00,000) into stock-in-trade when its FMV is ₹15,00,000, then sells the stock for ₹18,00,000. The capital gain portion is based on full value of:
+A) ₹18,00,000  B) ₹15,00,000  C) ₹5,00,000  D) ₹3,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — On conversion to stock-in-trade, the **FMV on the date of conversion (₹15,00,000)** is the full value of consideration for the capital-gains computation (capital gain = 15,00,000 − 5,00,000 = ₹10,00,000). The further ₹3,00,000 (18,00,000 − 15,00,000) is business income.
+- A) That is the final sale price (business side).
+- C) That is the cost.
+- D) That is the business-income slice.
+</details>
+
+**Q99.** Mr. GH has equity LTCG ₹80,000 (STT-paid) and equity STCG (111A) ₹60,000. Total tax?
+A) ₹12,000  B) ₹17,500  C) Nil  D) ₹10,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — LTCG ₹80,000 is below the ₹1,25,000 exemption → taxable Nil. STCG ₹60,000 × 20% = **₹12,000**. (Note: the ₹1.25 lakh exemption applies only to LTCG and cannot shelter STCG.)
+- B) Taxes both wrongly.
+- C) Ignores STCG tax.
+- D) Uses a wrong rate on STCG.
+</details>
+
+**Q100.** Mr. IJ (resident) sells a Dubai plot on 12 June 2026; gain in AED converts to INR using the TT buying rate as on which date?
+A) 12 June 2026  B) 31 May 2026  C) 1 June 2026  D) 30 June 2026
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For "other" capital gains, conversion uses the TT buying rate on the **last day of the month immediately preceding** the transfer month → **31 May 2026**.
+- A), C) Not the prescribed date.
+- D) End of the transfer month itself is not used.
+</details>
+
+## 🧩 Case Study
+
+**Scenario:** Mr. Mehta (an individual resident) made the following transactions in FY 2024-25 (all transfers on/after 23 July 2024):
+
+1. He sold a **residential house** on 1 September 2024 for ₹2,00,00,000. He had bought it in FY 2011-12 for ₹50,00,000. (CII 2011-12 = 184; CII 2024-25 = 363.)
+2. On the same equity portfolio, he sold **listed equity shares (STT-paid)** held for 18 months: sale ₹10,00,000, cost ₹4,00,000. This is his only equity LTCG of the year.
+3. He sold **listed equity shares (STT-paid)** held for 7 months: sale ₹3,00,000, cost ₹2,40,000.
+4. He invested ₹60,00,000 in **NHAI bonds** within 6 months of selling the house (Section 54EC).
+5. He sold **physical gold** held for 50 months: sale ₹8,00,000, cost ₹3,00,000.
+
+<details><summary><strong>Sub-question 1:</strong> Compute the LTCG on the house under both old (indexed) and new methods, and the indexed cost.</summary>
+
+**Indexed cost of acquisition** = Cost × (CII transfer ÷ CII acquisition)
+= 50,00,000 × (363 ÷ 184) = 50,00,000 × 1.97283 = **₹98,64,130**.
+
+- **Old method LTCG** = Sale − Indexed cost = 2,00,00,000 − 98,64,130 = **₹1,01,35,870**.
+- **New method LTCG** = Sale − Cost = 2,00,00,000 − 50,00,000 = **₹1,50,00,000**.
+
+Because the house was bought before 23 July 2024 but sold after, both calculations are needed for the parallel comparison (Sub-question 4).
+</details>
+
+<details><summary><strong>Sub-question 2:</strong> Determine the Section 54EC exemption available against the house gain, and the net LTCG (new-method basis) after exemption.</summary>
+
+**Section 54EC** exemption = lower of (amount invested, ₹50,00,000 cap).
+He invested ₹60,00,000, but the cap is **₹50,00,000**, so exemption = **₹50,00,000**.
+
+Net new-method LTCG after 54EC = 1,50,00,000 − 50,00,000 = **₹1,00,00,000**.
+Net old-method LTCG after 54EC = 1,01,35,870 − 50,00,000 = **₹51,35,870**.
+
+(Intuition: the extra ₹10,00,000 invested above ₹50 lakh earns no exemption — the cap is a hard ceiling.)
+</details>
+
+<details><summary><strong>Sub-question 3:</strong> Compute the final tax on the house under the parallel-calculation rule.</summary>
+
+- **Old method tax** = Net old LTCG × 20% = 51,35,870 × 0.20 = **₹10,27,174**.
+- **New method tax** = Net new LTCG × 12.5% = 1,00,00,000 × 0.125 = **₹12,50,000**.
+
+Final house tax = **lower of** the two = **₹10,27,174** (old/indexed method wins here).
+
+(Logic: for older property with a big inflation gap, indexation often still produces the lower tax even though the rate is higher.)
+</details>
+
+<details><summary><strong>Sub-question 4:</strong> Compute the tax on the two equity transactions (items 2 and 3) and the gold (item 5).</summary>
+
+**Equity LTCG (item 2, held 18 months > 12, Section 112A):**
+LTCG = 10,00,000 − 4,00,000 = ₹6,00,000. Less ₹1,25,000 exemption = ₹4,75,000 taxable. Tax @ 12.5% = **₹59,375**.
+
+**Equity STCG (item 3, held 7 months, Section 111A):**
+STCG = 3,00,000 − 2,40,000 = ₹60,000. Tax @ 20% = **₹12,000**. (No ₹1.25 lakh exemption for STCG.)
+
+**Gold LTCG (item 5, held 50 months > 24, 12.5% no indexation):**
+LTCG = 8,00,000 − 3,00,000 = ₹5,00,000. Tax @ 12.5% = **₹62,500**. (Gold gets no ₹1.25 lakh exemption — that is only for STT-paid equity.)
+</details>
+
+<details><summary><strong>Sub-question 5:</strong> Compute Mr. Mehta's total capital-gains tax for FY 2024-25.</summary>
+
+| Item | Gain head | Tax |
+|------|-----------|----:|
+| House (after 54EC, lower-of method) | LTCG | ₹10,27,174 |
+| Listed equity (item 2) | LTCG 112A | ₹59,375 |
+| Listed equity (item 3) | STCG 111A | ₹12,000 |
+| Gold (item 5) | LTCG | ₹62,500 |
+| **Total capital-gains tax** | | **₹11,61,049** |
+
+**Key takeaways:**
+- The ₹1,25,000 exemption applied **only** to the STT-paid equity LTCG (item 2), not to STCG or gold.
+- Section 54EC is **capped at ₹50,00,000**; the ₹10 lakh excess investment gave no benefit.
+- For the house (pre-23 July 2024 purchase, post-date sale), the **lower of** 20%-indexed and 12.5%-unindexed was paid.
+- STCG under 111A is **20%**; general LTCG (gold, after the equity rule) is **12.5%**.
 </details>
