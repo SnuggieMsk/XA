@@ -44,10 +44,20 @@ Each chapter folder contains **three files**:
 |------|-----------|---------------|
 | `notes.md` | **Short Notes** — the whole chapter explained simply, with every formula and the *logic* behind it | Read first, 2–3 times |
 | `flashcards.md` | **Flashcards** — Question on one side, Answer on the other (Q&A format) | Revise daily; cover the answer and test yourself |
-| `questions.md` | **Questionnaire** — MCQs + a case study, each with a full explanation | Test yourself *after* reading notes |
+| `questions.md` | **Question Bank — 100 MCQs + a worked case study per chapter**, each answer fully explained (the formula used *and* the logic) | Test yourself *after* reading notes |
+
+That's **~2,000 practice MCQs + 20+ case studies** across the guide. Each `questions.md` is organised into three difficulty tiers so you can build up gradually:
+
+- 🟢 **Tier 1 — Easy (Recall):** definitions and facts (≈Q1–35)
+- 🟡 **Tier 2 — Medium (Application):** "which rule/product applies here", comparisons (≈Q36–70)
+- 🔴 **Tier 3 — Hard (Numerical & Scenario):** multi-step calculations and exam-style scenarios (≈Q71–100)
+
+Every answer is hidden inside a collapsible *"Answer & Explanation"* block — so you can attempt the question first, then expand to check **why the right option is right, why the others are wrong, and the exact formula/calculation behind it.**
+
+> 📌 **Chapter 20** is special: instead of 100 single MCQs it gives you **40 skill-builder MCQs + 12 full exam-style case studies** (each with 5 sub-questions) — direct practice for the 60-mark case section.
 
 **Recommended study cycle for each chapter:**
-> Read `notes.md` → Do `flashcards.md` → Attempt `questions.md` → Re-read the notes for anything you got wrong.
+> Read `notes.md` → Do `flashcards.md` → Attempt the `questions.md` tiers (Easy → Medium → Hard) → Re-read the notes for anything you got wrong.
 
 ---
 
