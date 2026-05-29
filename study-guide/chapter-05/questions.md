@@ -679,23 +679,23 @@ A) Rs. 1,250  B) Rs. 2,350  C) Rs. 3,600  D) Rs. 1,100
 </details>
 
 **Q72.** For the same employee (Basic+DA = Rs. 30,000), how much of the employer's contribution goes to EPS, given the Rs. 15,000 salary ceiling?
-A) Rs. 2,499  B) Rs. 1,250  C) Rs. 3,600  D) Rs. 2,350
+A) Rs. 2,499  B) Rs. 3,600  C) Rs. 2,350  D) Rs. 1,250
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — EPS = 8.33% of salary, but capped at Rs. 15,000 salary. Formula: *EPS = 8.33% × 15,000* = **Rs. 1,250** (rounded). Because actual salary (30,000) exceeds the ceiling, the ceiling applies.
+**Correct: D)** — EPS = 8.33% of salary, but capped at Rs. 15,000 salary. Formula: *EPS = 8.33% × 15,000* = **Rs. 1,250** (rounded). Because actual salary (30,000) exceeds the ceiling, the ceiling applies.
 - A) Rs. 2,499 ≈ 8.33% × 30,000 — wrong because the Rs. 15,000 ceiling is ignored.
-- C) Rs. 3,600 is the total employee/employer 12% figure.
-- D) Rs. 2,350 is the employer's EPF (non-EPS) slice.
+- B) Rs. 3,600 is the total employee/employer 12% figure.
+- C) Rs. 2,350 is the employer's EPF (non-EPS) slice.
 </details>
 
 **Q73.** Continuing Q72: how much of the employer's 12% (Rs. 3,600) goes into the EPF account (not EPS)?
-A) Rs. 1,250  B) Rs. 2,350  C) Rs. 1,101  D) Rs. 3,600
+A) Rs. 1,250  B) Rs. 1,101  C) Rs. 3,600  D) Rs. 2,350
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The employer's total is 12% × 30,000 = Rs. 3,600. Of this, EPS takes Rs. 1,250 (capped). The remainder goes to EPF: 3,600 − 1,250 = **Rs. 2,350**. (This matches the workbook's worked example.)
+**Correct: D)** — The employer's total is 12% × 30,000 = Rs. 3,600. Of this, EPS takes Rs. 1,250 (capped). The remainder goes to EPF: 3,600 − 1,250 = **Rs. 2,350**. (This matches the workbook's worked example.)
 - A) Rs. 1,250 is the EPS portion, not the EPF portion.
-- C) Rs. 1,101 is incorrect.
-- D) Rs. 3,600 is the whole employer contribution, before the EPS split.
+- B) Rs. 1,101 is incorrect.
+- C) Rs. 3,600 is the whole employer contribution, before the EPS split.
 </details>
 
 **Q74.** A's last drawn basic pay is Rs. 60,000/month, service is 20 years 7 months, and he is **covered** under the Gratuity Act. What is his gratuity?
@@ -719,13 +719,13 @@ A) Rs. 6.00 lakh  B) Rs. 6.30 lakh  C) Rs. 7.26 lakh  D) Rs. 5.40 lakh
 </details>
 
 **Q76.** An employee covered under the Act has last drawn salary Rs. 40,000 and 10 completed years of service. Calculate gratuity.
-A) Rs. 2,00,000  B) Rs. 2,30,769  C) Rs. 2,40,000  D) Rs. 3,00,000
+A) Rs. 2,00,000  B) Rs. 2,40,000  C) Rs. 3,00,000  D) Rs. 2,30,769
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — *(15 × 40,000 × 10) ÷ 26* = 60,00,000 ÷ 26 = **Rs. 2,30,769**.
+**Correct: D)** — *(15 × 40,000 × 10) ÷ 26* = 60,00,000 ÷ 26 = **Rs. 2,30,769**.
 - A) Rs. 2,00,000 wrongly divides by 30.
-- C) Rs. 2,40,000 ignores the ÷26 (treats it as half-month × years × something).
-- D) Rs. 3,00,000 is unrelated to the formula.
+- B) Rs. 2,40,000 ignores the ÷26 (treats it as half-month × years × something).
+- C) Rs. 3,00,000 is unrelated to the formula.
 </details>
 
 **Q77.** A retiree's NPS corpus at age 60 is Rs. 50 lakh. Using the minimum mandatory annuity rule, how much must buy an annuity and how much can be taken as lump sum?
@@ -739,12 +739,12 @@ A) Annuity Rs. 20 lakh, lump sum Rs. 30 lakh  B) Annuity Rs. 30 lakh, lump sum R
 </details>
 
 **Q78.** A subscriber resigns at age 45 with an NPS corpus of Rs. 10 lakh. What is the minimum annuity purchase and the lump sum?
-A) Annuity Rs. 4 lakh, lump sum Rs. 6 lakh  B) Annuity Rs. 8 lakh, lump sum Rs. 2 lakh  C) Annuity Rs. 6 lakh, lump sum Rs. 4 lakh  D) Entire Rs. 10 lakh lump sum
+A) Annuity Rs. 4 lakh, lump sum Rs. 6 lakh  B) Annuity Rs. 6 lakh, lump sum Rs. 4 lakh  C) Entire Rs. 10 lakh lump sum  D) Annuity Rs. 8 lakh, lump sum Rs. 2 lakh
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For *pre-retirement* exit (corpus above Rs. 2.5 lakh), at least **80%** must annuitise. Annuity = 80% × 10 lakh = **Rs. 8 lakh**; lump sum = 20% × 10 lakh = **Rs. 2 lakh**.
-- A) and C) use the 40%/60% retirement rule, which does not apply before retirement.
-- D) Full lump sum is allowed only if corpus ≤ Rs. 2.5 lakh.
+**Correct: D)** — For *pre-retirement* exit (corpus above Rs. 2.5 lakh), at least **80%** must annuitise. Annuity = 80% × 10 lakh = **Rs. 8 lakh**; lump sum = 20% × 10 lakh = **Rs. 2 lakh**.
+- A) and B) use the 40%/60% retirement rule, which does not apply before retirement.
+- C) Full lump sum is allowed only if corpus ≤ Rs. 2.5 lakh.
 </details>
 
 **Q79.** Mr. A has 8,000 units; NAV is Rs. 10. He withdraws Rs. 5,000 via SWP. How many units are sold and how many remain?
@@ -758,13 +758,13 @@ A) 250 sold, 7,750 remain  B) 500 sold, 7,500 remain  C) 1,000 sold, 7,000 remai
 </details>
 
 **Q80.** Next month Mr. A's NAV rises to Rs. 20. He again withdraws Rs. 5,000. How many units are sold this time, and what remains (starting from 7,500)?
-A) 500 sold, 7,000 remain  B) 250 sold, 7,250 remain  C) 250 sold, 7,500 remain  D) 100 sold, 7,400 remain
+A) 500 sold, 7,000 remain  B) 250 sold, 7,500 remain  C) 100 sold, 7,400 remain  D) 250 sold, 7,250 remain
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Units sold = 5,000 ÷ 20 = **250 units**. Remaining = 7,500 − 250 = **7,250**. Intuition: a higher NAV means fewer units are needed for the same rupee withdrawal.
+**Correct: D)** — Units sold = 5,000 ÷ 20 = **250 units**. Remaining = 7,500 − 250 = **7,250**. Intuition: a higher NAV means fewer units are needed for the same rupee withdrawal.
 - A) 500 sold would be at NAV Rs. 10.
-- C) wrongly leaves 7,500 (forgets to subtract).
-- D) is arithmetically wrong.
+- B) wrongly leaves 7,500 (forgets to subtract).
+- C) is arithmetically wrong.
 </details>
 
 **Q81.** An investor's equity-fund SWP generates Rs. 1,80,000 of long-term capital gains in a year. Given the Rs. 1.25 lakh LTCG exemption, what amount is taxed at 12.5%?
@@ -778,23 +778,23 @@ A) Rs. 1,80,000  B) Rs. 1,25,000  C) Rs. 55,000  D) Nil
 </details>
 
 **Q82.** Continuing Q81: what is the tax payable on the Rs. 55,000 of taxable LTCG (ignoring cess)?
-A) Rs. 5,500  B) Rs. 6,875  C) Rs. 11,000  D) Rs. 7,500
+A) Rs. 5,500  B) Rs. 11,000  C) Rs. 7,500  D) Rs. 6,875
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Tax = 12.5% × 55,000 = **Rs. 6,875**.
+**Correct: D)** — Tax = 12.5% × 55,000 = **Rs. 6,875**.
 - A) Rs. 5,500 uses 10%.
-- C) Rs. 11,000 uses 20% (the short-term equity rate).
-- D) Rs. 7,500 does not match 12.5% of 55,000.
+- B) Rs. 11,000 uses 20% (the short-term equity rate).
+- C) Rs. 7,500 does not match 12.5% of 55,000.
 </details>
 
 **Q83.** Mr. B has USD 500,000 laddered into five bonds of USD 100,000 maturing in years 1–5. When the year-1 bond matures, where does he reinvest the proceeds to keep the ladder intact?
-A) In a new 1-year bond  B) In a new 5-year bond (longest end)  C) He spends it  D) In a 3-year bond
+A) In a new 1-year bond  B) He spends it  C) In a 3-year bond  D) In a new 5-year bond (longest end)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — To keep the ladder intact, the maturing piece is reinvested at the **longest end (5 years out)**. The bond that was 2 years away is now 1 year away, and so on — preserving the staggered structure.
+**Correct: D)** — To keep the ladder intact, the maturing piece is reinvested at the **longest end (5 years out)**. The bond that was 2 years away is now 1 year away, and so on — preserving the staggered structure.
 - A) A 1-year bond would not extend the ladder.
-- C) Spending it breaks the ladder.
-- D) A 3-year bond would create a gap in the ladder.
+- B) Spending it breaks the ladder.
+- C) A 3-year bond would create a gap in the ladder.
 </details>
 
 **Q84.** PMVVY: for the minimum monthly pension of Rs. 1,000, the purchase price is Rs. 1.5 lakh. By proportion, what purchase price gives the maximum Rs. 10,000/month pension?
@@ -807,23 +807,23 @@ A) Rs. 7.5 lakh  B) Rs. 10 lakh  C) Rs. 15 lakh  D) Rs. 30 lakh
 </details>
 
 **Q85.** A senior citizen exits SCSS after 2.5 years. His deposit was Rs. 20 lakh. What premature-closure penalty applies and what is the penalty amount?
-A) 1.5%, Rs. 30,000  B) 1%, Rs. 20,000  C) 2%, Rs. 40,000  D) No penalty
+A) 1.5%, Rs. 30,000  B) 2%, Rs. 40,000  C) No penalty  D) 1%, Rs. 20,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For exit **between 2 and less than 5 years**, the penalty is **1%** of the deposit. = 1% × 20,00,000 = **Rs. 20,000**.
+**Correct: D)** — For exit **between 2 and less than 5 years**, the penalty is **1%** of the deposit. = 1% × 20,00,000 = **Rs. 20,000**.
 - A) 1.5% (Rs. 30,000) applies only between 1 and 2 years.
-- C) 2% is the POMIS penalty, not SCSS.
-- D) Premature exit after 1 year does carry a penalty.
+- B) 2% is the POMIS penalty, not SCSS.
+- C) Premature exit after 1 year does carry a penalty.
 </details>
 
 **Q86.** A POMIS account is closed after 2 years. Deposit was Rs. 5 lakh. What deduction applies?
-A) 1% = Rs. 5,000  B) 2% = Rs. 10,000  C) 1.5% = Rs. 7,500  D) No deduction
+A) 1% = Rs. 5,000  B) 1.5% = Rs. 7,500  C) No deduction  D) 2% = Rs. 10,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — POMIS closure **after 1 year but before 3 years** carries a **2% deduction on principal**. = 2% × 5,00,000 = **Rs. 10,000**.
+**Correct: D)** — POMIS closure **after 1 year but before 3 years** carries a **2% deduction on principal**. = 2% × 5,00,000 = **Rs. 10,000**.
 - A) 1% applies only between 3 and 5 years.
-- C) 1.5% is an SCSS penalty rate, not POMIS.
-- D) A deduction does apply after the first year.
+- B) 1.5% is an SCSS penalty rate, not POMIS.
+- C) A deduction does apply after the first year.
 </details>
 
 **Q87.** A reverse mortgage borrower's eligible loan is Rs. 24 lakh. He wants the maximum lump sum for medical needs. Given the 50%/Rs. 15 lakh rule, how much can he take?
@@ -837,33 +837,33 @@ A) Rs. 24 lakh  B) Rs. 15 lakh  C) Rs. 12 lakh  D) Rs. 50,000
 </details>
 
 **Q88.** A UPS subscriber's last 12-month average basic pay is Rs. 80,000, with 25+ years of service. What is the monthly assured payout?
-A) Rs. 30,000  B) Rs. 40,000  C) Rs. 48,000  D) Rs. 60,000
+A) Rs. 30,000  B) Rs. 48,000  C) Rs. 60,000  D) Rs. 40,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — UPS assured payout = **50% of the 12-month average basic pay** (after ≥25 years). = 50% × 80,000 = **Rs. 40,000/month**.
+**Correct: D)** — UPS assured payout = **50% of the 12-month average basic pay** (after ≥25 years). = 50% × 80,000 = **Rs. 40,000/month**.
 - A) Rs. 30,000 would be 37.5%.
-- C) Rs. 48,000 would be 60% (that is the *family/spouse* share rate, applied to the payout, not the basic pay).
-- D) Rs. 60,000 would be 75%.
+- B) Rs. 48,000 would be 60% (that is the *family/spouse* share rate, applied to the payout, not the basic pay).
+- C) Rs. 60,000 would be 75%.
 </details>
 
 **Q89.** Continuing Q88: on the subscriber's death, what monthly family payout does the spouse receive (60% of the admissible payout)?
-A) Rs. 20,000  B) Rs. 24,000  C) Rs. 40,000  D) Rs. 48,000
+A) Rs. 20,000  B) Rs. 40,000  C) Rs. 48,000  D) Rs. 24,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Family payout = **60% of the admissible payout** = 60% × 40,000 = **Rs. 24,000/month**.
+**Correct: D)** — Family payout = **60% of the admissible payout** = 60% × 40,000 = **Rs. 24,000/month**.
 - A) Rs. 20,000 is 50% of the payout.
-- C) Rs. 40,000 is the full admissible payout (no reduction).
-- D) Rs. 48,000 wrongly applies 60% to the Rs. 80,000 basic, not to the Rs. 40,000 payout.
+- B) Rs. 40,000 is the full admissible payout (no reduction).
+- C) Rs. 48,000 wrongly applies 60% to the Rs. 80,000 basic, not to the Rs. 40,000 payout.
 </details>
 
 **Q90.** An employee's own EPF + VPF contribution in a year is Rs. 3 lakh. On how much of the contribution is the interest taxable?
-A) On the full Rs. 3 lakh  B) On Rs. 50,000  C) On nothing  D) On Rs. 2.5 lakh
+A) On the full Rs. 3 lakh  B) On nothing  C) On Rs. 2.5 lakh  D) On Rs. 50,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Interest is taxable only on the **excess over Rs. 2.5 lakh**. Excess = 3,00,000 − 2,50,000 = **Rs. 50,000**, so interest on that Rs. 50,000 is taxable.
+**Correct: D)** — Interest is taxable only on the **excess over Rs. 2.5 lakh**. Excess = 3,00,000 − 2,50,000 = **Rs. 50,000**, so interest on that Rs. 50,000 is taxable.
 - A) The full Rs. 3 lakh is wrong; only the excess counts.
-- C) "Nothing" would be true only if contribution ≤ Rs. 2.5 lakh.
-- D) Rs. 2.5 lakh is the exempt threshold, not the taxable portion.
+- B) "Nothing" would be true only if contribution ≤ Rs. 2.5 lakh.
+- C) Rs. 2.5 lakh is the exempt threshold, not the taxable portion.
 </details>
 
 **Q91.** An employer's aggregate contribution to EPF + NPS + Superannuation in a year is Rs. 9 lakh. How much is treated as a taxable perquisite?
@@ -897,13 +897,13 @@ A) Rs. 1,20,000  B) Rs. 1,50,000  C) Rs. 1,70,000  D) Rs. 2,00,000
 </details>
 
 **Q94.** An employer's NPS contribution for a private-sector employee is eligible under 80CCD(2) up to what percentage of Basic+DA (as per Budget 2024)?
-A) 10%  B) 12%  C) 14%  D) 27%
+A) 10%  B) 12%  C) 27%  D) 14%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Per Budget 2024, the employer's NPS contribution deduction under 80CCD(2) is up to **14% of (Basic+DA)** for both government and other employers.
+**Correct: D)** — Per Budget 2024, the employer's NPS contribution deduction under 80CCD(2) is up to **14% of (Basic+DA)** for both government and other employers.
 - A) 10% was the older limit for non-government employees.
 - B) 12% is the EPF rate.
-- D) 27% is the PF+superannuation cap, not the NPS employer deduction.
+- C) 27% is the PF+superannuation cap, not the NPS employer deduction.
 </details>
 
 **Q95.** A 33-year-old chooses the NPS Auto Choice **Moderate** Life Cycle Fund (age ≤35 row: E 50, C 30, G 20). If his contribution is Rs. 1,00,000, how much goes to equity?

@@ -496,3 +496,167 @@ A) ₹64,00,000  B) ₹86,36,000  C) ₹80,00,000  D) ₹1,00,00,000
 </details>
 
 ---
+
+### Case Study 5 — Mr. Verma: Life-Insurance Need (Human Life Value)
+
+Mr. Verma (38) earns **₹1,00,000/month**. He wants his family to keep receiving his income (rising with inflation) for the **22 years** he would have worked until age 60. Inflation **6%**, long-term investment return **10%**. He has an outstanding **home loan of ₹35,00,000**, wants to leave a **₹15,00,000** corpus for his child's higher education, and currently holds **₹60,00,000** of life cover. He also has ₹10,00,000 in liquid investments earmarked for emergencies (not for these needs).
+
+**Q5.1.** His **current annual income** to be replaced is: *(Easy)*
+A) ₹10,00,000  B) ₹12,00,000  C) ₹1,00,000  D) ₹14,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — 1,00,000 × 12 = **₹12,00,000**. **A)** multiplies by 10. **C)** is the monthly figure. **D)** uses the wrong monthly base.
+</details>
+
+**Q5.2.** The **real (inflation-adjusted) return** for the income-replacement PV is: *(Medium)*
+A) 4.00%  B) 3.77%  C) 16.00%  D) 0.93%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Real return = (1.10/1.06) − 1 = 1.0377 − 1 = **3.77%**. **A)** is the simple difference (10% − 6%). **C)** wrongly adds. **D)** corresponds to 9%/8%, not these figures.
+</details>
+
+**Q5.3.** The **corpus to replace 22 years of income** (PV of ₹12,00,000 at 3.77%) is closest to: *(Hard)*
+A) ₹1,82,00,000  B) ₹2,64,00,000  C) ₹1,20,00,000  D) ₹95,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — PV(3.77%, 22, −12,00,000). The 22-year annuity factor at 3.77% is about 15.16, so corpus ≈ 12,00,000 × 15.16 ≈ **₹1,82,00,000**. **B)** ignores discounting (just 22 × 12 lakh). **C), D)** use far too few years or a wrong rate.
+</details>
+
+**Q5.4.** Adding the home loan and the child's corpus, his **total insurance need** before existing cover is closest to: *(Medium)*
+A) ₹1,82,00,000  B) ₹2,07,00,000  C) ₹2,32,00,000  D) ₹2,17,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Total need = income corpus 1,82,00,000 + home loan 35,00,000 + child corpus 15,00,000 = **₹2,32,00,000**. **A)** omits both liabilities/goals. **B)** omits the child corpus. **D)** omits the home loan.
+</details>
+
+**Q5.5.** The **additional** life cover Mr. Verma should buy (deduct only the existing ₹60 lakh cover; the ₹10 lakh emergency fund is earmarked elsewhere) is closest to: *(Hard)*
+A) ₹1,72,00,000  B) ₹1,62,00,000  C) ₹2,32,00,000  D) ₹1,22,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Additional = total need 2,32,00,000 − existing cover 60,00,000 = **₹1,72,00,000**. The ₹10 lakh emergency fund is **not** netted off because it is earmarked for emergencies, not these needs. **B)** wrongly also subtracts the ₹10 lakh. **C)** forgets to subtract existing cover. **D)** subtracts too much.
+</details>
+
+---
+
+### Case Study 6 — Mr. & Mrs. Iyer: Health-Insurance Mechanics
+
+The Iyers hold a **family floater base policy of ₹5,00,000** and a **super top-up of ₹15,00,000 with a ₹5,00,000 deductible** (aggregate basis). During the policy year the family has hospitalisation bills of **₹3,00,000, ₹4,00,000 and ₹6,00,000** (in that order). One claim additionally carries a **10% co-pay** clause on the base policy only. Treat the bills as fully admissible (no other exclusions) unless a deductible/co-pay applies.
+
+**Q6.1.** After the **first bill (₹3,00,000)**, how much of the base sum insured remains? *(Easy)*
+A) ₹5,00,000  B) ₹2,00,000  C) NIL  D) ₹3,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Base ₹5,00,000 pays the ₹3,00,000 bill, leaving **₹2,00,000**. **A)** ignores that a claim was paid. **C)** wrongly exhausts the whole base. **D)** confuses the amount paid with the amount remaining.
+</details>
+
+**Q6.2.** After the **second bill (₹4,00,000)**, what does the **base** pay, and what is left for the insured to fund before the super top-up triggers? *(Medium)*
+A) Base pays ₹4,00,000; nothing left for insured  B) Base pays ₹2,00,000; insured/aggregate must reach the deductible  C) Base pays NIL  D) Super top-up pays the whole ₹4,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Only ₹2,00,000 of base remains, so the base pays **₹2,00,000** of the ₹4,00,000; the other ₹2,00,000 counts toward meeting the ₹5,00,000 **aggregate deductible**. **A)** exceeds the base balance. **C)** wrongly says base pays nothing. **D)** the super top-up cannot pay until the aggregate deductible is met.
+</details>
+
+**Q6.3.** Across the first two bills (₹3L + ₹4L = ₹7L), the base paid ₹5L. Has the ₹5,00,000 **aggregate deductible** been met by the time the **third bill** arrives? *(Medium)*
+A) No, only ₹3,00,000 has been spent  B) Yes — ₹7,00,000 of claims (≥ ₹5,00,000) has been incurred  C) No, the deductible is per-claim  D) Only partly, ₹4,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **super top-up** works on **aggregate** claims. By the third bill, ₹7,00,000 of claims have been incurred, which **exceeds the ₹5,00,000 deductible**, so the super top-up is now active. **A), D)** undercount the aggregate. **C)** describes a plain top-up, not a super top-up.
+</details>
+
+**Q6.4.** For the **third bill (₹6,00,000)**, with base exhausted and the deductible met, how much does the **super top-up** pay? *(Hard)*
+A) ₹1,00,000  B) ₹6,00,000  C) ₹5,00,000  D) NIL
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Base is fully used (₹5L) and the aggregate deductible (₹5L) is already met by the first two bills, so the super top-up (₹15L limit) pays the **entire ₹6,00,000** third bill. **A)** wrongly leaves ₹5L to the insured. **C)** confuses the deductible amount with the payout. **D)** ignores that the super top-up is now active.
+</details>
+
+**Q6.5.** Ignoring the co-pay, the family's **total out-of-pocket** across all three bills is closest to: *(Hard)*
+A) ₹2,00,000  B) ₹5,00,000  C) NIL  D) ₹6,00,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Total bills ₹13,00,000; base pays ₹5,00,000 and super top-up pays the third bill ₹6,00,000 — but the portion of bills one and two beyond the base (₹7L − ₹5L = ₹2,00,000) fell **inside the deductible window before the super top-up triggered**, so the family bears **₹2,00,000**. **B)** equals the deductible but double-counts. **C)** wrongly assumes full coverage. **D)** over-states the gap.
+</details>
+
+---
+
+### Case Study 7 — Mrs. Nair: Estate Planning and Succession
+
+Mrs. Nair (68), a Hindu widow, owns a house and a portfolio of mutual funds and shares. She has two children (a son and a daughter) and three grandchildren. She has made a **registered Will** bequeathing the house to her son and the financial assets to her daughter. She wants the bequests to be smooth and is also considering creating a small fund for a grandchild's education 14 years away.
+
+**Q7.1.** When does Mrs. Nair's Will take legal effect? *(Easy)*
+A) On registration  B) On her death  C) When the son occupies the house  D) When probate is applied for
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A Will operates **only on the testator's death** and can be revised any time before then. **A)** Registration merely adds evidentiary value. **C), D)** Occupation or probate application do not make the Will operative.
+</details>
+
+**Q7.2.** Her son wants to mortgage the house **now**, showing the bank the Will as proof of future ownership. Is this valid? *(Medium)*
+A) Yes, the Will is registered  B) No — the Will is inoperative while Mrs. Nair is alive, so the son is not yet the owner  C) Yes, the son is a Class I heir  D) Yes, with the daughter's consent
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Since the Will takes effect only on death, the son has **no present ownership**; he cannot mortgage a property he does not yet own. **A)** Registration does not advance ownership. **C)** Being a Class I heir matters only on intestate death, and a Will overrides intestacy anyway. **D)** Consent of a sibling does not create ownership.
+</details>
+
+**Q7.3.** Her daughter has an **urgent cash need** today and wants the money Mrs. Nair intends her to inherit. The cleanest tax-free route is: *(Medium)*
+A) Show the registered Will to the AMC to redeem units  B) Make the daughter a joint holder  C) Mrs. Nair redeems units herself and gifts the cash to her daughter  D) Nothing can be done
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — As the living holder, **Mrs. Nair redeems and gifts** the cash; a gift from mother to daughter (a **relative**) is **exempt from tax** in the daughter's hands. **A)** A Will gives no current redemption right. **B)** Adding a joint holder is slower and not needed for an urgent need. **D)** Is too absolute.
+</details>
+
+**Q7.4.** To make sure the financial assets pass smoothly to the daughter **without disputes among heirs**, Mrs. Nair should additionally ensure: *(Medium)*
+A) The Will alone is enough; nominations are irrelevant  B) Nominations on the folios are aligned with the Will (nominee as trustee for the legatee)  C) She gifts everything away now  D) She converts the Will into a trust deed only at death
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **nominee receives assets as a trustee** for the legal heirs/legatees; aligning nominations with the Will avoids friction at settlement. **A)** Mismatched nominations are a common cause of disputes, so they are not irrelevant. **C)** Gifting everything now defeats her own needs and the plan. **D)** A trust cannot be created after death by the deceased.
+</details>
+
+**Q7.5.** For the **grandchild's education 14 years away**, the most suitable investment is: *(Easy)*
+A) A liquid fund  B) A short-term debt fund  C) A diversified equity fund  D) A savings bank account
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — A **14-year horizon** justifies **equity** for growth, regardless of Mrs. Nair's age, because suitability follows the **goal's horizon**. **A), B), D)** are low-growth options that risk falling short over 14 years.
+</details>
+
+---
+
+### Case Study 8 — Mr. Banerjee: Risk Profiling and Asset Allocation
+
+Mr. Banerjee (35), an IT professional, earns well, has **no dependents yet**, a stable job, an emergency fund of 6 months' expenses, no loans, and a **20-year** primary goal (wealth building) plus a **2-year** goal (down-payment for a flat). His questionnaire shows a **high ability and willingness to take risk**. Inflation 6%.
+
+**Q8.1.** How is Mr. Banerjee's overall **risk profile** best classified? *(Easy)*
+A) Conservative  B) Moderate  C) Aggressive  D) Liquidity seeker
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — High income, no dependents, no loans, an emergency cushion, a long horizon and high willingness all point to an **aggressive** profile (high ability **and** willingness). **A), B)** understate his capacity. **D)** is not a standard risk-profile category.
+</details>
+
+**Q8.2.** For his **20-year wealth-building** goal, the most suitable allocation is: *(Medium)*
+A) Mostly debt with a little equity  B) Mostly equity (growth assets)  C) Entirely liquid funds  D) Entirely gold
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A 20-year horizon and aggressive profile favour **mostly equity (growth assets)**, which historically beat inflation over long periods. **A)** is too conservative for the horizon. **C)** Liquid funds barely beat inflation. **D)** Concentrating in one commodity is undiversified.
+</details>
+
+**Q8.3.** For the **2-year down-payment** goal, the suitable choice is: *(Medium)*
+A) Mid-cap equity for growth  B) A short-term debt fund / FD to protect capital  C) A sectoral equity fund  D) An ELSS for tax saving
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A **2-year, must-have** goal needs **capital protection**, so short-term debt/FD is right even for an aggressive investor. **A), C)** Equity can fall just when the money is needed. **D)** ELSS has a 3-year lock-in, longer than the goal.
+</details>
+
+**Q8.4.** This illustrates a key principle of asset allocation: *(Medium)*
+A) Age alone fixes allocation  B) Goal horizon, not just risk profile, drives the asset choice for each goal  C) Aggressive investors should put everything in equity  D) Liquidity needs are irrelevant
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Even an aggressive investor parks short-horizon money safely: **each goal's horizon** shapes its allocation. **A)** Age is only one input. **C)** Ignores short-term goals' need for safety. **D)** Liquidity always matters.
+</details>
+
+**Q8.5.** The allocation set as a **long-term policy mix** from his profile and goals (not from market timing) is called: *(Easy)*
+A) Tactical asset allocation  B) Strategic asset allocation  C) Dynamic hedging  D) Rebalancing
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The long-term policy mix derived from risk profile and goals is **strategic** asset allocation. **A) Tactical** is short-term, market-driven tilts. **C)** Hedging manages specific risks, not the policy mix. **D)** Rebalancing restores the mix; it is not the mix itself.
+</details>
+
+---

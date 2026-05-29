@@ -265,13 +265,13 @@ A) Taxed at 12.50%  B) Exempt under Section 10  C) Taxed at slab rates  D) Taxed
 </details>
 
 **Q29.** Capital gains on transfer or redemption of tax-free bonds are:
-A) Also exempt under Section 10  B) Taxable, same as coupon bonds  C) Always short-term  D) Taxed at 20% with indexation
+A) Also exempt under Section 10  B) Always short-term  C) Taxed at 20% with indexation  D) Taxable, same as coupon bonds
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Only the *interest* is tax-free; the **capital gains are taxable**, with the same treatment as coupon bonds.
+**Correct: D)** — Only the *interest* is tax-free; the **capital gains are taxable**, with the same treatment as coupon bonds.
 - A) Wrong — the exemption covers interest, not capital gains.
-- C) Wrong — listed tax-free bonds held over 12 months are long-term.
-- D) Wrong — no indexation; LTCG on listed bonds is 12.50%.
+- B) Wrong — listed tax-free bonds held over 12 months are long-term.
+- C) Wrong — no indexation; LTCG on listed bonds is 12.50%.
 </details>
 
 **Q30.** A mutual fund that invests 65% or more of its proceeds in debt or money market instruments and is bought after April 1, 2023 is a:
@@ -333,12 +333,12 @@ A) 12 months  B) 24 months  C) 36 months  D) Not applicable
 ## 🟡 Tier 2 — Medium: Application (Q36–Q70)
 
 **Q36.** Mr. P sells UNLISTED debentures after holding them for 5 years at a profit. How is the gain taxed?
-A) LTCG at 12.50% without indexation  B) LTCG at 20% with indexation  C) STCG at applicable slab rates  D) Exempt as held over 3 years
+A) LTCG at 12.50% without indexation  B) LTCG at 20% with indexation  C) Exempt as held over 3 years  D) STCG at applicable slab rates
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Unlisted debentures are **always short-term irrespective of holding period**, so the gain is STCG taxed at slab rates — even after 5 years.
+**Correct: D)** — Unlisted debentures are **always short-term irrespective of holding period**, so the gain is STCG taxed at slab rates — even after 5 years.
 - A) and B) Wrong — unlisted debentures never qualify as long-term.
-- D) Wrong — there is no exemption for holding 3+ years here.
+- C) Wrong — there is no exemption for holding 3+ years here.
 </details>
 
 **Q37.** Mr. Q holds a Principal-Protected MLD for 4 years and redeems it at maturity (after 01-04-2023). The gain is:
@@ -352,22 +352,22 @@ A) LTCG at 12.50%  B) STCG at slab rates under Section 50AA  C) Tax-free  D) Tax
 </details>
 
 **Q38.** An investor earns the difference between purchase and sale of a 182-day T-Bill held to maturity. This is taxed as:
-A) Interest income at slab rates  B) Short-term capital gain at applicable rates  C) LTCG at 12.50%  D) Exempt income
+A) Interest income at slab rates  B) LTCG at 12.50%  C) Exempt income  D) Short-term capital gain at applicable rates
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — T-Bills pay no interest; the discount-to-face gain is a **short-term capital gain** (maturity under 1 year) at applicable rates.
+**Correct: D)** — T-Bills pay no interest; the discount-to-face gain is a **short-term capital gain** (maturity under 1 year) at applicable rates.
 - A) Wrong — there is no interest on a T-Bill, so it is not interest income.
-- C) Wrong — sub-1-year maturity cannot be long-term.
-- D) Wrong — the gain is taxable.
+- B) Wrong — sub-1-year maturity cannot be long-term.
+- C) Wrong — the gain is taxable.
 </details>
 
 **Q39.** Compared with a listed bond held 18 months, an unlisted bond held 18 months differs in that the unlisted bond's gain is:
-A) Long-term at 12.50%  B) Short-term at slab rates  C) Exempt  D) Taxed at 20%
+A) Long-term at 12.50%  B) Exempt  C) Taxed at 20%  D) Short-term at slab rates
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A listed bond held over 12 months is LTCG at 12.50%, but the **unlisted bond is always STCG at slab rates**, regardless of the 18 months.
+**Correct: D)** — A listed bond held over 12 months is LTCG at 12.50%, but the **unlisted bond is always STCG at slab rates**, regardless of the 18 months.
 - A) Wrong — that is the listed-bond treatment, not unlisted.
-- C) and D) Wrong — no exemption and no 20% rate apply.
+- B) and C) Wrong — no exemption and no 20% rate apply.
 </details>
 
 **Q40.** A resident receives dividend of Rs. 2,00,000 from a debt-oriented mutual fund and paid Rs. 60,000 interest on borrowed funds. The maximum interest deduction is:
@@ -390,30 +390,30 @@ A) Rs. 1,40,000  B) Rs. 1,60,000  C) Rs. 2,00,000  D) Rs. 40,000
 </details>
 
 **Q42.** Mr. R bought a debt-oriented fund in January 2022 (before April 2023) and sells it after holding 4 years. The fund is treated as:
-A) SMF Type 1 under Section 50AA  B) An "Other Mutual Fund"  C) Equity-oriented fund  D) SMF Type 2 under Section 50AA
+A) SMF Type 1 under Section 50AA  B) SMF Type 2 under Section 50AA  C) Equity-oriented fund  D) An "Other Mutual Fund"
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 50AA applies only to SMFs acquired **on or after 01-04-2023**. Bought in Jan 2022, the fund follows normal rules as an **Other Mutual Fund**.
-- A) and D) Wrong — Section 50AA does not catch pre-April-2023 purchases.
+**Correct: D)** — Section 50AA applies only to SMFs acquired **on or after 01-04-2023**. Bought in Jan 2022, the fund follows normal rules as an **Other Mutual Fund**.
+- A) and B) Wrong — Section 50AA does not catch pre-April-2023 purchases.
 - C) Wrong — a debt fund is not equity-oriented.
 </details>
 
 **Q43.** For a NON-RESIDENT, LTCG on transfer of LISTED bonds is taxed at:
-A) Slab rates  B) 12.50% without indexation  C) 20% with indexation  D) Exempt
+A) Slab rates  B) 20% with indexation  C) Exempt  D) 12.50% without indexation
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A non-resident's LTCG on listed bonds is **always 12.50% without indexation** (no forex benefit either).
+**Correct: D)** — A non-resident's LTCG on listed bonds is **always 12.50% without indexation** (no forex benefit either).
 - A) Wrong — slab rates apply to STCG, not LTCG on listed bonds.
-- C) Wrong — no indexation is allowed.
-- D) Wrong — the gain is taxable.
+- B) Wrong — no indexation is allowed.
+- C) Wrong — the gain is taxable.
 </details>
 
 **Q44.** Under Section 115E, LTCG to a Non-Resident Indian arises from the transfer of Government securities or listed debentures of an Indian public company, provided they were purchased in:
-A) Indian rupees  B) Foreign currency  C) Gold  D) Cryptocurrency
+A) Indian rupees  B) Gold  C) Cryptocurrency  D) Foreign currency
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 115E covers LTCG on Govt securities or listed debentures of an Indian public company **purchased in foreign currency**, taxed at 12.50%.
-- A), C), D) Wrong — the provision specifically requires purchase in foreign currency.
+**Correct: D)** — Section 115E covers LTCG on Govt securities or listed debentures of an Indian public company **purchased in foreign currency**, taxed at 12.50%.
+- A), B), C) Wrong — the provision specifically requires purchase in foreign currency.
 </details>
 
 **Q45.** An ETF (exchange traded fund) differs from a regular mutual fund mainly because investors:
@@ -444,13 +444,13 @@ A) 30%  B) 15%  C) 45%  D) 0%
 </details>
 
 **Q48.** To claim DTAA relief, a non-resident must obtain a Tax Residency Certificate (TRC) and furnish:
-A) Form 15G  B) Form 10F  C) Form 26AS  D) Form 49A
+A) Form 15G  B) Form 26AS  C) Form 49A  D) Form 10F
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Besides the TRC, the non-resident must furnish **Form 10F**, a self-declaration of prescribed details.
+**Correct: D)** — Besides the TRC, the non-resident must furnish **Form 10F**, a self-declaration of prescribed details.
 - A) Wrong — Form 15G is for residents seeking nil-TDS.
-- C) Wrong — Form 26AS is a tax credit statement, not a DTAA declaration.
-- D) Wrong — Form 49A is a PAN application form.
+- B) Wrong — Form 26AS is a tax credit statement, not a DTAA declaration.
+- C) Wrong — Form 49A is a PAN application form.
 </details>
 
 **Q49.** Under Chapter XII-A, eligible investments for an NRI of Indian origin include all EXCEPT:
@@ -488,11 +488,11 @@ A) Permanently exempt  B) Taxed in the year the new asset is transferred  C) Ref
 </details>
 
 **Q53.** Section 89A addresses double taxation on overseas retirement funds for residents who once worked in which countries?
-A) USA, Canada and UK  B) UAE, Singapore and Australia  C) Germany, France and Japan  D) China, Russia and Brazil
+A) UAE, Singapore and Australia  B) Germany, France and Japan  C) USA, Canada and UK  D) China, Russia and Brazil
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — The notified countries for Section 89A are **USA, Canada and the UK**; income from such retirement accounts is taxed on withdrawal, not accrual.
-- B), C), D) Wrong — these are not the notified countries.
+**Correct: C)** — The notified countries for Section 89A are **USA, Canada and the UK**; income from such retirement accounts is taxed on withdrawal, not accrual.
+- A), B), D) Wrong — these are not the notified countries.
 </details>
 
 **Q54.** MLDs can be issued by companies with a minimum net worth of:
@@ -504,21 +504,21 @@ A) Rs. 10 crores  B) Rs. 50 crores  C) Rs. 100 crores  D) Rs. 500 crores
 </details>
 
 **Q55.** The maximum tenure for MLDs is generally:
-A) 3 to 6 months  B) 12 to 36 months  C) 5 to 10 years  D) Up to 40 years
+A) 3 to 6 months  B) 5 to 10 years  C) Up to 40 years  D) 12 to 36 months
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — MLD tenure is generally between **12 to 36 months**, with returns paid only at maturity.
+**Correct: D)** — MLD tenure is generally between **12 to 36 months**, with returns paid only at maturity.
 - A) Wrong — too short relative to the stated range.
-- C) and D) Wrong — those are bond/G-Sec horizons, not MLDs.
+- B) and C) Wrong — those are bond/G-Sec horizons, not MLDs.
 </details>
 
 **Q56.** A Principal Non-Protected MLD differs from a Principal Protected MLD in that it:
-A) Always returns the full principal  B) Does not guarantee return of the principal at maturity  C) Pays a fixed coupon  D) Is exempt from tax
+A) Always returns the full principal  B) Pays a fixed coupon  C) Does not guarantee return of the principal at maturity  D) Is exempt from tax
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A Principal Non-Protected MLD **does not guarantee return of principal**; the protected variety does.
+**Correct: C)** — A Principal Non-Protected MLD **does not guarantee return of principal**; the protected variety does.
 - A) Wrong — that is the protected MLD.
-- C) Wrong — MLD coupons vary with the underlying's performance.
+- B) Wrong — MLD coupons vary with the underlying's performance.
 - D) Wrong — MLDs are taxable under Section 50AA.
 </details>
 
@@ -542,12 +542,12 @@ A) 25% (DTAA)  B) 20% (Act)  C) 22.5% (average)  D) 0%
 </details>
 
 **Q59.** If Mr. T above is instead a UK tax resident and the India-UK DTAA rate on dividends is 10%, he will pay:
-A) 20% (Act)  B) 10% (DTAA)  C) 15%  D) 25%
+A) 20% (Act)  B) 15%  C) 25%  D) 10% (DTAA)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The India-UK DTAA's **10%** is lower than the Act's 20%, so the DTAA rate of 10% applies.
+**Correct: D)** — The India-UK DTAA's **10%** is lower than the Act's 20%, so the DTAA rate of 10% applies.
 - A) Wrong — the Act's 20% is higher than the DTAA rate available here.
-- C) and D) Wrong — these are not the applicable beneficial rate.
+- B) and C) Wrong — these are not the applicable beneficial rate.
 </details>
 
 **Q60.** An SMF Type 2 typically includes funds that invested LESS than 35% in Indian equity, bought after 01-04-2023 and sold:
@@ -559,13 +559,13 @@ A) Before 01-04-2025  B) After 01-04-2030  C) Anytime  D) Before 01-04-2023
 </details>
 
 **Q61.** A debt-oriented hybrid fund that invested less than 35% in Indian equity, bought May 2023 and sold March 2025, is taxed as:
-A) Other Mutual Fund (LTCG 12.50%)  B) SMF Type 2 — all gains STCG at slab rates  C) Equity-oriented fund  D) Exempt
+A) Other Mutual Fund (LTCG 12.50%)  B) Equity-oriented fund  C) Exempt  D) SMF Type 2 — all gains STCG at slab rates
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — This fits **SMF Type 2** (under 35% equity, bought after 01-04-2023, sold before 01-04-2025) under Section 50AA: **all gains are STCG at slab rates**.
+**Correct: D)** — This fits **SMF Type 2** (under 35% equity, bought after 01-04-2023, sold before 01-04-2025) under Section 50AA: **all gains are STCG at slab rates**.
 - A) Wrong — Section 50AA overrides the long-term treatment here.
-- C) Wrong — under 35% equity is not equity-oriented.
-- D) Wrong — the gains are taxable.
+- B) Wrong — under 35% equity is not equity-oriented.
+- C) Wrong — the gains are taxable.
 </details>
 
 **Q62.** When a listed bond is sold "inclusive of accrued interest", for capital gains the accrued interest must be:
@@ -666,13 +666,13 @@ A) Rs. 3,750  B) Rs. 7,500  C) Rs. 1,875  D) Rs. 750
 </details>
 
 **Q72.** Same bonds (Q71), Mr. A follows the mercantile system. Interest accrues Jan–Mar 2024 (3 months). How much accrues for that quarter?
-A) Rs. 3,750  B) Rs. 1,875  C) Rs. 7,500  D) Rs. 937.50
+A) Rs. 3,750  B) Rs. 7,500  C) Rs. 937.50  D) Rs. 1,875
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Formula: interest = 1,00,000 × 7.50% × 3/12.** = 1,00,000 × 0.075 × 0.25 = **Rs. 1,875** for the 3-month period.
+**Correct: D)** — **Formula: interest = 1,00,000 × 7.50% × 3/12.** = 1,00,000 × 0.075 × 0.25 = **Rs. 1,875** for the 3-month period.
 - A) Wrong — Rs. 3,750 is 6 months.
-- C) Wrong — Rs. 7,500 is a full year.
-- D) Wrong — Rs. 937.50 would be 1.5 months.
+- B) Wrong — Rs. 7,500 is a full year.
+- C) Wrong — Rs. 937.50 would be 1.5 months.
 </details>
 
 **Q73.** Mr. A buys 400 listed bonds @ Rs. 1,200 each (01-01-2016), sells @ Rs. 2,000 each (31-07-2024). The full value of consideration is:
@@ -715,13 +715,13 @@ A) At 12.50% (LTCG)  B) As STCG at applicable slab rates  C) Exempt  D) At 20% w
 </details>
 
 **Q77.** Mr. A holds 400 bonds, face Rs. 1,000, coupon 7%, interest half-yearly. The half-yearly interest received on 30-06-2024 is:
-A) Rs. 28,000  B) Rs. 14,000  C) Rs. 7,000  D) Rs. 56,000
+A) Rs. 28,000  B) Rs. 7,000  C) Rs. 56,000  D) Rs. 14,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Formula = 400 × 1,000 × 7% × 6/12** = 4,00,000 × 0.07 × 0.5 = **Rs. 14,000**.
+**Correct: D)** — **Formula = 400 × 1,000 × 7% × 6/12** = 4,00,000 × 0.07 × 0.5 = **Rs. 14,000**.
 - A) Wrong — Rs. 28,000 is the full-year interest.
-- C) Wrong — Rs. 7,000 is a quarter (3 months).
-- D) Wrong — Rs. 56,000 is double the annual interest.
+- B) Wrong — Rs. 7,000 is a quarter (3 months).
+- C) Wrong — Rs. 56,000 is double the annual interest.
 </details>
 
 **Q78.** Continuing Q77 (mercantile), interest accrued for April–June 2024 (3 months) is:

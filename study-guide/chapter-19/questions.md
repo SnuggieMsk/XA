@@ -33,10 +33,10 @@ A) 5 years  B) 1 year  C) 15 years  D) 3 years
 </details>
 
 **Q5.** The risk of capital loss in PPF is described as:
-A) High  B) Low (sovereign risk)  C) Moderate  D) Very high
+A) Low (sovereign risk)  B) High  C) Moderate  D) Very high
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — PPF carries **Low** risk because it is a government scheme (sovereign risk). A and D (high) describe equity products like ELSS. C (moderate) describes NPS Tier 1. The government backing is what makes PPF among the safest options.
+**Correct: A)** — PPF carries **Low** risk because it is a government scheme (sovereign risk). B and D (high) describe equity products like ELSS. C (moderate) describes NPS Tier 1. The government backing is what makes PPF among the safest options.
 </details>
 
 **Q6.** Capital gains on ELSS are taxed at what rate (per the workbook)?
@@ -61,10 +61,10 @@ A) 40%  B) 100%  C) 50%  D) 60%
 </details>
 
 **Q9.** The 40% of the NPS corpus not withdrawn tax-free must be used to:
-A) Buy gold bonds  B) Buy annuity product(s) from an insurance company  C) Reinvest in equity  D) Pay tax dues
+A) Buy gold bonds  B) Pay tax dues  C) Reinvest in equity  D) Buy annuity product(s) from an insurance company
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The remaining **40% must buy annuity product(s) from an insurance company**, and that annuity income is fully taxable. A, C and D are not requirements. The design forces a retirement income stream rather than a one-time spend.
+**Correct: D)** — The remaining **40% must buy annuity product(s) from an insurance company**, and that annuity income is fully taxable. A, B and C are not requirements. The design forces a retirement income stream rather than a one-time spend.
 </details>
 
 **Q10.** What is the maximum annual contribution allowed in PPF?
@@ -75,10 +75,10 @@ A) Rs. 1,00,000  B) Rs. 1,50,000  C) Rs. 2,50,000  D) Rs. 50,000
 </details>
 
 **Q11.** Tax on PPF returns is:
-A) 12.50%  B) Nil (tax-free)  C) 10%  D) Taxable each year
+A) Nil (tax-free)  B) 12.50%  C) 10%  D) Taxable each year
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — PPF returns attract **Nil tax** (tax-free), giving a moderate but attractive post-tax return. A is the ELSS rate. C is invented. D describes a tax-saving bank FD, whose interest is taxable each year. Tax-free status is a key PPF advantage.
+**Correct: A)** — PPF returns attract **Nil tax** (tax-free), giving a moderate but attractive post-tax return. B is the ELSS rate. C is invented. D describes a tax-saving bank FD, whose interest is taxable each year. Tax-free status is a key PPF advantage.
 </details>
 
 **Q12.** What is the lock-in period for a PPF account?
@@ -89,10 +89,10 @@ A) 3 years  B) 5 years  C) 15 years  D) 8 years
 </details>
 
 **Q13.** Interest on a tax-saving bank FD is:
-A) Tax-free  B) Taxable each year  C) Taxed only at maturity at 12.50%  D) Exempt up to Rs. 1.5 lakh
+A) Tax-free  B) Exempt up to Rs. 1.5 lakh  C) Taxed only at maturity at 12.50%  D) Taxable each year
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A tax-saving bank FD's returns are **taxable each year**, giving moderately low post-tax returns. A (tax-free) describes PPF. C and D are invented treatments. Yearly taxation is exactly why the FD's post-tax return is lower than PPF's even at similar headline rates.
+**Correct: D)** — A tax-saving bank FD's returns are **taxable each year**, giving moderately low post-tax returns. A (tax-free) describes PPF. B and C are invented treatments. Yearly taxation is exactly why the FD's post-tax return is lower than PPF's even at similar headline rates.
 </details>
 
 **Q14.** What is the minimum investment size for Portfolio Management Services (PMS)?
@@ -103,10 +103,10 @@ A) Rs. 1,000  B) Rs. 1 crore  C) Rs. 50 lakh  D) Rs. 5 lakh
 </details>
 
 **Q15.** What is the minimum investment size for an Alternative Investment Fund (AIF)?
-A) Rs. 50 lakh  B) Rs. 1 crore  C) Rs. 25 lakh  D) Rs. 10 lakh
+A) Rs. 1 crore  B) Rs. 50 lakh  C) Rs. 25 lakh  D) Rs. 10 lakh
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — AIFs require a minimum of **Rs. 1 crore**. A (Rs. 50 lakh) is for PMS. C and D are invented. AIFs sit at the top of the minimum-investment ladder because they suit HNIs seeking complex strategies.
+**Correct: A)** — AIFs require a minimum of **Rs. 1 crore**. B (Rs. 50 lakh) is for PMS. C and D are invented. AIFs sit at the top of the minimum-investment ladder because they suit HNIs seeking complex strategies.
 </details>
 
 **Q16.** In an equity mutual fund, the minimum investment can be as low as:
@@ -117,10 +117,10 @@ A) Rs. 50 lakh  B) Rs. 1 crore  C) Rs. 1,000  D) Rs. 10,000
 </details>
 
 **Q17.** Operating expenses of a PMS are capped at:
-A) 1.00%  B) 0.50%  C) 2.50%  D) No cap
+A) 1.00%  B) No cap  C) 2.50%  D) 0.50%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — In PMS, upfront charges are not allowed and **operating expenses are capped at 0.50%**; the management/performance fee is as agreed. A and C are invented. D is wrong because there IS a cap on operating expenses (the fee itself is negotiable, but operating expenses are capped).
+**Correct: D)** — In PMS, upfront charges are not allowed and **operating expenses are capped at 0.50%**; the management/performance fee is as agreed. A and C are invented. B is wrong because there IS a cap on operating expenses (the fee itself is negotiable, but operating expenses are capped).
 </details>
 
 **Q18.** A mutual fund is managed by an AMC; a ULIP is managed by:
@@ -138,17 +138,17 @@ A) Investment only  B) Insurance only  C) Insurance cum investment  D) Tax payme
 </details>
 
 **Q20.** ULIP maturity proceeds are tax-free if the sum assured is at least how many times the annual premium?
-A) 5 times  B) 10 times  C) 20 times  D) 2 times
+A) 10 times  B) 5 times  C) 20 times  D) 2 times
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Withdrawals/maturity are tax-free if the **sum assured is at least 10 times the annual premium**. A, C and D are wrong multiples. This "10x" rule is a classic exam number; pair it with the Rs. 2.5 lakh premium threshold (post-1 Feb 2021).
+**Correct: A)** — Withdrawals/maturity are tax-free if the **sum assured is at least 10 times the annual premium**. B, C and D are wrong multiples. This "10x" rule is a classic exam number; pair it with the Rs. 2.5 lakh premium threshold (post-1 Feb 2021).
 </details>
 
 **Q21.** Per the Finance Act 2021, ULIPs issued on/after 1 Feb 2021 lose tax exemption if any year's premium exceeds:
-A) Rs. 1.5 lakh  B) Rs. 2.5 lakh  C) Rs. 5 lakh  D) Rs. 1 lakh
+A) Rs. 1.5 lakh  B) Rs. 1 lakh  C) Rs. 5 lakh  D) Rs. 2.5 lakh
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 10(10D) (as amended) removes exemption for such ULIPs if premium in any year exceeds **Rs. 2.5 lakh**. A (Rs. 1.5 lakh) is the PPF/80C limit. C and D are invented. Below Rs. 2.5 lakh the maturity stays exempt.
+**Correct: D)** — Section 10(10D) (as amended) removes exemption for such ULIPs if premium in any year exceeds **Rs. 2.5 lakh**. A (Rs. 1.5 lakh) is the PPF/80C limit. B and C are invented. Below Rs. 2.5 lakh the maturity stays exempt.
 </details>
 
 **Q22.** Compared to mutual funds, ULIP disclosure standards are:
@@ -159,10 +159,10 @@ A) Higher and more transparent  B) Identical  C) Lower, with fewer comparison se
 </details>
 
 **Q23.** A ULIP requires compulsory premium contribution for at least how many years (except single-premium plans)?
-A) 3 years  B) 5 years  C) 10 years  D) 1 year
+A) 5 years  B) 3 years  C) 10 years  D) 1 year
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — ULIPs need compulsory contribution for **5 years** with no redemption for at least 5 years; discontinuation charges apply if premiums stop earlier. A is the ELSS lock-in. C and D are wrong. The 5-year rule is the ULIP liquidity constraint.
+**Correct: A)** — ULIPs need compulsory contribution for **5 years** with no redemption for at least 5 years; discontinuation charges apply if premiums stop earlier. B is the ELSS lock-in. C and D are wrong. The 5-year rule is the ULIP liquidity constraint.
 </details>
 
 **Q24.** An actively managed fund aims to:

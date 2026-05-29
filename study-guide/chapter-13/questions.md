@@ -33,20 +33,20 @@ A) Face value  B) Market value on allotment date  C) Nil  D) Issue price of orig
 </details>
 
 **Q4.** A listed bonus share sold within how many months of allotment is a short-term capital asset?
-A) 6 months  B) 12 months  C) 24 months  D) 36 months
+A) 6 months  B) 36 months  C) 24 months  D) 12 months
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For listed shares, the threshold between short-term and long-term is **12 months**. Held for not more than 12 months = short-term; more than 12 months = long-term.
-- A) and D) are not the prescribed thresholds.
+**Correct: D)** — For listed shares, the threshold between short-term and long-term is **12 months**. Held for not more than 12 months = short-term; more than 12 months = long-term.
+- A) and B) are not the prescribed thresholds.
 - C) 24 months applies only to **unlisted** shares.
 </details>
 
 **Q5.** Under which section are short-term capital gains on listed equity shares (with STT paid) taxed?
-A) Section 112A  B) Section 111A  C) Section 115BBH  D) Section 10(34A)
+A) Section 111A  B) Section 112A  C) Section 115BBH  D) Section 10(34A)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section **111A** governs STCG on equity shares / equity-oriented MF units / business trust units where STT is paid; the rate is 20%.
-- A) Section 112A is for long-term gains, not short-term.
+**Correct: A)** — Section **111A** governs STCG on equity shares / equity-oriented MF units / business trust units where STT is paid; the rate is 20%.
+- B) Section 112A is for long-term gains, not short-term.
 - C) Section 115BBH taxes Virtual Digital Assets.
 - D) Section 10(34A) was the old buyback exemption for shareholders.
 </details>
@@ -142,13 +142,13 @@ A) 10%  B) 15%  C) 20%  D) 30%
 </details>
 
 **Q16.** What is a rights issue?
-A) Free shares to existing shareholders  B) The right offered to existing shareholders to subscribe to new shares in proportion to their holdings  C) Company buying its own shares  D) Splitting one share into many
+A) Free shares to existing shareholders  B) Splitting one share into many  C) Company buying its own shares  D) The right offered to existing shareholders to subscribe to new shares in proportion to their holdings
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A rights issue gives **existing shareholders the right to buy newly issued shares** in proportion to their current holdings, usually at a price below market.
+**Correct: D)** — A rights issue gives **existing shareholders the right to buy newly issued shares** in proportion to their current holdings, usually at a price below market.
 - A) is a bonus issue.
+- B) is a split.
 - C) is buyback.
-- D) is a split.
 </details>
 
 **Q17.** What is the cost of acquisition of a right that is renounced in favour of another person?
@@ -205,11 +205,11 @@ A) Section 47(vii)  B) Section 47(xb)  C) Section 47(xv)  D) Section 111A
 </details>
 
 **Q23.** On later sale of amalgamated-company shares, the cost of acquisition is:
-A) Nil  B) The amount paid for the original shares of the amalgamating company  C) Market value at amalgamation  D) Face value of new shares
+A) Nil  B) Market value at amalgamation  C) Face value of new shares  D) The amount paid for the original shares of the amalgamating company
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The cost carries over: it is the **amount paid for the original shares** in the amalgamating company, and the holding period also runs from that original acquisition date.
-- A), C), D) do not reflect the carry-over rule.
+**Correct: D)** — The cost carries over: it is the **amount paid for the original shares** in the amalgamating company, and the holding period also runs from that original acquisition date.
+- A), B), C) do not reflect the carry-over rule.
 </details>
 
 **Q24.** What does SLB stand for?
@@ -323,31 +323,31 @@ A) Fully exempt  B) Treated like a normal redemption (capital gains as usual)  C
 ## 🟡 Tier 2 — Medium: Application (Q36–Q70)
 
 **Q36.** Mr. A holds bonus shares allotted on 01-09-2023 (listed) and sells them on 01-08-2024. The bonus shares are:
-A) Long-term, since original shares were held long  B) Short-term, because held about 11 months from allotment  C) Exempt  D) Long-term, because the company is listed
+A) Long-term, since original shares were held long  B) Long-term, because the company is listed  C) Exempt  D) Short-term, because held about 11 months from allotment
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The bonus clock runs from allotment (01-09-2023). From 01-09-2023 to 01-08-2024 is about 11 months, which is not more than 12 months, so they are **short-term**.
+**Correct: D)** — The bonus clock runs from allotment (01-09-2023). From 01-09-2023 to 01-08-2024 is about 11 months, which is not more than 12 months, so they are **short-term**.
 - A) is wrong: the original shares' holding does not transfer to bonus shares.
+- B) is wrong: listing alone does not make a gain long-term; holding period decides.
 - C) is wrong: they are taxable.
-- D) is wrong: listing alone does not make a gain long-term; holding period decides.
 </details>
 
 **Q37.** A bonus share (cost nil) is sold for a gain after being held 14 months (listed, STT paid). The gain is taxed under:
-A) Section 111A at 20%  B) Section 112A at 12.50% over Rs. 1,25,000  C) Slab rates  D) Section 115BBH at 30%
+A) Section 111A at 20%  B) Section 115BBH at 30%  C) Slab rates  D) Section 112A at 12.50% over Rs. 1,25,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Held more than 12 months (listed) = long-term; with STT paid, equity LTCG falls under **Section 112A at 12.50% on the amount over Rs. 1,25,000**.
+**Correct: D)** — Held more than 12 months (listed) = long-term; with STT paid, equity LTCG falls under **Section 112A at 12.50% on the amount over Rs. 1,25,000**.
 - A) 111A is for short-term gains.
+- B) 115BBH is for Virtual Digital Assets.
 - C) slab rates do not apply to equity LTCG with STT.
-- D) 115BBH is for Virtual Digital Assets.
 </details>
 
 **Q38.** Mr. A acquired 2,000 shares at Rs. 100 each, then the company consolidated 2 shares into 1. After consolidation he holds 1,000 shares. Cost per consolidated share is:
-A) Rs. 100  B) Rs. 200  C) Rs. 50  D) Nil
+A) Rs. 200  B) Rs. 100  C) Rs. 50  D) Nil
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Formula: cost per new share = total original cost ÷ number of shares after consolidation. Total cost = 2,000 × Rs. 100 = Rs. 2,00,000; after 2:1 consolidation he has 1,000 shares; Rs. 2,00,000 ÷ 1,000 = **Rs. 200**. Intuition: half the shares, so each carries double the cost.
-- A) Rs. 100 ignores the consolidation.
+**Correct: A)** — Formula: cost per new share = total original cost ÷ number of shares after consolidation. Total cost = 2,000 × Rs. 100 = Rs. 2,00,000; after 2:1 consolidation he has 1,000 shares; Rs. 2,00,000 ÷ 1,000 = **Rs. 200**. Intuition: half the shares, so each carries double the cost.
+- B) Rs. 100 ignores the consolidation.
 - C) Rs. 50 would be a split, not consolidation.
 - D) Nil is for bonus shares.
 </details>
@@ -420,13 +420,13 @@ A) Rs. 2,00,000  B) Rs. 1,98,000  C) Rs. 2,02,000  D) Nil (not a transfer)
 </details>
 
 **Q46.** A borrower in SLB sells the borrowed shares. Any gain or loss on that sale is taxable under:
-A) Income from other sources only  B) Capital gains or PGBP, as the case may be  C) Always exempt  D) Salary
+A) Income from other sources only  B) Always exempt  C) Salary  D) Capital gains or PGBP, as the case may be
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The borrower buys/sells the stock, so gains or losses fall under **capital gains or PGBP**, depending on whether held as investment or stock-in-trade; the lending fee paid is deductible.
+**Correct: D)** — The borrower buys/sells the stock, so gains or losses fall under **capital gains or PGBP**, depending on whether held as investment or stock-in-trade; the lending fee paid is deductible.
 - A) is incomplete.
-- C) is wrong: borrower transactions are taxable.
-- D) is an unrelated head.
+- B) is wrong: borrower transactions are taxable.
+- C) is an unrelated head.
 </details>
 
 **Q47.** Mr. X converts 20,000 preference shares (cost Rs. 10 each) into 10,000 equity shares (2:1). On later sale, his cost of acquisition of the equity shares is:
@@ -522,11 +522,11 @@ A) The offer date  B) The date of allotment of the right shares  C) The renounce
 </details>
 
 **Q57.** If a stock-in-trade holder profits from selling right shares, the gain is taxable as:
-A) Short-term capital gain  B) Business income  C) Long-term capital gain  D) Dividend
+A) Business income  B) Short-term capital gain  C) Long-term capital gain  D) Dividend
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Profits from right shares (or renunciation of a right) when the underlying shares are held as **stock-in-trade** are taxed as **business income**; the cost of a renounced right is deemed nil.
-- A) and C) apply only to capital assets.
+**Correct: A)** — Profits from right shares (or renunciation of a right) when the underlying shares are held as **stock-in-trade** are taxed as **business income**; the cost of a renounced right is deemed nil.
+- B) and C) apply only to capital assets.
 - D) is unrelated.
 </details>
 
@@ -592,11 +592,11 @@ A) 20%  B) 25%  C) 30%  D) 15%
 </details>
 
 **Q65.** A non-resident's LTCG from transfer of a specified asset purchased in foreign currency is taxed under Section 115E at:
-A) 10%  B) 12.5%  C) 20%  D) 30%
+A) 12.5%  B) 10%  C) 20%  D) 30%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 115E taxes a Non-Resident Indian's LTCG from a specified foreign-currency-purchased asset at **12.5%**.
-- A) and C) relate to other 115A/115AC incomes.
+**Correct: A)** — Section 115E taxes a Non-Resident Indian's LTCG from a specified foreign-currency-purchased asset at **12.5%**.
+- B) and C) relate to other 115A/115AC incomes.
 - D) is the VDA rate.
 </details>
 
@@ -611,19 +611,19 @@ A) 5%  B) 10%  C) 20%  D) 30%
 </details>
 
 **Q67.** A non-resident's dividend income (not at a special rate) is generally taxed under Section 115A at 20%, but at what rate if received from a unit in an IFSC?
-A) 5%  B) 10%  C) 15%  D) Nil
+A) 10%  B) 5%  C) 15%  D) Nil
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Dividend received from a unit in an IFSC is taxed at **10%** under Section 115A; otherwise the rate is 20%.
-- A), C), D) are not the prescribed IFSC dividend rate.
+**Correct: A)** — Dividend received from a unit in an IFSC is taxed at **10%** under Section 115A; otherwise the rate is 20%.
+- B), C), D) are not the prescribed IFSC dividend rate.
 </details>
 
 **Q68.** Which best describes the benefit of SLB to the lender?
-A) Avoiding settlement failure  B) Earning incremental return (lending fee) on an idle portfolio  C) Covering a short position  D) Arbitrage between spot and futures
+A) Avoiding settlement failure  B) Arbitrage between spot and futures  C) Covering a short position  D) Earning incremental return (lending fee) on an idle portfolio
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For a lender, SLB provides **incremental return (lending fee) on an otherwise idle portfolio** — useful for long-term holdings such as mutual funds.
-- A), C), D) are benefits to the **borrower**, not the lender.
+**Correct: D)** — For a lender, SLB provides **incremental return (lending fee) on an otherwise idle portfolio** — useful for long-term holdings such as mutual funds.
+- A), B), C) are benefits to the **borrower**, not the lender.
 </details>
 
 **Q69.** When a mutual fund scheme is "shut" (newspaper notice given), the trustees/AMC must:

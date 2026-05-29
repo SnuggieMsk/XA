@@ -162,11 +162,11 @@ Intuition: The government wants you to hold gold long-term, so the early door on
 </details>
 
 **Q15.** Under Section 47, redemption of SGBs by an individual is:
-A) Treated as a transfer and taxed as LTCG  B) Not treated as a transfer, so no capital gain arises  C) Taxed at 20% always  D) Taxed at slab rate
+A) Treated as a transfer and taxed as LTCG  B) Taxed at 20% always  C) Taxed at slab rate  D) Not treated as a transfer, so no capital gain arises
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 47 provides that redemption by an individual is not a "transfer," so no capital gains tax arises.
-- A), C), D) Wrong: because there is no "transfer," no capital gains computation (and hence no rate) applies for an individual on redemption.
+**Correct: D)** — Section 47 provides that redemption by an individual is not a "transfer," so no capital gains tax arises.
+- A), B), C) Wrong: because there is no "transfer," no capital gains computation (and hence no rate) applies for an individual on redemption.
 
 Intuition: No transfer = no capital gain. The government rewards individuals who hold SGBs to redemption.
 </details>
@@ -343,12 +343,12 @@ Intuition: The law carves out unit redemption specifically into "other sources" 
 </details>
 
 **Q31.** The pass-through status of REITs is given for which of the following incomes?
-A) Capital gains on property sale  B) Rental income, and interest/dividend from SPV  C) Only capital gains  D) Only other income
+A) Capital gains on property sale  B) Only capital gains  C) Only other income  D) Rental income, and interest/dividend from SPV
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Pass-through is provided for rental income, plus interest and dividend received from the SPV.
-- A), C) Wrong: capital gains on property are taxed at the REIT level, not passed through.
-- D) Wrong: other income is generally taxed at the REIT level.
+**Correct: D)** — Pass-through is provided for rental income, plus interest and dividend received from the SPV.
+- A), B) Wrong: capital gains on property are taxed at the REIT level, not passed through.
+- C) Wrong: other income is generally taxed at the REIT level.
 
 Intuition: The three "operating" income streams (rent, SPV interest, SPV dividend) flow to investors; one-off gains stay with the REIT.
 </details>
@@ -424,13 +424,13 @@ Intuition: Listed + STT + long-term = the "favoured" 112A bucket with a Rs. 1.25
 </details>
 
 **Q38.** ESOP shares (listed, STT-paid) are sold within 6 months of allotment. The short-term capital gain is taxed:
-A) At 12.50% under Section 112A  B) At 20% under Section 111A  C) At slab rates  D) Exempt
+A) At 12.50% under Section 112A  B) At slab rates  C) Exempt  D) At 20% under Section 111A
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Short-term gain on STT-paid equity is taxed at 20% under Section 111A.
+**Correct: D)** — Short-term gain on STT-paid equity is taxed at 20% under Section 111A.
 - A) Wrong: 112A is for long-term gains.
-- C) Wrong: slab rates apply only when STT is not paid (no-STT short-term).
-- D) Wrong: it is not exempt.
+- B) Wrong: slab rates apply only when STT is not paid (no-STT short-term).
+- C) Wrong: it is not exempt.
 
 Intuition: Sold quickly (≤12 months) on a stock exchange with STT → the special 20% short-term rate.
 </details>
@@ -470,13 +470,13 @@ Intuition: Only individuals get the redemption exemption; a trust is taxed norma
 </details>
 
 **Q42.** An individual *sells* SGBs in the secondary market after 20 months. The gain is:
-A) Exempt (Section 47)  B) LTCG at 12.50%  C) STCG at slab  D) Taxed at 20%
+A) Exempt (Section 47)  B) STCG at slab  C) Taxed at 20%  D) LTCG at 12.50%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The Section 47 exemption applies only to redemption, not to a secondary-market *sale*. Held over 12 months → LTCG at 12.50%.
+**Correct: D)** — The Section 47 exemption applies only to redemption, not to a secondary-market *sale*. Held over 12 months → LTCG at 12.50%.
 - A) Wrong: exemption covers redemption, not transfer/sale.
-- C) Wrong: 20 months > 12 months, so it is long-term.
-- D) Wrong: 20% is the equity short-term rate.
+- B) Wrong: 20 months > 12 months, so it is long-term.
+- C) Wrong: 20% is the equity short-term rate.
 
 Intuition: Selling on the exchange is a "transfer" — so even an individual pays LTCG. Redemption is the only escape.
 </details>
@@ -553,13 +553,13 @@ Intuition: Pass-through covers regular income streams; one-off property gains st
 </details>
 
 **Q49.** Dividend received by a REIT from an SPV that has opted for the concessional regime under Section 115BAA, when distributed, is:
-A) Exempt for unit-holders  B) Taxable in unit-holders' hands  C) Taxed at the REIT level  D) Taxed at 20%
+A) Exempt for unit-holders  B) Taxed at the REIT level  C) Taxed at 20%  D) Taxable in unit-holders' hands
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — If the SPV opted for 115BAA, the distributed dividend is taxable in unit-holders' hands (pass-through). It is exempt to unit-holders only if the SPV did NOT opt for 115BAA.
+**Correct: D)** — If the SPV opted for 115BAA, the distributed dividend is taxable in unit-holders' hands (pass-through). It is exempt to unit-holders only if the SPV did NOT opt for 115BAA.
 - A) Wrong: exemption applies only when the SPV did not opt for 115BAA.
-- C) Wrong: SPV dividend is exempt at REIT level under 10(23FC).
-- D) Wrong: no fixed 20% applies; the unit-holder pays at applicable rates.
+- B) Wrong: SPV dividend is exempt at REIT level under 10(23FC).
+- C) Wrong: no fixed 20% applies; the unit-holder pays at applicable rates.
 
 Intuition: If the SPV already paid full tax (no 115BAA), the dividend is exempt to investors; if the SPV used the concessional regime, investors pay.
 </details>
@@ -601,13 +601,13 @@ Intuition: Residents face a flat 10% withholding; non-residents face higher, inc
 </details>
 
 **Q53.** A Category-I AIF (registered as a trust) earns business income. This business income is:
-A) Passed through and taxed in unit-holders' hands  B) Taxed at the AIF level at maximum marginal rate  C) Exempt entirely  D) Taxed at 12.50%
+A) Passed through and taxed in unit-holders' hands  B) Exempt entirely  C) Taxed at 12.50%  D) Taxed at the AIF level at maximum marginal rate
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Business income is NOT passed through; for a trust-form AIF it is taxed at the maximum marginal rate (MMR) at the AIF level; it is exempt for unit-holders under 10(23FBB).
+**Correct: D)** — Business income is NOT passed through; for a trust-form AIF it is taxed at the maximum marginal rate (MMR) at the AIF level; it is exempt for unit-holders under 10(23FBB).
 - A) Wrong: business income is the one stream that does not pass through.
-- C) Wrong: it is taxed, just at the AIF level.
-- D) Wrong: 12.50% is an LTCG rate, not the MMR for trust business income.
+- B) Wrong: it is taxed, just at the AIF level.
+- C) Wrong: 12.50% is an LTCG rate, not the MMR for trust business income.
 
 Intuition: The fund pays tax on its own trading profits; investors only get taxed on the *other* income that passes through.
 </details>
@@ -681,13 +681,13 @@ Intuition: For this specific buy/sell window, the law says "no long-term benefit
 </details>
 
 **Q60.** A gold ETF bought on 01-03-2018 and sold on 25-03-2025 (held over 7 years) gives a gain taxed:
-A) At slab rate as short-term  B) As LTCG at 12.50%  C) Exempt under Section 47  D) Under 112A at 12.50%
+A) At slab rate as short-term  B) Exempt under Section 47  C) Under 112A at 12.50%  D) As LTCG at 12.50%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Bought before 01-04-2023, so the short-term-only rule does not apply; held over 12 months → LTCG taxed at 12.50%.
+**Correct: D)** — Bought before 01-04-2023, so the short-term-only rule does not apply; held over 12 months → LTCG taxed at 12.50%.
 - A) Wrong: the special short-term window rule applies only to ETFs bought after 01-04-2023.
-- C) Wrong: Section 47 covers SGB redemption, not gold ETFs.
-- D) Wrong: 112A is for equity; gold ETF LTCG uses the non-equity 12.50% rate.
+- B) Wrong: Section 47 covers SGB redemption, not gold ETFs.
+- C) Wrong: 112A is for equity; gold ETF LTCG uses the non-equity 12.50% rate.
 
 Intuition: Older purchases keep normal long-term treatment — 12.50% after 12 months.
 </details>
@@ -750,13 +750,13 @@ Intuition: Big-ticket ULIPs (>Rs. 2.5 lakh premium) are treated like investments
 </details>
 
 **Q66.** The long-term capital gain on an equity-oriented fund within a high-premium ULIP is taxed at:
-A) 20%  B) 12.50%  C) Slab rate  D) Exempt
+A) 20%  B) Slab rate  C) Exempt  D) 12.50%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Equity-oriented funds within high-premium ULIPs are taxed at the concessional 12.50% for LTCG (long-term period being 1 year).
+**Correct: D)** — Equity-oriented funds within high-premium ULIPs are taxed at the concessional 12.50% for LTCG (long-term period being 1 year).
 - A) Wrong: 20% is the *short-term* rate for such equity-oriented ULIP funds.
-- C) Wrong: slab applies to non-equity ULIP short-term gains.
-- D) Wrong: high-premium ULIP gains are taxable.
+- B) Wrong: slab applies to non-equity ULIP short-term gains.
+- C) Wrong: high-premium ULIP gains are taxable.
 
 Intuition: The equity fund inside the ULIP is taxed like equity — 12.50% LTCG, 20% STCG.
 </details>
@@ -774,12 +774,12 @@ Intuition: After Apr-2023, even a "compliant" big endowment (premium > Rs. 5 lak
 </details>
 
 **Q68.** The minimum holding periods to avoid claw-back of 80C deductions are:
-A) ULIP 2 years, life policy 5 years  B) ULIP 5 years, life policy 2 years  C) Both 3 years  D) Both 5 years
+A) ULIP 2 years, life policy 5 years  B) Both 3 years  C) Both 5 years  D) ULIP 5 years, life policy 2 years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — ULIP of UTI/LIC must be held 5 years; a life insurance policy must be held 2 years. Early termination makes earlier deductions taxable.
+**Correct: D)** — ULIP of UTI/LIC must be held 5 years; a life insurance policy must be held 2 years. Early termination makes earlier deductions taxable.
 - A) Wrong: the periods are reversed.
-- C), D) Wrong: the two products have different periods (5 vs 2).
+- B), C) Wrong: the two products have different periods (5 vs 2).
 
 Intuition: ULIPs (investment-linked) get the longer 5-year lock; plain life policies need only 2 years.
 </details>
@@ -1013,13 +1013,13 @@ Intuition: You cannot defer tax by keeping money inside the fund — the law dee
 </details>
 
 **Q88.** Mr. X has an endowment policy of Rs. 60,00,000 taken on 01-04-2024 with premium Rs. 6,00,000 per year. The 10%-of-sum-assured test is met (6L = 10% of 60L), but maturity proceeds are taxable because:
-A) Premium exceeds 20% of sum assured  B) Aggregate premium exceeds Rs. 5,00,000 (policy on/after 01-04-2023)  C) The policy is a ULIP  D) It is a Keyman policy
+A) Premium exceeds 20% of sum assured  B) The policy is a ULIP  C) It is a Keyman policy  D) Aggregate premium exceeds Rs. 5,00,000 (policy on/after 01-04-2023)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — For endowment policies on/after 01-04-2023, if premium exceeds Rs. 5,00,000 the maturity proceeds are taxable as other sources even if the 10% test is satisfied. Here Rs. 6,00,000 > Rs. 5,00,000.
+**Correct: D)** — For endowment policies on/after 01-04-2023, if premium exceeds Rs. 5,00,000 the maturity proceeds are taxable as other sources even if the 10% test is satisfied. Here Rs. 6,00,000 > Rs. 5,00,000.
 - A) Wrong: the 10% test is met; 20% is for old policies.
-- C) Wrong: it is an endowment policy, not a ULIP.
-- D) Wrong: it is not a Keyman policy.
+- B) Wrong: it is an endowment policy, not a ULIP.
+- C) Wrong: it is not a Keyman policy.
 
 Intuition: The new Rs. 5 lakh premium rule overrides the old 10% test for big endowments after Apr-2023.
 </details>
@@ -1095,13 +1095,13 @@ Intuition: Monthly reverse-mortgage payouts are loan disbursements — tax-free 
 </details>
 
 **Q95.** A high-premium ULIP's equity-oriented fund (held over 1 year) shows a gain of Rs. 4,00,000. Since equity ULIP funds do not get the Rs. 1.25 lakh 112A exemption framing here, the workbook treats the LTCG at:
-A) 20%  B) 12.50%  C) Slab  D) Exempt
+A) 20%  B) Slab  C) Exempt  D) 12.50%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Equity-oriented funds within high-premium ULIPs are taxed at the concessional 12.50% for long-term gains (long-term period = 1 year).
+**Correct: D)** — Equity-oriented funds within high-premium ULIPs are taxed at the concessional 12.50% for long-term gains (long-term period = 1 year).
 - A) Wrong: 20% is the *short-term* rate for these funds.
-- C) Wrong: slab applies to non-equity ULIP short-term gains.
-- D) Wrong: high-premium ULIP gains are taxable.
+- B) Wrong: slab applies to non-equity ULIP short-term gains.
+- C) Wrong: high-premium ULIP gains are taxable.
 
 Intuition: The equity fund inside the ULIP is taxed like equity: 12.50% long-term, 20% short-term.
 </details>

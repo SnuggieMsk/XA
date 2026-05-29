@@ -68,10 +68,10 @@ A) Higher age, higher risk  B) Lower age, higher risk  C) Age has no effect  D) 
 </details>
 
 **Q10.** Per Table 18.1, well-qualified and multi-skilled professionals can afford to take:
-A) Less risk  B) More risk  C) No risk  D) The same risk as everyone
+A) Less risk  B) No risk  C) The same risk as everyone  D) More risk
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — High employability means they can find a job easily if income is disrupted, so they can afford more risk. A and C understate this, and D ignores that employability specifically improves the ability to take risk.
+**Correct: D)** — High employability means they can find a job easily if income is disrupted, so they can afford more risk. A and B understate this, and C ignores that employability specifically improves the ability to take risk.
 </details>
 
 **Q11.** According to Table 18.1, people who earn a regular income compared with those with unpredictable income can take:
@@ -82,17 +82,17 @@ A) Less risk  B) More risk  C) Identical risk  D) No risk at all
 </details>
 
 **Q12.** Per Table 18.1, a higher capital base improves an investor's ability to:
-A) Avoid all taxes  B) Financially absorb the downsides that come with risk  C) Guarantee returns  D) Skip risk profiling
+A) Avoid all taxes  B) Guarantee returns  C) Financially absorb the downsides that come with risk  D) Skip risk profiling
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A larger capital base means losses hurt proportionately less, so the investor can financially take the downsides of risk. It has nothing to do with avoiding taxes (A), guaranteeing returns (C — impossible), or skipping profiling (D).
+**Correct: C)** — A larger capital base means losses hurt proportionately less, so the investor can financially take the downsides of risk. It has nothing to do with avoiding taxes (A), guaranteeing returns (B — impossible), or skipping profiling (D).
 </details>
 
 **Q13.** A client's financial risk tolerance — attitudes, values, motivations, preferences and experiences — is measured with a:
-A) Credit score  B) Risk profile  C) Tax return  D) Bank passbook
+A) Risk profile  B) Credit score  C) Tax return  D) Bank passbook
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — These attitudes and experiences are captured in a risk profile, typically via a questionnaire. A credit score (A) measures creditworthiness, a tax return (C) reports income/tax, and a passbook (D) shows transactions — none measure risk tolerance.
+**Correct: A)** — These attitudes and experiences are captured in a risk profile, typically via a questionnaire. A credit score (B) measures creditworthiness, a tax return (C) reports income/tax, and a passbook (D) shows transactions — none measure risk tolerance.
 </details>
 
 **Q14.** Risk tolerance is best defined as:
@@ -103,17 +103,17 @@ A) The maximum loss allowed by SEBI  B) The assumed level of risk a client is wi
 </details>
 
 **Q15.** Responses to a risk profile questionnaire are typically converted into a:
-A) Loan  B) Score that classifies the investor's risk preferences  C) Insurance policy  D) Demat account
+A) Loan  B) Insurance policy  C) Score that classifies the investor's risk preferences  D) Demat account
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The questionnaire responses are converted into a score that classifies investors into categories characterizing their risk preferences. They do not become a loan (A), an insurance policy (C), or a demat account (D).
+**Correct: C)** — The questionnaire responses are converted into a score that classifies investors into categories characterizing their risk preferences. They do not become a loan (A), an insurance policy (B), or a demat account (D).
 </details>
 
 **Q16.** A key limitation of some online risk-profiling surveys is that the investor may:
-A) Be charged too much  B) Try to "guess" the right answer when there is no right answer  C) Forget their password  D) Be classified as aggressive automatically
+A) Be charged too much  B) Forget their password  C) Be classified as aggressive automatically  D) Try to "guess" the right answer when there is no right answer
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A noted limitation is that investors try to guess a "right" answer, even though there is no right answer; profiling loses meaning if the investor is not truthful. Fees (A), passwords (C) and automatic classification (D) are not the limitation the chapter describes.
+**Correct: D)** — A noted limitation is that investors try to guess a "right" answer, even though there is no right answer; profiling loses meaning if the investor is not truthful. Fees (A), passwords (B) and automatic classification (C) are not the limitation the chapter describes.
 </details>
 
 **Q17.** Risk profiling loses its meaning if the investor:
@@ -124,10 +124,10 @@ A) Is too young  B) Is not truthful in his answers  C) Uses a mobile phone  D) H
 </details>
 
 **Q18.** Some advanced risk profilers are built on the investor's responses to different:
-A) Advertisements  B) Scenarios presented before the investor  C) Newspaper articles  D) Phone calls
+A) Scenarios presented before the investor  B) Advertisements  C) Newspaper articles  D) Phone calls
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Advanced profilers present various scenarios to the investor and assess responses. Service providers can also use the actual transaction record of regular clients. Advertisements (A), articles (C) and phone calls (D) are not the basis described.
+**Correct: A)** — Advanced profilers present various scenarios to the investor and assess responses. Service providers can also use the actual transaction record of regular clients. Advertisements (B), articles (C) and phone calls (D) are not the basis described.
 </details>
 
 **Q19.** In the 3-grade classification, which type of investor does NOT like to take risk and prefers bank accounts or safe income-yielding instruments?
@@ -138,10 +138,10 @@ A) Aggressive  B) Moderate  C) Conservative  D) Tactical
 </details>
 
 **Q20.** A Moderate investor is described as someone who:
-A) Refuses to invest in equities ever  B) Understands they must take investment risks to meet long-term goals and will risk part of their assets  C) Will risk a significant portion of their assets  D) Has never invested before
+A) Refuses to invest in equities ever  B) Will risk a significant portion of their assets  C) Has never invested before  D) Understands they must take investment risks to meet long-term goals and will risk part of their assets
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Moderate investors have some experience (including equities), understand risk is needed for long-term goals, and are willing to risk part of their assets. Refusing equities forever (A) suits a conservative, risking a significant portion (C) suits an aggressive, and never investing (D) does not fit a moderate.
+**Correct: D)** — Moderate investors have some experience (including equities), understand risk is needed for long-term goals, and are willing to risk part of their assets. Refusing equities forever (A) suits a conservative, risking a significant portion (B) suits an aggressive, and never investing (C) does not fit a moderate.
 </details>
 
 **Q21.** Which investor type is willing to take risk with a "significant portion" of their assets?
@@ -159,10 +159,10 @@ A) SEBI (Investment Advisers) Regulation 16  B) Companies Act Section 16  C) RBI
 </details>
 
 **Q23.** Under SEBI Reg 16, the process to assess a client's willingness and ability to take risk must be:
-A) Biased toward equities  B) Objective and not give undue weightage to certain factors  C) Decided by the client alone  D) Kept secret from the client
+A) Biased toward equities  B) Decided by the client alone  C) Objective and not give undue weightage to certain factors  D) Kept secret from the client
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The process must be objective and not geared to over-weight some factors and under-weight others. It must not be biased (A), is the adviser's responsibility (not the client's alone, C), and must actually be communicated to the client (not secret, D).
+**Correct: C)** — The process must be objective and not geared to over-weight some factors and under-weight others. It must not be biased (A), is the adviser's responsibility (not the client's alone, B), and must actually be communicated to the client (not secret, D).
 </details>
 
 **Q24.** Under SEBI Reg 16, any questionnaire used for risk profiling must be:
@@ -173,10 +173,10 @@ A) Vague and complex  B) Full of leading questions  C) Fair, clear and not misle
 </details>
 
 **Q25.** Under SEBI Reg 16, when must the client's risk profile be completed?
-A) After the first year of investing  B) Before any investment advice is provided  C) Only at the client's death  D) Whenever the adviser feels like it
+A) After the first year of investing  B) Only at the client's death  C) Whenever the adviser feels like it  D) Before any investment advice is provided
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The risk profile must be done before any investment advice is provided, and no free trial can be offered without communicating the profile and obtaining consent. Doing it after a year (A), at death (C), or arbitrarily (D) all violate the rule.
+**Correct: D)** — The risk profile must be done before any investment advice is provided, and no free trial can be offered without communicating the profile and obtaining consent. Doing it after a year (A), at death (B), or arbitrarily (C) all violate the rule.
 </details>
 
 **Q26.** Under SEBI Reg 16, no free trial can be offered without:
@@ -194,24 +194,24 @@ A) A change in family composition, income/expenses, or assets/liabilities  B) Ev
 </details>
 
 **Q28.** Asset allocation is best described as:
-A) Picking the single best stock  B) The distribution of an investor's portfolio between different asset classes  C) Timing the market daily  D) Borrowing to invest
+A) Picking the single best stock  B) Timing the market daily  C) Borrowing to invest  D) The distribution of an investor's portfolio between different asset classes
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Asset allocation is the distribution of a portfolio among different asset classes (equity, debt, gold, real estate, cash). Picking one stock (A) and daily timing (C) relate to selection/timing, and borrowing (D) is leverage — none is asset allocation.
+**Correct: D)** — Asset allocation is the distribution of a portfolio among different asset classes (equity, debt, gold, real estate, cash). Picking one stock (A) and daily timing (B) relate to selection/timing, and borrowing (C) is leverage — none is asset allocation.
 </details>
 
 **Q29.** An efficient asset allocation includes asset classes that have:
-A) High positive correlation  B) Low or negative correlation  C) Identical returns  D) The same risk
+A) High positive correlation  B) Identical returns  C) Low or negative correlation  D) The same risk
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — An efficient allocation combines assets with low or negative correlation, so their returns do not rise and fall together — this cushions the portfolio. High positive correlation (A) defeats diversification; identical returns (C) and identical risk (D) are not the criterion.
+**Correct: C)** — An efficient allocation combines assets with low or negative correlation, so their returns do not rise and fall together — this cushions the portfolio. High positive correlation (A) defeats diversification; identical returns (B) and identical risk (D) are not the criterion.
 </details>
 
 **Q30.** During the 2007–09 recession, the chapter notes that while equity markets fared poorly, gold prices:
-A) Also fell sharply  B) Went up  C) Stayed exactly flat  D) Were banned
+A) Went up  B) Also fell sharply  C) Stayed exactly flat  D) Were banned
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — During 2007–09 equities fell in many countries but gold prices went up, so an investor in both did better than one in only equities — an illustration of diversification. So A, C and D contradict the example.
+**Correct: A)** — During 2007–09 equities fell in many countries but gold prices went up, so an investor in both did better than one in only equities — an illustration of diversification. So B, C and D contradict the example.
 </details>
 
 **Q31.** Which type of asset allocation is aligned to the financial goals of the individual and is a long-term plan?

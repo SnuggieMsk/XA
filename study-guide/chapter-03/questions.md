@@ -50,13 +50,13 @@ A) Sum insured and the assessed risk  B) Only the sum insured  C) Only the insur
 </details>
 
 **Q6.** A "deductible" is best defined as:
-A) The bonus for no claims  B) The portion of the claim that is met by the insured  C) The maximum the insurer pays  D) The premium discount for online purchase
+A) The bonus for no claims  B) The maximum the insurer pays  C) The premium discount for online purchase  D) The portion of the claim that is met by the insured
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A deductible is the portion of the claim that the insured bears themselves.
+**Correct: D)** — A deductible is the portion of the claim that the insured bears themselves.
 - A) is wrong — that is the no-claim bonus.
-- C) is wrong — that is the sum insured.
-- D) is wrong — that is an online-purchase discount, unrelated to deductible.
+- B) is wrong — that is the sum insured.
+- C) is wrong — that is an online-purchase discount, unrelated to deductible.
 </details>
 
 **Q7.** Under the "restore" benefit in health insurance, the sum insured is restored to 100%:
@@ -88,12 +88,12 @@ A) The benefit of lower premiums in subsequent years for each claim-free year  B
 </details>
 
 **Q10.** Property insurance generally means insuring:
-A) Only jewellery and antiques  B) The structure and contents of a building against natural and man-made disasters  C) Third-party liability only  D) The owner's life
+A) Only jewellery and antiques  B) Third-party liability only  C) The structure and contents of a building against natural and man-made disasters  D) The owner's life
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Property insurance generally means insuring the structure and the contents of the building against natural and man-made disasters such as fire and theft.
+**Correct: C)** — Property insurance generally means insuring the structure and the contents of the building against natural and man-made disasters such as fire and theft.
 - A) is wrong — valuables like jewellery and antiques typically need an *add-on or separate* policy.
-- C) is wrong — that is liability/motor cover.
+- B) is wrong — that is liability/motor cover.
 - D) is wrong — a life is covered under life insurance.
 </details>
 
@@ -115,11 +115,11 @@ A) No cover at all  B) Only third-party cover  C) An add-on or separate insuranc
 </details>
 
 **Q13.** Property insurance is normally taken along with a:
-A) Travel booking  B) Home loan, as the lender insists on it  C) Motor policy  D) Critical illness policy
+A) Travel booking  B) Motor policy  C) Critical illness policy  D) Home loan, as the lender insists on it
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Such policies are normally taken along with a home loan because the lender insists on the borrower taking it.
-- A), C) and D) are wrong — none of these is the context the workbook gives for property insurance.
+**Correct: D)** — Such policies are normally taken along with a home loan because the lender insists on the borrower taking it.
+- A), B) and C) are wrong — none of these is the context the workbook gives for property insurance.
 </details>
 
 **Q14.** Health insurance claims are typically allowed for:
@@ -476,11 +476,11 @@ A) Cannot give any NCB  B) Provides the NCB on shifting at renewal  C) Only give
 </details>
 
 **Q53.** A hospital bill is incurred by an Indian resident in London under an ordinary Indian health (indemnity) policy. It will normally:
-A) Be fully paid  B) Not be covered, as indemnity health policies normally cover expenses in India only  C) Be paid at double rate  D) Be paid only if it is a defined benefit policy
+A) Be fully paid  B) Be paid at double rate  C) Not be covered, as indemnity health policies normally cover expenses in India only  D) Be paid only if it is a defined benefit policy
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Indemnity health policies normally cover expenses incurred in India only, because verifying losses abroad is difficult.
-- A) and C) are wrong — foreign expenses are generally not covered by an ordinary Indian health policy.
+**Correct: C)** — Indemnity health policies normally cover expenses incurred in India only, because verifying losses abroad is difficult.
+- A) and B) are wrong — foreign expenses are generally not covered by an ordinary Indian health policy.
 - D) is misleading — health *is* indemnity, not defined benefit; defined benefit policies are the ones that pay anywhere.
 </details>
 
@@ -494,11 +494,11 @@ A) Ordinary health insurance  B) Overseas travel insurance, designed country-by-
 </details>
 
 **Q55.** A life insurance death claim arising abroad will:
-A) Not be paid since it occurred overseas  B) Be paid wherever the covered risk occurs, as it is a defined benefit policy  C) Be paid only in India  D) Be pro-rated
+A) Be paid wherever the covered risk occurs, as it is a defined benefit policy  B) Not be paid since it occurred overseas  C) Be paid only in India  D) Be pro-rated
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Defined benefit policies (life, critical illness, accidental death) pay wherever the covered risk occurs, because the event is easy to verify anywhere.
-- A) is wrong — location does not bar payment for defined benefit.
+**Correct: A)** — Defined benefit policies (life, critical illness, accidental death) pay wherever the covered risk occurs, because the event is easy to verify anywhere.
+- B) is wrong — location does not bar payment for defined benefit.
 - C) and D) are wrong — there is no India-only or pro-rata restriction for defined benefit events.
 </details>
 
@@ -521,11 +521,11 @@ A) It is illegal  B) The policy and grievance redressal are governed by the regu
 </details>
 
 **Q58.** For students going overseas, other things being equal:
-A) Foreign company policies are cheaper  B) Indian policies tend to be cheaper than similar foreign-company policies  C) No insurance is ever needed  D) Only defined benefit policies work
+A) Indian policies tend to be cheaper than similar foreign-company policies  B) Foreign company policies are cheaper  C) No insurance is ever needed  D) Only defined benefit policies work
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Other things being equal, Indian policies tend to be cheaper than similar policies issued by foreign companies.
-- A) is wrong — the reverse is stated.
+**Correct: A)** — Other things being equal, Indian policies tend to be cheaper than similar policies issued by foreign companies.
+- B) is wrong — the reverse is stated.
 - C) is wrong — cover is advisable as overseas treatment is costly.
 - D) is wrong — this is not a defined-benefit-only matter.
 </details>
@@ -567,12 +567,12 @@ A) Keyman  B) D&O liability insurance  C) Fidelity  D) Property
 </details>
 
 **Q63.** Comparing Health vs Critical Illness on "claim paid": health pays on incurring hospitalisation expenditure, while critical illness pays:
-A) On death  B) On contracting a pre-specified disease and surviving the required period  C) Monthly regardless of illness  D) On retirement
+A) On death  B) Monthly regardless of illness  C) On contracting a pre-specified disease and surviving the required period  D) On retirement
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Critical illness pays on contracting a pre-specified disease/illness and surviving the required period (15–30 days).
+**Correct: C)** — Critical illness pays on contracting a pre-specified disease/illness and surviving the required period (15–30 days).
 - A) is wrong — no death payout.
-- C) and D) are wrong — it is not a periodic or retirement benefit.
+- B) and D) are wrong — it is not a periodic or retirement benefit.
 </details>
 
 **Q64.** Why do many insurers charge lower premiums for policies bought online from their websites?
@@ -595,20 +595,20 @@ A) Settle all claims directly  B) Provide convenient online comparison of polici
 </details>
 
 **Q66.** In health insurance, the premium per additional lakh of coverage as the sum insured rises:
-A) Increases sharply  B) Drops significantly and becomes almost negligible after a certain amount  C) Stays exactly constant  D) Doubles each lakh
+A) Increases sharply  B) Stays exactly constant  C) Doubles each lakh  D) Drops significantly and becomes almost negligible after a certain amount
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The premium rate per additional lakh of coverage drops significantly as coverage increases and becomes almost negligible after a certain amount (e.g. a Rs. 100 lakh policy may cost only a few thousand more than Rs. 50 lakh).
-- A), C) and D) are wrong — the marginal premium falls, it does not rise, stay flat, or double.
+**Correct: D)** — The premium rate per additional lakh of coverage drops significantly as coverage increases and becomes almost negligible after a certain amount (e.g. a Rs. 100 lakh policy may cost only a few thousand more than Rs. 50 lakh).
+- A), B) and C) are wrong — the marginal premium falls, it does not rise, stay flat, or double.
 </details>
 
 **Q67.** A pre-existing illness may be excluded from cover for a fixed period:
-A) Always permanently  B) When insurance is taken for the first time, or if renewed after a lapse  C) Only for travel policies  D) Only for defined benefit policies
+A) Always permanently  B) Only for travel policies  C) When insurance is taken for the first time, or if renewed after a lapse  D) Only for defined benefit policies
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Pre-existing illnesses may be excluded for a fixed period when insurance is taken for the first time, or if renewed after a lapse.
+**Correct: C)** — Pre-existing illnesses may be excluded for a fixed period when insurance is taken for the first time, or if renewed after a lapse.
 - A) is wrong — the exclusion is for a fixed period, not always permanent.
-- C) and D) are wrong — this is a health (indemnity) feature, not travel- or defined-benefit-specific.
+- B) and D) are wrong — this is a health (indemnity) feature, not travel- or defined-benefit-specific.
 </details>
 
 **Q68.** To benefit from health policy portability, the previous policy must have been:
@@ -630,11 +630,11 @@ A) Is fixed by law for all insurers  B) Is not fixed and varies from insurer to 
 </details>
 
 **Q70.** Motor insurance indemnifies the insured for accidents arising from vehicle use:
-A) Worldwide  B) Anywhere in India, including third-party death/injury and damage to others' property  C) Only at the registered address  D) Only on highways
+A) Anywhere in India, including third-party death/injury and damage to others' property  B) Worldwide  C) Only at the registered address  D) Only on highways
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The insurer indemnifies the insured for accidents arising out of the use of the vehicle anywhere in India, covering (i) death/bodily injury to any person and (ii) damage to others' property.
-- A) is wrong — the cover stated is anywhere in *India*, not worldwide.
+**Correct: A)** — The insurer indemnifies the insured for accidents arising out of the use of the vehicle anywhere in India, covering (i) death/bodily injury to any person and (ii) damage to others' property.
+- B) is wrong — the cover stated is anywhere in *India*, not worldwide.
 - C) and D) are wrong — it is not limited to the registered address or highways.
 </details>
 

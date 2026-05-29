@@ -32,13 +32,13 @@ A) Salaries  B) Capital Gains  C) Income from Other Sources  D) PGBP always
 </details>
 
 **Q4.** Under which section is "dividend" (including deemed dividend) defined?
-A) Section 2(28B)  B) Section 2(22)  C) Section 145  D) Rule 11UA
+A) Section 2(28B)  B) Section 145  C) Rule 11UA  D) Section 2(22)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 2(22) of the Income Tax Act defines dividend and lists the receipts deemed to be dividend.
+**Correct: D)** — Section 2(22) of the Income Tax Act defines dividend and lists the receipts deemed to be dividend.
 - A) Wrong — 2(28B) defines "interest on securities".
-- C) Wrong — Section 145 deals with method of accounting.
-- D) Wrong — Rule 11UA (not a section) deals with FMV of shares/securities.
+- B) Wrong — Section 145 deals with method of accounting.
+- C) Wrong — Rule 11UA (not a section) deals with FMV of shares/securities.
 </details>
 
 **Q5.** Up to which assessment year did domestic companies and mutual funds pay Dividend Distribution Tax (DDT)?
@@ -51,12 +51,12 @@ A) AY 2018-19  B) AY 2019-20  C) AY 2020-21  D) AY 2021-22
 </details>
 
 **Q6.** After DDT was abolished, in whose hands is dividend income taxable?
-A) The company paying it  B) The shareholder/unit-holder receiving it  C) The mutual fund  D) Nobody — it is exempt
+A) The company paying it  B) The mutual fund  C) Nobody — it is exempt  D) The shareholder/unit-holder receiving it
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — From AY 2021-22, dividend is taxable in the hands of the shareholder/unit-holder under IFOS, at the recipient's applicable slab rate.
-- A), C) Wrong — the company/MF no longer pays DDT on it.
-- D) Wrong — it is taxable, not exempt.
+**Correct: D)** — From AY 2021-22, dividend is taxable in the hands of the shareholder/unit-holder under IFOS, at the recipient's applicable slab rate.
+- A), B) Wrong — the company/MF no longer pays DDT on it.
+- C) Wrong — it is taxable, not exempt.
 </details>
 
 **Q7.** At what rate is dividend taxed in the hands of a resident shareholder?
@@ -104,20 +104,20 @@ A) Section 194 or 194K  B) Section 80C / 80D  C) Section 234A / 234B  D) Section
 </details>
 
 **Q12.** Which of the following is a "deemed dividend" under Section 2(22)?
-A) Salary paid to a director  B) Loan or advance by a closely held company to its shareholder out of accumulated profits  C) Rent paid by a company  D) GST collected by a company
+A) Salary paid to a director  B) Rent paid by a company  C) GST collected by a company  D) Loan or advance by a closely held company to its shareholder out of accumulated profits
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A loan or advance by a closely held company to its shareholder out of accumulated profits is a deemed dividend under Section 2(22)(e).
-- A), C), D) Wrong — salary, rent and GST are not covered by the deemed dividend definition.
+**Correct: D)** — A loan or advance by a closely held company to its shareholder out of accumulated profits is a deemed dividend under Section 2(22)(e).
+- A), B), C) Wrong — salary, rent and GST are not covered by the deemed dividend definition.
 </details>
 
 **Q13.** Distribution to shareholders on the company's liquidation out of accumulated profits is:
-A) Exempt  B) A deemed dividend  C) A capital gain only  D) Salary income
+A) Exempt  B) A capital gain only  C) Salary income  D) A deemed dividend
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Distribution on liquidation out of accumulated profits is treated as a deemed dividend under Section 2(22).
+**Correct: D)** — Distribution on liquidation out of accumulated profits is treated as a deemed dividend under Section 2(22).
 - A) Wrong — it is taxable as deemed dividend.
-- C), D) Wrong — it is treated as dividend, not as pure capital gain or salary.
+- B), C) Wrong — it is treated as dividend, not as pure capital gain or salary.
 </details>
 
 **Q14.** Issue of bonus shares to which class of shareholders out of accumulated profits is a deemed dividend?
@@ -157,11 +157,11 @@ A) Interest on any security of the central or state government  B) A personal lo
 </details>
 
 **Q18.** Since "security" is not defined in the Income Tax Act, the reference is taken from which law?
-A) Companies Act, 2013  B) Section 2(h) of the Securities Contracts (Regulation) Act, 1956  C) SEBI Act, 1992  D) RBI Act, 1934
+A) Companies Act, 2013  B) SEBI Act, 1992  C) RBI Act, 1934  D) Section 2(h) of the Securities Contracts (Regulation) Act, 1956
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — As "security" is not defined in the Income Tax Act, reference is taken from Section 2(h) of the Securities Contracts (Regulation) Act, 1956.
-- A), C), D) Wrong — the workbook specifically points to SCRA, 1956, Section 2(h).
+**Correct: D)** — As "security" is not defined in the Income Tax Act, reference is taken from Section 2(h) of the Securities Contracts (Regulation) Act, 1956.
+- A), B), C) Wrong — the workbook specifically points to SCRA, 1956, Section 2(h).
 </details>
 
 **Q19.** Which of the following is listed as a "security" from which interest on securities can arise?
@@ -530,20 +530,20 @@ A) A transaction not regarded as transfer under Section 47(i)  B) A deemed divid
 </details>
 
 **Q60.** Forfeited advance money received in negotiations for transfer of a capital asset, where the transfer did not happen, is taxable under:
-A) Capital gains  B) IFOS  C) PGBP  D) Salaries
+A) IFOS  B) Capital gains  C) PGBP  D) Salaries
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Advance money received in the course of negotiations for transfer of a capital asset, which has been forfeited where the negotiation does not result in transfer, is always taxable under IFOS.
-- A) Wrong — there was no transfer, so capital gains does not arise.
+**Correct: A)** — Advance money received in the course of negotiations for transfer of a capital asset, which has been forfeited where the negotiation does not result in transfer, is always taxable under IFOS.
+- B) Wrong — there was no transfer, so capital gains does not arise.
 - C), D) Wrong — it is neither business income nor salary.
 </details>
 
 **Q61.** Which of these is listed as always taxable under IFOS as income arising from securities?
-A) Salary from a securities firm  B) Dividend income from securities  C) Rent from a house  D) Agricultural income
+A) Salary from a securities firm  B) Rent from a house  C) Dividend income from securities  D) Agricultural income
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Dividend income from securities is one of the incomes always chargeable under IFOS.
-- A), C), D) Wrong — salary, rent and agricultural income are governed by other heads/exemptions.
+**Correct: C)** — Dividend income from securities is one of the incomes always chargeable under IFOS.
+- A), B), D) Wrong — salary, rent and agricultural income are governed by other heads/exemptions.
 </details>
 
 **Q62.** A unit-holder receives a specified sum from a business trust (other than interest/dividend from an SPV and rental income from REITs). This is taxable under:
@@ -581,12 +581,12 @@ A) Income clearly taxable under PGBP  B) Salary income  C) Any income not taxabl
 </details>
 
 **Q66.** Distribution to shareholders out of accumulated profits on the reduction of the company's capital is:
-A) Always exempt  B) A deemed dividend under Section 2(22)  C) Capital gains only  D) Interest on securities
+A) Always exempt  B) Capital gains only  C) Interest on securities  D) A deemed dividend under Section 2(22)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Distribution out of accumulated profits on reduction of capital is a deemed dividend under Section 2(22)(d).
+**Correct: D)** — Distribution out of accumulated profits on reduction of capital is a deemed dividend under Section 2(22)(d).
 - A) Wrong — it is taxable as deemed dividend.
-- C), D) Wrong — it is treated as dividend.
+- B), C) Wrong — it is treated as dividend.
 </details>
 
 **Q67.** Which of the following gift-givers' gifts would be TAXABLE (if above ₹50,000)?
@@ -638,11 +638,11 @@ A) ₹0  B) ₹5,000  C) ₹55,000  D) ₹25,000
 </details>
 
 **Q72.** Mr. H buys securities of FMV ₹1,50,000 for ₹1,10,000. The difference is:
-A) Taxable in full at ₹40,000  B) Not taxable  C) Taxable at ₹50,000  D) Taxable at ₹10,000
+A) Not taxable  B) Taxable in full at ₹40,000  C) Taxable at ₹50,000  D) Taxable at ₹10,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Difference = FMV − Consideration = ₹1,50,000 − ₹1,10,000 = ₹40,000. Since ₹40,000 does **not exceed** ₹50,000, nothing is taxable.
-- A) Wrong — the difference is below the threshold, so it is not taxed.
+**Correct: A)** — Difference = FMV − Consideration = ₹1,50,000 − ₹1,10,000 = ₹40,000. Since ₹40,000 does **not exceed** ₹50,000, nothing is taxable.
+- B) Wrong — the difference is below the threshold, so it is not taxed.
 - C), D) Wrong — neither figure is correct; the result is nil.
 </details>
 
@@ -772,11 +772,11 @@ A) Last day of April  B) The date on which tax is required to be deducted  C) La
 </details>
 
 **Q86.** Mr. O receives free securities of aggregate FMV exactly ₹50,000 from a friend. Taxable amount?
-A) ₹50,000  B) ₹0  C) ₹25,000  D) ₹1
+A) ₹0  B) ₹50,000  C) ₹25,000  D) ₹1
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Tax arises only if the aggregate **exceeds** ₹50,000. Exactly ₹50,000 does not exceed ₹50,000, so nothing is taxable.
-- A) Wrong — the threshold is not crossed at exactly ₹50,000.
+**Correct: A)** — Tax arises only if the aggregate **exceeds** ₹50,000. Exactly ₹50,000 does not exceed ₹50,000, so nothing is taxable.
+- B) Wrong — the threshold is not crossed at exactly ₹50,000.
 - C), D) Wrong — there is no partial taxation; here it is nil.
 </details>
 
@@ -810,11 +810,11 @@ A) ₹40,000  B) ₹0  C) ₹30,000  D) ₹10,000
 </details>
 
 **Q90.** A closely held company advances ₹2,00,000 to a shareholder out of accumulated profits of ₹5,00,000. The deemed dividend under Section 2(22)(e) is generally limited to:
-A) ₹5,00,000  B) The advance, to the extent of accumulated profits (here ₹2,00,000)  C) ₹0  D) ₹7,00,000
+A) The advance, to the extent of accumulated profits (here ₹2,00,000)  B) ₹5,00,000  C) ₹0  D) ₹7,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The loan/advance is a deemed dividend out of accumulated profits; here the advance of ₹2,00,000 is fully covered by accumulated profits of ₹5,00,000, so ₹2,00,000 is the deemed dividend.
-- A) Wrong — accumulated profits cap the amount but the advance is only ₹2,00,000.
+**Correct: A)** — The loan/advance is a deemed dividend out of accumulated profits; here the advance of ₹2,00,000 is fully covered by accumulated profits of ₹5,00,000, so ₹2,00,000 is the deemed dividend.
+- B) Wrong — accumulated profits cap the amount but the advance is only ₹2,00,000.
 - C) Wrong — it is a deemed dividend, not nil.
 - D) Wrong — you do not add advance and accumulated profits.
 </details>

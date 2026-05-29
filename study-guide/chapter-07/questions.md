@@ -7,11 +7,11 @@
 ## 🟢 Tier 1 — Easy: Recall (Q1–Q35)
 
 **Q1.** Under which Act is income tax in India governed?
-A) Companies Act, 2013  B) Income Tax Act, 1961  C) FEMA, 1999  D) SEBI Act, 1992
+A) Income Tax Act, 1961  B) Companies Act, 2013  C) FEMA, 1999  D) SEBI Act, 1992
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Income tax in India is governed by the Income Tax Act, 1961, which comes under the Ministry of Finance.
-- A) Companies Act, 2013 governs companies, not income tax.
+**Correct: A)** — Income tax in India is governed by the Income Tax Act, 1961, which comes under the Ministry of Finance.
+- B) Companies Act, 2013 governs companies, not income tax.
 - C) FEMA, 1999 governs foreign exchange and a separate residential-status concept, not income tax.
 - D) SEBI Act, 1992 governs the securities market regulator, not taxation.
 </details>
@@ -27,21 +27,21 @@ A) Central Board of Direct Taxes (CBDT)  B) SEBI  C) RBI  D) Ministry of Corpora
 </details>
 
 **Q3.** The Income Tax Rules were framed in which year to carry out the purposes of the Act?
-A) 1961  B) 1962  C) 1999  D) 2020
+A) 1961  B) 1999  C) 2020  D) 1962
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The Income Tax Rules, 1962 were framed to carry out the purposes of the Act.
+**Correct: D)** — The Income Tax Rules, 1962 were framed to carry out the purposes of the Act.
 - A) 1961 is the year of the Income Tax *Act*, not the Rules.
-- C) 1999 is the year of FEMA.
-- D) 2020 is when the new residential-status provisions took effect, not the Rules.
+- B) 1999 is the year of FEMA.
+- C) 2020 is when the new residential-status provisions took effect, not the Rules.
 </details>
 
 **Q4.** What period does India follow as its Financial Year (FY)?
-A) January 1 to December 31  B) April 1 to March 31  C) July 1 to June 30  D) October 1 to September 30
+A) April 1 to March 31  B) January 1 to December 31  C) July 1 to June 30  D) October 1 to September 30
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — India follows the Financial Year of April 1 to March 31 for calculating income for accounts and income tax.
-- A), C), D) are calendar/fiscal years used in other countries, not India's tax FY.
+**Correct: A)** — India follows the Financial Year of April 1 to March 31 for calculating income for accounts and income tax.
+- B), C), D) are calendar/fiscal years used in other countries, not India's tax FY.
 </details>
 
 **Q5.** The financial year in which income is earned is called the:
@@ -54,13 +54,13 @@ A) Previous Year  B) Assessment Year  C) Accounting Year  D) Base Year
 </details>
 
 **Q6.** Section 2(9) of the Act defines 'Assessment Year' as a period of:
-A) 6 months  B) 12 months commencing on 1st April  C) 12 months commencing on 1st January  D) 24 months
+A) 6 months  B) 24 months  C) 12 months commencing on 1st January  D) 12 months commencing on 1st April
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 2(9) defines 'assessment year' as a period of 12 months commencing on the 1st day of April every year.
+**Correct: D)** — Section 2(9) defines 'assessment year' as a period of 12 months commencing on the 1st day of April every year.
 - A) 6 months is incorrect; tax years are 12 months.
 - C) commencing on 1st January is wrong; India's tax year starts 1st April.
-- D) 24 months is wrong.
+- B) 24 months is wrong.
 </details>
 
 **Q7.** If income is earned in FY 2021-22, the Assessment Year will be:
@@ -112,11 +112,11 @@ A) Only if formed to earn profit  B) Even if not formed to derive income, profit
 </details>
 
 **Q12.** An 'assessee' under Section 2(7) is best described as:
-A) Only individuals filing returns  B) The person liable to pay tax or any other sum under the Act  C) The tax officer who assesses returns  D) Only companies
+A) The person liable to pay tax or any other sum under the Act  B) Only individuals filing returns  C) The tax officer who assesses returns  D) Only companies
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 2(7) defines assessee as the person liable for payment of taxes or any other sum, and includes anyone against whom a proceeding (regarding income, loss or refund) has been initiated.
-- A) Not just individuals — any 'person' can be an assessee.
+**Correct: A)** — Section 2(7) defines assessee as the person liable for payment of taxes or any other sum, and includes anyone against whom a proceeding (regarding income, loss or refund) has been initiated.
+- B) Not just individuals — any 'person' can be an assessee.
 - C) The assessing officer is the tax authority, not the assessee.
 - D) Not only companies.
 </details>
@@ -132,13 +132,13 @@ A) Section 2(7)  B) Section 2(24)  C) Section 2(29C)  D) Section 6
 </details>
 
 **Q14.** Which of the following is specifically mentioned as income under Section 2(24)?
-A) A loan taken from a bank  B) Gifts received from a non-relative covered by section 56  C) Repayment of principal  D) Reimbursement of actual expenses
+A) A loan taken from a bank  B) Repayment of principal  C) Reimbursement of actual expenses  D) Gifts received from a non-relative covered by section 56
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 2(24) clauses include profits/gains from business, dividend, capital gains, gifts from a non-relative covered by section 56, property received below market price (section 56), and certain employment perquisites.
+**Correct: D)** — Section 2(24) clauses include profits/gains from business, dividend, capital gains, gifts from a non-relative covered by section 56, property received below market price (section 56), and certain employment perquisites.
 - A) A loan is a liability, not income.
-- C) Repayment of principal is return of capital, not income.
-- D) Reimbursement of actual expenses is not income.
+- B) Repayment of principal is return of capital, not income.
+- C) Reimbursement of actual expenses is not income.
 </details>
 
 **Q15.** Residential status under the Income Tax Act is determined under which section?
@@ -161,13 +161,13 @@ A) Different concepts  B) The same concept  C) Both determined by FEMA  D) Both 
 </details>
 
 **Q17.** How often is residential status under the Income Tax Act determined?
-A) Once in a lifetime  B) Every financial year  C) From day to day  D) Every five years
+A) Once in a lifetime  B) Every five years  C) From day to day  D) Every financial year
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Under the Income Tax Act, residential status is determined every financial year. (Under FEMA, by contrast, it is determined from day to day at the time of an investment/remittance.)
+**Correct: D)** — Under the Income Tax Act, residential status is determined every financial year. (Under FEMA, by contrast, it is determined from day to day at the time of an investment/remittance.)
 - A) It is not permanent.
 - C) "Day to day" is the FEMA basis, not Income Tax.
-- D) There is no five-year cycle.
+- B) There is no five-year cycle.
 </details>
 
 **Q18.** Into how many categories can the residential status of an individual be classified?
@@ -312,13 +312,13 @@ A) Residential status  B) Clubbing of income  C) Deductions  D) Capital gains ex
 </details>
 
 **Q34.** Which agreement is entered into between countries to avoid taxing the same income twice?
-A) FEMA  B) DTAA  C) GST Treaty  D) GAAR
+A) FEMA  B) GAAR  C) GST Treaty  D) DTAA
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A Double Taxation Avoidance Agreement (DTAA) is entered into between two or more countries to avoid double taxation of income.
+**Correct: D)** — A Double Taxation Avoidance Agreement (DTAA) is entered into between two or more countries to avoid double taxation of income.
 - A) FEMA governs foreign exchange.
 - C) "GST Treaty" is not a real concept here.
-- D) GAAR is the General Anti-Avoidance Rule, not a double-tax agreement.
+- B) GAAR is the General Anti-Avoidance Rule, not a double-tax agreement.
 </details>
 
 **Q35.** What is the Maximum Marginal Rate (MMR) for an individual as per the workbook?
@@ -336,11 +336,11 @@ A) 30%  B) 34.944%  C) 42.744%  D) 21.45%
 ## 🟡 Tier 2 — Medium: Application (Q36–Q70)
 
 **Q36.** Mr. A is ROR in FY 2024-25 and earns interest on a bank balance in the USA. This interest is:
-A) Not taxable in India  B) Taxable in India because ROR is taxed on worldwide income  C) Taxable only in the USA  D) Exempt under DTAA automatically
+A) Taxable in India because ROR is taxed on worldwide income  B) Not taxable in India  C) Taxable only in the USA  D) Exempt under DTAA automatically
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — An ROR is liable to tax on worldwide income, so US bank interest is taxable in India.
-- A) Wrong — foreign income IS taxable for an ROR.
+**Correct: A)** — An ROR is liable to tax on worldwide income, so US bank interest is taxable in India.
+- B) Wrong — foreign income IS taxable for an ROR.
 - C) The USA may tax it too, but India also taxes it (relief comes via DTAA credit, not automatic exemption).
 - D) DTAA gives a *credit* for foreign tax, it does not make the income exempt.
 </details>
@@ -451,11 +451,11 @@ A) 5 equal instalments starting from the year of acquisition/completion  B) One 
 </details>
 
 **Q48.** A transaction of purchase/sale of shares settled otherwise than by actual delivery is treated as:
-A) Non-speculative  B) Speculative (Section 43(5))  C) A capital gain  D) Exempt
+A) Speculative (Section 43(5))  B) Non-speculative  C) A capital gain  D) Exempt
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Under Section 43(5), a purchase/sale of any commodity (including shares) settled otherwise than by actual delivery is a speculative transaction.
-- A) Non-speculative would require actual delivery.
+**Correct: A)** — Under Section 43(5), a purchase/sale of any commodity (including shares) settled otherwise than by actual delivery is a speculative transaction.
+- B) Non-speculative would require actual delivery.
 - C) If treated as business, it is speculative business income, not capital gain.
 - D) It is taxable.
 </details>
@@ -817,23 +817,23 @@ A) ₹44,000  B) ₹66,000  C) ₹73,333  D) ₹1,10,000
 </details>
 
 **Q86.** Continuing Q85: annual value ₹2,20,000 − standard deduction ₹66,000 − interest ₹5,00,000. The house-property income is:
-A) −₹2,80,000  B) −₹3,46,000  C) −₹5,00,000  D) +₹1,54,000
+A) −₹2,80,000  B) −₹5,00,000  C) +₹1,54,000  D) −₹3,46,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — House-property income = ₹2,20,000 − ₹66,000 − ₹5,00,000 = −₹3,46,000 (a loss). For let-out property there is no cap on interest.
+**Correct: D)** — House-property income = ₹2,20,000 − ₹66,000 − ₹5,00,000 = −₹3,46,000 (a loss). For let-out property there is no cap on interest.
 - A) −₹2,80,000 forgets to subtract the standard deduction correctly.
-- C) −₹5,00,000 ignores the net annual value contribution.
-- D) It is a loss, not a positive figure.
+- B) −₹5,00,000 ignores the net annual value contribution.
+- C) It is a loss, not a positive figure.
 </details>
 
 **Q87.** Continuing Q86 (old regime): the loss of ₹3,46,000 can be set off against salary in the current year up to:
-A) ₹3,46,000  B) ₹2,00,000  C) ₹1,50,000  D) Nil
+A) ₹3,46,000  B) ₹1,50,000  C) Nil  D) ₹2,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Inter-head set-off of house-property loss is capped at ₹2,00,000 under the old regime.
+**Correct: D)** — Inter-head set-off of house-property loss is capped at ₹2,00,000 under the old regime.
 - A) ₹3,46,000 ignores the ₹2 lakh cap.
-- C) ₹1,50,000 is the 80C cap.
-- D) Some set-off IS allowed, up to ₹2 lakh.
+- B) ₹1,50,000 is the 80C cap.
+- C) Some set-off IS allowed, up to ₹2 lakh.
 </details>
 
 **Q88.** Continuing Q86–87: the balance house-property loss to be carried forward is:
@@ -926,11 +926,11 @@ A) ₹5,00,000  B) ₹7,00,000  C) ₹12,00,000  D) ₹7,28,000
 </details>
 
 **Q97.** Under the NEW regime from FY 2025-26, the section 87A rebate of up to ₹60,000 applies for total income up to:
-A) ₹7,00,000  B) ₹10,00,000  C) ₹12,00,000  D) ₹15,00,000
+A) ₹12,00,000  B) ₹10,00,000  C) ₹7,00,000  D) ₹15,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Effective FY 2025-26 (AY 2026-27), the rebate is up to ₹60,000 for total income up to ₹12,00,000, with marginal relief just above.
-- A) ₹7,00,000 (₹25,000) is the FY 2024-25 new-regime limit.
+**Correct: A)** — Effective FY 2025-26 (AY 2026-27), the rebate is up to ₹60,000 for total income up to ₹12,00,000, with marginal relief just above.
+- C) ₹7,00,000 (₹25,000) is the FY 2024-25 new-regime limit.
 - B) ₹10,00,000 is not a threshold.
 - D) ₹15,00,000 is not the rebate threshold.
 </details>

@@ -75,10 +75,10 @@ A) optional  B) compulsory in all cases  C) compulsory only for Hindus  D) compu
 </details>
 
 **Q11.** A Will is registered on plain paper, which means ______.
-A) heavy stamp duty applies  B) no stamp duty is payable  C) stamp duty varies by state  D) GST applies
+A) heavy stamp duty applies  B) stamp duty varies by state  C) no stamp duty is payable  D) GST applies
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A Will is registered on plain paper, so **no stamp duty is payable**. A), C) and D) are wrong — there is simply no stamp duty on registering a Will (unlike, say, a gift deed or trust deed which do attract state stamp duty).
+**Correct: C)** — A Will is registered on plain paper, so **no stamp duty is payable**. A), B) and D) are wrong — there is simply no stamp duty on registering a Will (unlike, say, a gift deed or trust deed which do attract state stamp duty).
 </details>
 
 **Q12.** A bequest to a charitable or religious institution by a non-Hindu must be deposited with the Registrar within ______ of execution, and the testator must survive ______.
@@ -89,10 +89,10 @@ A) 3 months; 6 months  B) 6 months; 12 months  C) 12 months; 6 months  D) 1 mont
 </details>
 
 **Q13.** A supplementary document used to make minor alterations to an existing Will is called a ______.
-A) probate  B) codicil  C) succession certificate  D) trust deed
+A) probate  B) succession certificate  C) codicil  D) trust deed
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A **codicil** (Section 2(b)) is an instrument made in relation to a Will explaining, altering or adding to it; it must be executed and attested just like a Will. A) **Probate** is the court's certified copy of a Will. C) **Succession certificate** authorises heirs to collect debts/securities when there is no Will. D) **Trust deed** is the instrument creating a trust.
+**Correct: C)** — A **codicil** (Section 2(b)) is an instrument made in relation to a Will explaining, altering or adding to it; it must be executed and attested just like a Will. A) **Probate** is the court's certified copy of a Will. B) **Succession certificate** authorises heirs to collect debts/securities when there is no Will. D) **Trust deed** is the instrument creating a trust.
 </details>
 
 **Q14.** A codicil must be ______ in the same manner as a Will.
@@ -103,10 +103,10 @@ A) registered  B) probated  C) executed and attested  D) notarised abroad
 </details>
 
 **Q15.** Which of the following is one of the four modes of revoking a Will?
-A) Selling all the assets  B) Burning or tearing the Will with intent to revoke  C) Verbally telling a friend  D) Moving to another country
+A) Burning or tearing the Will with intent to revoke  B) Selling all the assets  C) Verbally telling a friend  D) Moving to another country
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The four modes are: (i) a later Will/codicil; (ii) a written declaration of intent to revoke, executed like a Will; (iii) **burning, tearing or destroying** the Will with intent to revoke; (iv) a subsequent marriage. A) Selling assets does not revoke the Will. C) A mere verbal intention is not valid revocation. D) Moving country is irrelevant.
+**Correct: A)** — The four modes are: (i) a later Will/codicil; (ii) a written declaration of intent to revoke, executed like a Will; (iii) **burning, tearing or destroying** the Will with intent to revoke; (iv) a subsequent marriage. B) Selling assets does not revoke the Will. C) A mere verbal intention is not valid revocation. D) Moving country is irrelevant.
 </details>
 
 **Q16.** For Hindus, the Indian Succession Act specifies that ______ shall not revoke a Will or codicil.
@@ -117,10 +117,10 @@ A) divorce  B) marriage  C) insolvency  D) emigration
 </details>
 
 **Q17.** A succession certificate is issued by a ______ to legal heirs to collect debts and securities of the deceased.
-A) Tehsildar  B) court (civil/district court)  C) bank  D) notary
+A) court (civil/district court)  B) Tehsildar  C) bank  D) notary
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A succession certificate is a document issued by a **court** (granted by District Courts under Section 371) authorising heirs to collect the deceased's debts and securities when there is no Will. A) **Tehsildar** issues the *legal heir certificate*. C) Banks accept these certificates but do not issue them. D) A notary authenticates documents like POAs, not succession certificates.
+**Correct: A)** — A succession certificate is a document issued by a **court** (granted by District Courts under Section 371) authorising heirs to collect the deceased's debts and securities when there is no Will. B) **Tehsildar** issues the *legal heir certificate*. C) Banks accept these certificates but do not issue them. D) A notary authenticates documents like POAs, not succession certificates.
 </details>
 
 **Q18.** A legal heir certificate is issued by the ______.
@@ -138,17 +138,17 @@ A) a copy of a Will certified under the seal of a court  B) a registered gift de
 </details>
 
 **Q20.** Probate is mandatory if the Will or the immovable property is situated in which towns?
-A) Delhi, Bengaluru, Hyderabad  B) Kolkata, Chennai, Mumbai  C) Pune, Surat, Jaipur  D) all metro cities
+A) Delhi, Bengaluru, Hyderabad  B) Pune, Surat, Jaipur  C) Kolkata, Chennai, Mumbai  D) all metro cities
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Probate is mandatory if the Will/codicil was made in the three Presidency towns — **Kolkata, Chennai and Mumbai** — or if the immovable property lies there; elsewhere it is optional. The other city groupings are not the Presidency towns named in the Act.
+**Correct: C)** — Probate is mandatory if the Will/codicil was made in the three Presidency towns — **Kolkata, Chennai and Mumbai** — or if the immovable property lies there; elsewhere it is optional. The other city groupings are not the Presidency towns named in the Act.
 </details>
 
 **Q21.** A gift is a transfer of property made ______.
-A) for full consideration  B) voluntarily and without consideration  C) only on death  D) only to charities
+A) voluntarily and without consideration  B) for full consideration  C) only on death  D) only to charities
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A **gift** is a transfer of movable or immovable property made **voluntarily and without consideration** (without payment). A) is wrong — paying full value would be a sale, not a gift. C) is wrong — a gift takes effect during life, unlike a Will. D) is wrong — gifts can be to any person, not only charities.
+**Correct: A)** — A **gift** is a transfer of movable or immovable property made **voluntarily and without consideration** (without payment). B) is wrong — paying full value would be a sale, not a gift. C) is wrong — a gift takes effect during life, unlike a Will. D) is wrong — gifts can be to any person, not only charities.
 </details>
 
 **Q22.** In a gift, the person making the gift is the ______ and the person receiving it is the ______.
@@ -166,10 +166,10 @@ A) revocable; the donor wishes  B) irrevocable; the donee agrees  C) conditional
 </details>
 
 **Q24.** Which of the following can NOT make a nomination?
-A) An individual investor  B) A Karta of an HUF  C) A single account holder  D) A natural person
+A) An individual investor  B) A single account holder  C) A Karta of an HUF  D) A natural person
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Only an **individual** can nominate; non-individuals such as corporate bodies, partnership firms, trusts, **Kartas of HUFs** and power of attorney holders **cannot** nominate. A), C) and D) all describe individuals, who are permitted to nominate.
+**Correct: C)** — Only an **individual** can nominate; non-individuals such as corporate bodies, partnership firms, trusts, **Kartas of HUFs** and power of attorney holders **cannot** nominate. A), B) and D) all describe individuals, who are permitted to nominate.
 </details>
 
 **Q25.** SEBI has increased the maximum number of nominees allowed to be registered for securities up to ______.
@@ -180,10 +180,10 @@ A) 3  B) 5  C) 10  D) unlimited
 </details>
 
 **Q26.** The main purpose of a nomination is ______.
-A) equitable distribution of the estate  B) to simplify the payment process on death of the holder  C) to avoid stamp duty  D) to override succession law permanently
+A) to simplify the payment process on death of the holder  B) equitable distribution of the estate  C) to avoid stamp duty  D) to override succession law permanently
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Nomination exists to **simplify the payment process** in the event of the holder's death, NOT to achieve equitable distribution of the estate. A) is precisely what nomination is *not* for. C) Stamp duty is unrelated. D) is wrong — generally a Will/succession law supersedes a nomination; the nominee is usually only a trustee of the bequest.
+**Correct: A)** — Nomination exists to **simplify the payment process** in the event of the holder's death, NOT to achieve equitable distribution of the estate. B) is precisely what nomination is *not* for. C) Stamp duty is unrelated. D) is wrong — generally a Will/succession law supersedes a nomination; the nominee is usually only a trustee of the bequest.
 </details>
 
 **Q27.** Generally, in case of a dispute, a nominee's position is reduced to being a ______ of the bequest.
@@ -194,10 +194,10 @@ A) absolute owner  B) trustee  C) creditor  D) legatee
 </details>
 
 **Q28.** Under which Act are "beneficial nominees" (spouse, parents, children) entitled to the death benefit, with other legal heirs having no claim?
-A) Indian Trust Act, 1882  B) Insurance Act, 1938  C) Registration Act, 1908  D) Indian Contract Act, 1872
+A) Indian Trust Act, 1882  B) Registration Act, 1908  C) Indian Contract Act, 1872  D) Insurance Act, 1938
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Under the **Insurance Act, 1938**, beneficial nominees — the immediate family (spouse, parents, children) — are entitled to the death benefit and other legal heirs cannot claim. A) governs trusts. C) governs registration. D) governs contracts/agency (POA). These are the exceptions where a nominee actually gets legal rights.
+**Correct: D)** — Under the **Insurance Act, 1938**, beneficial nominees — the immediate family (spouse, parents, children) — are entitled to the death benefit and other legal heirs cannot claim. A) governs trusts. B) governs registration. C) governs contracts/agency (POA). These are the exceptions where a nominee actually gets legal rights.
 </details>
 
 **Q29.** A family settlement is treated such that ______.
@@ -208,10 +208,10 @@ A) capital gains tax arises on it  B) it is treated as a gift  C) it is NOT trea
 </details>
 
 **Q30.** A family settlement agreement ______.
-A) must always be in writing and registered  B) may be oral or in writing  C) must be probated  D) requires court approval
+A) must always be in writing and registered  B) must be probated  C) may be oral or in writing  D) requires court approval
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A family settlement **may be oral or in writing**, and may be stamped and registered if required. A) is too strict — writing/registration is not mandatory. C) Probate applies to Wills. D) Court approval is not required; the settlement must just be voluntary and in good faith among family members.
+**Correct: C)** — A family settlement **may be oral or in writing**, and may be stamped and registered if required. A) is too strict — writing/registration is not mandatory. B) Probate applies to Wills. D) Court approval is not required; the settlement must just be voluntary and in good faith among family members.
 </details>
 
 **Q31.** In a Joint Tenancy, on the death of one owner, the deceased's interest ______.
@@ -222,10 +222,10 @@ A) passes by his Will  B) passes to the surviving joint tenant (right of survivo
 </details>
 
 **Q32.** In a Tenancy-in-Common, when a tenant dies, his share passes ______.
-A) automatically to the other tenants  B) by his Will or by succession law  C) to the state  D) to the eldest surviving tenant
+A) automatically to the other tenants  B) to the state  C) by his Will or by succession law  D) to the eldest surviving tenant
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A tenancy-in-common has **no right of survivorship**; the deceased's share passes per his **Will or the Succession Act**. A) describes joint tenancy, not tenancy-in-common. C) and D) are incorrect — the share follows the deceased's testamentary/succession wishes.
+**Correct: C)** — A tenancy-in-common has **no right of survivorship**; the deceased's share passes per his **Will or the Succession Act**. A) describes joint tenancy, not tenancy-in-common. B) and D) are incorrect — the share follows the deceased's testamentary/succession wishes.
 </details>
 
 **Q33.** The Indian Trust Act that governs trusts in India was enacted in ______.
@@ -252,10 +252,10 @@ A) Two  B) Three (author/settlor, trustee, beneficiary)  C) Four  D) No limit
 ## 🟡 Tier 2 — Medium: Application (Q36–Q70)
 
 **Q36.** Mr. Rao wants to ensure his minor son with special needs is financially cared for and that the arrangement starts working immediately and stays private, avoiding probate. Which tool best fits?
-A) A simple nomination  B) A family trust  C) A joint bank account  D) A succession certificate
+A) A family trust  B) A simple nomination  C) A joint bank account  D) A succession certificate
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A **family trust** is effective as soon as created, stays private, avoids probate, and is ideal for the welfare of dependents including those with special needs. A) A nomination only simplifies payment on death and is overridden by succession law. C) A joint account can be superseded by heirs' claims and does not provide structured caregiving. D) A succession certificate only applies after death where there is no Will.
+**Correct: A)** — A **family trust** is effective as soon as created, stays private, avoids probate, and is ideal for the welfare of dependents including those with special needs. B) A nomination only simplifies payment on death and is overridden by succession law. C) A joint account can be superseded by heirs' claims and does not provide structured caregiving. D) A succession certificate only applies after death where there is no Will.
 </details>
 
 **Q37.** A client wants to disinherit a fraudulent family member and appoint a trusted executor, but wants to keep the document changeable during his lifetime. Which tool fits best?

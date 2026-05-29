@@ -5,10 +5,10 @@
 ## 🟢 Tier 1 — Easy: Recall (Q1–Q35)
 
 **Q1.** Equity investment generally produces which two types of income?
-A) Interest and rent  B) Capital gains and dividend income  C) Commission and brokerage  D) Salary and bonus
+A) Capital gains and dividend income  B) Interest and rent  C) Commission and brokerage  D) Salary and bonus
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The chapter states that two types of income are earned from equity products: capital gains (selling above cost) and dividend income (a share of company profits). A) interest/rent are debt and property incomes, not equity. C) brokerage and commission are charges/expenses, not income to the investor. D) salary/bonus are employment incomes, unrelated to equity ownership.
+**Correct: A)** — The chapter states that two types of income are earned from equity products: capital gains (selling above cost) and dividend income (a share of company profits). B) interest/rent are debt and property incomes, not equity. C) brokerage and commission are charges/expenses, not income to the investor. D) salary/bonus are employment incomes, unrelated to equity ownership.
 </details>
 
 **Q2.** Dividend declared at an Annual General Meeting (AGM) is deemed to be the income of the shareholder in the previous year in which it is:
@@ -33,10 +33,10 @@ A) All securities including debt securities  B) Securities other than debt secur
 </details>
 
 **Q5.** STT collected during a calendar month must be remitted to the Central Government by which date of the following month?
-A) Last day  B) 15th  C) 7th  D) 1st
+A) Last day  B) 15th  C) 1st  D) 7th
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — STT collected in a month must be paid to the Central Government by the 7th of the immediately following month. A), B) and D) are incorrect dates not stated in the chapter; the rule is the 7th.
+**Correct: D)** — STT collected in a month must be paid to the Central Government by the 7th of the immediately following month. A), B) and C) are incorrect dates not stated in the chapter; the rule is the 7th.
 </details>
 
 **Q6.** SEBI turnover charges are levied at the rate of:
@@ -96,10 +96,10 @@ A) Across all accounts combined  B) Account-wise  C) Only to physical shares  D)
 </details>
 
 **Q14.** Long-term capital gains on listed equity shares under Section 112A are exempt up to an aggregate of how much per year?
-A) ₹1,00,000  B) ₹1,25,000  C) ₹1,50,000  D) ₹2,50,000
+A) ₹1,00,000  B) ₹1,50,000  C) ₹2,50,000  D) ₹1,25,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Under the Finance Act 2024, no tax is charged on Section 112A LTCG up to ₹1,25,000 in a year; the excess is taxed at 12.50%. A) ₹1,00,000 was the old limit before the change. C) ₹1,50,000 is the 80C deduction cap. D) ₹2,50,000 is the basic exemption limit, not the 112A limit.
+**Correct: D)** — Under the Finance Act 2024, no tax is charged on Section 112A LTCG up to ₹1,25,000 in a year; the excess is taxed at 12.50%. A) ₹1,00,000 was the old limit before the change. B) ₹1,50,000 is the 80C deduction cap. C) ₹2,50,000 is the basic exemption limit, not the 112A limit.
 </details>
 
 **Q15.** The concessional rate of tax on LTCG exceeding ₹1.25 lakh under Section 112A is:
@@ -131,10 +131,10 @@ A) 1 October 2004  B) 31 January 2018  C) 1 April 2020  D) 23 July 2024
 </details>
 
 **Q19.** For grandfathering of a listed share, the fair market value as on 31-01-2018 is taken as:
-A) The lowest price quoted that day  B) The average price that day  C) The highest price quoted on a recognised exchange that day  D) The face value
+A) The lowest price quoted that day  B) The average price that day  C) The face value  D) The highest price quoted on a recognised exchange that day
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — For listed shares, FMV on 31-01-2018 is the highest price quoted on a recognised stock exchange that day (or the last traded day before if there was no trading). A) lowest and B) average are not used. D) face value is unrelated to FMV.
+**Correct: D)** — For listed shares, FMV on 31-01-2018 is the highest price quoted on a recognised stock exchange that day (or the last traded day before if there was no trading). A) lowest and B) average are not used. C) face value is unrelated to FMV.
 </details>
 
 **Q20.** LTCG on unlisted equity shares is taxed at:
@@ -166,10 +166,10 @@ A) An obligation to buy shares  B) A right to subscribe to equity shares at a pr
 </details>
 
 **Q24.** A warrant holder is required to pay upfront at least what percentage of the strike price (per SEBI ICDR Regulation 13)?
-A) 10%  B) 25%  C) 50%  D) 100%
+A) 10%  B) 50%  C) 100%  D) 25%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Regulation 13 of SEBI (ICDR), 2018 requires the warrant holder to pay at least 25% of the strike price upfront. A), C) and D) are incorrect figures; the minimum upfront is 25%.
+**Correct: D)** — Regulation 13 of SEBI (ICDR), 2018 requires the warrant holder to pay at least 25% of the strike price upfront. A), B) and C) are incorrect figures; the minimum upfront is 25%.
 </details>
 
 **Q25.** The tenure of share warrants shall not exceed how long from the date of allotment?
@@ -343,10 +343,10 @@ A) Salary income  B) Any head except salary  C) Only speculative income  D) Only
 </details>
 
 **Q49.** Unabsorbed F&O (business) loss can be carried forward for up to:
-A) 4 assessment years  B) 8 assessment years  C) Indefinitely  D) 2 assessment years
+A) 4 assessment years  B) Indefinitely  C) 2 assessment years  D) 8 assessment years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Unabsorbed business loss can be carried forward up to 8 assessment years, set off only against business income. A), C) and D) are incorrect periods; the limit is 8 years.
+**Correct: D)** — Unabsorbed business loss can be carried forward up to 8 assessment years, set off only against business income. A), B) and C) are incorrect periods; the limit is 8 years.
 </details>
 
 **Q50.** To carry forward an F&O business loss, the assessee must:
@@ -441,10 +441,10 @@ A) 10%  B) 12.50%  C) 20%  D) 30%
 </details>
 
 **Q63.** STCG on units of an equity-oriented mutual fund, with STT paid at sale, is taxed at:
-A) 12.50%  B) 20%  C) Slab rates  D) Exempt
+A) 12.50%  B) Slab rates  C) Exempt  D) 20%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — STCG on equity-oriented MF units is taxed at 20% if STT is paid at sale (Section 111A-type treatment). A) is the LTCG rate. C) slab rates apply only if STT is not paid. D) is wrong — STCG is taxable.
+**Correct: D)** — STCG on equity-oriented MF units is taxed at 20% if STT is paid at sale (Section 111A-type treatment). A) is the LTCG rate. B) slab rates apply only if STT is not paid. C) is wrong — STCG is taxable.
 </details>
 
 **Q64.** If STT is NOT paid at the time of transfer of equity-oriented MF units, the LTCG is taxed at:
@@ -646,10 +646,10 @@ A) ₹11,000 total; ₹11 per share  B) Nil; ₹0 per share  C) ₹1,06,000 tota
 </details>
 
 **Q92.** Mr. K has 112A LTCG of ₹3,25,000 (STT paid). Tax payable (ignoring surcharge/cess) is:
-A) ₹40,625  B) ₹25,000  C) ₹65,000  D) ₹37,500
+A) ₹40,625  B) ₹65,000  C) ₹37,500  D) ₹25,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Taxable = ₹3,25,000 − ₹1,25,000 = ₹2,00,000. Tax = 12.50% × ₹2,00,000 = ₹25,000. A) taxes the full gain. C) uses 20%. D) uses a wrong base.
+**Correct: D)** — Taxable = ₹3,25,000 − ₹1,25,000 = ₹2,00,000. Tax = 12.50% × ₹2,00,000 = ₹25,000. A) taxes the full gain. B) uses 20%. C) uses a wrong base.
 </details>
 
 **Q93.** An investor has both ₹2,00,000 of 112A LTCG and ₹1,00,000 STCG under 111A, all STT-paid (the only relevant incomes). Total tax on these gains (ignore surcharge/cess) is:

@@ -351,19 +351,19 @@ B) HLV is not zero; the rate is zero. C) and D) are unrelated to the thumb rule.
 </details>
 
 **Q44.** "If income grows at 8% instead of 6% (return still 8%), the HLV goes DOWN." This statement is:
-A) True, because higher inflation reduces real income  B) False, because a higher growth rate lowers the discounting rate, raising HLV  C) True, because the corpus shrinks  D) Cannot be determined
+A) True, because higher inflation reduces real income  B) True, because the corpus shrinks  C) Cannot be determined  D) False, because a higher growth rate lowers the discounting rate, raising HLV
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A higher income-growth rate makes the discounting rate smaller (here it becomes 0), which makes HLV higher (or equal), not lower. The workbook explicitly calls the original statement False.
-A), C) and D) misread the effect of growth on present value.
+**Correct: D)** — A higher income-growth rate makes the discounting rate smaller (here it becomes 0), which makes HLV higher (or equal), not lower. The workbook explicitly calls the original statement False.
+A), B) and C) misread the effect of growth on present value.
 </details>
 
 **Q45.** The needs-based insurance requirement will be LOWER when the insured has:
-A) A smaller existing investment portfolio  B) A larger amount of existing investments  C) More children  D) A bigger outstanding loan
+A) A smaller existing investment portfolio  B) More children  C) A bigger outstanding loan  D) A larger amount of existing investments
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Existing investments are deducted from the total funds required, so more investments mean a lower additional insurance need (the workbook confirms this is True).
-A) Smaller investments would raise the need. C) More dependents tend to raise needs. D) A bigger loan adds to liabilities, raising the need.
+**Correct: D)** — Existing investments are deducted from the total funds required, so more investments mean a lower additional insurance need (the workbook confirms this is True).
+A) Smaller investments would raise the need. B) More dependents tend to raise needs. C) A bigger loan adds to liabilities, raising the need.
 </details>
 
 **Q46.** Comparing the HLV method and the needs-based method, the insurance requirement under HLV will always be:
@@ -375,11 +375,11 @@ A), B) and D) contradict this stated relationship.
 </details>
 
 **Q47.** The adjusted (real) discounting rate used in the needs-based corpus calculation is given by:
-A) Investment return − inflation  B) ((1 + investment return) / (1 + inflation)) − 1  C) Inflation − investment return  D) (1 + inflation) / (1 + return)
+A) Investment return − inflation  B) Inflation − investment return  C) (1 + inflation) / (1 + return)  D) ((1 + investment return) / (1 + inflation)) − 1
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The adjusted rate = ((1 + investment return) / (1 + inflation)) − 1. With 8% and 6%: (1.08/1.06) − 1 = 1.89%. It discounts income by the *gap* between earnings and cost growth.
-A) Simple subtraction (8−6 = 2%) is an approximation, not the exact formula used. C) and D) are inverted/incorrect.
+**Correct: D)** — The adjusted rate = ((1 + investment return) / (1 + inflation)) − 1. With 8% and 6%: (1.08/1.06) − 1 = 1.89%. It discounts income by the *gap* between earnings and cost growth.
+A) Simple subtraction (8−6 = 2%) is an approximation, not the exact formula used. B) and C) are inverted/incorrect.
 </details>
 
 **Q48.** In the needs-based method, which asset is NOT deducted when computing the corpus required, because the family will not want to sell it?
@@ -391,11 +391,11 @@ A), B) and D) are investible assets that are deducted because they can be used t
 </details>
 
 **Q49.** A term plan with return of premium charges a higher premium than a pure term plan. The extra premium is best understood as:
-A) A pure cost with no return  B) An investment by the insurer, refunded at the end, earning a modest implied return (~4.61% in the workbook example)  C) A bonus that doubles the cover  D) A tax-free gift
+A) A pure cost with no return  B) A bonus that doubles the cover  C) A tax-free gift  D) An investment by the insurer, refunded at the end, earning a modest implied return (~4.61% in the workbook example)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The difference between premiums is invested by the insurer to refund premiums at maturity; the implied return (via Excel's RATE) was 4.61% p.a. in the example.
-A) It is refunded, so not a pure cost. C) It does not affect the sum assured. D) It is a return of premium, not a tax-free gift.
+**Correct: D)** — The difference between premiums is invested by the insurer to refund premiums at maturity; the implied return (via Excel's RATE) was 4.61% p.a. in the example.
+A) It is refunded, so not a pure cost. B) It does not affect the sum assured. C) It is a return of premium, not a tax-free gift.
 </details>
 
 **Q50.** Which policy is most suitable to cover a reducing home loan balance?
@@ -407,11 +407,11 @@ A), B) and D) are not designed to track a falling loan balance.
 </details>
 
 **Q51.** Why are reducing-balance mortgage insurance plans not popular in practice?
-A) They are illegal  B) They are usually not much cheaper (sometimes more expensive) than level term, and home prepayments waste premium for cover no longer needed  C) They cover only death by accident  D) They pay no benefit at all
+A) They are illegal  B) They cover only death by accident  C) They pay no benefit at all  D) They are usually not much cheaper (sometimes more expensive) than level term, and home prepayments waste premium for cover no longer needed
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — In practice these plans are often not cheaper (sometimes costlier) than a level term plan, and because home loans are frequently prepaid, premiums for the now-unneeded extra cover go waste.
-A) They are legal. C) and D) misstate the product's coverage.
+**Correct: D)** — In practice these plans are often not cheaper (sometimes costlier) than a level term plan, and because home loans are frequently prepaid, premiums for the now-unneeded extra cover go waste.
+A) They are legal. B) and C) misstate the product's coverage.
 </details>
 
 **Q52.** A young earner expects rising income but worries about future health issues blocking insurance increases. Which rider helps most?
@@ -455,59 +455,59 @@ A) and C) contradict the workbook. D) Loans always carry interest.
 </details>
 
 **Q57.** When a policy is assigned, the existing nomination is:
-A) Strengthened  B) Cancelled (except when assigned to the insurer for its own loan)  C) Always unaffected  D) Doubled
+A) Strengthened  B) Always unaffected  C) Doubled  D) Cancelled (except when assigned to the insurer for its own loan)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — An assignment cancels an existing nomination — except where the assignment is to the insurer itself for a loan, in which case the nomination is only affected to the extent of the insurer's interest.
-A) and D) are not effects of assignment. C) is wrong because assignment generally cancels nomination.
+**Correct: D)** — An assignment cancels an existing nomination — except where the assignment is to the insurer itself for a loan, in which case the nomination is only affected to the extent of the insurer's interest.
+A) and C) are not effects of assignment. B) is wrong because assignment generally cancels nomination.
 </details>
 
 **Q58.** After a policy assigned for a loan is re-assigned back to the policyholder, the nomination:
-A) Remains permanently cancelled  B) Gets reinstated  C) Transfers to the lender  D) Must be re-registered with IRDAI
+A) Gets reinstated  B) Remains permanently cancelled  C) Transfers to the lender  D) Must be re-registered with IRDAI
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Nomination gets reinstated once the policy is re-assigned back to the policyholder.
-A) is wrong; cancellation is not permanent. C) and D) are not stated outcomes.
+**Correct: A)** — Nomination gets reinstated once the policy is re-assigned back to the policyholder.
+B) is wrong; cancellation is not permanent. C) and D) are not stated outcomes.
 </details>
 
 **Q59.** A key advantage of buying a policy under the MWP Act, 1874 is that the proceeds:
-A) Earn higher bonuses  B) Are shielded from the insured's creditors  C) Can have nominees changed easily  D) Are exempt from all premiums
+A) Earn higher bonuses  B) Can have nominees changed easily  C) Are exempt from all premiums  D) Are shielded from the insured's creditors
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — MWPA policies ensure the benefits stay with the nominees (spouse/children) despite any claim on the insured's assets by creditors.
-A) MWPA does not change returns. C) In fact nominees CANNOT be changed under MWPA. D) Premiums are still payable.
+**Correct: D)** — MWPA policies ensure the benefits stay with the nominees (spouse/children) despite any claim on the insured's assets by creditors.
+A) MWPA does not change returns. B) In fact nominees CANNOT be changed under MWPA. C) Premiums are still payable.
 </details>
 
 **Q60.** After the 2015 amendment to the Insurance Act, if the nominee is the spouse, parent or children, they inherit:
-A) As trustees for the legal heirs  B) On a beneficial basis (in their own right)  C) Only 50% of the proceeds  D) Nothing until probate
+A) As trustees for the legal heirs  B) Only 50% of the proceeds  C) Nothing until probate  D) On a beneficial basis (in their own right)
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Post-2015, such nominees inherit on a beneficial basis rather than as trustees, owning the money in their own right.
-A) describes the old position under normal law. C) and D) are not stated rules.
+**Correct: D)** — Post-2015, such nominees inherit on a beneficial basis rather than as trustees, owning the money in their own right.
+A) describes the old position under normal law. B) and C) are not stated rules.
 </details>
 
 **Q61.** Life insurance premiums are "telescopic." This means:
-A) Premium rises in exact proportion to sum assured  B) Premium per thousand of sum assured falls as the sum assured rises  C) Premium is always fixed regardless of cover  D) Premium doubles every year
+A) Premium per thousand of sum assured falls as the sum assured rises  B) Premium rises in exact proportion to sum assured  C) Premium is always fixed regardless of cover  D) Premium doubles every year
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Telescopic means premium does not rise in the same proportion as the sum assured; a larger sum assured costs less per thousand, so concentrating cover with one company can be cheaper.
-A) is the opposite of telescopic. C) and D) are incorrect.
+**Correct: A)** — Telescopic means premium does not rise in the same proportion as the sum assured; a larger sum assured costs less per thousand, so concentrating cover with one company can be cheaper.
+B) is the opposite of telescopic. C) and D) are incorrect.
 </details>
 
 **Q62.** A client needs Rs. 8 crore term cover but the insurer's telescopic rates stop at Rs. 2 crore. The workbook suggests:
-A) Buy one Rs. 8 crore policy  B) Buy 4 policies of Rs. 2 crore each, so some can be dropped as needs fall  C) Buy from 8 different insurers  D) Avoid insurance entirely
+A) Buy one Rs. 8 crore policy  B) Buy from 8 different insurers  C) Avoid insurance entirely  D) Buy 4 policies of Rs. 2 crore each, so some can be dropped as needs fall
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Buying 4 policies of Rs. 2 crore each (from the same company) captures telescopic pricing up to the cap and lets the insured give up individual policies as insurance needs decline.
-A) loses the flexibility to drop cover later. C) fragments unnecessarily across insurers. D) ignores a genuine need.
+**Correct: D)** — Buying 4 policies of Rs. 2 crore each (from the same company) captures telescopic pricing up to the cap and lets the insured give up individual policies as insurance needs decline.
+A) loses the flexibility to drop cover later. B) fragments unnecessarily across insurers. C) ignores a genuine need.
 </details>
 
 **Q63.** Failing to disclose existing policies and pending proposals on the proposal form may be treated as omission of a material fact and can be grounds for repudiation/cancellation within:
-A) The first 1 year  B) The first 3 years after the policy is issued  C) The first 5 years  D) Any time, forever
+A) The first 3 years after the policy is issued  B) The first 1 year  C) The first 5 years  D) Any time, forever
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Such omission may be grounds for repudiation of a claim or cancellation of the policy within the first 3 years after issue.
-A), C) and D) state the wrong window.
+**Correct: A)** — Such omission may be grounds for repudiation of a claim or cancellation of the policy within the first 3 years after issue.
+B), C) and D) state the wrong window.
 </details>
 
 **Q64.** For a traditional life insurance policy issued on or after April 1, 2023 where the premium is higher than Rs. 5 lakh, the maturity proceeds are taxable as:
@@ -519,11 +519,11 @@ A) Capital gains applies to high-premium ULIPs. B) Not tax-free here. D) Salary 
 </details>
 
 **Q65.** Per the Finance Act 2021, ULIP maturity proceeds are taxed as capital gains if the annual premium exceeds Rs. 2.5 lakh, for policies taken:
-A) Before 01.02.2021  B) On or after 01.02.2021  C) Any time  D) Only after 01.04.2023
+A) Before 01.02.2021  B) Any time  C) Only after 01.04.2023  D) On or after 01.02.2021
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The capital-gains treatment for ULIPs with annual premium over Rs. 2.5 lakh applies only to policies taken on or after 01.02.2021.
-A) Policies before this date are not covered. C) is too broad. D) is the threshold date for traditional high-premium policies, not ULIPs.
+**Correct: D)** — The capital-gains treatment for ULIPs with annual premium over Rs. 2.5 lakh applies only to policies taken on or after 01.02.2021.
+A) Policies before this date are not covered. B) is too broad. C) is the threshold date for traditional high-premium policies, not ULIPs.
 </details>
 
 **Q66.** A ULIP's maturity value is exempt from tax (for older policies) only if the sum assured is at least:
