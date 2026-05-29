@@ -1,200 +1,331 @@
-# Chapter 10: Taxation of Debt Products — Questionnaire
+# Chapter 10: Taxation of Debt Products — 100 MCQ Question Bank
 
-## 📝 Multiple Choice Questions
+> Three difficulty tiers — 🟢 Tier 1 (Easy/Recall), 🟡 Tier 2 (Medium/Application), 🔴 Tier 3 (Hard/Numerical & Scenario) — followed by a worked Case Study. Remember: the NISM exam applies **25% negative marking** (a wrong answer costs you a quarter of a mark), so do not guess blindly.
 
-**Q1.** Interest income from a coupon bond held as an investment is taxable under which head?
-A) Capital Gains  B) Income from Other Sources  C) Profits & Gains of Business  D) Salary
+## 🟢 Tier 1 — Easy: Recall (Q1–Q35)
+
+**Q1.** A person holding a debt instrument of an entity is entitled to which of the following?
+A) Voting power in the entity  B) A share of the entity's dividend  C) Interest and the redemption value at maturity  D) Ownership of the entity's assets
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Periodic interest is *Income from Other Sources* (unless held as business stock). Capital Gains (A) covers only the gain on transfer/redemption.
+**Correct: C)** — A debt instrument is like a loan to the issuer; the holder gets periodic **interest** plus the **redemption (principal) value** at maturity.
+- A) Wrong — voting power belongs to shareholders (equity holders), not lenders.
+- B) Wrong — dividends are paid to shareholders; lenders get interest instead.
+- D) Wrong — lenders do not own the company's assets; they only have a claim to be repaid.
 </details>
 
-**Q2.** Under the mercantile system of accounting, interest on securities is taxed:
-A) Only when received  B) When it accrues/becomes due  C) At maturity only  D) Never
+**Q2.** Periodic income earned from debt instruments is classified as:
+A) Capital gains  B) Interest income  C) Dividend income  D) Business turnover
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Mercantile = accrual basis. Cash system (A) taxes on receipt. Section 145 lets the assessee choose.
+**Correct: B)** — The workbook states periodic income from debt is "interest income"; the gain/loss on transfer or redemption is "capital gains".
+- A) Wrong — capital gains arise only on transfer/redemption, not on periodic receipts.
+- C) Wrong — dividends come from shares (equity), not debt.
+- D) Wrong — "turnover" is a business-sales concept, unrelated to periodic debt income.
 </details>
 
-**Q3.** A listed bond held for 18 months is sold at a gain. The gain is:
-A) STCG at slab rates  B) LTCG at 12.50% without indexation  C) Exempt  D) LTCG at 20%
+**Q3.** Interest on securities, if not taxable as business income, is taxed under which head?
+A) Salaries  B) Income from Other Sources  C) Capital Gains  D) House Property
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Listed bonds become long-term after 12 months; LTCG @12.50%, no indexation. 18 > 12 months, so long-term.
+**Correct: B)** — Interest on securities is taxable under "**Income from Other Sources**" unless it forms part of business income.
+- A) Wrong — salary head is for employment income.
+- C) Wrong — capital gains head covers transfer/redemption gains, not interest.
+- D) Wrong — house property head is for rental income from property.
 </details>
 
-**Q4.** Mr. P sells 200 unlisted debentures held for 5 years at a ₹4,00,000 gain. How is it taxed?
-A) LTCG @12.50%  B) Exempt  C) STCG at normal slab rates  D) LTCG @20%
+**Q4.** Under Section 145, which two methods of accounting are allowed for computing interest income?
+A) Mercantile and cash systems  B) FIFO and LIFO  C) Accrual and amortised  D) Straight-line and reducing balance
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Unlisted bonds/debentures are **always short-term** regardless of holding period, taxed at slab rates. The 5-year holding is irrelevant.
+**Correct: A)** — Section 145 allows the **mercantile (accrual)** system and the **cash** system, whichever the assessee regularly employs.
+- B) Wrong — FIFO/LIFO are inventory valuation methods.
+- C) Wrong — "accrual" is mercantile, but "amortised" is not a Section 145 method.
+- D) Wrong — straight-line/reducing balance are depreciation methods.
 </details>
 
-**Q5.** A 9% listed bond (face ₹10,000) is sold for ₹13,000 inclusive of ₹75 accrued interest, cost ₹10,500. The short-term capital gain is:
-A) ₹2,500  B) ₹2,425  C) ₹2,575  D) ₹3,000
+**Q5.** Under the mercantile system of accounting, interest on securities is taxable on a:
+A) Receipt basis  B) Accrual basis  C) Maturity basis  D) Cash basis
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Carve out interest first: 13,000 − 75 = 12,925. STCG = 12,925 − 10,500 = **₹2,425**. The ₹75 is taxed separately as interest. (A) forgets to remove interest cleanly; (C)/(D) miscompute.
+**Correct: B)** — Mercantile = **accrual** basis; interest is taxed when it becomes due, even if not yet received.
+- A) and D) Wrong — receipt/cash basis describes the cash system, not mercantile.
+- C) Wrong — maturity basis is not a recognised method; accrual happens period by period.
 </details>
 
-**Q6.** Treasury Bills earn return through:
-A) Half-yearly coupon  B) Annual dividend  C) The discount between issue price and face value  D) Bonus units
+**Q6.** Under the cash system of accounting, interest on securities is taxed on a:
+A) Accrual basis  B) Due basis  C) Receipt basis  D) Estimated basis
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — T-Bills are zero-interest, issued at a discount and redeemed at face value. The difference is a short-term capital gain.
+**Correct: C)** — Cash system = interest taxed only when **actually received**.
+- A) and B) Wrong — accrual/due basis describes the mercantile system.
+- D) Wrong — there is no "estimated" basis under Section 145.
 </details>
 
-**Q7.** Profit on redemption of a T-Bill (maturity 182 days) is:
-A) Long-term capital gain @12.50%  B) Short-term capital gain at applicable rates  C) Exempt  D) Interest income
+**Q7.** Securities held by Foreign Portfolio Investors (FPIs) are:
+A) Always treated as stock-in-trade  B) Always treated as a capital asset  C) Exempt from all tax  D) Taxed only as business income
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Maturity < 1 year so it can only be short-term; taxed at applicable rates.
+**Correct: B)** — The workbook states FPIs' securities are **always treated as a capital asset**, so their gains are always taxed under capital gains.
+- A) Wrong — they are the opposite of stock-in-trade; they are capital assets.
+- C) Wrong — they are taxed, just under the capital gains head.
+- D) Wrong — they are taxed as capital gains, not business income.
 </details>
 
-**Q8.** TDS under Section 193 on Government security interest paid to a resident:
-A) Always applies at 10%  B) Generally does not apply, except certain Savings Bonds above ₹10,000 interest  C) Always 20%  D) Applies only to non-residents
+**Q8.** The three principal features of a bond are:
+A) Maturity, coupon and principal  B) Coupon, dividend and bonus  C) Liquidity, risk and dividend  D) Issue date, NAV and exit load
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — No TDS generally, except 8% Savings (Taxable) Bonds 2003 and 7.75% Savings (Taxable) Bonds 2018, and only if interest exceeds ₹10,000.
+**Correct: A)** — A bond's principal features are **maturity (tenure), coupon (interest) and principal (face value)**.
+- B) Wrong — bonds do not pay dividends or bonuses; those belong to equity.
+- C) Wrong — these are general descriptors, not the defined features.
+- D) Wrong — NAV and exit load are mutual-fund concepts.
 </details>
 
-**Q9.** For a tax-free bond, which statement is correct?
-A) Both interest and capital gain are exempt  B) Interest is exempt; capital gain is taxable  C) Interest is taxable; capital gain is exempt  D) Both are taxable
+**Q9.** In "7.4% CG Bond 2027", the figure 7.4% refers to the:
+A) Yield to maturity  B) Coupon (interest) rate  C) Redemption premium  D) Tax rate
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 10 exempts the interest, but capital gains on transfer/redemption remain taxable like coupon bonds.
+**Correct: B)** — The name conveys a Central Government bond maturing in 2027 paying a **coupon of 7.40%**.
+- A) Wrong — YTM is the market discount rate, not stated in the bond's name.
+- C) Wrong — there is no redemption premium implied here.
+- D) Wrong — 7.4% is interest, not a tax rate.
 </details>
 
-**Q10.** From FY 2023-24, how many mutual fund categories exist for taxation?
-A) Two  B) Three  C) Four  D) Five
+**Q10.** The interest rate at which the present value of a bond's future cash flows is determined is known as:
+A) Coupon rate  B) Repo rate  C) Yield-to-maturity  D) Marginal cost of funds
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Equity-oriented, SMF Type 1, SMF Type 2, and Other Mutual Funds.
+**Correct: C)** — Market value of a bond = present value of all future cash flows, discounted at the **Yield-to-Maturity (YTM)**.
+- A) Wrong — the coupon is the fixed contractual interest, not the discount rate.
+- B) Wrong — the repo rate is an RBI policy rate.
+- D) Wrong — MCLR is a bank lending benchmark, not a bond discount rate.
 </details>
 
-**Q11.** A Specified Mutual Fund (Type 1) is one that:
-A) Invests ≥65% in equity  B) Invests ≥65% in debt/money-market, bought on/after 01-04-2023  C) Is an ELSS  D) Invests only in gold
+**Q11.** Interest arising from bonds is generally taxable:
+A) At a flat 12.50%  B) At normal rates applicable to the assessee  C) Tax-free in all cases  D) At 20% always
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Type 1 SMF = ≥65% debt/money-market (direct or indirect), purchased on/after 01-04-2023, governed by Section 50AA.
+**Correct: B)** — Bond interest is taxed under Other Sources at **normal (slab) rates** applicable to the assessee.
+- A) Wrong — 12.50% is the LTCG rate on listed bonds, not the interest rate.
+- C) Wrong — only tax-free bonds give exempt interest; ordinary bonds do not.
+- D) Wrong — 20% is the non-resident dividend rate, not the general interest rate.
 </details>
 
-**Q12.** Capital gains on an SMF Type 1 held for 4 years are taxed as:
-A) LTCG @12.50%  B) Short-term at slab rates regardless of holding period  C) Exempt up to ₹1.25 lakh  D) LTCG @20%
+**Q12.** For LISTED bonds or debentures, the holding period to qualify as a long-term capital asset is:
+A) 36 months  B) 24 months  C) 12 months  D) Not applicable
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 50AA makes all SMF gains short-term regardless of holding period. No long-term benefit, no indexation.
+**Correct: C)** — Listed bonds/debentures become long-term after **12 months** (Table 10.1).
+- A) and B) Wrong — 36/24 months are not the listed-bond thresholds.
+- D) Wrong — "Not applicable" describes unlisted bonds/MLDs, which are always short-term.
 </details>
 
-**Q13.** A resident receives ₹3,00,000 dividend from a debt MF and paid ₹80,000 interest on borrowed funds. Deductible interest is:
-A) ₹80,000  B) ₹60,000  C) ₹30,000  D) Nil
+**Q13.** Long-term capital gains on listed bonds are taxed at:
+A) 10% with indexation  B) 12.50% without indexation  C) 20% with indexation  D) Slab rates
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Capped at 20% of dividend = 20% × 3,00,000 = **₹60,000**. The remaining ₹20,000 interest is not deductible.
+**Correct: B)** — LTCG on listed bonds is **12.50% without indexation** benefit.
+- A) and C) Wrong — indexation is not available under these post-2023 rules.
+- D) Wrong — slab rates apply to short-term gains, not LTCG on listed bonds.
 </details>
 
-**Q14.** A non-resident receives ₹5,00,000 MF dividend, paying ₹1,00,000 interest. Taxable dividend and rate?
-A) ₹4,00,000 at slab  B) ₹5,00,000 at 20%, no deduction  C) ₹4,00,000 at 20%  D) Exempt
+**Q14.** Capital gains on UNLISTED bonds or debentures are:
+A) Always long-term, taxed at 12.50%  B) Always short-term, taxed at applicable rates  C) Exempt from tax  D) Taxed at 20% with indexation
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A non-resident gets **no deduction** for any expense; the entire ₹5,00,000 is taxed at flat 20% (subject to DTAA).
+**Correct: B)** — Irrespective of holding period, gains on unlisted bonds/debentures are **short-term**, taxed at applicable (slab) rates.
+- A) Wrong — they never qualify as long-term, so 12.50% LTCG does not apply.
+- C) Wrong — they are taxable.
+- D) Wrong — no indexation and the rate is slab, not 20%.
 </details>
 
-**Q15.** "Other Mutual Funds" that are unlisted qualify as long-term after:
-A) 12 months  B) 24 months  C) 36 months  D) Never
+**Q15.** Market Linked Debentures (even if listed) are taxed on transfer as:
+A) Long-term capital gains at 12.50%  B) Short-term capital gains irrespective of holding period  C) Exempt under Section 10  D) Business income
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Unlisted Other MFs need 24 months; listed need only 12 months. LTCG @12.50%.
+**Correct: B)** — MLDs are always **short-term capital gains irrespective of holding period** (Section 50AA).
+- A) Wrong — they never get the 12.50% long-term rate.
+- C) Wrong — they are not exempt.
+- D) Wrong — they are capital gains, not business income (when held as a capital asset).
 </details>
 
-**Q16.** Under Section 50AA, the cost of improvement of an MLD is:
-A) Indexed  B) The actual cost  C) Taken as nil  D) Added to sale price
+**Q16.** A Government Security (G-Sec) is issued by:
+A) Private companies  B) The Central or State Governments  C) Mutual funds  D) Foreign banks
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Section 50AA denies cost-of-improvement (taken as nil) and the holding-period benefit.
+**Correct: B)** — A G-Sec is a tradable instrument issued by the **Central Government or the State Governments**, acknowledging the Government's debt.
+- A), C), D) Wrong — these issuers do not issue sovereign G-Secs.
 </details>
 
-**Q17.** Mr. A (non-resident, US tax resident) earns ₹10,00,000 interest from Indian debentures. India-USA DTAA Article 11 rate is 15%; Act rate (slab) higher. He is taxed at:
-A) 30%  B) Slab rate  C) 15% (DTAA, being more beneficial)  D) Exempt
+**Q17.** Government securities with a maturity of less than 1 year are usually called:
+A) Dated securities  B) State Development Loans  C) Treasury bills or cash management bills  D) Tax-free bonds
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — He chooses the more beneficial of DTAA (15%) or Act; here DTAA's 15% is lower. He also gets US tax credit.
+**Correct: C)** — Short-term G-Secs (maturity less than 1 year) are **treasury bills or cash management bills**.
+- A) and B) Wrong — dated securities and SDLs have maturity of 1 year or more.
+- D) Wrong — tax-free bonds are a separate category, not defined by sub-1-year maturity.
 </details>
 
-**Q18.** To claim DTAA relief, a non-resident must furnish:
-A) PAN only  B) Aadhaar  C) Tax Residency Certificate (TRC) and Form 10F  D) Form 16
+**Q18.** Long-term securities issued by State Governments are called:
+A) Treasury Bills  B) State Development Loans (SDLs)  C) Cash Management Bills  D) Tax-free bonds
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — TRC of the residence country plus the self-declaration Form 10F.
+**Correct: B)** — State Governments raise market loans called **State Development Loans (SDLs)**.
+- A) and C) Wrong — these are short-term Central Government instruments.
+- D) Wrong — tax-free bonds are issued by specified organizations, not as SDLs.
 </details>
 
-**Q19.** Under Chapter XII-A, LTCG on the specified NRI assets is taxed at:
-A) 20%  B) 12.50% (no indexation)  C) 30%  D) Exempt
+**Q19.** G-Secs are considered the safest investment because they:
+A) Offer the highest returns  B) Carry the Sovereign's commitment and practically no default risk  C) Are exempt from all tax  D) Are guaranteed by SEBI
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Investment income capped at 20%, LTCG at 12.50%, no indexation. Reinvestment within 6 months can exempt the LTCG.
+**Correct: B)** — G-Secs carry the **Sovereign's commitment** for interest and principal, with practically no default risk — hence "risk-free gilt-edged securities".
+- A) Wrong — being safe, they usually offer modest, not the highest, returns.
+- C) Wrong — interest on ordinary G-Secs is taxable.
+- D) Wrong — they are backed by the Government, not guaranteed by SEBI.
 </details>
 
-**Q20.** Redemption of a Sovereign Gold Bond by an individual:
-A) Is taxed at 12.50% LTCG  B) Is not treated as transfer (Section 47), so no capital gain  C) Is fully taxed at slab rates  D) Attracts STT
+**Q20.** Cash Management Bills (CMBs) are usually issued for a period of:
+A) Less than 91 days  B) Exactly 1 year  C) 5 to 40 years  D) 364 days only
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Section 47 exempts individual *redemption*. (Note: a *sale/transfer* in the secondary market is still taxable, and interest is always taxable.)
+**Correct: A)** — CMBs are issued for a very short period, **usually less than 91 days**, as per the Government's cash requirements.
+- B) and D) Wrong — those describe T-Bills tenors, not CMBs.
+- C) Wrong — 5 to 40 years describes dated G-Secs.
 </details>
 
----
+**Q21.** Treasury Bills (T-Bills) are issued in which tenors?
+A) 30, 60 or 90 days  B) 91, 182 or 364 days  C) 1, 3 or 5 years  D) 6, 12 or 24 months
+<details><summary>Answer & Explanation</summary>
 
-## 🧩 Case Study
-
-**Scenario:** Mr. Verma, a resident individual following the **mercantile** system, has the following debt transactions during FY 2024-25:
-1. He holds **500 listed bonds** of Apex Ltd., 8% coupon, face value ₹1,000 each, interest paid annually on 31 March. He bought them on 01-01-2017 at ₹1,100 each and **sold all 500 on 30-09-2024 at ₹1,500 each** (price excludes interest).
-2. He holds **2,000 units of a debt-oriented Specified Mutual Fund (Type 1)** bought on **01-06-2023 at ₹100/unit**, redeemed on **01-02-2025 at ₹130/unit**.
-3. He received **₹2,00,000 dividend** from the above SMF and paid **₹60,000 interest** on money borrowed to buy the units.
-4. His cousin, **Mr. Raj (non-resident, UK tax resident)**, holds identical SMF dividend of ₹2,00,000. India-UK DTAA dividend rate = 10%; Act rate = 20%.
-
-**Q1.** What is the nature and amount of capital gain on the Apex Ltd. bonds, and at what rate?
-<details><summary>Worked answer</summary>
-
-- Period of holding: 01-01-2017 to 30-09-2024 = ~7 yr 9 mth (> 12 months) and the bonds are **listed** → **Long-term capital gain**.
-- Full value of consideration = 500 × ₹1,500 = **₹7,50,000**.
-- Cost of acquisition = 500 × ₹1,100 = **₹5,50,000**.
-- **LTCG = ₹2,00,000, taxed @ 12.50%** (no indexation). Tax = ₹2,00,000 × 12.50% = **₹25,000** (+ surcharge/cess).
+**Correct: B)** — T-Bills are issued in three tenors: **91 days, 182 days or 364 days** (never exceeding 1 year).
+- A), C), D) Wrong — these are not the prescribed T-Bill tenors.
 </details>
 
-**Q2.** How is the gain on the SMF Type 1 units taxed?
-<details><summary>Worked answer</summary>
+**Q22.** The return on a T-Bill arises from:
+A) A half-yearly coupon  B) The difference between the issue (discounted) price and the redemption (face) value  C) A monthly dividend  D) Bonus units
+<details><summary>Answer & Explanation</summary>
 
-- Although held from 01-06-2023 to 01-02-2025 (~20 months), the SMF was bought **after 01-04-2023**, so **Section 50AA** applies.
-- Gains are **always short-term, regardless of holding period**.
-- STCG = 2,000 × (130 − 100) = 2,000 × ₹30 = **₹60,000**, taxed at his **normal slab rates** (not 12.50%).
-
-⚠️ Trap: do NOT treat 20 months as long-term. Section 50AA overrides the holding period.
+**Correct: B)** — T-Bills pay no interest; the return is the **difference between the discounted issue price and the face value** on redemption.
+- A) Wrong — T-Bills carry no coupon.
+- C) and D) Wrong — dividends/bonus units are mutual-fund/equity concepts.
 </details>
 
-**Q3.** What is Mr. Verma's taxable dividend from the SMF?
-<details><summary>Worked answer</summary>
+**Q23.** Dated Government Securities (Dated G-Secs) generally pay interest:
+A) Monthly  B) Half-yearly  C) Annually  D) Only at maturity
+<details><summary>Answer & Explanation</summary>
 
-- He is a resident → can deduct interest expense capped at **20% of dividend**.
-- Cap = 20% × 2,00,000 = ₹40,000 (less than the ₹60,000 paid, so only ₹40,000 is allowed).
-- **Taxable dividend = 2,00,000 − 40,000 = ₹1,60,000**, taxed at slab rates.
+**Correct: B)** — Dated G-Secs carry a fixed or floating coupon paid on the face value on a **half-yearly** basis.
+- A), C), D) Wrong — the workbook specifies half-yearly servicing of interest, not monthly/annual/at-maturity.
 </details>
 
-**Q4.** How is Mr. Raj's dividend taxed, and at what rate?
-<details><summary>Worked answer</summary>
+**Q24.** Profit arising on redemption or transfer of Cash Management Bills and T-Bills is treated as:
+A) Long-term capital gain at 12.50%  B) Short-term capital gain at applicable rates  C) Interest income  D) Exempt income
+<details><summary>Answer & Explanation</summary>
 
-- Non-resident → **no deduction** for any expense.
-- Choose the more beneficial of DTAA (10%) or Act (20%) → **DTAA 10%**.
-- Tax = ₹2,00,000 × 10% = **₹20,000** (+ applicable surcharge/cess), provided he furnishes TRC + Form 10F.
+**Correct: B)** — Since these bills mature in less than 1 year and pay no interest, the profit is a **short-term capital gain** taxed at applicable rates.
+- A) Wrong — they cannot be long-term given sub-1-year maturity.
+- C) Wrong — there is no interest; the gain is a capital gain.
+- D) Wrong — the gain is taxable.
 </details>
 
-**Q5.** Total tax-relevant capital-gains/dividend picture for Mr. Verma (ignore surcharge/cess) — list it out.
-<details><summary>Worked answer</summary>
+**Q25.** Dated G-Secs and SDLs are taxed in the same way as:
+A) Equity shares  B) Listed bonds  C) Market Linked Debentures  D) Treasury Bills
+<details><summary>Answer & Explanation</summary>
 
-| Item | Amount | Treatment |
-|---|---|---|
-| Apex bonds | ₹2,00,000 LTCG | @12.50% → ₹25,000 |
-| SMF Type 1 units | ₹60,000 STCG | at slab rate (added to total income) |
-| SMF dividend | ₹1,60,000 | at slab rate (after ₹40,000 deduction) |
+**Correct: B)** — Dated G-Secs and SDLs are issued in the form of bonds and are taxed the **same as listed bonds**.
+- A) Wrong — equity has different (Chapter 11) rules.
+- C) Wrong — MLDs are always short-term under Section 50AA, unlike G-Secs.
+- D) Wrong — T-Bills are always short-term; dated G-Secs can be long-term.
+</details>
 
-So Mr. Verma has a fixed-rate LTCG tax of **₹25,000**, plus **₹60,000 + ₹1,60,000 = ₹2,20,000** added to his slab-rate income.
+**Q26.** No TDS under Section 193 is required on interest on Central/State Government securities EXCEPT for:
+A) All tax-free bonds  B) 8% Savings (Taxable) Bonds, 2003 and 7.75% Savings (Taxable) Bonds, 2018  C) Treasury Bills  D) Sovereign Gold Bonds
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — TDS under Section 193 generally does not apply to Govt securities, **except** the 8% Savings (Taxable) Bonds, 2003 and 7.75% Savings (Taxable) Bonds, 2018.
+- A), C), D) Wrong — these are not the named exceptions in the workbook.
+</details>
+
+**Q27.** TDS on interest on the 8% / 7.75% Savings (Taxable) Bonds is deducted only when annual interest exceeds:
+A) Rs. 5,000  B) Rs. 10,000  C) Rs. 40,000  D) Rs. 50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — TDS applies only when the interest paid during the year on these bonds exceeds **Rs. 10,000**.
+- A), C), D) Wrong — these are not the threshold stated in the workbook.
+</details>
+
+**Q28.** Interest on tax-free bonds is:
+A) Taxed at 12.50%  B) Exempt under Section 10  C) Taxed at slab rates  D) Taxed at 20%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Interest on tax-free bonds is **exempt under Section 10** of the Income Tax Act.
+- A), C), D) Wrong — the interest is fully exempt, so no rate applies to it.
+</details>
+
+**Q29.** Capital gains on transfer or redemption of tax-free bonds are:
+A) Also exempt under Section 10  B) Taxable, same as coupon bonds  C) Always short-term  D) Taxed at 20% with indexation
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Only the *interest* is tax-free; the **capital gains are taxable**, with the same treatment as coupon bonds.
+- A) Wrong — the exemption covers interest, not capital gains.
+- C) Wrong — listed tax-free bonds held over 12 months are long-term.
+- D) Wrong — no indexation; LTCG on listed bonds is 12.50%.
+</details>
+
+**Q30.** A mutual fund that invests 65% or more of its proceeds in debt or money market instruments and is bought after April 1, 2023 is a:
+A) Specified Mutual Fund (Type 1)  B) Equity-oriented fund  C) Other Mutual Fund  D) Tax-free fund
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — This defines a **Specified Mutual Fund (Type 1)** governed by Section 50AA.
+- B) Wrong — equity-oriented funds invest mostly in shares.
+- C) Wrong — "Other Mutual Funds" is the residual fourth category.
+- D) Wrong — there is no "tax-free fund" category here.
+</details>
+
+**Q31.** Section 50AA, which governs SMFs and MLDs, was inserted with effect from which financial year?
+A) FY 2020-21  B) FY 2021-22  C) FY 2022-23  D) FY 2023-24
+<details><summary>Answer & Explanation</summary>
+
+**Correct: D)** — Section 50AA was inserted with effect from **FY 2023-24** (Finance Act, 2023).
+- A), B), C) Wrong — the section did not exist in those years; before FY 2023-24 these gains followed normal rules.
+</details>
+
+**Q32.** Under Section 50AA, capital gains from SMFs and MLDs are taxable as:
+A) Long-term, at 12.50%  B) Short-term, irrespective of the period of holding  C) Exempt  D) Long-term, with indexation
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Section 50AA makes such gains **short-term, irrespective of the holding period**, taxed at slab rates.
+- A) and D) Wrong — there is no long-term treatment or indexation under Section 50AA.
+- C) Wrong — these gains are taxable.
+</details>
+
+**Q33.** Under Section 50AA, the cost of improvement for MLDs/SMFs is taken to be:
+A) The actual amount spent  B) Indexed cost  C) Nil  D) 20% of sale value
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — For MLDs/SMFs the cost of improvement is taken as **nil**, whether incurred by the assessee or a previous owner.
+- A) Wrong — no actual improvement cost is allowed.
+- B) Wrong — no indexation applies.
+- D) Wrong — there is no such 20% rule for cost of improvement.
+</details>
+
+**Q34.** Section 50AA applies to SMFs acquired:
+A) On or before 31-03-2023  B) On or after 01-04-2023  C) Only before FY 2020-21  D) At any time in the past
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For SMFs, Section 50AA applies prospectively to those **acquired on or after 01-04-2023**.
+- A) Wrong — SMFs bought on/before 31-03-2023 follow normal mutual-fund rules.
+- C) and D) Wrong — the trigger date is 01-04-2023, not earlier periods.
+</details>
+
+**Q35.** For "Other Mutual Funds" that are UNLISTED, the period of holding to qualify as long-term is:
+A) 12 months  B) 24 months  C) 36 months  D) Not applicable
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Unlisted Other Mutual Funds need to be held for **24 months** to be long-term (listed ones need 12 months).
+- A) Wrong — 12 months applies to listed Other MFs.
+- C) Wrong — 36 months is not the threshold here.
+- D) Wrong — these funds can be long-term, so the period does apply.
 </details>

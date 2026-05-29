@@ -1,211 +1,667 @@
-# Chapter 5: Retirement Products — Questionnaire
+# Chapter 5: Retirement Products — 100 MCQ Question Bank
 
-## 📝 Multiple Choice Questions
+> Questions are organised in three difficulty tiers — 🟢 Tier 1 (Easy/Recall), 🟡 Tier 2 (Medium/Application) and 🔴 Tier 3 (Hard/Numerical & Scenario) — followed by a worked Case Study. Remember: the NISM exam applies **25% negative marking**, so a wrong answer costs you a quarter of a mark. When unsure, weigh the cost of guessing.
 
-**Q1.** What percentage of (Basic + DA) does an employee contribute to EPF?
-A) 8%  B) 10%  C) 12%  D) 8.33%
+## 🟢 Tier 1 — Easy: Recall (Q1–Q35)
+
+**Q1.** What percentage of (Basic + Dearness Allowance) must an employee mandatorily contribute every month to the EPF?
+A) 8%  B) 10%  C) 12%  D) 3.67%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Employee contributes **12%** of Basic+DA; employer also contributes 12%. (8% is the new-women-employee concession; 8.33% is the EPS portion of the employer's share.)
+**Correct: C)** — As per the EPF norm, the employee contributes **12% of (Basic + DA)** every month, and the full amount goes into the EPF account.
+- A) 8% is the reduced rate available to *new women employees* for their first three years, not the standard rate.
+- B) 10% applies only in special cases (firms with fewer than 20 employees, loss-making firms, or beedi/jute/brick/guar gum/coir industries).
+- D) 3.67% is the slice of the *employer's* 12% that goes specifically into EPF (the rest goes to EPS, EDLIS and admin).
 </details>
 
-**Q2.** Out of the employer's EPF contribution, how much goes to the Employees' Pension Scheme (EPS)?
+**Q2.** Out of the employer's 12% EPF contribution, how much goes to the Employees' Pension Scheme (EPS)?
 A) 3.67%  B) 8.33%  C) 0.5%  D) 12%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **8.33%** goes to EPS (capped at Rs. 15,000 salary); 3.67% to EPF, 0.5% EDLIS, 0.5% admin.
+**Correct: B)** — The employer's 12% is split: **8.33% to EPS**, 3.67% to EPF, 0.5% to EDLIS and 0.5% to admin charges.
+- A) 3.67% is the EPF portion of the employer's share.
+- C) 0.5% is the EDLIS (insurance) or admin portion.
+- D) 12% is the *total* employer contribution, not just the EPS slice.
 </details>
 
-**Q3.** Interest on an employee's own EPF contribution becomes taxable when annual contribution (incl. VPF) exceeds:
-A) Rs. 1.5 lakh  B) Rs. 2.5 lakh  C) Rs. 5 lakh  D) Rs. 7.5 lakh
+**Q3.** The EPS portion of the employer's contribution is subject to a ceiling based on a monthly salary of:
+A) Rs. 21,000  B) Rs. 25,000  C) Rs. 15,000  D) Rs. 30,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Above **Rs. 2.5 lakh/year**, interest on the excess own contribution is taxable (Finance Act 2021). (Rs. 7.5 lakh is the employer-contribution perquisite threshold across EPF+NPS+Super.)
+**Correct: C)** — EPS is **subject to a ceiling of Rs. 15,000 monthly salary**, so the maximum EPS contribution is 8.33% × 15,000 = Rs. 1,250.
+- A), B) and D) are plausible salary figures but are not the statutory EPS ceiling stated in the workbook.
 </details>
 
-**Q4.** EPF withdrawal is fully tax-free if the employee has completed:
-A) 3 years  B) 5 years  C) 7 years  D) 10 years
+**Q4.** New women employees may contribute EPF at a reduced rate for the first three years of employment. That rate is:
+A) 12%  B) 10%  C) 8%  D) 6%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — After **5 consecutive years** of service, withdrawal is tax-free.
+**Correct: C)** — Under Union Budget 2018-19, new women employees may contribute **8% instead of 12%** for the first three years (to boost take-home pay and encourage hiring). The employer still contributes 12%.
+- A) 12% is the normal employee rate.
+- B) 10% is the special-circumstances rate (small/loss-making firms etc.), not the women's rate.
+- D) 6% is not a rate mentioned in the workbook.
 </details>
 
-**Q5.** A new woman employee may contribute what % to EPF, and for how long?
-A) 10% for 5 years  B) 8% for the first 3 years  C) 12% always  D) 8% for life
+**Q5.** EPF interest is credited to the employee's account on which date each year?
+A) 1st April  B) 31st March  C) 31st December  D) 30th June
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **8% for the first three years** (employer still pays 12%).
+**Correct: B)** — Interest is calculated monthly but **transferred (credited) on 31st March** every year. The financial year for EPF interest runs 1 April to 31 March.
+- A) 1st April is the *start* of the financial year, not the credit date.
+- C) and D) are arbitrary dates, not used by EPFO.
 </details>
 
-**Q6.** Which is TRUE about the EPS portion of the employer's contribution?
-A) It earns the same interest as EPF  B) It earns no interest; pension payable after age 58  C) Pension is payable at age 50  D) It is refunded after 5 years
+**Q6.** Who decides the EPF interest rate?
+A) RBI  B) SEBI  C) Central Board of Trustees (CBT) with the Ministry of Finance  D) PFRDA
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — EPS does **not** accrue interest; pension is payable only **after age 58**.
+**Correct: C)** — The EPF interest rate is decided by the **Central Board of Trustees (CBT) in concurrence with the Ministry of Finance**, and announced by EPFO.
+- A) RBI sets monetary policy, not EPF rates.
+- B) SEBI regulates securities markets.
+- D) PFRDA regulates NPS/APY, not EPF.
 </details>
 
-**Q7.** What is the lock-in period of a PPF account?
+**Q7.** A PPF account has a lock-in period of:
 A) 5 years  B) 10 years  C) 15 years  D) 20 years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — **15 years** from the end of the FY of opening, extendable in 5-year blocks.
+**Correct: C)** — PPF is a long-term, fixed-income investment with a **15-year lock-in** (from the end of the FY of opening), extendable in 5-year blocks.
+- A) 5 years is when *partial withdrawals/premature closure* become possible, not the full lock-in.
+- B) and D) are not the PPF lock-in.
 </details>
 
-**Q8.** The maximum annual investment in a PPF account is:
-A) Rs. 50,000  B) Rs. 1 lakh  C) Rs. 1.5 lakh  D) Rs. 2 lakh
+**Q8.** The maximum amount that can be invested in a PPF account in one financial year is:
+A) Rs. 1 lakh  B) Rs. 1.5 lakh  C) Rs. 2 lakh  D) Rs. 50,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — **Rs. 1.5 lakh** (min Rs. 500); self + minor accounts combined cannot exceed this.
+**Correct: B)** — The maximum is **Rs. 1.5 lakh per year** (self + minor's account combined), with a minimum of Rs. 500.
+- A) and C) are not the PPF ceiling.
+- D) Rs. 50,000 is the minimum *or* a figure from other schemes, not the PPF maximum.
 </details>
 
-**Q9.** Who is NOT eligible to open a PPF account?
-A) An Indian resident  B) A guardian for a minor  C) An NRI  D) A salaried employee
+**Q9.** PPF enjoys which tax treatment?
+A) EET  B) ETE  C) EEE (Exempt-Exempt-Exempt)  D) TEE
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — **NRIs cannot open** PPF accounts (only resident Indians).
+**Correct: C)** — PPF falls under the **EEE** regime: contribution is deductible under 80C (E), interest is exempt (E), and maturity is exempt (E).
+- A), B) and D) describe regimes where one or more stages are taxed; that does not match PPF, which is exempt at all three stages.
 </details>
 
-**Q10.** Minimum continuous service generally required to receive gratuity:
-A) 3 years  B) 5 years  C) 7 years  D) 10 years
+**Q10.** Who is eligible to open a PPF account?
+A) NRIs only  B) Only Indian residents  C) HUFs  D) Foreign nationals
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **5 years** (waived on death/disability).
+**Correct: B)** — Only an **Indian resident** can open a PPF account. NRIs cannot open one (existing holders who become NRI may continue contributing but cannot extend tenure).
+- A) NRIs are specifically *not* eligible to open new accounts.
+- C) and D) are not eligible to open PPF accounts.
 </details>
 
-**Q11.** For an employee covered under the Gratuity Act, last drawn salary Rs. 50,000 and 10 years' service, the gratuity is:
-A) Rs. 2,88,462  B) Rs. 2,50,000  C) Rs. 3,00,000  D) Rs. 5,00,000
+**Q11.** The minimum continuous service required to be eligible for gratuity (in normal cases) is:
+A) 3 years  B) 5 years  C) 10 years  D) 7 years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — (15 × 50,000 × 10) ÷ 26 = 7,500,000 ÷ 26 = **Rs. 2,88,462**.
+**Correct: B)** — Gratuity is payable after a minimum of **5 years of continuous service** (except on death or disability, when it can be paid earlier).
+- A) 3 years is the NPS partial-withdrawal threshold, not gratuity.
+- C) 10 years is an EPF home-loan withdrawal condition.
+- D) 7 years is an EPF marriage/education withdrawal condition.
 </details>
 
-**Q12.** An organisation is "covered" under the Payment of Gratuity Act if it employs at least:
+**Q12.** An organisation is covered under the Payment of Gratuity Act, 1972 if it employs at least:
 A) 5 persons  B) 10 persons  C) 20 persons  D) 50 persons
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **10 persons** on any single day in the preceding 12 months; once covered, always covered.
+**Correct: B)** — An employer is covered if it employs **at least 10 persons** on any single day in the preceding 12 months. Once covered, it always remains covered.
+- A) 5 persons is incorrect.
+- C) 20 persons relates to EPF applicability (10% rate for firms below 20), not gratuity.
+- D) 50 persons is not a relevant threshold here.
 </details>
 
-**Q13.** On retirement under a superannuation scheme, the maximum portion that can be commuted (taken as lump sum) is:
-A) One-fourth  B) One-third  C) Half  D) The full amount
+**Q13.** The gratuity formula for an employee **covered** under the Act is:
+A) (15 × last drawn salary × tenure) ÷ 30  B) (15 × last drawn salary × tenure) ÷ 26  C) (26 × last drawn salary × tenure) ÷ 15  D) (last drawn salary × tenure) ÷ 12
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **One-third** as commutation; the balance buys an annuity.
+**Correct: B)** — For employees **covered** under the Act: **Gratuity = (15 × last drawn salary × tenure) ÷ 26**. Here 15 = days of salary per completed year and 26 = working days in a month (the law's convention).
+- A) ÷ 30 is the formula for employees *not* covered under the Act.
+- C) and D) are invented formulas.
 </details>
 
-**Q14.** Which statement about NPS returns is correct?
-A) NPS guarantees a fixed 8% return  B) NPS offers no guaranteed return; returns are market-linked  C) Returns are guaranteed by PFRDA  D) Returns equal the EPF rate
+**Q14.** For employees **not covered** under the Gratuity Act, gratuity is calculated by dividing by:
+A) 26  B) 30  C) 15  D) 12
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — NPS has **no guaranteed return**; subscribers earn market returns.
+**Correct: B)** — For employees not covered, the divisor is **30**: Gratuity = (15 × last drawn salary × tenure) ÷ 30, counting only fully completed years.
+- A) 26 is used for *covered* employees.
+- C) and D) are not divisors used in either formula.
 </details>
 
-**Q15.** On normal exit at age 60, what minimum percentage of the NPS corpus must be used to buy an annuity?
+**Q15.** The maximum statutory limit on tax-exempt gratuity for private-sector employees is:
+A) Rs. 10 lakh  B) Rs. 20 lakh  C) Rs. 25 lakh  D) Rs. 15 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The statutory limit (government-notified amount) is **Rs. 20 lakh**. Tax exemption is the least of: Rs. 20 lakh, the formula amount, or actual gratuity received.
+- A), C) and D) are not the current statutory cap.
+</details>
+
+**Q16.** Gratuity received by a Government employee is:
+A) Fully taxable  B) Taxable above Rs. 20 lakh  C) Fully exempt  D) Taxed at 10%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — For Government employees, gratuity is **fully exempt** from tax. Only private-sector employees face the least-of-three exemption test.
+- A), B) and D) apply (partly) to private employees, not government employees.
+</details>
+
+**Q17.** Under a superannuation scheme, on retirement the employee may take what fraction of the accumulation as commutation (lump sum)?
+A) One-half  B) One-third  C) One-fourth  D) The whole amount
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The employee may take **one-third** as commutation; the balance is used to purchase an annuity.
+- A), C) and D) do not match the workbook's one-third rule.
+</details>
+
+**Q18.** Income Tax rules cap the employer's combined PF + superannuation contribution at what percentage of the employee's earnings?
+A) 12%  B) 14%  C) 27%  D) 40%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — IT rules restrict the employer's contribution to PF or superannuation (or both) to **27% of the employee's earnings**.
+- A) 12% is the EPF employee/employer rate.
+- B) 14% is the NPS employer deduction cap under 80CCD(2).
+- D) 40% is the minimum NPS annuitisation at retirement.
+</details>
+
+**Q19.** Which body regulates the National Pension System (NPS)?
+A) SEBI  B) IRDAI  C) PFRDA  D) RBI
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — NPS is regulated by the **PFRDA** (Pension Fund Regulatory and Development Authority).
+- A) SEBI regulates securities/mutual funds.
+- B) IRDAI regulates insurance (and annuity rates).
+- D) RBI is the central bank.
+</details>
+
+**Q20.** The All Citizens model of NPS is open to Indian citizens aged between:
+A) 18–60 years  B) 18–70 years  C) 21–65 years  D) 25–75 years
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The All Citizens model is a voluntary scheme open to citizens aged **18–70 years**.
+- A) 18–60 is incorrect; the upper age was extended.
+- C) and D) are not the stated age band.
+</details>
+
+**Q21.** Which NPS account type is the default/mandatory one?
+A) Tier I  B) Tier II  C) Tier III  D) Both are mandatory
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — **Tier I** is the default/mandatory account with restricted withdrawals; Tier II is a voluntary, freely-withdrawable add-on.
+- B) Tier II is voluntary, not the default.
+- C) There is no Tier III.
+- D) Only Tier I is mandatory.
+</details>
+
+**Q22.** The additional exclusive NPS tax deduction available under Section 80CCD(1B) is:
+A) Rs. 1.5 lakh  B) Rs. 50,000  C) Rs. 2 lakh  D) Rs. 25,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Section 80CCD(1B) allows an extra **Rs. 50,000** deduction exclusively for NPS, over and above the Rs. 1.5 lakh under 80C/80CCD(1).
+- A) Rs. 1.5 lakh is the 80C/80CCD(1) limit.
+- C) Rs. 2 lakh is the *total* subscriber deduction (1.5 lakh + 50,000).
+- D) Rs. 25,000 is not an NPS limit.
+</details>
+
+**Q23.** The four asset classes in NPS are Equity (E), Corporate Debt (C), Government Securities (G) and:
+A) Real Estate (R)  B) Alternative Investments (A)  C) Gold (D)  D) Money Market (M)
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The fourth asset class is **Alternative Investments (A)** — instruments such as CMBS, REITs, AIFs and InvITs.
+- A), C) and D) are not among the four NPS asset classes defined by PFRDA.
+</details>
+
+**Q24.** Under NPS Active Choice, the maximum permitted allocation to equity is:
+A) 50%  B) 75%  C) 100%  D) 25%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Under Active Choice the maximum equity allocation is **75%**.
+- A) 50% is the Moderate Life Cycle Fund cap under Auto Choice.
+- C) 100% is allowed for Corporate Debt and Govt Securities, not equity.
+- D) 25% is the Conservative Life Cycle Fund cap under Auto Choice.
+</details>
+
+**Q25.** Under NPS Auto Choice, the default Moderate Life Cycle Fund caps equity exposure at:
+A) 25%  B) 50%  C) 75%  D) 100%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The Moderate Life Cycle Fund (the default) caps equity at **50%**.
+- A) 25% is the Conservative LC Fund cap.
+- C) 75% is the Aggressive LC Fund cap.
+- D) 100% is not allowed under Auto Choice.
+</details>
+
+**Q26.** At retirement (age 60) under NPS, what minimum percentage of the corpus must be used to buy an annuity?
 A) 20%  B) 40%  C) 60%  D) 80%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Minimum 40%** to annuity; up to 60% as lump sum. (Before 60, it's at least 80% to annuity.)
+**Correct: B)** — At exit on retirement, a minimum of **40%** of the corpus must buy an annuity; up to 60% can be taken as a lump sum.
+- A) 20% is the lump-sum portion when exiting *before* retirement.
+- C) 60% is the maximum *lump sum* at retirement, not the annuity minimum.
+- D) 80% is the annuity minimum for *pre-retirement* exit.
 </details>
 
-**Q16.** The additional exclusive NPS tax deduction beyond Section 80C is under:
-A) 80CCD(1)  B) 80CCD(1B)  C) 80CCD(2)  D) 80D
+**Q27.** On exit from NPS **before** retirement (resignation before age 60), the minimum that must be annuitised is:
+A) 40%  B) 60%  C) 80%  D) 100%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **80CCD(1B)** gives an extra **Rs. 50,000** deduction exclusive to NPS. 80CCD(2) is the employer's contribution.
+**Correct: C)** — Before retirement, at least **80%** of the corpus must buy an annuity; only 20% is paid as a lump sum.
+- A) 40% is the annuity minimum at *normal* retirement.
+- B) 60% is the lump-sum portion at retirement.
+- D) 100% would leave nothing as lump sum, which is not the rule.
 </details>
 
-**Q17.** Under NPS Active Choice, the maximum allocation to equity is:
-A) 50%  B) 60%  C) 75%  D) 100%
+**Q28.** Under NPS, a subscriber can defer the lump sum or annuity purchase up to the age of:
+A) 60 years  B) 70 years  C) 75 years  D) 80 years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Equity capped at **75%** under Active Choice (and the Aggressive Life Cycle fund); Moderate = 50%, Conservative = 25%.
+**Correct: C)** — A subscriber may defer the lump sum, annuity purchase, or both up to the age of **75 years**.
+- A) 60 is the normal exit age.
+- B) 70 is the maximum *joining* age in the All Citizens model.
+- D) 80 is not specified.
 </details>
 
-**Q18.** Which annuity payout option pays the **highest** amount?
-A) Lifetime with return of purchase price  B) Lifetime without return of purchase price  C) Joint annuity  D) Guaranteed period annuity
+**Q29.** The Unified Pension Scheme (UPS) provides an assured payout of what percentage of the last 12-month average basic pay (after 25 years of service)?
+A) 40%  B) 50%  C) 60%  D) 75%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Without return of purchase price** gives the highest annuity (insurer keeps the principal). *With* return gives the lowest.
+**Correct: B)** — UPS assures **50%** of the 12-month average basic pay immediately prior to superannuation, after a minimum of 25 years' qualifying service.
+- A) 40% is the NPS retirement annuity minimum.
+- C) 60% is the UPS *family* (spouse) payout share.
+- D) 75% is not the UPS assured-payout rate.
 </details>
 
-**Q19.** How are annuity payments taxed?
-A) Fully exempt  B) Taxed as income in the annuitant's hands  C) Taxed at 12.5% LTCG  D) Exempt under Section 10(43)
+**Q30.** NPS Vatsalya is a scheme designed for:
+A) Senior citizens  B) Government employees  C) Minor citizens (below 18)  D) NRIs
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Annuities are **not** tax-exempt; payments are income taxed in the annuitant's hands. Only the premium gets 80C benefit.
+**Correct: C)** — NPS Vatsalya (Budget 2024) is a saving-cum-pension scheme for **minors below 18**, opened and operated by a parent/guardian under NPS Tier I rules.
+- A), B) and D) are not the target group; at 18 the account becomes a normal individual NPS account.
 </details>
 
-**Q20.** In an SWP from an equity fund held for more than 12 months, the capital gains portion is taxed at:
-A) 5%  B) 12.5%  C) 20%  D) Income slab rate
+**Q31.** Atal Pension Yojana (APY) is open to citizens in the age group:
+A) 18–40 years  B) 18–60 years  C) 21–50 years  D) 25–45 years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **12.5%** for holding >12 months (with Rs. 1.25 lakh/year LTCG exemption); ≤12 months → 20%.
+**Correct: A)** — APY is open to citizens aged **18–40 years** who are not members of any statutory social security scheme and are not income-tax payers.
+- B), C) and D) are not the APY age band.
 </details>
 
-**Q21.** The maximum deposit allowed in the Senior Citizens' Savings Scheme (SCSS) is:
-A) Rs. 9 lakh  B) Rs. 15 lakh  C) Rs. 30 lakh  D) No limit
+**Q32.** An annuity's main objective is to counter the risk of:
+A) Credit default  B) Longevity (and to some extent inflation)  C) Currency fluctuation  D) Liquidity
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Max **Rs. 30 lakh**; SCSS matures in 5 years (extendable by 3). Interest is fully taxable.
+**Correct: B)** — An annuity provides a fixed stream of payments for life or a fixed period; its main objective is to **counter longevity risk** (outliving one's savings) and, to some extent, inflation.
+- A), C) and D) are not the stated primary objective of an annuity.
 </details>
 
-**Q22.** The maximum tenure of a Reverse Mortgage Loan is:
-A) 10 years  B) 15 years  C) 20 years  D) For the life of the borrower
+**Q33.** Which annuity payout option provides the **highest** annuity amount?
+A) Lifetime with return of purchase price  B) Joint annuity  C) Lifetime without return of purchase price  D) Annuity guaranteed for a certain period
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — **20 years**. The loan becomes due when the last surviving borrower dies or moves out permanently. RML receipts are exempt under **Section 10(43)**.
+**Correct: C)** — **Lifetime without return of purchase price** gives the highest annuity because the insurer keeps the principal on death (no refund obligation).
+- A) "With return of purchase price" gives the *lowest* annuity because the principal is refunded.
+- B) and D) provide intermediate payouts due to their extra guarantees.
 </details>
 
----
+**Q34.** Annuities received by the annuitant are:
+A) Fully exempt from tax  B) Taxed as income in the annuitant's hands  C) Taxed at 10% flat  D) Exempt under Section 10(43)
+<details><summary>Answer & Explanation</summary>
 
-## 🧩 Case Study
-
-**Scenario:** Mr. Sharma, **age 35**, has a monthly **Basic + DA of Rs. 50,000**. He is a salaried employee at a large covered company. He contributes the standard EPF, and his employer matches it. He is also considering opening a PPF account and an NPS Tier I account, and wants to understand his retirement options.
-
-**Q1.** What is Mr. Sharma's monthly EPF contribution, and how is his employer's matching 12% split?
-<details><summary>Step-by-step answer</summary>
-
-- **Employee:** 12% × 50,000 = **Rs. 6,000** (all to EPF).
-- **Employer (12% = Rs. 6,000), split:**
-  - EPS = 8.33% × **15,000** (capped salary) = **Rs. 1,250**.
-  - EDLIS = 0.5% × 50,000 = Rs. 250; Admin = 0.5% × 50,000 = Rs. 250.
-  - EPF = remaining = 6,000 − 1,250 = **Rs. 4,750** (the EDLIS/admin are over and above, paid by employer; the EPF portion to his account is roughly the balance after EPS).
-
-So Rs. 6,000 (his) + ~Rs. 4,750 (employer's EPF share) build his EPF corpus each month, while Rs. 1,250 funds his EPS pension.
+**Correct: B)** — Unlike life insurance policies, annuities do **not** enjoy tax-exempt status; the money received is treated as **income and taxed** in the annuitant's hands (the premium qualifies under 80C).
+- A) Annuities are not exempt.
+- C) There is no flat 10% on annuity income.
+- D) Section 10(43) exempts *reverse mortgage* receipts, not ordinary annuities.
 </details>
 
-**Q2.** If Mr. Sharma opens a PPF account and invests Rs. 1.5 lakh/year, what tax treatment applies, and when can he first make a partial withdrawal?
-<details><summary>Step-by-step answer</summary>
+**Q35.** The Senior Citizens' Savings Scheme (SCSS) matures after:
+A) 3 years  B) 5 years  C) 10 years  D) 15 years
+<details><summary>Answer & Explanation</summary>
 
-- **Tax: EEE** — the Rs. 1.5 lakh is deductible under **80C**; interest is exempt; maturity is exempt.
-- **Lock-in 15 years**, but **partial withdrawal allowed after 5 financial years** from the end of the FY of opening — so if opened in FY 2026-27, withdrawals can begin from FY 2032-33. One withdrawal per year, limited to the lower of 50% of the preceding year's balance or 50% of the 4th-preceding year's balance.
+**Correct: B)** — SCSS matures after **5 years** from account opening and can be extended once by 3 years.
+- A) 3 years is the extension period, not the maturity.
+- C) 10 years is the PMVVY term.
+- D) 15 years is the PPF lock-in.
 </details>
 
-**Q3.** Mr. Sharma puts money into NPS Tier I. He wants the maximum tax deduction. What can he claim, and how much in total?
-<details><summary>Step-by-step answer</summary>
+## 🟡 Tier 2 — Medium: Application (Q36–Q70)
 
-- **80CCD(1):** contributions up to **Rs. 1.5 lakh** (shared within the 80C limit).
-- **80CCD(1B):** an extra **Rs. 50,000** exclusive to NPS.
-- **Total self deduction = up to Rs. 2 lakh.**
-- Separately, his **employer's** NPS contribution up to **14% of Basic+DA** is deductible under **80CCD(2)** (over and above the Rs. 2 lakh).
+**Q36.** A startup with only 15 employees that has just begun operations wants to know its applicable EPF contribution rate. Which rate applies?
+A) 12%  B) 10%  C) 8%  D) 3.67%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A company with **fewer than 20 employees** may apply the reduced EPF rate of **10%** instead of 12%. With 15 employees, the firm qualifies.
+- A) 12% is the standard rate for larger establishments.
+- C) 8% is only for new women employees (first 3 years).
+- D) 3.67% is the employer's EPF sub-component, not a contribution rate.
 </details>
 
-**Q4.** At age 60, Mr. Sharma's NPS corpus is Rs. 80 lakh. How much can he take as a lump sum and how much must buy an annuity? What is the tax treatment?
-<details><summary>Step-by-step answer</summary>
+**Q37.** Mr. Rao has been unemployed for exactly one month after resigning. How much of his EPF corpus can he withdraw now?
+A) 25%  B) 50%  C) 75%  D) 100%
+<details><summary>Answer & Explanation</summary>
 
-- **Minimum 40%** must buy an annuity = 40% × 80 lakh = **Rs. 32 lakh** → buys a pension; the **annuity income is taxable** as it is received.
-- **Up to 60%** = **Rs. 48 lakh** can be taken as a **lump sum, tax-free** under Section 10(12A).
-- (If the corpus had been ≤ Rs. 5 lakh, he could have withdrawn the entire amount.)
+**Correct: C)** — After **1 month** of unemployment, EPFO allows withdrawal of **75%** of the corpus. The remaining 25% can be withdrawn only after 2 months of unemployment.
+- A) 25% is the *balance* available only after 2 months.
+- B) 50% is not the rule for unemployment withdrawal.
+- D) 100% is allowed only after 2 months of continuous unemployment.
 </details>
 
-**Q5.** Mr. Sharma's father (age 62, retired) wants regular monthly income and capital safety. Suggest two suitable distribution products with one key feature each.
-<details><summary>Step-by-step answer</summary>
+**Q38.** An employee wants to withdraw from EPF for his daughter's marriage. What minimum years of service must he have completed?
+A) 5 years  B) 7 years  C) 10 years  D) No minimum
+<details><summary>Answer & Explanation</summary>
 
-Any two of:
-- **SCSS:** for those 60+, deposit up to **Rs. 30 lakh**, interest paid **quarterly**, 5-year tenure; safe, government-backed (interest taxable, TDS if >Rs. 50,000/yr).
-- **Post Office MIS:** pays **monthly interest**, max Rs. 9 lakh single / Rs. 15 lakh joint, 5-year term.
-- **Immediate Annuity** from an insurer: a single premium buys a **guaranteed lifetime income** — counters longevity risk (income is taxable).
-- **Reverse Mortgage / RMLEA:** if he owns a home, convert home equity into tax-free periodic income.
+**Correct: B)** — Withdrawal for marriage (self/son/daughter/sibling) requires **7 years** of service, with a limit of up to 50% of the employee's share plus interest.
+- A) 5 years applies to house purchase/renovation.
+- C) 10 years applies to home loan repayment.
+- D) "No minimum" applies only to medical withdrawals.
+</details>
 
-Each prioritises **capital protection and steady income**, which is the goal in the distribution stage.
+**Q39.** Which EPF partial-withdrawal purpose has **no minimum service requirement**?
+A) Marriage  B) Education  C) Medical treatment  D) House purchase
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — **Medical treatment** (of self, spouse, children or parents) has no minimum service requirement; the limit is 6 months' Basic+DA or total employee share + interest, whichever is lower.
+- A) Marriage requires 7 years.
+- B) Education requires 7 years.
+- D) House purchase requires 5 years.
+</details>
+
+**Q40.** Mr. Khan withdraws his EPF after working for 6 continuous years. How is the withdrawal taxed?
+A) Fully taxable at slab rate  B) 10% TDS applies  C) Tax-free  D) Taxable only above Rs. 50,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — After completing a **continuous 5 years of service**, the EPF withdrawal is **tax-free**. With 6 years, Mr. Khan crosses that threshold.
+- A), B) and D) describe the treatment when withdrawal happens *before* 5 years; they do not apply here.
+</details>
+
+**Q41.** An employee withdraws Rs. 80,000 from EPF before completing 5 years and has furnished his PAN. What is the TDS rate?
+A) 5%  B) 10%  C) 20%  D) Maximum marginal rate
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — For withdrawals above Rs. 50,000 before 5 years, **TDS of 10%** applies if PAN is furnished.
+- A) 5% is not a stated rate.
+- C) 20% is not the EPF TDS rate.
+- D) Maximum marginal rate applies only if PAN is **not** furnished.
+</details>
+
+**Q42.** A subscriber wants to contribute more than the mandatory 12% to his provident fund without expecting any employer match. Which product fits?
+A) PPF  B) VPF  C) NPS Tier II  D) Superannuation
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The **Voluntary Provident Fund (VPF)** lets an EPF member contribute over and above 12% (up to 100% of Basic+DA) into the same EPF account, with **no employer match**.
+- A) PPF is a separate scheme with its own Rs. 1.5 lakh limit.
+- C) NPS Tier II is market-linked, not a provident fund top-up.
+- D) Superannuation is an employer-funded scheme, not employee-driven extra PF.
+</details>
+
+**Q43.** A client opened her PPF account on 15 Feb 2017. From which financial year can she make her first partial withdrawal?
+A) 2021-22  B) 2022-23  C) 2023-24  D) 2026-27
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Partial withdrawals are allowed after **5 financial years from the end of the FY in which the account was opened**. Opened in FY 2016-17; counting 5 FYs, withdrawal is permitted from **FY 2023-24** onwards (the exact example given in the workbook).
+- A) and B) are too early.
+- D) is later than necessary.
+</details>
+
+**Q44.** A PPF subscriber wants to extend the account at maturity **with** contributions. Which form must be submitted and within what window?
+A) Form-2, after maturity  B) Form-4, within 1 year before maturity  C) Form-31, any time  D) Form-15G, at maturity
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Extension *with* contribution requires **Form-4**, submitted **within one year before the maturity date**; otherwise the default (extension without contribution) applies.
+- A) Form-2 is for partial withdrawals.
+- C) Form-31 is an EPF advance form.
+- D) Form-15G is for avoiding TDS, unrelated to PPF extension.
+</details>
+
+**Q45.** Employee A worked 20 years and 7 months and is covered under the Gratuity Act. How many years are counted as tenure?
+A) 20 years  B) 21 years  C) 20.5 years  D) 22 years
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Under the covered formula, a part-year of **more than 6 months** is rounded up. 7 months > 6 months, so tenure = **21 years**.
+- A) 20 years would be used if the part-year were 6 months or less (or under the not-covered formula).
+- C) Fractional years are not used; rounding is to whole years.
+- D) 22 years over-counts.
+</details>
+
+**Q46.** The same employee (20 years 7 months) is **not** covered under the Act. What tenure is used?
+A) 20 years  B) 21 years  C) 20.5 years  D) 22 years
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — For employees **not covered**, only **fully completed years** are counted; the extra 7 months are dropped, giving **20 years**.
+- B) 21 years would be the *covered* treatment (rounding up).
+- C) and D) are not how tenure is counted.
+</details>
+
+**Q47.** A private-sector employee covered under the Gratuity Act receives Rs. 25 lakh gratuity; the formula gives Rs. 22 lakh. How much is tax-exempt?
+A) Rs. 25 lakh  B) Rs. 22 lakh  C) Rs. 20 lakh  D) Rs. 18 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Exemption is the **least of**: statutory limit Rs. 20 lakh, formula amount Rs. 22 lakh, actual received Rs. 25 lakh. The least is **Rs. 20 lakh**.
+- A) Rs. 25 lakh is the actual received (highest, not the least).
+- B) Rs. 22 lakh is the formula figure (middle).
+- D) Rs. 18 lakh is not among the three values.
+</details>
+
+**Q48.** A company runs its group superannuation scheme by investing in a scheme from a life insurance company. Who must approve the scheme for tax purposes?
+A) PFRDA  B) IRDAI  C) Commissioner of Income Tax  D) SEBI
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — The company appoints trustees to administer the scheme and must get it **approved by the Commissioner of Income Tax**.
+- A) PFRDA regulates NPS/APY.
+- B) IRDAI regulates insurers but does not approve the superannuation trust for tax.
+- D) SEBI regulates securities markets.
+</details>
+
+**Q49.** A Central Government employee must mandatorily contribute what percentage of Basic+DA to NPS Tier I?
+A) 8%  B) 10%  C) 12%  D) 14%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Central Government employees must mandatorily contribute **10% of Basic + DA** to NPS Tier I.
+- A) 8% is the EPF women's rate.
+- C) 12% is the EPF rate.
+- D) 14% is the *employer's* NPS deduction cap under 80CCD(2), not the employee's mandatory rate.
+</details>
+
+**Q50.** An NPS subscriber has been investing for 4 years and wants a partial withdrawal for his child's higher studies. What is the maximum he can take?
+A) 25% of his own contributions  B) 25% of the total corpus  C) 40% of the corpus  D) 50% of employer contributions
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — After at least 3 years, a Tier I subscriber may withdraw up to **25% of his own contributions** (excluding employer contributions and returns) for specified purposes such as higher studies.
+- B) The 25% is of *own contributions*, not the total corpus.
+- C) 40% relates to annuitisation at exit.
+- D) Employer contributions are explicitly excluded from the partial-withdrawal base.
+</details>
+
+**Q51.** An investor at age 28 wants the most aggressive NPS Auto Choice option. Which life-cycle fund, and what is its equity cap?
+A) Conservative LC — 25%  B) Moderate LC — 50%  C) Aggressive LC — 75%  D) Aggressive LC — 100%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — The **Aggressive Life Cycle Fund** allows maximum equity of **75%** (highest among the three Auto Choice funds).
+- A) Conservative caps equity at 25%.
+- B) Moderate caps at 50%.
+- D) 100% equity is not available under Auto Choice (only certain High-Risk MSF schemes go that high).
+</details>
+
+**Q52.** How many times in a financial year can an NPS subscriber under the All Citizen model change their investment choice/asset allocation?
+A) Once  B) Twice  C) Four times  D) Unlimited
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Subscribers under the All Citizen and Corporate models can change the investment choice/asset allocation **four times** in a financial year.
+- A) Once a year is the limit for changing the *scheme or fund manager*, not asset allocation.
+- B) and D) are not the stated limits.
+</details>
+
+**Q53.** At retirement, an NPS subscriber's corpus is Rs. 4.5 lakh. What is his withdrawal option?
+A) Must annuitise 40%  B) Must annuitise 80%  C) Can withdraw the entire corpus as lump sum  D) Can withdraw only 60%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — At retirement, if the corpus is **Rs. 5 lakh or less**, the subscriber may withdraw the **entire amount as lump sum** (no compulsory annuity). Rs. 4.5 lakh is below the threshold.
+- A) 40% annuitisation applies only when the corpus exceeds Rs. 5 lakh.
+- B) 80% applies to pre-retirement exit above the relevant threshold.
+- D) The full amount can be taken, not just 60%.
+</details>
+
+**Q54.** A subscriber resigns before age 60 with an NPS corpus of Rs. 2 lakh. What can he do?
+A) Must annuitise 80%  B) Must annuitise 40%  C) Withdraw the entire corpus as lump sum  D) Withdraw only 20%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — For *pre-retirement* exit, if the corpus is **Rs. 2.5 lakh or less**, the entire amount can be withdrawn as lump sum. Rs. 2 lakh is below this threshold.
+- A) 80% annuitisation applies only above Rs. 2.5 lakh on pre-retirement exit.
+- B) 40% applies to normal retirement exit above Rs. 5 lakh.
+- D) The full amount is available, not just 20%.
+</details>
+
+**Q55.** Under NPS taxation, the portion withdrawn as lump sum at exit (up to 60%) is tax-free under which section?
+A) Section 80C  B) Section 10(12A)  C) Section 10(43)  D) Section 80CCD(2)
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Up to 60% withdrawn as lump sum at exit is tax-free under **Section 10(12A)**.
+- A) 80C is a deduction at the contribution stage, not exit.
+- C) 10(43) exempts reverse mortgage receipts.
+- D) 80CCD(2) covers the employer's NPS contribution deduction.
+</details>
+
+**Q56.** A self-employed professional invests in NPS. Which deduction is **NOT** available to her?
+A) 80CCD(1)  B) 80CCD(1B)  C) 80CCD(2)  D) 80C
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — **Section 80CCD(2)** covers the *employer's* contribution. A self-employed person has no employer, so this benefit is **not available** to her.
+- A) 80CCD(1) covers her own contribution (up to limits).
+- B) 80CCD(1B) gives the extra Rs. 50,000.
+- D) 80C is generally available.
+</details>
+
+**Q57.** A 64-year-old wants to invest in a scheme that pays interest quarterly with a maximum deposit of Rs. 30 lakh. Which product fits?
+A) PPF  B) SCSS  C) POMIS  D) PMVVY
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The **Senior Citizens' Savings Scheme (SCSS)** has a maximum deposit of **Rs. 30 lakh**, interest credited **quarterly**, and is for those aged 60+.
+- A) PPF has a Rs. 1.5 lakh/year limit and 15-year lock-in.
+- C) POMIS caps at Rs. 9 lakh (single) / Rs. 15 lakh (joint) and pays monthly.
+- D) PMVVY is closed for new investments since 31 March 2023.
+</details>
+
+**Q58.** A retired person aged 56 who took VRS wants to open an SCSS account. By when must the account be opened?
+A) Within 1 week  B) Within 1 month of receiving retirement benefits  C) Within 6 months  D) Any time before 60
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Those aged 55–60 who retired under superannuation/VRS may open SCSS only if the account is opened **within 1 month of receiving retirement benefits**.
+- A), C) and D) do not match the stated one-month rule.
+</details>
+
+**Q59.** An investor wants to stagger fixed deposit maturities to reduce interest-rate risk and ensure annual liquidity. This strategy is called:
+A) Averaging  B) Laddering  C) Diversification  D) Hedging
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Buying FDs/bonds **maturing at staggered dates** is the **laddering** strategy, which manages interest-rate risk and cash flow.
+- A) Averaging is a different concept (e.g., rupee-cost averaging).
+- C) Diversification spreads across asset types, not maturities specifically.
+- D) Hedging uses offsetting positions/derivatives.
+</details>
+
+**Q60.** Mr. C ladders Rs. 10 lakh into five FDs of Rs. 2 lakh each (1–5 year maturities) and reinvests each into a new 5-year FD. When does his original 1-year FD finally mature after reinvestment?
+A) 5th year  B) 6th year  C) 7th year  D) 10th year
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The 1-year FD matures in year 1, then is reinvested for 5 more years, maturing in the **6th year** (1 + 5). This creates the annual income loop described in the workbook.
+- A) 5th year would skip the reinvestment.
+- C) 7th year is when the *2-year* FD finally matures (2 + 5).
+- D) 10th year does not fit this ladder.
+</details>
+
+**Q61.** Which statement correctly distinguishes an SWP from a bank FD's monthly interest payout?
+A) Both keep the corpus intact  B) In an SWP, units are sold so the fund value reduces  C) An SWP guarantees a fixed return  D) FD interest reduces the principal
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — In an **SWP, units are redeemed (sold)** to fund each withdrawal, so the fund value reduces by those units. In an FD, taking interest leaves the principal intact.
+- A) Only the FD keeps corpus intact; the SWP does not.
+- C) SWPs do not guarantee returns; they depend on NAV.
+- D) FD interest does not reduce the principal.
+</details>
+
+**Q62.** SWP gains from an **equity** mutual fund held for more than 12 months are taxed at:
+A) 20%  B) 12.5%  C) Slab rate  D) Exempt entirely
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Equity-fund gains held **more than 12 months** (long-term) are taxed at **12.5%** (with a Rs. 1.25 lakh/year LTCG exemption across all equity).
+- A) 20% applies to equity gains held *12 months or less* (short-term).
+- C) Slab rate applies to *debt* fund gains (post 1 April 2023).
+- D) Only up to Rs. 1.25 lakh of LTCG is exempt, not the entire gain.
+</details>
+
+**Q63.** SWP gains from a **debt** mutual fund (post 1 April 2023) are taxed:
+A) At 12.5% if held over 12 months  B) At 20% if short-term  C) At the investor's income-tax slab rate regardless of holding period  D) Fully exempt
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Post 1 April 2023, debt-fund gains are taxed at the **income-tax slab rate irrespective of holding period**.
+- A) and B) are equity-fund rules.
+- D) Debt-fund gains are not exempt.
+</details>
+
+**Q64.** Which scheme is operated solely by LIC, runs for 10 years, and is closed to new investors since 31 March 2023?
+A) SCSS  B) PMVVY  C) POMIS  D) APY
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — **Pradhan Mantri Vaya Vandana Yojana (PMVVY)** is run solely by LIC, has a 10-year term, and was closed to new investments after 31 March 2023.
+- A) SCSS is offered through banks/post offices and is open.
+- C) POMIS is an India Post scheme and is open.
+- D) APY is a PFRDA pension scheme and is open.
+</details>
+
+**Q65.** What is the maximum a single individual can deposit in a Post Office Monthly Income Scheme (POMIS) single account?
+A) Rs. 4.5 lakh  B) Rs. 9 lakh  C) Rs. 15 lakh  D) Rs. 30 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The POMIS limit is **Rs. 9 lakh in a single account** (and Rs. 15 lakh in a joint account), across all accounts taken together.
+- A) Rs. 4.5 lakh is not the current limit.
+- C) Rs. 15 lakh is the *joint* account limit.
+- D) Rs. 30 lakh is the SCSS limit.
+</details>
+
+**Q66.** Under a reverse mortgage, when does the loan become due and payable?
+A) After 5 years  B) When the borrower turns 70  C) When the last surviving borrower dies or permanently moves out  D) Monthly via EMIs
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — An RML becomes due **only when the last surviving borrower dies or permanently moves out** of the house; it is then settled from sale proceeds.
+- A) and B) are not triggers for repayment.
+- D) In a *normal* mortgage you pay EMIs; a reverse mortgage pays the borrower instead.
+</details>
+
+**Q67.** The maximum monthly payment under a Reverse Mortgage Loan (RML) is capped at:
+A) Rs. 25,000  B) Rs. 50,000  C) Rs. 75,000  D) Rs. 1 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Maximum monthly payments under RML are capped at **Rs. 50,000**.
+- A), C) and D) are not the stated cap.
+</details>
+
+**Q68.** All receipts under a Reverse Mortgage Loan are exempt from income tax under:
+A) Section 80C  B) Section 10(12A)  C) Section 10(43)  D) Section 80CCD(1B)
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — RML receipts are exempt under **Section 10(43)** of the Income-Tax Act.
+- A) 80C is a deduction, not an exemption for RML.
+- B) 10(12A) relates to NPS lump-sum withdrawal.
+- D) 80CCD(1B) is the extra NPS deduction.
+</details>
+
+**Q69.** For a reverse mortgage, the residual life of the pledged residential property must be at least:
+A) 10 years  B) 15 years  C) 20 years  D) 25 years
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — The property's **residual life must be at least 20 years**, and it must be the borrower's primary residence with clear title, free of encumbrances.
+- A), B) and D) are not the stated residual-life requirement.
+</details>
+
+**Q70.** Which set of benefits forms the **core** of a salaried person's retirement portfolio, as advised by an investment adviser?
+A) Gold, real estate, equities  B) EPF, NPS, Superannuation and Gratuity  C) SCSS, POMIS, PMVVY  D) PPF, APY, Reverse Mortgage
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The workbook states that **EPF, NPS, Superannuation and Gratuity** form the core of a salaried employee's retirement portfolio.
+- A) These are asset classes, not the salaried "core" benefits.
+- C) and D) are distribution/standalone products, not the employment-linked core.
 </details>

@@ -316,4 +316,325 @@ A) Only common law (negligence)  B) Only statutory law  C) Common law on the bas
 - A) and B) are wrong — they capture only half the picture.
 - D) is wrong — both common law and statutory bases are explicitly stated.
 </details>
+
+## 🟡 Tier 2 — Medium: Application (Q36–Q70)
+
+**Q36.** Ravi holds two indemnity health policies of Rs. 5 lakh each. What is the most his hospital claim can total across both?
+A) Rs. 10 lakh, but the total claim cannot exceed the actual loss  B) Rs. 20 lakh  C) Unlimited  D) Rs. 5 lakh only
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Indemnity policies reimburse *actual loss*; the total claim cannot exceed the sum insured of all policies put together (Rs. 10 lakh), and never more than the actual expense incurred. This is why multiple indemnity policies "make very little sense".
+- B) is wrong — Rs. 20 lakh exceeds the combined sum insured.
+- C) is wrong — indemnity is capped by actual loss and combined sum insured.
+- D) is wrong — the combined cover is Rs. 10 lakh, not Rs. 5 lakh.
+</details>
+
+**Q37.** Meena has cancer cover under three separate critical illness (defined benefit) policies. On a valid claim:
+A) Only the largest pays  B) They are pro-rated to actual expense  C) All of them will pay irrespective of how many she holds  D) Only the employer's policy pays
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — For multiple *defined benefit* policies (life, critical illness, accidental death/disability), all of them pay irrespective of how many the insured holds, because they pay a fixed sum, not actual expenses.
+- A), B) and D) are wrong — those describe indemnity-style contribution, which does not apply to defined benefit policies.
+</details>
+
+**Q38.** An employee has an employer health policy and an independent personal health policy. The workbook advises that when claiming, she should normally:
+A) Claim from her own policy first  B) Claim from the employer policy first  C) Split equally always  D) Not claim at all
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — She should normally choose the employer policy first. The chosen insurer cannot apply the contribution clause if the claim is less than that policy's sum insured.
+- A) is wrong — the employer policy is the suggested first choice.
+- C) is wrong — equal splitting is not the rule; contribution applies only if the claim exceeds the chosen policy's sum insured.
+- D) is wrong — she is entitled to claim.
+</details>
+
+**Q39.** When does the contribution clause become applicable for multiple health policies?
+A) Always, in every claim  B) Only where the claim amount exceeds the sum insured of the chosen policy  C) Never, for health  D) Only for defined benefit policies
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Contribution is not applicable except where the sum insured of the chosen policy is lower than the claim amount; then the claim is settled across insurers by applying contribution.
+- A) is wrong — it does not apply if the claim is within the chosen policy's sum insured.
+- C) is wrong — it can apply to health when the chosen policy is insufficient.
+- D) is wrong — defined benefit policies all pay separately; contribution is an indemnity concept.
+</details>
+
+**Q40.** The KEY difference between a Top-up and a Super Top-up plan is:
+A) Top-up is cheaper always  B) In a Top-up the threshold applies to every individual claim; in a Super Top-up it applies on the total of all yearly claims  C) Super Top-up has no deductible  D) Top-up covers death
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — In a Top-up plan the threshold (deductible) is applied for *every claim*, whereas in a Super Top-up plan the threshold is applied on the *total of all hospitalisation claims for the year* (aggregate).
+- A) is wrong — relative price is not the defining difference.
+- C) is wrong — both have a threshold/deductible.
+- D) is wrong — neither is a death-benefit product.
+</details>
+
+**Q41.** Why is a Super Top-up generally more generous than a Top-up?
+A) It has a higher premium  B) Its threshold is crossed only once per year on the aggregate, so smaller individual claims after that are payable  C) It covers wear and tear  D) It pays on death
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Because the threshold applies to the aggregate, once the year's total claims cross it, subsequent claims (even small ones) are payable. In a Top-up, each small claim below the per-claim threshold pays nothing.
+- A) is wrong — higher premium is not why it is more generous.
+- C) and D) are wrong — these are not health-cover features.
+</details>
+
+**Q42.** A base policy of Rs. 5 lakh + super top-up of Rs. 10 lakh with a Rs. 5 lakh deductible gives total coverage of:
+A) Rs. 10 lakh  B) Rs. 5 lakh  C) Rs. 15 lakh  D) Rs. 20 lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Base (Rs. 5 lakh) covers up to the Rs. 5 lakh deductible level; the super top-up (Rs. 10 lakh) covers above that — total Rs. 15 lakh of cover at an economical premium.
+- A), B) and D) are wrong — Rs. 5 + Rs. 10 = Rs. 15 lakh of combined coverage.
+</details>
+
+**Q43.** Why is the super top-up strategy economical compared with a single large policy?
+A) The super top-up premium is quite low, so base + super top-up is only slightly cheaper than one big policy  B) The single policy is always far cheaper  C) Super top-ups are free  D) Base policies have no premium
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — The super top-up premium is quite low. A single Rs. 15 lakh policy costs only slightly more than base + super top-up; the small difference reflects the admin simplicity of one policy.
+- B) is wrong — the single policy is *only slightly* more, not far cheaper.
+- C) and D) are wrong — premiums are charged on both.
+</details>
+
+**Q44.** For an employee whose employer provides Rs. 5 lakh cover, the IDEAL way to add cover is:
+A) A second full indemnity policy of Rs. 5 lakh  B) A super top-up with the deductible set equal to the employer cover  C) A keyman policy  D) A fidelity policy
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Super top-up plans are ideally suitable for employees seeking cover above their employer's; the employee sets the deductible equal to the employer-provided amount, and the super top-up covers claims above it.
+- A) is wrong — duplicating indemnity cover makes little sense.
+- C) and D) are wrong — keyman and fidelity are unrelated to topping up personal health cover.
+</details>
+
+**Q45.** Why is it advisable to keep the base plan and the top-up plan with the same insurer?
+A) It is legally required  B) To avoid dealing with two companies when a claim exceeds the threshold  C) Because premiums must match  D) To double the sum insured
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — If the base and top-up are from different insurers, the insured must deal with both when a claim exceeds the threshold; keeping them with one insurer simplifies claims.
+- A) is wrong — it is advisable, not legally mandated.
+- C) and D) are wrong — neither is the stated reason.
+</details>
+
+**Q46.** For a super top-up where two insurers are involved, an additional requirement when a claim is below the threshold is:
+A) Nothing needs to be done  B) The super top-up insurer must still be informed so it can mark the threshold levels used  C) The base insurer must refund premium  D) The policy lapses
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Even when no claim is payable on the super top-up, the company handling it must be informed so it can mark the threshold (used) levels, since the threshold applies to aggregate claims.
+- A) is wrong — informing is required to track the aggregate.
+- C) and D) are wrong — no refund or lapse occurs.
+</details>
+
+**Q47.** A health insurance policy is classified as which type of policy?
+A) Defined benefit  B) Indemnity  C) Keyman  D) Pure protection
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Health insurance is an indemnity policy — it reimburses actual hospitalisation expenditure incurred.
+- A) is wrong — defined benefit pays a fixed lump sum; that is critical illness.
+- C) and D) are wrong — these are unrelated categories.
+</details>
+
+**Q48.** A critical illness policy is classified as which type of policy?
+A) Indemnity  B) Defined benefit  C) Liability  D) Fidelity
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Critical illness is a defined benefit policy — it pays a fixed lump sum on contracting a specified disease (and surviving the required period).
+- A) is wrong — indemnity reimburses actual expense (health insurance).
+- C) and D) are wrong — those are different product lines.
+</details>
+
+**Q49.** Sita is diagnosed with a covered critical illness but passes away on day 20. Why may the claim fail?
+A) The policy covers death  B) She did not meet the minimum survival period (about 30 days) after diagnosis  C) The premium was too low  D) Critical illness is an indemnity policy
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Critical illness reimbursement is usually subject to a minimum survival period (commonly 30 days, table notes 15–30) after diagnosis; surviving only 20 days may fail this condition.
+- A) is wrong — there is *no* payment on death under critical illness.
+- C) is wrong — premium level does not determine the survival condition.
+- D) is wrong — it is a defined benefit policy.
+</details>
+
+**Q50.** Which policy is best suited to replace lost income if a breadwinner gets cancer and cannot work?
+A) A small critical illness rider  B) A critical illness cover sized like life insurance (income-replacement)  C) Property insurance  D) Fidelity insurance
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The workbook stresses critical illness should be sized like life cover for income replacement; large covers usually come as standalone or as an accelerated sum-insured rider on a life policy.
+- A) is wrong — a small rider gives only a token amount, the common mistake.
+- C) and D) are wrong — they do not replace income on illness.
+</details>
+
+**Q51.** Anil sells his old car (which had 50% NCB) and buys a new one. Regarding the NCB:
+A) The buyer of the old car inherits the 50% NCB  B) Anil can transfer the NCB to his new car; the buyer of the old car gets none  C) The NCB is lost entirely  D) The NCB stays with the old car
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — NCB belongs to the *person*, not the car. The original owner can transfer NCB to a new car; the buyer of the used car gets no NCB.
+- A) and D) are wrong — NCB is not attached to the car.
+- C) is wrong — Anil keeps and transfers it.
+</details>
+
+**Q52.** Priya shifts her car insurance to a new insurer at renewal with a clean claim record. The new insurer:
+A) Cannot give any NCB  B) Provides the NCB on shifting at renewal  C) Only gives NCB after 10 years  D) Doubles her premium
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — A new insurance company provides the "no claim" bonus if a policy is shifted at the time of renewal.
+- A) is wrong — NCB is portable to the new insurer at renewal.
+- C) and D) are wrong — neither is supported by the workbook.
+</details>
+
+**Q53.** A hospital bill is incurred by an Indian resident in London under an ordinary Indian health (indemnity) policy. It will normally:
+A) Be fully paid  B) Not be covered, as indemnity health policies normally cover expenses in India only  C) Be paid at double rate  D) Be paid only if it is a defined benefit policy
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Indemnity health policies normally cover expenses incurred in India only, because verifying losses abroad is difficult.
+- A) and C) are wrong — foreign expenses are generally not covered by an ordinary Indian health policy.
+- D) is misleading — health *is* indemnity, not defined benefit; defined benefit policies are the ones that pay anywhere.
+</details>
+
+**Q54.** Which policy is the EXCEPTION that, although indemnity, can cover expenses incurred abroad?
+A) Ordinary health insurance  B) Overseas travel insurance, designed country-by-country  C) Property insurance  D) Fidelity insurance
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Overseas travel policies are indemnity policies designed specifically for each country, with arrangements to ascertain foreign expenses — the exception to the "India only" rule.
+- A) is wrong — ordinary health covers India only.
+- C) and D) are wrong — neither is the cited exception.
+</details>
+
+**Q55.** A life insurance death claim arising abroad will:
+A) Not be paid since it occurred overseas  B) Be paid wherever the covered risk occurs, as it is a defined benefit policy  C) Be paid only in India  D) Be pro-rated
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Defined benefit policies (life, critical illness, accidental death) pay wherever the covered risk occurs, because the event is easy to verify anywhere.
+- A) is wrong — location does not bar payment for defined benefit.
+- C) and D) are wrong — there is no India-only or pro-rata restriction for defined benefit events.
+</details>
+
+**Q56.** An Indian resident wants to buy a foreign insurer's policy. They may use the Liberalised Remittance Scheme up to:
+A) USD 25,000 per annum  B) USD 1,00,000 per annum  C) USD 2,50,000 per annum  D) USD 5,00,000 per annum
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Indian residents can use their LRS entitlement of up to USD 2,50,000 per annum to buy insurance policies of foreign companies.
+- A), B) and D) are wrong — the stated LRS limit is USD 2,50,000 per annum.
+</details>
+
+**Q57.** A caution about buying a foreign insurer's policy under LRS is that:
+A) It is illegal  B) The policy and grievance redressal are governed by the regulations of the country where issued  C) It cannot cover students  D) It is always cheaper than Indian policies
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Such policies and the grievance redressal mechanism are governed by the regulations of the country where they are issued, so caution must be exercised.
+- A) is wrong — it is permitted within LRS.
+- C) is wrong — students commonly buy university-recommended foreign policies.
+- D) is wrong — other things equal, *Indian* policies tend to be cheaper.
+</details>
+
+**Q58.** For students going overseas, other things being equal:
+A) Foreign company policies are cheaper  B) Indian policies tend to be cheaper than similar foreign-company policies  C) No insurance is ever needed  D) Only defined benefit policies work
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Other things being equal, Indian policies tend to be cheaper than similar policies issued by foreign companies.
+- A) is wrong — the reverse is stated.
+- C) is wrong — cover is advisable as overseas treatment is costly.
+- D) is wrong — this is not a defined-benefit-only matter.
+</details>
+
+**Q59.** A bank manager wants to protect the bank from a cashier embezzling money. The right policy is:
+A) D&O liability  B) Fidelity insurance  C) Keyman insurance  D) Property insurance
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Fidelity insurance covers employer losses from an employee's forgery, fraud or dishonesty — taken where employees handle large sums of cash or valuables.
+- A) is wrong — D&O covers directors' personal liability, not employee theft.
+- C) is wrong — keyman covers loss of a key person's life.
+- D) is wrong — property insurance covers assets, not employee dishonesty.
+</details>
+
+**Q60.** A company wants protection against financial loss if its star CEO dies suddenly. The right policy is:
+A) Critical illness  B) Keyman insurance  C) Fidelity insurance  D) Personal accident
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Keyman insurance is a life policy a company buys on a key executive; the company is the beneficiary and pays the premium, protecting against the loss of that person's life.
+- A), C) and D) are wrong — these do not insure the company against the death of its key person with the company as beneficiary.
+</details>
+
+**Q61.** A doctor wants cover against patient lawsuits alleging professional negligence. The right policy is:
+A) Liability (professional indemnity) insurance  B) Property insurance  C) Travel insurance  D) Fidelity insurance
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — Professional indemnity (a form of liability insurance) covers professionals like doctors against legal expenses and damages for which they are found liable.
+- B), C) and D) are wrong — none addresses professional negligence claims.
+</details>
+
+**Q62.** A company director faces a shareholder claim alleging a wrongful act in his duties. The relevant policy is:
+A) Keyman  B) D&O liability insurance  C) Fidelity  D) Property
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — D&O liability insurance covers directors against personal liability and defence costs from claims (e.g. shareholder claims) alleging a wrongful act in their duties.
+- A) is wrong — keyman insures the company on the director's life.
+- C) is wrong — fidelity is employee dishonesty.
+- D) is wrong — property covers assets.
+</details>
+
+**Q63.** Comparing Health vs Critical Illness on "claim paid": health pays on incurring hospitalisation expenditure, while critical illness pays:
+A) On death  B) On contracting a pre-specified disease and surviving the required period  C) Monthly regardless of illness  D) On retirement
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Critical illness pays on contracting a pre-specified disease/illness and surviving the required period (15–30 days).
+- A) is wrong — no death payout.
+- C) and D) are wrong — it is not a periodic or retirement benefit.
+</details>
+
+**Q64.** Why do many insurers charge lower premiums for policies bought online from their websites?
+A) Online policies cover less  B) Lower distribution cost; some even offer 'web only' policies  C) It is mandated by law  D) Online policies have no claims
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Many insurers charge lower premiums for policies bought online directly from their websites, and some offer 'web only' policies.
+- A) is wrong — online does not mean less cover.
+- C) is wrong — it is a commercial practice, not a legal mandate.
+- D) is wrong — online policies can still have claims.
+</details>
+
+**Q65.** The role of insurance web aggregators / online brokers is mainly to:
+A) Settle all claims directly  B) Provide convenient online comparison of policies for informed choice, and act as a major selling channel  C) Set premium rates for insurers  D) Replace IRDAI
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Web aggregators / online brokers provide convenient online comparison enabling informed choice and have become major sources of selling policies.
+- A) is wrong — claim settlement is the insurer's job.
+- C) and D) are wrong — they neither set rates nor replace the regulator.
+</details>
+
+**Q66.** In health insurance, the premium per additional lakh of coverage as the sum insured rises:
+A) Increases sharply  B) Drops significantly and becomes almost negligible after a certain amount  C) Stays exactly constant  D) Doubles each lakh
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The premium rate per additional lakh of coverage drops significantly as coverage increases and becomes almost negligible after a certain amount (e.g. a Rs. 100 lakh policy may cost only a few thousand more than Rs. 50 lakh).
+- A), C) and D) are wrong — the marginal premium falls, it does not rise, stay flat, or double.
+</details>
+
+**Q67.** A pre-existing illness may be excluded from cover for a fixed period:
+A) Always permanently  B) When insurance is taken for the first time, or if renewed after a lapse  C) Only for travel policies  D) Only for defined benefit policies
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Pre-existing illnesses may be excluded for a fixed period when insurance is taken for the first time, or if renewed after a lapse.
+- A) is wrong — the exclusion is for a fixed period, not always permanent.
+- C) and D) are wrong — this is a health (indemnity) feature, not travel- or defined-benefit-specific.
+</details>
+
+**Q68.** To benefit from health policy portability, the previous policy must have been:
+A) From a foreign insurer  B) Maintained without a break  C) Surrendered before switching  D) A defined benefit policy
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — To benefit from portability, the previous policy should have been maintained without a break.
+- A), C) and D) are wrong — none is a portability condition; a break in coverage forfeits the benefit.
+</details>
+
+**Q69.** The own-damage portion of car insurance premium:
+A) Is fixed by law for all insurers  B) Is not fixed and varies from insurer to insurer, so online comparison can save money  C) Is the same as third-party premium  D) Cannot be compared online
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The own-damage portion is not fixed and varies from insurer to insurer; an online comparison from a broker or web aggregator can save substantial amounts.
+- A) is wrong — only third-party rates are regulated/uniform; own-damage varies.
+- C) is wrong — it is a separate component.
+- D) is wrong — it can and should be compared online.
+</details>
+
+**Q70.** Motor insurance indemnifies the insured for accidents arising from vehicle use:
+A) Worldwide  B) Anywhere in India, including third-party death/injury and damage to others' property  C) Only at the registered address  D) Only on highways
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The insurer indemnifies the insured for accidents arising out of the use of the vehicle anywhere in India, covering (i) death/bodily injury to any person and (ii) damage to others' property.
+- A) is wrong — the cover stated is anywhere in *India*, not worldwide.
+- C) and D) are wrong — it is not limited to the registered address or highways.
+</details>
 </content>
