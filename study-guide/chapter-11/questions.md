@@ -329,10 +329,10 @@ A) Slab rates apply with full deductions  B) Always exempt  C) Taxed only under 
 </details>
 
 **Q47.** Under most DTAAs India has signed, dividend in the source country is taxed in the range of:
-A) 0% to 5%  B) 5% to 15%  C) 20% to 30%  D) 30% to 40%
+A) 5% to 15%  B) 0% to 5%  C) 20% to 30%  D) 30% to 40%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Most DTAAs tax dividend in the source country at 5% to 15% of the gross dividend in the hands of the beneficial owner. A), C) and D) are outside the stated range.
+**Correct: A)** — Most DTAAs tax dividend in the source country at 5% to 15% of the gross dividend in the hands of the beneficial owner. B), C) and D) are outside the stated range.
 </details>
 
 **Q48.** F&O loss treated as non-speculative business loss can be set off against:
@@ -357,10 +357,10 @@ A) Pay advance tax  B) File the return on or before the due date  C) Maintain au
 </details>
 
 **Q51.** Under the ICAI Guidance Note, F&O turnover includes the premium received on:
-A) Purchase of options  B) Sale of options  C) Delivery of shares  D) Dividend distribution
+A) Sale of options  B) Purchase of options  C) Delivery of shares  D) Dividend distribution
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Turnover includes the total of favourable and unfavourable differences plus the premium received on *sale* of options (and reverse-trade differences). A) premium *paid* on purchase is not separately added as turnover. C) and D) are unrelated to F&O turnover.
+**Correct: A)** — Turnover includes the total of favourable and unfavourable differences plus the premium received on *sale* of options (and reverse-trade differences). B) premium *paid* on purchase is not separately added as turnover. C) and D) are unrelated to F&O turnover.
 </details>
 
 **Q52.** Under the presumptive scheme (Section 44AD) for digital/cheque receipts, profit is presumed at:
@@ -490,10 +490,10 @@ A) Interest rate swap  B) Currency swap  C) Equity swap  D) Commodity swap
 </details>
 
 **Q70.** Most commodity derivative contracts (barring a few like crude oil and natural gas) result in:
-A) Cash settlement only  B) Compulsory delivery  C) No settlement  D) Conversion into equity
+A) Cash settlement only  B) No settlement  C) Compulsory delivery  D) Conversion into equity
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Almost all commodity contracts result in compulsory delivery, except a few like crude oil and natural gas. A) cash settlement is the exception, not the rule. C) and D) are incorrect — commodity contracts do settle, typically by delivery.
+**Correct: C)** — Almost all commodity contracts result in compulsory delivery, except a few like crude oil and natural gas. A) cash settlement is the exception, not the rule. B) and D) are incorrect — commodity contracts do settle, typically by delivery.
 </details>
 
 ## 🔴 Tier 3 — Hard: Numerical & Scenario (Q71–Q100)

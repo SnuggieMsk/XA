@@ -576,24 +576,24 @@ A) Pre-agreed ground rules for rebalancing that act as automatic nudges  B) Aski
 </details>
 
 **Q82.** Deepa treats her Diwali bonus as "house money" to punt on risky IPOs but is frugal with her salary-funded SIPs. The bias and corrective insight are:
-A) Mental accounting; remind her money is fungible and the bonus deserves the same disciplined treatment  B) Anchoring; give her a price target  C) Action bias; prime patience only  D) Framing; reword the goal
+A) Anchoring; give her a price target  B) Mental accounting; remind her money is fungible and the bonus deserves the same disciplined treatment  C) Action bias; prime patience only  D) Framing; reword the goal
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Treating bonus and salary differently is mental accounting; all rupees should follow the same plan. B), C) and D) misname the bias. Behavioural logic: labelling money "house money" rationalises reckless risk-taking.
+**Correct: B)** — Treating bonus and salary differently is mental accounting; all rupees should follow the same plan. A), C) and D) misname the bias. Behavioural logic: labelling money "house money" rationalises reckless risk-taking.
 </details>
 
 **Q83.** A client cycles every year: gold last year, then small-caps, then crypto, always last year's winner, and his returns lag. Diagnose and prescribe:
-A) Chasing past performance ignoring reversion to the mean; set a pre-decided asset allocation policy with upper limits  B) Over-diversification; cut to one fund  C) Home country bias; go abroad  D) Framing; change wording
+A) Over-diversification; cut to one fund  B) Home country bias; go abroad  C) Chasing past performance ignoring reversion to the mean; set a pre-decided asset allocation policy with upper limits  D) Framing; change wording
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Serially buying last year's winner is chasing past performance; allocation limits fix it. B), C) and D) misdiagnose. Behavioural logic: rear-view-mirror investing repeatedly buys high and sells low.
+**Correct: C)** — Serially buying last year's winner is chasing past performance; allocation limits fix it. A), B) and D) misdiagnose. Behavioural logic: rear-view-mirror investing repeatedly buys high and sells low.
 </details>
 
 **Q84.** A risk-tolerance questionnaire labels a client "aggressive," but in conversation she panics at any loss talk. The chapter's guidance is to:
-A) Treat tool diagnoses (including framing preference) as needing reconfirmation through discussion with the client  B) Trust the questionnaire absolutely  C) Ignore the conversation  D) Re-take the test ten times
+A) Trust the questionnaire absolutely  B) Ignore the conversation  C) Re-take the test ten times  D) Treat tool diagnoses (including framing preference) as needing reconfirmation through discussion with the client
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Diagnoses, including framing preference, must be reconfirmed through discussion. B) over-trusts a tool. C) ignores key evidence. D) is pointless repetition. Behavioural logic: tools inform but conversation confirms the real client.
+**Correct: D)** — Diagnoses, including framing preference, must be reconfirmed through discussion. A) over-trusts a tool. B) ignores key evidence. C) is pointless repetition. Behavioural logic: tools inform but conversation confirms the real client.
 </details>
 
 **Q85.** An NRI-aspiring client wants global exposure but believes "Indians can't legally invest abroad." The adviser should correct this by explaining:

@@ -427,10 +427,10 @@ A) Short-term (held < 24 months)  B) Long-term (held > 24 months)  C) Short-term
 </details>
 
 **Q3.2.** The **indexed cost of acquisition** is closest to: *(Medium)*
-A) ₹20,00,000  B) ₹43,47,305  C) ₹36,30,000  D) ₹29,00,000
+A) ₹20,00,000  B) ₹36,30,000  C) ₹43,47,305  D) ₹29,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Indexed cost = Cost × (CII sale year ÷ CII purchase year) = 20,00,000 × (363 ÷ 167) = 20,00,000 × 2.1737 = **₹43,47,305**. **A)** ignores indexation. **C)** applies the CII ratio to the sale price by mistake. **D)** uses an arbitrary factor.
+**Correct: C)** — Indexed cost = Cost × (CII sale year ÷ CII purchase year) = 20,00,000 × (363 ÷ 167) = 20,00,000 × 2.1737 = **₹43,47,305**. **A)** ignores indexation. **B)** applies the CII ratio to the sale price by mistake. **D)** uses an arbitrary factor.
 </details>
 
 **Q3.3.** The **long-term capital gain** (after indexation) is closest to: *(Medium)*
@@ -468,10 +468,10 @@ A) ₹7,00,000  B) ₹8,40,000  C) ₹9,60,000  D) ₹70,000
 </details>
 
 **Q4.2.** The annual expense in the **first year of retirement** (10 years away, inflation 7%) is closest to: *(Medium)*
-A) ₹14,00,000  B) ₹16,52,000  C) ₹12,00,000  D) ₹8,40,000
+A) ₹14,00,000  B) ₹12,00,000  C) ₹16,52,000  D) ₹8,40,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — FV(7%,10,,−840000) = 8,40,000 × 1.07¹⁰ = 8,40,000 × 1.9672 = **₹16,52,000** (approx). **A)** under-compounds. **C)** uses too few years. **D)** forgets to inflate at all.
+**Correct: C)** — FV(7%,10,,−840000) = 8,40,000 × 1.07¹⁰ = 8,40,000 × 1.9672 = **₹16,52,000** (approx). **A)** under-compounds. **B)** uses too few years. **D)** forgets to inflate at all.
 </details>
 
 **Q4.3.** The **real (inflation-adjusted) return** to use for the retirement-years corpus is: *(Medium)*

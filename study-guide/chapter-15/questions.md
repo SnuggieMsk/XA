@@ -576,10 +576,10 @@ A) Nomination  B) Joint holding  C) Creation of a trust  D) Succession certifica
 </details>
 
 **Q82.** A debtor faces an aggressive government creditor with strong powers to seize assets. According to the asset-protection factors, this means ______.
-A) less protection is needed  B) stronger asset protection strategies are required  C) no protection is possible  D) only the debtor's spouse is at risk
+A) less protection is needed  B) no protection is possible  C) only the debtor's spouse is at risk  D) stronger asset protection strategies are required
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The **identity of the creditor** matters: a powerful organisation such as government has more power to seize assets than private lenders, so an aggressive creditor requires **stronger asset protection strategies**. A) is the opposite. C) is too absolute — protection strategies still exist. D) misstates the factor (that is the *debtor identity* factor, not creditor identity).
+**Correct: D)** — The **identity of the creditor** matters: a powerful organisation such as government has more power to seize assets than private lenders, so an aggressive creditor requires **stronger asset protection strategies**. A) is the opposite. B) is too absolute — protection strategies still exist. C) misstates the factor (that is the *debtor identity* factor, not creditor identity).
 </details>
 
 **Q83.** Which asset is specifically mentioned as one that creditors cannot attach, illustrating the "nature of the asset" factor?
@@ -597,10 +597,10 @@ A) 7 days  B) 14 days  C) 30 days  D) 90 days
 </details>
 
 **Q85.** A trust's income includes profits and gains of a business. By default this entire income is taxed at ______, unless a specific Will-based exception applies.
-A) slab rates  B) the Maximum Marginal Rate  C) 5%  D) zero
+A) slab rates  B) 5%  C) zero  D) the Maximum Marginal Rate
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Under Section 161(1A), if any part of a trust's income includes business profits/gains, the **entire** trust income is taxed at the **Maximum Marginal Rate** — unless the profits are receivable under a trust declared by Will, exclusively for a dependent relative's support, and it is the only such trust by that person (then slab rates apply). A) Slab is only the exception. C) and D) are incorrect.
+**Correct: D)** — Under Section 161(1A), if any part of a trust's income includes business profits/gains, the **entire** trust income is taxed at the **Maximum Marginal Rate** — unless the profits are receivable under a trust declared by Will, exclusively for a dependent relative's support, and it is the only such trust by that person (then slab rates apply). A) Slab is only the exception. B) and C) are incorrect.
 </details>
 
 **Q86.** A trust deed does not state exact beneficiary shares but provides that income is shared "equally among all living family members," varying as members are born or die. How is such a trust treated?

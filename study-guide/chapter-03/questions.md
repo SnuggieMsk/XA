@@ -586,12 +586,12 @@ A) Online policies cover less  B) Lower distribution cost; some even offer 'web 
 </details>
 
 **Q65.** The role of insurance web aggregators / online brokers is mainly to:
-A) Settle all claims directly  B) Provide convenient online comparison of policies for informed choice, and act as a major selling channel  C) Set premium rates for insurers  D) Replace IRDAI
+A) Settle all claims directly  B) Set premium rates for insurers  C) Replace IRDAI  D) Provide convenient online comparison of policies for informed choice, and act as a major selling channel
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Web aggregators / online brokers provide convenient online comparison enabling informed choice and have become major sources of selling policies.
+**Correct: D)** — Web aggregators / online brokers provide convenient online comparison enabling informed choice and have become major sources of selling policies.
 - A) is wrong — claim settlement is the insurer's job.
-- C) and D) are wrong — they neither set rates nor replace the regulator.
+- B) and C) are wrong — they neither set rates nor replace the regulator.
 </details>
 
 **Q66.** In health insurance, the premium per additional lakh of coverage as the sum insured rises:
@@ -612,11 +612,11 @@ A) Always permanently  B) Only for travel policies  C) When insurance is taken f
 </details>
 
 **Q68.** To benefit from health policy portability, the previous policy must have been:
-A) From a foreign insurer  B) Maintained without a break  C) Surrendered before switching  D) A defined benefit policy
+A) From a foreign insurer  B) Surrendered before switching  C) Maintained without a break  D) A defined benefit policy
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — To benefit from portability, the previous policy should have been maintained without a break.
-- A), C) and D) are wrong — none is a portability condition; a break in coverage forfeits the benefit.
+**Correct: C)** — To benefit from portability, the previous policy should have been maintained without a break.
+- A), B) and D) are wrong — none is a portability condition; a break in coverage forfeits the benefit.
 </details>
 
 **Q69.** The own-damage portion of car insurance premium:

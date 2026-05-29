@@ -336,17 +336,17 @@ A) Bank FD  B) Company deposit  C) FMP held to maturity  D) Open-ended debt fund
 </details>
 
 **Q48.** An income-earner with dependents needs cover against **death from any cause**. Which is essential?
-A) Personal accident insurance  B) Life insurance  C) Health insurance  D) ULIP only
+A) Life insurance  B) Personal accident insurance  C) Health insurance  D) ULIP only
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Life insurance** covers death from any cause and is essential for income earners with dependents. Personal accident (A) covers only accidental death/disability — an add-on, not a substitute. Health insurance (C) covers medical bills, not death payout. A ULIP (D) is investment-heavy and not the core protection here. Any-cause death cover = life insurance.
+**Correct: A)** — **Life insurance** covers death from any cause and is essential for income earners with dependents. Personal accident (B) covers only accidental death/disability — an add-on, not a substitute. Health insurance (C) covers medical bills, not death payout. A ULIP (D) is investment-heavy and not the core protection here. Any-cause death cover = life insurance.
 </details>
 
 **Q49.** A client already has adequate life insurance and now wants cover specifically for **permanent total disability from an accident**. Recommend:
-A) More life insurance  B) Personal accident insurance  C) PPF  D) A debt fund
+A) More life insurance  B) A debt fund  C) PPF  D) Personal accident insurance
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Personal accident insurance** covers temporary/permanent, total/partial disability arising from accident — the gap life insurance does not fill (life insurance does not cover disability). More life insurance (A) won't pay for disability. PPF (C) and a debt fund (D) are investments, not insurance. PA is the add-on for accident disability.
+**Correct: D)** — **Personal accident insurance** covers temporary/permanent, total/partial disability arising from accident — the gap life insurance does not fill (life insurance does not cover disability). More life insurance (A) won't pay for disability. PPF (C) and a debt fund (B) are investments, not insurance. PA is the add-on for accident disability.
 </details>
 
 **Q50.** Between a company deposit and a company debenture of the same company, an investor who wants **slightly higher return and accepts higher risk** should pick:

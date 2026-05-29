@@ -441,10 +441,10 @@ A) High willingness and high ability  B) No need for asset allocation  C) An aut
 </details>
 
 **Q63.** Which combination best illustrates an "efficient" asset allocation per the chapter?
-A) Two assets that always rise and fall together  B) Equity and gold, which behaved differently during 2007–09  C) Five different mid-cap equity funds  D) Only one asset class held in large size
+A) Two assets that always rise and fall together  B) Five different mid-cap equity funds  C) Only one asset class held in large size  D) Equity and gold, which behaved differently during 2007–09
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Equity and gold had low/negative correlation (in 2007–09 equity fell, gold rose), giving real diversification. Assets that move together (A), several similar equity funds (C) and a single asset class (D) do not provide efficient diversification.
+**Correct: D)** — Equity and gold had low/negative correlation (in 2007–09 equity fell, gold rose), giving real diversification. Assets that move together (A), several similar equity funds (B) and a single asset class (C) do not provide efficient diversification.
 </details>
 
 **Q64.** An adviser building a portfolio must balance the required return with:
