@@ -1,195 +1,319 @@
-# Chapter 3: Non-Life Insurance Products — Questionnaire
+# Chapter 3: Non-Life Insurance Products — 100 MCQ Question Bank
 
-## 📝 Multiple Choice Questions
+> Three difficulty tiers: 🟢 **Tier 1 (Easy, Q1–Q35)** tests recall of definitions and facts; 🟡 **Tier 2 (Medium, Q36–Q70)** tests application, comparison and rule-use; 🔴 **Tier 3 (Hard, Q71–Q100)** tests multi-step numericals and scenarios. Remember the real exam has **25% negative marking** — a wrong answer costs you one-quarter of a mark, so guess only when you can eliminate options.
 
-**Q1.** The term of a non-life insurance policy is typically:
-A) Decided by the insured  B) Based on the sum insured  C) One year  D) Ten years
+## 🟢 Tier 1 — Easy: Recall (Q1–Q35)
+
+**Q1.** What does non-life insurance primarily provide cover against?
+A) Loss of life only  B) Loss or destruction of assets and unexpected large expenses  C) Only medical expenses  D) Only motor accidents
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Non-life policies usually run for **one year** (health and two-wheeler policies can be 2–3 years). The term isn't freely chosen by the insured or tied to the sum insured.
+**Correct: B)** — The workbook defines non-life insurance as providing risk cover from loss or destruction of assets, and against unexpected large expenses that can drain an individual's income.
+- A) is wrong — covering a *life* is life insurance, not non-life.
+- C) and D) are wrong — health and motor are just *examples* of non-life products, not the whole definition.
 </details>
 
-**Q2.** Which motor insurance cover is COMPULSORY in India?
-A) Own-damage cover  B) Theft cover  C) Third-party liability  D) Zero-depreciation cover
+**Q2.** "Sum insured" in a non-life policy represents:
+A) The premium paid by the insured  B) The insurer's maximum liability for claims during the policy period  C) The deductible amount  D) The no-claim bonus
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — **Third-party liability** is compulsory; no vehicle may be used in a public place without it. Own-damage and theft cover are optional add-ons.
+**Correct: B)** — Sum insured is the amount specified in the policy that represents the insurer's *maximum liability* for claims made during the policy period; the insurer may set a minimum and maximum.
+- A) is wrong — that is the premium, a different element.
+- C) is wrong — the deductible is the portion the insured pays.
+- D) is wrong — NCB is a premium discount, not the maximum liability.
 </details>
 
-**Q3.** A car owner has gone 5 years without a claim. The maximum No Claim Bonus on the own-damage premium is:
-A) 10%  B) 25%  C) 50%  D) 100%
+**Q3.** The term of a non-life insurance policy is typically:
+A) 3 years  B) 5 years  C) 1 year  D) 10 years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — NCB can go up to **50%** of the own-damage premium after **5 claim-free years**. It also belongs to the owner, not the car.
+**Correct: C)** — The term is typically 1 year, although for health and two-wheeler policies it may be 2 or 3 years.
+- A), B) and D) are wrong — these are longer than the standard 1-year term; 2–3 years is only the exception for health/two-wheeler.
 </details>
 
-**Q4.** When you sell your old car, the No Claim Bonus:
-A) Transfers to the new buyer  B) Is lost forever  C) Stays with you and can move to your new car  D) Is split 50/50
+**Q4.** For which products can the non-life policy term extend to two or three years?
+A) Property and liability  B) Health and two-wheeler  C) Travel and fidelity  D) Keyman and D&O
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — NCB belongs to the **person, not the car**. The buyer gets no NCB; you can **transfer your NCB to the new car** you buy.
+**Correct: B)** — The workbook specifically names health and two-wheeler policies as cases where the term may be two or three years.
+- A), C) and D) are wrong — these are not the named exceptions; they follow the typical 1-year term.
 </details>
 
-**Q5.** Which is a DEFINED BENEFIT policy?
-A) Health insurance (Mediclaim)  B) Critical illness insurance  C) Car insurance  D) Property insurance
+**Q5.** The premium payable on a non-life policy is a function of:
+A) Sum insured and the assessed risk  B) Only the sum insured  C) Only the insured's income  D) The deductible alone
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Critical illness** pays a fixed lump sum on diagnosis → defined benefit. Health, car and property reimburse actual measured loss → indemnity.
+**Correct: A)** — Premium is a function of the sum insured *and* the assessed risk (e.g. age/gender/health for medical; engine CC, place of registration, vehicle age for motor).
+- B) is wrong — risk also matters, not just the sum insured.
+- C) is wrong — income is not the stated basis.
+- D) is wrong — the deductible reduces claims, it is not the premium basis.
 </details>
 
-**Q6.** Critical illness insurance typically pays only if the insured survives at least:
-A) 7 days  B) 15–30 days  C) 60 days  D) 1 year
+**Q6.** A "deductible" is best defined as:
+A) The bonus for no claims  B) The portion of the claim that is met by the insured  C) The maximum the insurer pays  D) The premium discount for online purchase
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Reimbursement is usually subject to a **minimum survival period of 30 days** (the comparison table notes 15–30 days) after diagnosis. There is no payout on death.
+**Correct: B)** — A deductible is the portion of the claim that the insured bears themselves.
+- A) is wrong — that is the no-claim bonus.
+- C) is wrong — that is the sum insured.
+- D) is wrong — that is an online-purchase discount, unrelated to deductible.
 </details>
 
-**Q7.** Which policy covers losses from an employee's forgery, fraud or dishonesty?
-A) Keyman insurance  B) Fidelity insurance  C) Liability insurance  D) D&O insurance
+**Q7.** Under the "restore" benefit in health insurance, the sum insured is restored to 100%:
+A) Only when reduced due to a claim  B) In case of either partial or full exhaustion  C) Only at renewal  D) Never
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Fidelity insurance** protects the employer against employee dishonesty (money or goods), used where employees handle large cash/valuables. Keyman covers loss of a key person's life; liability/D&O cover legal liabilities.
+**Correct: B)** — In a restoration benefit, the insurer restores the sum insured to 100% in case of *either partial or full* exhaustion.
+- A) is wrong — that describes "recharge", which refills only when the sum gets reduced by a claim.
+- C) and D) are wrong — restore happens on exhaustion within the policy period, not only at renewal, and not never.
 </details>
 
-**Q8.** In Keyman insurance, who is the beneficiary and pays the premium?
-A) The key executive  B) The company  C) The executive's family  D) The government
+**Q8.** Under the "recharge" benefit, the sum insured is restored to 100%:
+A) On partial or full exhaustion  B) Only when it gets reduced due to a claim  C) Automatically every month  D) Only if no claim is made
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The **company** buys life cover on a key executive's life, **pays the premiums**, and is the **beneficiary** — protecting the firm against losing that person.
+**Correct: B)** — Recharge refills the sum insured to 100% *only when it gets reduced due to a claim*.
+- A) is wrong — that is the "restore" benefit (partial or full exhaustion).
+- C) is wrong — there is no monthly auto-refill described.
+- D) is wrong — recharge is triggered by a claim reducing the sum, not by the absence of claims.
 </details>
 
-**Q9.** Liability insurance will NOT cover:
-A) Negligence claims  B) No-fault statutory liability  C) Intentional or criminal damage  D) Legal defence costs
+**Q9.** "No claim bonus" (NCB) refers to:
+A) A penalty for claiming  B) The benefit of lower premiums in subsequent years for each claim-free year  C) The deductible amount  D) The survival period
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Liability insurance excludes **intentional damage and damages from criminal activities**. It does cover negligence, no-fault statutory liability and defence costs.
+**Correct: B)** — NCB is the benefit of lower premiums enjoyed in subsequent years for each year of no claims; it can also be offered as additional bonus cover.
+- A) is wrong — it is a reward, not a penalty.
+- C) and D) are wrong — those are unrelated terms (deductible and survival period).
 </details>
 
-**Q10.** The key difference between a Top-up and a Super Top-up plan is:
-A) Top-up has a higher sum insured  B) Top-up applies the threshold per claim; super top-up applies it on the aggregate of yearly claims  C) Super top-up has no deductible  D) They are identical
+**Q10.** Property insurance generally means insuring:
+A) Only jewellery and antiques  B) The structure and contents of a building against natural and man-made disasters  C) Third-party liability only  D) The owner's life
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — In a **Top-up** the threshold (deductible) is applied to **each claim**; in a **Super Top-up** it's applied to the **total of all claims** in the year. That makes super top-up more generous.
+**Correct: B)** — Property insurance generally means insuring the structure and the contents of the building against natural and man-made disasters such as fire and theft.
+- A) is wrong — valuables like jewellery and antiques typically need an *add-on or separate* policy.
+- C) is wrong — that is liability/motor cover.
+- D) is wrong — a life is covered under life insurance.
 </details>
 
-**Q11.** Base plan Rs. 5 lakh + plan of Rs. 10 lakh above a Rs. 5 lakh threshold. Four claims of Rs. 3, 6, 2 and 4 lakh occur. A SUPER TOP-UP plan pays in total:
-A) Rs. 6 lakh  B) Rs. 9 lakh  C) Rs. 15 lakh  D) Rs. 10 lakh
+**Q11.** Which of the following is generally NOT covered under property insurance?
+A) Fire  B) Theft  C) Wilful destruction and normal wear and tear  D) Man-made disasters
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Threshold applies on the aggregate. Base pays Rs. 5 lakh; once Rs. 5 lakh of threshold is crossed across claims, the super top-up pays the remaining Rs. 10 lakh → **Rs. 15 lakh total**.
+**Correct: C)** — Wilful destruction of property and loss/damage due to normal wear and tear are generally not covered.
+- A), B) and D) are wrong — fire, theft and man-made disasters are exactly what property insurance covers.
 </details>
 
-**Q12.** Same setup as Q11, but with a TOP-UP plan. Total paid:
-A) Rs. 6 lakh  B) Rs. 15 lakh  C) Rs. 10 lakh  D) Rs. 8 lakh
+**Q12.** Valuables such as jewellery, art and antiques typically require:
+A) No cover at all  B) An add-on or separate insurance policy  C) Only third-party cover  D) A keyman policy
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Threshold applies per claim. Base pays Rs. 5 lakh; only the Rs. 6 lakh claim crosses the Rs. 5 lakh per-claim threshold (paying Rs. 1 lakh from the top-up). The Rs. 3, 2 and 4 lakh claims are each below the threshold → nothing. Total = **Rs. 6 lakh**.
+**Correct: B)** — These valuables typically require an add-on or separate insurance policy beyond the standard property cover.
+- A) is wrong — they can be covered, just not by the base policy automatically.
+- C) and D) are wrong — third-party and keyman covers are unrelated to insuring household valuables.
 </details>
 
-**Q13.** With an employer health policy plus your own, the contribution clause applies only when:
-A) Always  B) Never  C) The claim exceeds the sum insured of the chosen policy  D) The premiums are equal
+**Q13.** Property insurance is normally taken along with a:
+A) Travel booking  B) Home loan, as the lender insists on it  C) Motor policy  D) Critical illness policy
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — You choose which insurer to claim from. If the claim is within that policy's sum insured, **no contribution**. Only if the claim **exceeds** it do you use another policy and apply contribution.
+**Correct: B)** — Such policies are normally taken along with a home loan because the lender insists on the borrower taking it.
+- A), C) and D) are wrong — none of these is the context the workbook gives for property insurance.
 </details>
 
-**Q14.** Multiple defined-benefit policies (e.g., several life or accidental death policies):
-A) Pay only the largest one  B) Apply contribution  C) All pay in full  D) Are not allowed
+**Q14.** Health insurance claims are typically allowed for:
+A) Cosmetic procedures only  B) "In-patient" and domiciliary treatments per policy terms  C) Routine dental check-ups only  D) Any expense without limit
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Defined-benefit policies **all pay** regardless of how many the insured holds, because there is no actual loss to measure or cap.
+**Correct: B)** — Claims are typically allowed only for "in-patient" treatments and domiciliary treatments, according to the terms of the policy (plus day-care for some procedures).
+- A) and C) are wrong — these are not the stated claimable categories.
+- D) is wrong — claims are subject to the sum insured and sub-limits, not unlimited.
 </details>
 
-**Q15.** "Restore" benefit in health insurance refills the sum insured to 100%:
-A) Only when fully exhausted  B) On partial OR full exhaustion  C) Only on renewal  D) Never
+**Q15.** An "in-patient" is a patient who:
+A) Is treated only at home  B) Is admitted in a hospital requiring at least overnight or 24 hours of stay  C) Visits the OPD briefly  D) Buys medicines from a pharmacy
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Restore** refills on **partial or full** exhaustion. (Recharge refills only when the sum insured is reduced due to a claim.)
+**Correct: B)** — An in-patient is one admitted in a hospital for treatment requiring at least overnight or 24 hours of stay.
+- A) is wrong — home treatment is "domiciliary".
+- C) and D) are wrong — brief OPD visits and pharmacy purchases are not in-patient hospitalisation.
 </details>
 
-**Q16.** An "in-patient" in health insurance generally means a patient admitted for at least:
-A) 6 hours  B) 12 hours  C) Overnight or 24 hours  D) 48 hours
+**Q16.** "Domiciliary treatment" means:
+A) Treatment at a foreign hospital  B) Patients treated at home when not in a condition to be moved to hospital  C) Treatment only for accidents  D) Day-care surgery
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — In-patient treatment requires at least an **overnight or 24-hour** hospital stay. Day-care procedures (released same day) are now also covered by many policies.
+**Correct: B)** — Domiciliary treatment is when patients are treated at home because they are not in a condition to be moved to the hospital.
+- A) is wrong — location abroad is a separate "global coverage" issue.
+- C) is wrong — domiciliary is not accident-specific.
+- D) is wrong — day-care is a distinct category for procedures that need hospitalisation but allow same-day release.
 </details>
 
-**Q17.** Does a standard Indian health insurance (indemnity) policy normally cover hospitalisation OUTSIDE India?
-A) Yes, always  B) No — usually India only  C) Only in the USA  D) Only for defined-benefit claims
+**Q17.** Why do many health policies now cover "day care treatment"?
+A) Because hospitals charge less  B) Because advancement of technology lets the insured be released the same day for certain procedures needing hospitalisation  C) Because it is legally compulsory  D) Because the term is 3 years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Indemnity health policies normally cover **India only**, because verifying foreign expenses is difficult. **Overseas travel policies** are the indemnity exception, designed country-by-country.
+**Correct: B)** — Day-care treatment covers certain procedures which require hospitalisation but, due to advancement of technology, allow the insured to be released the same day.
+- A), C) and D) are wrong — none is the reason given in the workbook for day-care cover.
 </details>
 
-**Q18.** A resident Indian can buy a foreign insurance policy using the LRS up to:
-A) USD 1,00,000 per annum  B) USD 2,50,000 per annum  C) USD 5,00,000 per annum  D) Unlimited
+**Q18.** The "cashless facility" in health insurance means:
+A) The insurer pays cash to the insured upfront  B) Bills are directly settled with the hospital and the insured need not pay upfront, up to the approved sum  C) No premium is charged  D) Claims are paid only after the policy ends
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The **Liberalised Remittance Scheme** allows up to **USD 2,50,000 per annum**. Foreign-country rules govern those policies and their grievance redressal, so caution is needed.
+**Correct: B)** — Under the cashless facility, bills are settled directly with the hospital and the insured is not required to pay upfront, up to the sum approved for this facility.
+- A) is wrong — the insurer pays the hospital, not cash to the insured.
+- C) and D) are wrong — premiums are still charged and claims are settled during the policy, not after it ends.
 </details>
 
-**Q19.** Which is correctly matched?
-A) Professional indemnity → fidelity insurance  B) Employee fraud → liability insurance  C) Directors' personal liability → D&O insurance  D) Company insuring a key person → fidelity insurance
+**Q19.** A "family floater" policy:
+A) Covers only the eldest member  B) Covers multiple family members under the same policy up to the sum insured  C) Is a defined benefit policy  D) Covers only travel risks
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — **D&O insurance** covers directors'/officers' personal liability for wrongful acts. Professional indemnity is **liability** insurance; employee fraud is **fidelity**; insuring a key person is **Keyman**.
+**Correct: B)** — A family floater policy covers multiple family members under the same policy up to the sum insured.
+- A) is wrong — it covers multiple members, not just one.
+- C) is wrong — health insurance (including floaters) is an indemnity policy.
+- D) is wrong — it is health cover, not travel cover.
 </details>
 
-**Q20.** As health insurance cover increases (e.g., from Rs. 50 lakh to Rs. 100 lakh), the premium per extra lakh of cover:
-A) Rises sharply  B) Stays constant  C) Drops sharply and becomes almost negligible  D) Doubles
+**Q20.** Under health insurance portability, what can be transferred when switching insurers?
+A) The premium already paid  B) Benefits of no-claim, bonus and time-bound exclusions for existing conditions  C) The hospital network only  D) Nothing
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — The premium per additional lakh **drops significantly** as cover rises; a Rs. 100-lakh policy may cost only a few thousand rupees more than a Rs. 50-lakh one — so higher cover is often very cost-effective.
+**Correct: B)** — Portability lets the benefits of no-claim, bonus and time-bound exclusions for existing conditions be transferred when the insured switches insurer — provided the previous policy was maintained without a break.
+- A) is wrong — paid premium is not transferred.
+- C) is wrong — the network is not what portability transfers.
+- D) is wrong — portability exists precisely so credits are not lost.
 </details>
 
----
+**Q21.** Which type of motor insurance is COMPULSORY in India?
+A) Own-damage cover  B) Theft cover  C) Third-party liability insurance  D) Zero-depreciation cover
+<details><summary>Answer & Explanation</summary>
 
-## 🧩 Case Study
-
-**Scenario:** Meera, 34, has an **employer group health policy with a sum insured of Rs. 5,00,000**. To boost her cover she buys a **Super Top-up policy of Rs. 10,00,000 with a deductible (threshold) of Rs. 5,00,000**, from the same insurer. During the year she has **three hospitalisations**: Claim 1 = **Rs. 4,00,000**, Claim 2 = **Rs. 4,00,000**, Claim 3 = **Rs. 3,00,000** (total Rs. 11,00,000). She also has a standalone **critical illness policy of Rs. 20,00,000** and is later diagnosed with cancer.
-
-**Q1.** How is Claim 1 (Rs. 4,00,000) settled?
-<details><summary>Answer</summary>
-
-- The base (employer) plan has Rs. 5,00,000. Claim 1 of Rs. 4,00,000 is **paid fully from the base plan**.
-- Base plan balance left = Rs. 1,00,000.
-- Aggregate threshold "used" so far for the super top-up = Rs. 4,00,000 (out of the Rs. 5,00,000 deductible). The super top-up insurer should be **informed** even though it pays nothing yet, so it can mark the threshold used.
+**Correct: C)** — Third-party liability insurance is compulsory; no motor vehicle can be used in a public place without it. Insurance against own damage or theft is not compulsory.
+- A), B) and D) are wrong — own-damage, theft and zero-depreciation covers are optional.
 </details>
 
-**Q2.** How is Claim 2 (Rs. 4,00,000) settled?
-<details><summary>Answer</summary>
+**Q22.** The car "No Claim" bonus can go up to what percentage of the premium?
+A) 10%  B) 25%  C) 50% after 5 claim-free years  D) 100%
+<details><summary>Answer & Explanation</summary>
 
-- Base plan has only Rs. 1,00,000 left → pays **Rs. 1,00,000** (base now exhausted).
-- Remaining Rs. 3,00,000 of this claim goes to the super top-up. But first the **balance threshold** must be met: Rs. 5,00,000 deductible − Rs. 4,00,000 already applied = **Rs. 1,00,000** balance threshold.
-- So Rs. 1,00,000 is absorbed by the remaining threshold; the super top-up then pays **Rs. 3,00,000 − Rs. 1,00,000 = Rs. 2,00,000**.
-- Aggregate threshold now fully applied = Rs. 5,00,000. Super top-up balance left = Rs. 10,00,000 − Rs. 2,00,000 = **Rs. 8,00,000**.
+**Correct: C)** — NCB can go up to 50% of the (own-damage) premium where no claims have been made for 5 years.
+- A) and B) are wrong — these understate the maximum.
+- D) is wrong — there is no 100% discount; the cap is 50%.
 </details>
 
-**Q3.** How is Claim 3 (Rs. 3,00,000) settled, and what is the total paid across all three claims?
-<details><summary>Answer</summary>
+**Q23.** The car "No Claim" bonus is attached to:
+A) The car  B) The insured person, not the car  C) The insurer  D) The registration plate
+<details><summary>Answer & Explanation</summary>
 
-- Base plan is exhausted (Rs. 0 left).
-- The full Rs. 5,00,000 threshold has **already been applied**, so the entire Claim 3 of **Rs. 3,00,000 is paid by the super top-up**.
-- Super top-up balance left = Rs. 8,00,000 − Rs. 3,00,000 = Rs. 5,00,000.
-
-**Total paid:** Base Rs. 5,00,000 (Rs. 4,00,000 + Rs. 1,00,000) + Super top-up Rs. 5,00,000 (Rs. 2,00,000 + Rs. 3,00,000) = **Rs. 10,00,000** out of Rs. 11,00,000 claimed. (The Rs. 1,00,000 gap is the part of the threshold not covered by the base plan that Meera bears.)
+**Correct: B)** — The NCB is available to the insured person and is *not* attached to the car. So a buyer of a used car gets no NCB, while the original owner can transfer the NCB to a new car they buy.
+- A), C) and D) are wrong — the bonus follows the person, not the vehicle, the insurer, or the plate.
 </details>
 
-**Q4.** If Meera had instead bought a plain TOP-UP plan (threshold applied per claim) with the same Rs. 5,00,000 threshold, would the super top-up have been better? Explain.
-<details><summary>Answer</summary>
+**Q24.** Personal accident insurance pays when the insured sustains bodily injury caused by:
+A) Any illness  B) External, violent and visible means, solely and directly from an accident  C) Old age  D) A pre-existing disease
+<details><summary>Answer & Explanation</summary>
 
-Yes — a Super Top-up is far better here. With a **Top-up** the Rs. 5,00,000 threshold applies to **each individual claim**:
-- Claim 1 (Rs. 4 lakh): below the per-claim threshold → **nothing** from the top-up (base pays Rs. 4 lakh).
-- Claim 2 (Rs. 4 lakh): below the per-claim threshold → nothing from top-up (base pays Rs. 1 lakh left).
-- Claim 3 (Rs. 3 lakh): below the per-claim threshold → nothing.
-
-A top-up would pay almost nothing beyond the base, because each claim individually stays under Rs. 5 lakh. The **Super Top-up applies the threshold once on the aggregate**, so it pays the additional Rs. 5,00,000. This is exactly why super top-ups are preferred for people with employer base cover.
+**Correct: B)** — It pays if the insured sustains bodily injury resulting solely and directly from an accident caused by external, violent and visible means.
+- A), C) and D) are wrong — illness, old age and disease are not accidents by external violent visible means.
 </details>
 
-**Q5.** Meera is diagnosed with cancer and survives the required period. Does her critical illness policy pay, and how does it interact with the health policies?
-<details><summary>Answer</summary>
+**Q25.** Which disablement type is NOT listed as covered under personal accident insurance?
+A) Permanent total disablement  B) Permanent partial disablement  C) Temporary total disablement  D) Temporary partial disablement
+<details><summary>Answer & Explanation</summary>
 
-- The **critical illness policy is a defined-benefit policy**: it pays the **full lump sum of Rs. 20,00,000** on diagnosis of a covered illness, provided she **survives the minimum period (typically 30 days)** after diagnosis.
-- It is **independent** of the health policies — there is **no contribution** between defined-benefit and indemnity policies. The health policies separately reimburse her actual hospitalisation expenses (subject to their limits), while the critical illness lump sum is paid **regardless** and can be used for **any purpose** (income replacement, repaying a loan, expenses not covered by health insurance).
-- 💡 This shows why critical illness cover should be sized like life cover — as income replacement — not just as a small add-on.
+**Correct: D)** — The workbook lists permanent total, permanent partial and temporary total disablement. "Temporary partial disablement" is not in the list.
+- A), B) and C) are wrong as answers because they ARE the three listed covered types.
 </details>
+
+**Q26.** Critical illness insurance pays:
+A) A reimbursement of actual hospital bills  B) A lump sum benefit if the insured contracts certain specified diseases  C) A payment on death  D) A monthly pension
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — It provides a lump-sum benefit if the insured contracts specified diseases such as cancer, heart attack, stroke, kidney failure or multiple sclerosis.
+- A) is wrong — that describes indemnity health insurance.
+- C) is wrong — unlike life insurance, there is no payment on death.
+- D) is wrong — it is a lump sum, not a pension.
+</details>
+
+**Q27.** Critical illness reimbursement is usually subject to a minimum survival period of:
+A) 7 days  B) 15 days  C) 30 days after diagnosis  D) 90 days
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Reimbursement is usually subject to a minimum survival period of 30 days after diagnosis of the critical illness.
+- A), B) and D) are wrong — 30 days is the figure stated (the comparison table notes a 15–30 day range, with 30 commonly used).
+</details>
+
+**Q28.** Overseas travel insurance typically provides cover in the form of:
+A) A lump sum on death only  B) Reimbursement up to the maximum amount mentioned in the policy  C) Unlimited payment  D) A monthly income
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Travel insurance provides medical, financial and other assistance during international travel as reimbursement up to the maximum amount mentioned in the policy.
+- A), C) and D) are wrong — it is capped reimbursement, not a death lump sum, unlimited, or income.
+</details>
+
+**Q29.** Liability insurance does NOT cover:
+A) Damages for negligence under common law  B) Legal defence costs  C) Intentional damage or damages from criminal activities  D) No-fault statutory liability
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Liability insurance will not cover intentional damage or damages caused due to criminal activities.
+- A), B) and D) are wrong — negligence (common law), defence costs, and no-fault statutory liability ARE within the scope of liability cover.
+</details>
+
+**Q30.** The most common example of liability insurance is:
+A) Keyman insurance  B) Professional indemnity plans taken by doctors, lawyers or investment advisers  C) Property insurance  D) Travel insurance
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The most common example is professional indemnity plans taken by professionals like Doctors, Lawyers or Investment Advisers.
+- A), C) and D) are wrong — these are distinct product categories, not the cited example of liability insurance.
+</details>
+
+**Q31.** Fidelity insurance covers:
+A) Losses to an employer from an employee's forgery, fraud or dishonesty  B) The employee's medical bills  C) Directors' personal liability  D) Vehicle damage
+<details><summary>Answer & Explanation</summary>
+
+**Correct: A)** — A fidelity insurance policy covers losses sustained by the employer as a result of an act of forgery, fraud or dishonesty from an employee (loss of money or goods).
+- B) is wrong — that is health insurance for the employee.
+- C) is wrong — that is D&O liability insurance.
+- D) is wrong — that is motor insurance.
+</details>
+
+**Q32.** Directors & Officers (D&O) liability insurance protects the board/management against:
+A) Loss of company property  B) Personal liability and defence costs from claims alleging a wrongful act in their duties  C) Employee fraud  D) Vehicle theft
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — D&O insurance insures directors, management and supervisory/managerial employees against personal liability and defence costs from claims alleging they committed a wrongful act in the line of their duties.
+- A) is wrong — property loss is property insurance.
+- C) is wrong — employee fraud is fidelity insurance.
+- D) is wrong — vehicle theft is motor insurance.
+</details>
+
+**Q33.** In keyman insurance:
+A) The key executive is the beneficiary  B) The company buys a life policy on a key executive, is the beneficiary, and pays the premiums  C) It is an indemnity health policy  D) The government pays the premium
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Keyman insurance is a life insurance policy a company purchases to cover itself against the loss of life of a key executive; the company is the beneficiary and pays the premiums.
+- A) is wrong — the company, not the executive, is the beneficiary.
+- C) is wrong — it is a *life* policy, not indemnity health.
+- D) is wrong — the company pays, not the government.
+</details>
+
+**Q34.** Critical illness insurance is currently available:
+A) Only as a government scheme  B) Either with life insurance policies or as standalone policies  C) Only as a property add-on  D) Only abroad
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Critical illness cover is currently available either with life insurance policies or as standalone policies.
+- A), C) and D) are wrong — it is not a government scheme, not a property add-on, and not foreign-only.
+</details>
+
+**Q35.** Liability under liability insurance may arise under:
+A) Only common law (negligence)  B) Only statutory law  C) Common law on the basis of negligence OR statutory law on a no-fault basis  D) Neither; only contracts
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Legal liability may arise under common law on the basis of negligence, or under statutory law on a no-fault basis (i.e. even when there is no negligence).
+- A) and B) are wrong — they capture only half the picture.
+- D) is wrong — both common law and statutory bases are explicitly stated.
+</details>
+</content>

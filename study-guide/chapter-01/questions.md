@@ -1,199 +1,319 @@
-# Chapter 1: Basics of Insurance — Questionnaire
+# Chapter 1: Basics of Insurance — 100 MCQ Question Bank
 
-## 📝 Multiple Choice Questions
+> Questions are arranged in three tiers — 🟢 Tier 1 (Easy recall), 🟡 Tier 2 (Medium application), 🔴 Tier 3 (Hard numerical & scenario). Attempt them honestly: the NISM exam carries **25% negative marking**, so a wrong guess costs you 0.25 of a mark — when unsure, reason it out before answering.
 
-**Q1.** Which of the following is NOT a requirement for a risk to be insurable?
-A) Large number of exposure units  B) Loss must be accidental and unintentional  C) The risk should offer a prospect of gain or profit  D) The chance of loss must be calculable
+## 🟢 Tier 1 — Easy: Recall (Q1–Q35)
+
+**Q1.** Insurance is best described as a basic form of what?
+A) Tax planning  B) Risk management  C) Wealth creation  D) Estate distribution
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — An insurable risk must be **pure risk** (loss only, no chance of profit). A risk with a prospect of gain is **speculative** (like the stock market) and is NOT insurable. A, B and D are all genuine requirements.
+**Correct: B)** — The workbook defines insurance as "a basic form of risk management that provides protection against the loss of the economic benefits that can be enjoyed from assets."
+- A) Wrong: tax benefits may follow but are not the definition.
+- C) Wrong: insurance protects value, it does not primarily create wealth.
+- D) Wrong: estate distribution relates to wills/nomination, not the core definition.
 </details>
 
-**Q2.** In the merchant-ship example, if only 40 of the 100 merchants agree to pay the premium, what does each have to pay?
-A) Rs. 20,000  B) Rs. 30,000  C) Rs. 50,000  D) Rs. 8,000
+**Q2.** In the merchant ships example, what was the sum assured per ship?
+A) Rs. 20,000  B) Rs. 2,00,000  C) Rs. 10,00,000  D) Rs. 20,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Total loss to be covered is Rs. 20,00,000. Spread over 40 merchants: 20,00,000 ÷ 40 = **Rs. 50,000**. Fewer people sharing → higher cost each. (Rs. 20,000 was the figure when all 100 participated.)
+**Correct: C)** — The loss to a merchant when a ship was lost was Rs. 10,00,000; that loss amount is the sum assured.
+- A) Wrong: Rs. 20,000 is the premium each merchant paid.
+- B) Wrong: not a figure in the example.
+- D) Wrong: Rs. 20,00,000 is the total fund/total monthly loss, not per ship.
 </details>
 
-**Q3.** Death is a *certain* event, yet life insurance works because:
-A) Insurers ignore the certainty  B) The timing of death is uncertain  C) Death rarely happens  D) It is a speculative risk
+**Q3.** In the merchant ships example, the premium paid by each merchant was:
+A) Rs. 20,000  B) Rs. 10,00,000  C) Rs. 50,000  D) Rs. 8,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Loss must normally be accidental/uncertain. The exception is life insurance: death is certain but the **time of death is uncertain**, which makes it insurable. C is false (everyone dies); D is wrong (it's pure risk, not speculative).
+**Correct: A)** — Each of the 100 merchants paid Rs. 20,000 into the fund (100 × Rs. 20,000 = Rs. 20,00,000).
+- B) Wrong: that is the sum assured per ship.
+- C) Wrong: Rs. 50,000 is the premium if only 40 merchants join.
+- D) Wrong: Rs. 8,000 is the premium in the King's employees example.
 </details>
 
-**Q4.** The principle that the insured must truthfully disclose all material facts is called:
-A) Insurable interest  B) Indemnity  C) Utmost good faith  D) Subrogation
+**Q4.** In the King's employees example, the additional premium per employee was Rs. 8,000, which equals what percentage of the annual salary of Rs. 2,00,000?
+A) 2%  B) 4%  C) 8%  D) 10%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — **Utmost Good Faith (Uberrimae Fidei)** addresses information asymmetry: the insured knows more, so must disclose everything material. A is the requirement of facing financial loss; B is "make good actual loss"; D is recovering from a third party.
+**Correct: B)** — Formula: percentage = (premium ÷ salary) × 100 = (8,000 ÷ 2,00,000) × 100 = 4%. The terms: premium = Rs. 8,000, salary = Rs. 2,00,000. Intuition: a small slice of pay buys protection for the whole family.
+- A), C), D) Wrong: only 8,000 ÷ 2,00,000 = 0.04 = 4%.
 </details>
 
-**Q5.** A lender's insurable interest in a borrower extends to:
-A) The borrower's entire net worth  B) The amount outstanding on the loan  C) Twice the loan amount  D) Nothing — lenders have no insurable interest
+**Q5.** The party that transfers risk and pays the premium is called the:
+A) Insurer  B) Insured  C) Broker  D) Surveyor
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A lender is financially harmed if the borrower can't repay, but only **up to the amount outstanding**. Beyond that, the lender suffers no loss, so no insurable interest exists.
+**Correct: B)** — Insurance enables risk transfer "from the beneficiary (Insured) to the insurance company (Insurer)." The insured pays the premium.
+- A) Wrong: the insurer receives the premium and bears the risk.
+- C) Wrong: a broker is an intermediary, not the risk-transferring party.
+- D) Wrong: a surveyor assesses losses.
 </details>
 
-**Q6.** Which of these is a DEFINED BENEFIT (not indemnity) policy?
-A) Mediclaim hospitalisation reimbursement  B) Car insurance  C) Property fire insurance  D) Critical illness lump-sum policy
+**Q6.** The periodic fee the insured pays to the insurer is called the:
+A) Claim  B) Premium  C) Sum assured  D) Deductible
 <details><summary>Answer & Explanation</summary>
 
-**Correct: D)** — A **critical illness** policy pays a fixed lump sum on diagnosis (loss of future income is hard to ascertain) → defined benefit. A, B and C all pay the **actual measured loss** → indemnity.
+**Correct: B)** — The insured "pays a periodic fee, called premium, to the Insurer to receive this protection."
+- A) Wrong: a claim is the amount paid out on a loss.
+- C) Wrong: the sum assured is the amount insured.
+- D) Wrong: a deductible is the portion the insured bears first.
 </details>
 
-**Q7.** The insurer pays your claim after a car accident, then recovers the money from the at-fault driver. This is:
-A) Contribution  B) Subrogation  C) Co-pay  D) Indemnity
+**Q7.** Which of the following is NOT one of the requirements of an insurable risk?
+A) Large number of exposure units  B) Insurable interest  C) Prospect of guaranteed profit  D) Loss must be accidental
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Subrogation**: the insurer steps into the insured's shoes to pursue the at-fault party. Contribution (A) is sharing across multiple policies; co-pay (C) is the insured's percentage share; indemnity (D) is the general "make good the loss" principle.
+**Correct: C)** — An insurable risk must have "No prospect of gain or profit" — it must be a pure risk. A guaranteed-profit prospect makes it speculative and uninsurable.
+- A), B), D) Wrong: these are all listed requirements of an insurable risk.
 </details>
 
-**Q8.** Two flood policies of Rs. 5 lakh each (Company A and B); the loss is Rs. 30,000. Under contribution, how much does each pay?
-A) Rs. 30,000 each  B) Rs. 15,000 each  C) Rs. 5,000 each  D) Rs. 10,000 each
+**Q8.** Which type of risk is NOT insurable because it can result in either gain or loss?
+A) Pure risk  B) Speculative risk  C) Fortuitous risk  D) Fundamental risk
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Both policies share the sum assured equally (5 lakh : 5 lakh), so each pays half of Rs. 30,000 = **Rs. 15,000**. The total can never exceed the actual loss (that's why contribution applies only to indemnity policies).
+**Correct: B)** — Speculative risk (e.g., investing in the stock market) can produce a gain or a loss, so it is not insurable. Only pure risk (loss-only) is insurable.
+- A) Wrong: pure risk is precisely what IS insurable.
+- C) Wrong: fortuitous means by chance — that supports insurability.
+- D) Wrong: not the term the workbook uses for this distinction.
 </details>
 
-**Q9.** A health policy has a co-pay of 20% and the claim is Rs. 1,50,000. How much does the insured pay?
-A) Rs. 20,000  B) Rs. 30,000  C) Rs. 1,20,000  D) Rs. 1,50,000
+**Q9.** The only insurable event that is certain to occur is:
+A) Fire  B) Theft  C) Death  D) Flood
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Co-pay is a percentage of the claim: 20% × 1,50,000 = **Rs. 30,000** (insured) and Rs. 1,20,000 (insurer). C is what the insurer pays, not the insured.
+**Correct: C)** — Death is the exception: the event is certain, but the *timing* is uncertain, which makes it insurable.
+- A), B), D) Wrong: fire, theft and flood are uncertain events, not certain ones.
 </details>
 
-**Q10.** A car policy has a deductible of Rs. 1,000 and the claim is Rs. 25,000. The insurer pays:
-A) Rs. 25,000  B) Rs. 1,000  C) Rs. 24,000  D) Rs. 26,000
+**Q10.** "Uberrimae Fidei" refers to which fundamental principle of insurance?
+A) Insurable interest  B) Utmost good faith  C) Indemnity  D) Subrogation
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — A deductible is a flat amount the insured bears first: 25,000 − 1,000 = **Rs. 24,000**. The Rs. 1,000 compulsory deductible applies to cars with engines up to 1600 CC.
+**Correct: B)** — Uberrimae Fidei is Latin for "utmost good faith," requiring the insured to disclose all material information truthfully.
+- A) Wrong: insurable interest is a separate principle.
+- C) Wrong: indemnity is a concept about restoring loss, not a Latin disclosure principle.
+- D) Wrong: subrogation is about recovery from a third party.
 </details>
 
-**Q11.** Policy 1 has a deductible of Rs. 1,000 and co-pay 10%; Policy 2 has only a deductible of Rs. 5,000. For a Rs. 40,000 claim, which pays more?
-A) Policy 1 (Rs. 35,100)  B) Policy 2 (Rs. 35,000)  C) Both equal  D) Policy 2 (Rs. 35,100)
+**Q11.** Information asymmetry in insurance means:
+A) The insurer knows more than the insured  B) The insured knows more about himself than the insurer  C) Both know exactly the same  D) Neither party has information
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Policy 1: 40,000 − 1,000 = 39,000; less 10% (3,900) = **Rs. 35,100**. Policy 2: 40,000 − 5,000 = **Rs. 35,000**. So Policy 1 pays slightly more here.
+**Correct: B)** — "Since the insured is better informed about himself or herself than the insurer, there is an information asymmetry." This is why utmost good faith matters.
+- A) Wrong: it is the reverse.
+- C) Wrong: if they knew the same, there would be no asymmetry.
+- D) Wrong: the insured certainly has information about himself.
 </details>
 
-**Q12.** The "Beneficial Nominee" concept (a nominee who keeps the money as owner) was introduced by which section/amendment?
-A) Section 45, 2015  B) Section 39(7), Insurance Act 1938 (amended Feb 2015)  C) Section 80C  D) IRDAI 2024 circular
+**Q12.** A typical screening process used by insurers before issuing a policy is a:
+A) Credit score check  B) Medical test  C) Background police check  D) Income tax audit
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Section 39(7)** of the Insurance Act 1938 (amended February 2015) makes spouse/parent/children beneficially entitled, not trustees. Section 45 (A) is the 3-year non-questioning rule — different provision.
+**Correct: B)** — "Medical test is a typical screening process," though it has limitations (it cannot reveal all ailments or family history).
+- A), C), D) Wrong: not cited as the typical screening process in the workbook.
 </details>
 
-**Q13.** Under Section 45, after how long can a life insurance death claim NOT be denied on any ground?
-A) 1 year  B) 2 years  C) 3 years  D) 5 years
+**Q13.** The test of insurable interest is that the insured should be:
+A) Worse off if the risk does not materialise  B) Better off if the risk does materialise  C) Better off if the risk does not materialise and worse off if it does  D) Unaffected either way
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — After **3 years** (from policy/risk start or revival, whichever later) the claim cannot be questioned. During those 3 years it can be repudiated/cancelled only for **fraud**.
+**Correct: C)** — "The insured should be better off if the risk does not materialise but will be adversely affected if the risk materialises."
+- A), B) Wrong: these reverse the logic.
+- D) Wrong: if unaffected, there is no insurable interest.
 </details>
 
-**Q14.** The health-insurance moratorium period after which claims become non-contestable (except fraud/permanent exclusions) is:
-A) 3 continuous years  B) 4 continuous years  C) 5 continuous years  D) 7 continuous years
+**Q14.** A lender has insurable interest in a borrower:
+A) For the borrower's full net worth  B) To the extent of the amount outstanding  C) Only if they are related by blood  D) Never
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — **5 continuous years** of unbroken premiums. If the sum insured is later enhanced, the 5 years restart for the enhanced portion.
+**Correct: B)** — "Lender has insurable interest in the borrower to the extent of the amount outstanding."
+- A) Wrong: only up to the outstanding amount, not full net worth.
+- C) Wrong: a blood relationship is not required for a lender.
+- D) Wrong: lenders clearly have insurable interest.
 </details>
 
-**Q15.** What is the lock-in period for a ULIP?
+**Q15.** Indemnity is defined as:
+A) A fixed sum paid on a covered event  B) A duty to make good any loss, damage, or liability incurred by another  C) The right to recover from a third party  D) The proportion of claim the insured bears
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Indemnity is "a duty to make good any loss, damage, or liability incurred by another."
+- A) Wrong: that describes benefit insurance.
+- C) Wrong: that is subrogation.
+- D) Wrong: that is co-pay.
+</details>
+
+**Q16.** Which of the following is an example of a defined benefit (not indemnity) policy?
+A) Health hospitalisation reimbursement  B) Car insurance  C) Life insurance policy  D) Property fire insurance
+<details><summary>Answer & Explanation</summary>
+
+**Correct: C)** — Life insurance pays a pre-fixed sum on death without ascertaining the exact actual loss, so it is a defined benefit policy.
+- A), B), D) Wrong: these are indemnity policies because the actual loss is ascertainable from bills/repair costs.
+</details>
+
+**Q17.** A daily hospital cash benefit paying a specified sum per day of hospitalisation is classified as:
+A) Indemnity  B) Defined benefit  C) Subrogation  D) Contribution
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — The loss (attendant expenses, travel, lost wages) is small or hard to ascertain, so a fixed daily amount is a defined benefit.
+- A) Wrong: the main hospitalisation reimbursement is indemnity, but the daily cash portion is benefit.
+- C), D) Wrong: these are unrelated concepts.
+</details>
+
+**Q18.** When the insurer "steps into the shoes" of the insured to recover from the party at fault, this is called:
+A) Contribution  B) Subrogation  C) Indemnity  D) Co-pay
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Subrogation means the insurer, after paying the claim, takes over the insured's right to pursue the at-fault party.
+- A) Wrong: contribution is about sharing among multiple insurers.
+- C) Wrong: indemnity is about making good the loss.
+- D) Wrong: co-pay is the insured's share of the claim.
+</details>
+
+**Q19.** A policy WITHOUT subrogation rights for the insurer would be:
+A) Cheaper for the insured  B) More expensive for the insured  C) The same price  D) Illegal
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — "A policy without Subrogation rights for the insurer would be more expensive for the insured person," because the insurer loses the chance to recover its losses.
+- A), C) Wrong: losing recovery rights raises cost.
+- D) Wrong: it is not illegal, merely costlier.
+</details>
+
+**Q20.** The concept of contribution applies only to which type of policy?
+A) Benefit policies  B) Indemnity policies  C) Life insurance  D) Annuities
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Contribution applies only to indemnity policies because the loss amount is ascertainable and total claims cannot exceed the actual loss.
+- A), C), D) Wrong: benefit/life/annuity payouts are fixed sums, so contribution does not apply.
+</details>
+
+**Q21.** Co-pay is best defined as:
+A) The flat amount paid before a claim becomes admissible  B) The proportion of the claim amount met by the insured person  C) The premium discount for going electronic  D) A reinsurance arrangement
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — "Co-Pay is the proportion of the claim amount that will be met by the insured person."
+- A) Wrong: that describes a deductible.
+- C) Wrong: that is the E-Insurance discount.
+- D) Wrong: reinsurance is unrelated.
+</details>
+
+**Q22.** The relationship between co-pay and premium is:
+A) Higher co-pay → higher premium  B) Higher co-pay → lower premium  C) No relationship  D) Co-pay eliminates premium
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — "Higher the co-pay, lower will be the premium," because the insured bears more of the eventual claim.
+- A) Wrong: it is the inverse relationship.
+- C), D) Wrong: there is a clear inverse relationship; premium is not eliminated.
+</details>
+
+**Q23.** A deductible is:
+A) The percentage of the claim the insured bears  B) The portion of the claim paid by the insured after which the claim becomes admissible  C) A bonus for no claims  D) The insurer's profit margin
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — "Deductible is that portion of the claim that is paid by the insured person after which the claim becomes admissible."
+- A) Wrong: that is co-pay (a percentage).
+- C) Wrong: that is no-claim bonus.
+- D) Wrong: not a definition of deductible.
+</details>
+
+**Q24.** In India, the compulsory deductible for cars with an engine capacity up to 1600 CC is:
+A) Rs. 500  B) Rs. 1,000  C) Rs. 2,000  D) Rs. 5,000
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — "Car insurance in India has a compulsory deductible of Rs. 1,000 for cars with an engine capacity of upto 1600 CC."
+- A), C), D) Wrong: not the figure stated in the workbook.
+</details>
+
+**Q25.** The two types of health insurance deductibles are:
+A) Fixed and floating  B) Compulsory and voluntary  C) Direct and indirect  D) Standard and premium
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Health insurance deductibles are of two types: compulsory deductible and voluntary deductible.
+- A), C), D) Wrong: not the classification used by the workbook.
+</details>
+
+**Q26.** Under the Insurance Act, 1938, the concept of "Beneficial Nominee" was introduced by an amendment in:
+A) February 2013  B) February 2015  C) September 2018  D) May 2024
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — "The Insurance Act, 1938 was amended in February 2015 to introduce the concept of 'Beneficial Nominee'."
+- A), C), D) Wrong: not the amendment date for beneficial nominee.
+</details>
+
+**Q27.** The "Beneficial Nominee" provision is found in which section of the Insurance Act, 1938?
+A) Section 45  B) Section 39(7)  C) Section 64  D) Section 2(9)
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Section 39(7) makes parent, spouse, or children beneficially entitled to the policy amount.
+- A) Wrong: Section 45 is the 3-year non-contestability rule.
+- C) Wrong: not cited.
+- D) Wrong: Section 2(9) defines an insurer/mono-line insurer.
+</details>
+
+**Q28.** Under Section 45 of the Insurance Act, 1938, a life insurance policy cannot be called into question after how many years?
+A) 2 years  B) 3 years  C) 5 years  D) 10 years
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Section 45 provides that no life insurance policy can be called into question 3 years from the date of the policy (or risk commencement/revival, whichever later).
+- A), C), D) Wrong: the period is 3 years.
+</details>
+
+**Q29.** During the first 3 years, a life insurance claim can still be denied or the policy cancelled on grounds of:
+A) Late premium  B) Fraud  C) Change of address  D) Job change
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — Within the 3-year window, a claim can be repudiated or the policy cancelled "on grounds of fraud."
+- A), C), D) Wrong: these are not the stated ground for denial within the 3-year period.
+</details>
+
+**Q30.** The moratorium period applied in health insurance policies is:
+A) 3 continuous years  B) 5 continuous years  C) 8 continuous years  D) 10 continuous years
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — "A moratorium period, which is 5 continuous years, is applied in health insurance policies." After this, claims are not contestable except for proven fraud and permanent exclusions.
+- A), C), D) Wrong: the moratorium is 5 years.
+</details>
+
+**Q31.** According to the workbook, in personal finance, insurance comes:
+A) After investments  B) Before investments  C) Only after retirement  D) Only for the wealthy
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — "Insurance comes before Investments," illustrated by the cricket protective-gear analogy.
+- A), C), D) Wrong: protection must come first, regardless of wealth or age.
+</details>
+
+**Q32.** ULIP benefit illustrations must show two scenarios of interest at:
+A) 2% and 6%  B) 4% and 8%  C) 5% and 10%  D) 6% and 12%
+<details><summary>Answer & Explanation</summary>
+
+**Correct: B)** — "Insurers must provide benefit illustrations giving two scenarios of interest – at 4% and at 8%."
+- A), C), D) Wrong: the prescribed rates are 4% and 8%.
+</details>
+
+**Q33.** The lock-in period for ULIPs is:
 A) 3 years  B) 5 years  C) 7 years  D) 10 years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **5 years**, reflecting the long-term protection function. Benefit illustrations must show 4% and 8% scenarios, and a lapsed ULIP can be revived within 3 years.
+**Correct: B)** — "The lock-in period is 5 years to reflect the long-term, protection function of the policy."
+- A), C), D) Wrong: ULIP lock-in is 5 years.
 </details>
 
-**Q16.** When a bank acts as the corporate agent of an insurance company, the arrangement is called:
-A) Reinsurance  B) Bancassurance  C) Web aggregation  D) Direct broking
+**Q34.** A lapsed ULIP can be revived within what period from the date of lapsation?
+A) 1 year  B) 2 years  C) 3 years  D) 5 years
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Bancassurance**. Reinsurance (A) is insurers transferring risk to reinsurers; a web aggregator (C) compares products online; a direct broker (D) represents the client.
+**Correct: C)** — "A lapsed ULIP can be revived within a period of 3 years from the date of lapsation."
+- A), B), D) Wrong: the revival window is 3 years.
 </details>
 
-**Q17.** A composite Corporate Agent can work with a maximum of how many insurers?
-A) 1 life + 1 general + 1 health  B) 2 each  C) 3 life + 3 general + 3 health  D) Unlimited
+**Q35.** When a bank becomes the corporate agent of an insurance company, the arrangement is called:
+A) Reinsurance  B) Bancassurance  C) Web aggregation  D) Composite broking
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — **3 life + 3 general + 3 health**. (Option A describes a composite *individual* insurance agent's limit — one per line.)
-</details>
-
-**Q18.** An IRDAI-registered insurance agent who advises ONLY on insurance products is:
-A) Fully covered by SEBI IA Regulations, 2013  B) Exempt from SEBI IA Regulations, 2013  C) Banned from advising  D) Required to register with SEBI
-<details><summary>Answer & Explanation</summary>
-
-**Correct: B)** — Such an agent is **exempt** from the SEBI (Investment Advisers) Regulations, 2013. Only if they also advise on **non-insurance** securities/investments do IA regulations (risk profiling, suitability, fiduciary duty) kick in.
-</details>
-
-**Q19.** Which is a correct order of priority in personal finance, per the cricket analogy?
-A) Investments before insurance  B) Insurance before investments  C) They are equal  D) Neither matters
-<details><summary>Answer & Explanation</summary>
-
-**Correct: B)** — Like a batsman wearing protective gear before batting, **insurance (protection) comes before investments**. One uncovered event could derail the whole financial plan.
-</details>
-
-**Q20.** From which date are individual health insurance/reinsurance policies exempt from GST?
-A) April 1, 2023  B) February 1, 2021  C) September 22, 2025  D) May 29, 2024
-<details><summary>Answer & Explanation</summary>
-
-**Correct: C)** — **September 22, 2025**. (Feb 1, 2021 relates to ULIP tax rules; April 1, 2023 to traditional-policy taxation; May 29, 2024 is the date of the IRDAI Health Master Circular.)
-</details>
-
----
-
-## 🧩 Case Study
-
-**Scenario:** Ravi owns a small garment shop. He has two health insurance policies covering the *same* family: an **employer group policy** with sum insured **Rs. 5,00,000** and his **own individual policy** with sum insured **Rs. 8,00,000**. His individual policy has a **co-pay of 10%** and a **deductible of Rs. 1,000**. During the year, his wife is hospitalised and the ascertained bill is **Rs. 4,40,000**. Separately, Ravi recently took a life insurance policy and named his wife as the sole nominee; he died in a road accident caused by another driver 8 months later.
-
-**Q1.** Ravi wants to claim the hospital bill. From which policy should he claim first, and does the contribution clause apply?
-<details><summary>Answer</summary>
-
-He should claim from the **employer group policy first** (normally chosen first). The bill is Rs. 4,40,000. The employer policy's sum insured is Rs. 5,00,000.
-
-- Since the claim (Rs. 4,40,000) is **less than** the chosen policy's sum insured (Rs. 5,00,000), the chosen insurer **cannot invoke the contribution clause**. The full eligible amount is paid by that one insurer.
-- Contribution would only apply if the claim **exceeded** Rs. 5,00,000, forcing him to draw on the second policy.
-
-So the **employer policy pays the full Rs. 4,40,000** and contribution does not apply.
-</details>
-
-**Q2.** Suppose instead the claim had been from his **individual policy** (co-pay 10%, deductible Rs. 1,000) on a bill of Rs. 4,40,000. Calculate what the insurer pays.
-<details><summary>Answer</summary>
-
-Apply deductible first, then co-pay on the balance:
-1. Bill: Rs. 4,40,000
-2. Less deductible Rs. 1,000 → Rs. 4,39,000
-3. Co-pay 10% of Rs. 4,39,000 = Rs. 43,900 (Ravi's share)
-4. Insurer pays = 4,39,000 − 43,900 = **Rs. 3,95,100**
-
-Ravi's total out-of-pocket = Rs. 1,000 + Rs. 43,900 = **Rs. 44,900**.
-</details>
-
-**Q3.** After the hospital claim, Ravi's wife is upset the cashless facility was slow and the hospital asked for a deposit. Is this normal, and what should Ravi know?
-<details><summary>Answer</summary>
-
-Yes, this is a known caution with cashless claims:
-- The cashless process has **not fully stabilised**, so hospitals often demand a **refundable deposit** before discharge, returned once they receive the claim — which partly defeats the purpose.
-- Approved-hospital lists **keep changing**, so a hospital on the list when buying may be off it at claim time.
-- Some expenses (pre- and post-hospitalisation) need reimbursement claims anyway.
-
-💡 Note: the regulator now strongly encourages cashless settlement, so it's becoming standard across insurers — not a major differentiator when choosing one.
-</details>
-
-**Q4.** Ravi died in an accident caused by another driver. His wife (sole nominee on the life policy) wonders whether she keeps the money fully or holds it for the legal heirs. Explain.
-<details><summary>Answer</summary>
-
-Under the **Beneficial Nominee** provision (**Section 39(7)**, Insurance Act 1938, amended Feb 2015), if the life-insurance nominee is the **spouse, parent or children** (or any of them), they are **beneficially entitled** — they keep the money **as owners**, not as trustees for the legal heirs.
-
-Ravi's wife is his spouse and sole nominee → she **keeps the entire claim amount in her own right**, even if there are other legal heirs.
-</details>
-
-**Q5.** Ravi died 8 months after taking the life policy. Can the insurer scrutinise the claim, and what protects honest disclosure?
-<details><summary>Answer</summary>
-
-- The death occurred **within 3 years** of the policy. Under **Section 45**, during the first 3 years a claim can still be **repudiated/cancelled on grounds of fraud**, and any large early death claim **invariably triggers a full investigation**.
-- After **3 years**, no life claim can be questioned on **any** ground.
-- Protection: this is exactly why **Utmost Good Faith** matters — if Ravi disclosed all material facts (health, habits, profession) honestly when buying the policy, the investigation will confirm the claim is valid and it will be paid. Hiding facts would have risked outright rejection.
+**Correct: B)** — "When a bank becomes the corporate agent of an insurance company it is referred to as a bancassurance arrangement."
+- A) Wrong: reinsurance is insurers transferring risk to other firms.
+- C) Wrong: web aggregators run price-comparison websites.
+- D) Wrong: a composite broker is both direct and reinsurance broker.
 </details>
