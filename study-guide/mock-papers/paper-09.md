@@ -446,24 +446,24 @@ A) Both long-term  B) MF long-term (>12m); parcel B short-term (≤12m)  C) Both
 </details>
 
 **Q57.** What is the LTCG tax on the equity MF (Section 112A), considering the Rs. 1,25,000 exemption?
-A) Rs. 75,000  B) Rs. 59,375  C) Rs. 90,000  D) Rs. 1,20,000
+A) Rs. 59,375  B) Rs. 75,000  C) Rs. 90,000  D) Rs. 1,20,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — LTCG = 14,00,000 − 8,00,000 = Rs. 6,00,000. Exempt first Rs. 1,25,000 → taxable 4,75,000. Tax = **12.5% × 4,75,000 = Rs. 59,375**. Option A taxes the full gain (forgets the exemption); C and D are guesses. The Rs. 1.25 lakh annual exemption applies once across all 112A gains.
+**Correct: A)** — LTCG = 14,00,000 − 8,00,000 = Rs. 6,00,000. Exempt first Rs. 1,25,000 → taxable 4,75,000. Tax = **12.5% × 4,75,000 = Rs. 59,375**. Option B taxes the full gain (forgets the exemption); C and D are guesses. The Rs. 1.25 lakh annual exemption applies once across all 112A gains.
 </details>
 
 **Q58.** What is the STCG tax on parcel B (Section 111A)?
-A) Rs. 30,000  B) Rs. 40,000  C) Rs. 11,250  D) Rs. 15,000
+A) Rs. 30,000  B) Rs. 11,250  C) Rs. 15,000  D) Rs. 40,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — STCG = 7,00,000 − 5,00,000 = Rs. 2,00,000. Under Section 111A (STT paid), the rate is **20%**. Tax = 20% × 2,00,000 = **Rs. 40,000**. Option A uses the old 15% rate; there is no Rs. 1.25 lakh exemption for STCG; C and D are guesses. Short-term gains are taxed more heavily than long-term.
+**Correct: D)** — STCG = 7,00,000 − 5,00,000 = Rs. 2,00,000. Under Section 111A (STT paid), the rate is **20%**. Tax = 20% × 2,00,000 = **Rs. 40,000**. Option A uses the old 15% rate; there is no Rs. 1.25 lakh exemption for STCG; B and C are guesses. Short-term gains are taxed more heavily than long-term.
 </details>
 
 **Q59.** What is the CAGR earned on the equity MF (Rs. 8,00,000 to Rs. 14,00,000 over 3 years)?
-A) 25.0%  B) 20.51%  C) 18.0%  D) 12.0%
+A) 25.0%  B) 18.0%  C) 20.51%  D) 12.0%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **CAGR = (14,00,000 ÷ 8,00,000)^(1/3) − 1** = (1.75)^(0.3333) − 1 = 1.205071 − 1 = **20.51%**. Option A overstates; C and D understate. CAGR converts the 75% total gain over 3 years into a single annualised rate.
+**Correct: C)** — **CAGR = (14,00,000 ÷ 8,00,000)^(1/3) − 1** = (1.75)^(0.3333) − 1 = 1.205071 − 1 = **20.51%**. Option A overstates; B and D understate. CAGR converts the 75% total gain over 3 years into a single annualised rate.
 </details>
 
 **Q60.** Mr. Bose's total capital-gains tax for the two transactions is:
