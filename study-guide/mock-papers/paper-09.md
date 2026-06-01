@@ -324,17 +324,17 @@ A) Rs. 4.50 crore  B) Rs. 6.50 crore  C) Rs. 8.14 crore  D) Rs. 3.20 crore
 </details>
 
 **Q44.** To accumulate the Rs. 6.50 crore corpus over 25 years (300 months) at 12% per annum (1% per month), what monthly SIP is needed?
-A) Rs. 21,667  B) Rs. 34,578  C) Rs. 50,000  D) Rs. 1,00,000
+A) Rs. 21,667  B) Rs. 50,000  C) Rs. 1,00,000  D) Rs. 34,578
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Sinking fund: **PMT = FV × r ÷ [(1 + r)ⁿ − 1]** = 6,49,66,853 × 0.01 ÷ [(1.01)³⁰⁰ − 1] = 6,49,668 ÷ [19.788466 − 1] = 6,49,668 ÷ 18.788466 = **Rs. 34,578**. Option A is the no-growth saving (6.5 cr ÷ 300); C and D are guesses. Thanks to 25 years of 12% compounding, a Rs. 34,578 monthly SIP grows into a Rs. 6.5 crore corpus.
+**Correct: D)** — Sinking fund: **PMT = FV × r ÷ [(1 + r)ⁿ − 1]** = 6,49,66,853 × 0.01 ÷ [(1.01)³⁰⁰ − 1] = 6,49,668 ÷ [19.788466 − 1] = 6,49,668 ÷ 18.788466 = **Rs. 34,578**. Option A is the no-growth saving (6.5 cr ÷ 300); B and C are guesses. Thanks to 25 years of 12% compounding, a Rs. 34,578 monthly SIP grows into a Rs. 6.5 crore corpus.
 </details>
 
 **Q45.** If Mr. Verma delays starting until age 45 (only 15 years / 180 months left) for the same Rs. 6.50 crore corpus at 12%, the required SIP rises to about Rs. 1,30,000/month. What is the main lesson?
-A) Delay has no impact  B) Starting late drastically raises the required saving due to lost compounding  C) The corpus target should be reduced  D) He should switch to debt
+A) Delay has no impact  B) The corpus target should be reduced  C) Starting late drastically raises the required saving due to lost compounding  D) He should switch to debt
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — The required SIP jumps from about Rs. 34,578 (25 years) to roughly Rs. 1,30,000 (15 years) — nearly four times higher — for the same goal. The reason is the **loss of the earliest, most powerful compounding years**. Option A contradicts the maths; C and D are not the lesson (cutting the target or de-risking only worsens or doesn't fix the shortfall). Start early to keep the saving affordable.
+**Correct: C)** — The required SIP jumps from about Rs. 34,578 (25 years) to roughly Rs. 1,30,000 (15 years) — nearly four times higher — for the same goal. The reason is the **loss of the earliest, most powerful compounding years**. Option A contradicts the maths; B and D are not the lesson (cutting the target or de-risking only worsens or doesn't fix the shortfall). Start early to keep the saving affordable.
 </details>
 
 ### Case 2 — Funding a Child's Education for Mrs. Iyer
@@ -363,10 +363,10 @@ A) Rs. 14,39,592  B) Rs. 20,00,000  C) Rs. 25,00,000  D) Rs. 10,00,000
 </details>
 
 **Q48.** If instead she invests via a monthly SIP for 12 years (144 months) at 11% per annum (about 0.9167% per month), what SIP reaches the Rs. 50,36,340 target?
-A) Rs. 16,967  B) Rs. 35,000  C) Rs. 29,000  D) Rs. 12,000
+A) Rs. 35,000  B) Rs. 29,000  C) Rs. 12,000  D) Rs. 16,967
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — **PMT = FV × r ÷ [(1 + r)ⁿ − 1]** = 50,36,340 × 0.0091667 ÷ [(1.0091667)¹⁴⁴ − 1] = 46,167 ÷ 2.72095 = **Rs. 16,967**. Option B and C are too high; D too low. A SIP of about Rs. 17,000 spreads the burden and still hits the target because of compounding.
+**Correct: D)** — **PMT = FV × r ÷ [(1 + r)ⁿ − 1]** = 50,36,340 × 0.0091667 ÷ [(1.0091667)¹⁴⁴ − 1] = 46,167 ÷ 2.72095 = **Rs. 16,967**. Option A and B are too high; C too low. A SIP of about Rs. 17,000 spreads the burden and still hits the target because of compounding.
 </details>
 
 **Q49.** If the fund actually returns 8% (equal to education inflation) instead of 11%, what is the real rate of return relative to education costs?
@@ -377,10 +377,10 @@ A) 8%  B) 0%  C) 3%  D) 16%
 </details>
 
 **Q50.** Mrs. Iyer's daughter is only 6, but she keeps postponing the SIP. Which statement best reflects sound goal-planning?
-A) Education goals can be delayed 4–5 years like retirement  B) Education goals have a fixed time horizon and cannot be postponed, so funding must start promptly  C) She should wait for a market crash  D) A lump sum at age 17 is just as good
+A) Education goals can be delayed 4–5 years like retirement  B) She should wait for a market crash  C) Education goals have a fixed time horizon and cannot be postponed, so funding must start promptly  D) A lump sum at age 17 is just as good
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Per the workbook, goals such as children's education **have a defined, non-negotiable time horizon** (the child turns 18 at a fixed date) — unlike retirement, which people often (wrongly) defer. So the SIP should begin early to harness compounding and keep instalments affordable. Option A is exactly the mistake the workbook warns against; C is market-timing (not planning); D loses years of compounding.
+**Correct: C)** — Per the workbook, goals such as children's education **have a defined, non-negotiable time horizon** (the child turns 18 at a fixed date) — unlike retirement, which people often (wrongly) defer. So the SIP should begin early to harness compounding and keep instalments affordable. Option A is exactly the mistake the workbook warns against; B is market-timing (not planning); D loses years of compounding.
 </details>
 
 ### Case 3 — Inflation Shortfall for the Nairs
@@ -402,17 +402,17 @@ A) Rs. 96,000  B) Rs. 1,07,451  C) Rs. 1,20,000  D) Rs. 63,600
 </details>
 
 **Q52.** What is his monthly SHORTFALL at age 60 if his corpus only delivers Rs. 60,000 per month?
-A) Nil  B) Rs. 47,451  C) Rs. 36,000  D) Rs. 60,000
+A) Rs. 47,451  B) Nil  C) Rs. 36,000  D) Rs. 60,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Shortfall = needed − available = 1,07,451 − 60,000 = **Rs. 47,451 per month**. Option A assumes no inflation (his mistake); C and D are wrong arithmetic. Nearly half his required income is missing on the very first day — a serious under-funding caused by ignoring inflation.
+**Correct: A)** — Shortfall = needed − available = 1,07,451 − 60,000 = **Rs. 47,451 per month**. Option B assumes no inflation (his mistake); C and D are wrong arithmetic. Nearly half his required income is missing on the very first day — a serious under-funding caused by ignoring inflation.
 </details>
 
 **Q53.** By age 80 (20 years after retirement), what monthly amount maintains the same Rs. 60,000 (today's) lifestyle, still at 6% inflation from today?
-A) Rs. 1,32,000  B) Rs. 1,92,428  C) Rs. 1,07,451  D) Rs. 2,40,000
+A) Rs. 1,32,000  B) Rs. 1,07,451  C) Rs. 2,40,000  D) Rs. 1,92,428
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — From today, that is 30 years of inflation... but the lifestyle's age-80 value relative to retirement: needed at 80 = 60,000 × (1.06)²⁰ measured from today's value at the 20-year mark equals **Rs. 1,92,428** (60,000 × 3.207135). Option C is the age-60 figure; A is simple inflation; D is a guess. Crucially, the income required keeps RISING throughout retirement — the corpus must fund an escalating, not flat, income.
+**Correct: D)** — Measured from today's value over 20 years: needed = 60,000 × (1.06)²⁰ = 60,000 × 3.207135 = **Rs. 1,92,428**. Option B is the age-60 figure; A is simple inflation; C is a guess. Crucially, the income required keeps RISING throughout retirement — the corpus must fund an escalating, not flat, income.
 </details>
 
 **Q54.** Which single adjustment best fixes the Nairs' plan, given inflation?
@@ -423,10 +423,10 @@ A) Plan for a fixed Rs. 60,000 income for life  B) Size the corpus on the inflat
 </details>
 
 **Q55.** If Mr. Nair's corpus earns 8% during retirement and inflation is 6%, what real rate should he use to value his retirement income stream?
-A) 14%  B) 1.89%  C) 2%  D) 8%
+A) 14%  B) 2%  C) 1.89%  D) 8%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Real rate = (1.08 ÷ 1.06) − 1 = 1.89%**. Option C is the rough subtraction (8% − 6% = 2%), which slightly overstates it; A adds; D ignores inflation. The real rate captures that part of the 8% return is eaten by 6% inflation, leaving only ~1.89% of true growth to fund rising expenses.
+**Correct: C)** — **Real rate = (1.08 ÷ 1.06) − 1 = 1.89%**. Option B is the rough subtraction (8% − 6% = 2%), which slightly overstates it; A adds; D ignores inflation. The real rate captures that part of the 8% return is eaten by 6% inflation, leaving only ~1.89% of true growth to fund rising expenses.
 </details>
 
 ### Case 4 — Capital Gains for an Investor, Mr. Bose

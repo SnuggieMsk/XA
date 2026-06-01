@@ -153,10 +153,10 @@ A) ₹350  B) ₹700  C) ₹233  D) ₹175
 </details>
 
 **Q22.** For Category-I and Category-II AIFs, "other income" (non-business income) is:
-A) Taxed in the AIF's hands at maximum marginal rate  B) Exempt for everyone  C) Passed through and taxed in the unit-holder's hands  D) Taxed at a flat 10%
+A) Taxed in the AIF's hands at maximum marginal rate  B) Passed through and taxed in the unit-holder's hands  C) Exempt for everyone  D) Taxed at a flat 10%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Cat-I/II AIFs have pass-through status under Sec 115UB: "other income" is exempt at the AIF level (Sec 10(23FBA)) and taxed in the unit-holder's hands as if they invested directly, retaining its character and proportion. A is the rule for *business income* of the AIF (the trap); B and D are wrong. Only business income is taxed at the fund level; everything else passes through.
+**Correct: B)** — Cat-I/II AIFs have pass-through status under Sec 115UB: "other income" is exempt at the AIF level (Sec 10(23FBA)) and taxed in the unit-holder's hands as if they invested directly, retaining its character and proportion. A is the rule for *business income* of the AIF (the trap); C and D are wrong. Only business income is taxed at the fund level; everything else passes through.
 </details>
 
 **Q23.** A bond costing ₹1,000 has a yield-to-maturity of 8%. A single cash flow of ₹1,259.71 is due in 3 years. What is its present value at 8%?
@@ -188,10 +188,10 @@ A) Exempt (Sec 47)  B) Slab rates (STCG)  C) 20%  D) 12.5% (LTCG)
 </details>
 
 **Q27.** Today's annual living expense is ₹6,00,000. With inflation at 7%, what will the equivalent annual expense be in 10 years? (Use 1.07^10 = 1.96715)
-A) ₹10,20,000  B) ₹6,42,000  C) ₹11,80,290  D) ₹9,00,000
+A) ₹10,20,000  B) ₹11,80,290  C) ₹6,42,000  D) ₹9,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Future cost = Present cost × (1+inflation)^n = 6,00,000 × (1.07)^10 = 6,00,000 × 1.96715 = ₹11,80,290. A applies a flat 70% (simple, no compounding); B inflates only one year; D is a guess. Inflation compounds, so use (1+i)^n, not 1 + i×n.
+**Correct: B)** — Future cost = Present cost × (1+inflation)^n = 6,00,000 × (1.07)^10 = 6,00,000 × 1.96715 = ₹11,80,290. A applies a flat 70% (simple, no compounding); C inflates only one year; D is a guess. Inflation compounds, so use (1+i)^n, not 1 + i×n.
 </details>
 
 **Q28.** A unit-holder redeems units of a REIT (i.e., the REIT buys back the units). The sum received on redemption is taxed:
@@ -209,10 +209,10 @@ A) Nil (interest is exempt)  B) ₹5,000  C) ₹4,000  D) ₹12,000
 </details>
 
 **Q30.** A 91-day Cash Management Bill bought at ₹98,500 redeems at ₹1,00,000. The ₹1,500 gain is:
-A) Interest at slab rates  B) LTCG at 12.5%  C) STCG at slab rates  D) Exempt
+A) Interest at slab rates  B) STCG at slab rates  C) LTCG at 12.5%  D) Exempt
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Like T-Bills, CMBs (maturity <91 days) carry no interest; the discount is treated as a short-term capital gain (maturity <1 year) and taxed at slab rates. A is the trap of calling the discount "interest"; B is impossible (can't be long-term); D invents an exemption.
+**Correct: B)** — Like T-Bills, CMBs (maturity <91 days) carry no interest; the discount is treated as a short-term capital gain (maturity <1 year) and taxed at slab rates. A is the trap of calling the discount "interest"; C is impossible (can't be long-term); D invents an exemption.
 </details>
 
 **Q31.** An NRI earns ₹10,00,000 interest from Indian debentures. The India-USA DTAA caps interest at 15%, while the Act would tax it at the slab rate (say 30%). What rate applies?
@@ -244,10 +244,10 @@ A) ₹25,000  B) ₹12,500  C) ₹15,000  D) ₹9,375
 </details>
 
 **Q35.** A non-resident transfers listed REIT units (STT paid) held 20 months; LTCG works out to ₹3,25,000. Tax under Sec 112A (ignore cess) is:
-A) ₹40,625  B) ₹37,500  C) ₹25,000  D) ₹65,000
+A) ₹40,625  B) ₹25,000  C) ₹37,500  D) ₹65,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — LTCG on listed business-trust units (held >12 months, STT paid) is taxed at 12.5% above the ₹1,25,000 exemption under Sec 112A, for residents and non-residents alike. Taxable = 3,25,000 − 1,25,000 = ₹2,00,000. Tax = 2,00,000 × 12.5% = ₹25,000. A forgets the exemption; B/D use wrong figures.
+**Correct: B)** — LTCG on listed business-trust units (held >12 months, STT paid) is taxed at 12.5% above the ₹1,25,000 exemption under Sec 112A, for residents and non-residents alike. Taxable = 3,25,000 − 1,25,000 = ₹2,00,000. Tax = 2,00,000 × 12.5% = ₹25,000. A forgets the exemption; C/D use wrong figures.
 </details>
 
 **Q36.** Two investments: A returns 9% taxed at 30%; B is a tax-free bond at 6.5%. What is A's *post-tax* return, and which is better?
@@ -322,10 +322,10 @@ A) LTCG at 12.5% = ₹31,250  B) Slab rate = ₹75,000  C) Not taxable (Sec 47, 
 </details>
 
 **Q44.** The ₹50,000 SGB interest is taxed at:
-A) Exempt  B) 12.5% = ₹6,250  C) Slab rate (30%) = ₹15,000  D) 10% TDS only
+A) Exempt  B) Slab rate (30%) = ₹15,000  C) 12.5% = ₹6,250  D) 10% TDS only
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — SGB interest is taxable as "income from other sources" at the slab rate. Tax = 50,000 × 30% = ₹15,000. There is no TDS on SGB interest (they are Government Securities). A confuses the redemption exemption with the interest; B uses the capital-gains rate; D is wrong. Interest is always taxable even when the redemption gain is exempt.
+**Correct: B)** — SGB interest is taxable as "income from other sources" at the slab rate. Tax = 50,000 × 30% = ₹15,000. There is no TDS on SGB interest (they are Government Securities). A confuses the redemption exemption with the interest; C uses the capital-gains rate; D is wrong. Interest is always taxable even when the redemption gain is exempt.
 </details>
 
 **Q45.** The gain on the unlisted debenture is taxed as:
@@ -354,10 +354,10 @@ A) ₹25,000  B) ₹15,000  C) ₹9,375  D) ₹18,750
 </details>
 
 **Q47.** The tax on the equity mutual fund gain (held 8 months) is:
-A) ₹6,250  B) ₹15,000  C) ₹10,000  D) ₹7,500
+A) ₹6,250  B) ₹10,000  C) ₹15,000  D) ₹7,500
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Equity MF held ≤12 months = STCG under Sec 111A, taxed at 20% (STT paid). Gain = 2,50,000 − 2,00,000 = ₹50,000. Tax = 50,000 × 20% = ₹10,000. A uses 12.5% (LTCG rate); B uses 30% slab; D uses 15% (old rate). Short-term equity = 20% flat, no exemption.
+**Correct: B)** — Equity MF held ≤12 months = STCG under Sec 111A, taxed at 20% (STT paid). Gain = 2,50,000 − 2,00,000 = ₹50,000. Tax = 50,000 × 20% = ₹10,000. A uses 12.5% (LTCG rate); C uses 30% slab; D uses 15% (old rate). Short-term equity = 20% flat, no exemption.
 </details>
 
 **Q48.** The LTCG tax on the listed REIT units, given the ₹1,25,000 Sec 112A exemption is already fully used up by the equity-share LTCG in Q46, is:
@@ -386,10 +386,10 @@ A) Separately for each asset  B) Twice (equity + REIT)  C) Once, aggregated acro
 Mr. Verma is 35, plans to retire at 60 (25 years away), and expects to live to 85. His *current* annual expense is ₹6,00,000. Pre-retirement inflation is 7% p.a.; he can earn 10% p.a. on investments while accumulating. Use these factors: (1.07)^25 = 5.4274; (1.10)^25 = 10.8347.
 
 **Q51.** What annual expense (in today's purchasing power terms, inflated) will he need in the *first year* of retirement (at age 60)?
-A) ₹16,50,000  B) ₹10,50,000  C) ₹32,56,440  D) ₹21,00,000
+A) ₹16,50,000  B) ₹32,56,440  C) ₹10,50,000  D) ₹21,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Future expense = current × (1+inflation)^n = 6,00,000 × (1.07)^25 = 6,00,000 × 5.4274 = ₹32,56,440. A and D apply flat simple percentages; B is a guess. Inflation compounds over 25 years, multiplying the expense ~5.43×.
+**Correct: B)** — Future expense = current × (1+inflation)^n = 6,00,000 × (1.07)^25 = 6,00,000 × 5.4274 = ₹32,56,440. A and D apply flat simple percentages; C is a guess. Inflation compounds over 25 years, multiplying the expense ~5.43×.
 </details>
 
 **Q52.** If he must accumulate a corpus of ₹4,00,00,000 by 60 and starts today, what *single lump sum* invested now reaches it at 10%?
@@ -471,10 +471,10 @@ A) ₹46,875  B) ₹62,500  C) ₹1,00,000  D) ₹75,000
 Mr. Khan (non-government employee, FY 2024-25) has: Basic salary ₹12,00,000; he and his employer each contribute 10% of basic to NPS; he repays a home-loan principal of ₹1,60,000 and pays LIC premium ₹40,000 (eligible under 80C). He uses the OLD tax regime. Standard deduction is ₹50,000. Ignore cess/surcharge.
 
 **Q61.** What is the maximum deduction under Sec 80C (combined 80C/80CCC/80CCD(1)) he can claim?
-A) ₹2,00,000  B) ₹2,50,000  C) ₹1,50,000  D) ₹1,60,000
+A) ₹2,00,000  B) ₹1,50,000  C) ₹2,50,000  D) ₹1,60,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — The combined ceiling for 80C + 80CCC + 80CCD(1) is ₹1,50,000. His 80C items (home-loan principal ₹1,60,000 + LIC ₹40,000 = ₹2,00,000) already exceed the cap, so the deduction is limited to ₹1,50,000. A/B overshoot the statutory cap; D is the home-loan figure only. The ₹1.5 lakh ceiling is hard.
+**Correct: B)** — The combined ceiling for 80C + 80CCC + 80CCD(1) is ₹1,50,000. His 80C items (home-loan principal ₹1,60,000 + LIC ₹40,000 = ₹2,00,000) already exceed the cap, so the deduction is limited to ₹1,50,000. A/C overshoot the statutory cap; D is the home-loan figure only. The ₹1.5 lakh ceiling is hard.
 </details>
 
 **Q62.** The employer's NPS contribution is ₹1,20,000 (10% of ₹12,00,000). What deduction is available under Sec 80CCD(2) in the old regime?

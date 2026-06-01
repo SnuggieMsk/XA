@@ -562,8 +562,8 @@ A) ₹53,125  B) ₹85,000  C) ₹37,500  D) ₹40,000
 </details>
 
 **Q70.** His existing SIP of ₹25,000/month at 10% for 10 years (i ≈ 0.8333%/month, n = 120, FV factor ≈ 206.55) will grow to approximately:
-A) ₹30,00,000  B) ₹51,63,750  C) ₹41,00,000  D) ₹60,00,000
+A) ₹30,00,000  B) ₹60,00,000  C) ₹41,00,000  D) ₹51,63,750
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — FV = P × [((1 + i)^n − 1) ÷ i] = 25,000 × 206.55 ≈ ₹51,63,750. (Factor: (1.0083333)^120 ≈ 2.7138; (2.7138 − 1) ÷ 0.0083333 ≈ 205.66 to 206.55 depending on rounding, giving roughly ₹51–52 lakh.) Option A is just the contributions (25,000 × 120 = ₹30 lakh) with no growth; C and D are off. This SIP adds about ₹51.6 lakh to his retirement corpus, on top of EPF.
+**Correct: D)** — FV = P × [((1 + i)^n − 1) ÷ i] = 25,000 × 206.55 ≈ ₹51,63,750. (Factor: (1.0083333)^120 ≈ 2.7138; (2.7138 − 1) ÷ 0.0083333 ≈ 205.66 to 206.55 depending on rounding, giving roughly ₹51–52 lakh.) Option A is just the contributions (25,000 × 120 = ₹30 lakh) with no growth; C and B are off. This SIP adds about ₹51.6 lakh to his retirement corpus, on top of EPF.
 </details>
