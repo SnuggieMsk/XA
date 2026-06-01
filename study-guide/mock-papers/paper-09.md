@@ -535,17 +535,17 @@ Mr. Kapoor (40) is building a Rs. 2 crore retirement corpus over 20 years and ea
 | Projected NPS corpus at 60 | Rs. 1,00,00,000 |
 
 **Q66.** What flat monthly SIP at 12% for 240 months reaches the Rs. 2 crore target?
-A) Rs. 83,333  B) Rs. 20,217  C) Rs. 40,000  D) Rs. 10,000
+A) Rs. 83,333  B) Rs. 40,000  C) Rs. 10,000  D) Rs. 20,217
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **PMT = FV × r ÷ [(1 + r)ⁿ − 1]** = 2,00,00,000 × 0.01 ÷ [(1.01)²⁴⁰ − 1] = 2,00,000 ÷ 9.892554 = **Rs. 20,217** (the workbook's figure). Option A is the no-growth saving (2 cr ÷ 240); C and D are guesses. Compounding over 20 years does most of the work.
+**Correct: D)** — **PMT = FV × r ÷ [(1 + r)ⁿ − 1]** = 2,00,00,000 × 0.01 ÷ [(1.01)²⁴⁰ − 1] = 2,00,000 ÷ 9.892554 = **Rs. 20,217** (the workbook's figure). Option A is the no-growth saving (2 cr ÷ 240); B and C are guesses. Compounding over 20 years does most of the work.
 </details>
 
 **Q67.** Mr. Kapoor prefers a step-up SIP rising 7% per year. Compared with the flat Rs. 20,217, his starting SIP will be:
-A) Higher than Rs. 20,217  B) Lower than Rs. 20,217, then rising each year  C) Exactly Rs. 20,217  D) A one-time lump sum
+A) Higher than Rs. 20,217  B) Exactly Rs. 20,217  C) Lower than Rs. 20,217, then rising each year  D) A one-time lump sum
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — A step-up SIP **starts below the flat amount and increases by 7% annually**, matching rising income, while still reaching Rs. 2 crore. Option A is the opposite; C ignores the step-up's effect; D misreads the strategy. Step-up suits investors who expect their income to grow and want an easier start.
+**Correct: C)** — A step-up SIP **starts below the flat amount and increases by 7% annually**, matching rising income, while still reaching Rs. 2 crore. Option A is the opposite; B ignores the step-up's effect; D misreads the strategy. Step-up suits investors who expect their income to grow and want an easier start.
 </details>
 
 **Q68.** If Mr. Kapoor withdraws Rs. 75,000 from EPF now (30 years to retirement, 8.5% p.a.), what future corpus does he lose?
