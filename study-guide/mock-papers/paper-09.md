@@ -495,10 +495,10 @@ A) Rs. 12,00,000  B) Rs. 7,20,000  C) Rs. 4,80,000  D) Rs. 6,00,000
 </details>
 
 **Q62.** What real (inflation-adjusted) rate is used to value the income stream?
-A) 2%  B) 1.89%  C) 14%  D) 8%
+A) 2%  B) 14%  C) 8%  D) 1.89%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — **Real rate = (1.08 ÷ 1.06) − 1 = 1.89%** (the workbook's standard HLV discount rate). Option A is the rough subtraction; C adds; D ignores inflation. The income to be provided rises with inflation, so it is discounted at the inflation-adjusted return.
+**Correct: D)** — **Real rate = (1.08 ÷ 1.06) − 1 = 1.89%** (the workbook's standard HLV discount rate). Option A is the rough subtraction; B adds; C ignores inflation. The income to be provided rises with inflation, so it is discounted at the inflation-adjusted return.
 </details>
 
 **Q63.** Using PV of an annuity-due at 1.89% for 35 years on Rs. 7,20,000 per year, the corpus required to replace the income is approximately:
@@ -509,10 +509,10 @@ A) Rs. 1.87 crore  B) Rs. 2.52 crore  C) Rs. 1.20 crore  D) Rs. 90 lakh
 </details>
 
 **Q64.** Adding the Rs. 30 lakh loan and deducting existing cover (Rs. 50 lakh) and investments (Rs. 20 lakh), what ADDITIONAL life cover does Mr. Sharma need?
-A) Rs. 2.17 crore  B) Rs. 1.47 crore  C) Rs. 1.87 crore  D) Rs. 67 lakh
+A) Rs. 2.17 crore  B) Rs. 1.87 crore  C) Rs. 1.47 crore  D) Rs. 67 lakh
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Total need = corpus (Rs. 1.87 cr) + loan (Rs. 30 lakh) = Rs. 2.17 crore. Deduct existing cover (Rs. 50 lakh) + investments (Rs. 20 lakh) = Rs. 70 lakh. Additional cover = 2,16,68,428 − 70,00,000 = **Rs. 1.47 crore** (≈ Rs. 1,46,68,428). Option A forgets to subtract existing resources; C omits both loan and offsets; D is a guess. Existing assets and cover reduce the new insurance required.
+**Correct: C)** — Total need = corpus (Rs. 1.87 cr) + loan (Rs. 30 lakh) = Rs. 2.17 crore. Deduct existing cover (Rs. 50 lakh) + investments (Rs. 20 lakh) = Rs. 70 lakh. Additional cover = 2,16,68,428 − 70,00,000 = **Rs. 1.47 crore** (≈ Rs. 1,46,68,428). Option A forgets to subtract existing resources; B omits both loan and offsets; D is a guess. Existing assets and cover reduce the new insurance required.
 </details>
 
 **Q65.** If instead Mr. Sharma had Rs. 70,00,000 of investments (rather than Rs. 20 lakh), how would his additional insurance requirement change?
