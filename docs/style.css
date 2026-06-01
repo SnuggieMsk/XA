@@ -469,3 +469,27 @@ body{
 .q-case{margin-top:30px;background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:8px 22px 18px;box-shadow:var(--shadow)}
 .q-case-tag{font-family:"Inter",sans-serif;font-weight:800;color:var(--brand);margin:14px 0 4px;font-size:1rem}
 .q-case details{box-shadow:none}
+
+/* ===================================================================
+   MOCK TEST RUNNER — appended
+   =================================================================== */
+.p-top{margin-bottom:14px}
+.p-back{font-size:14px;font-weight:600}
+.p-title{font-family:"Fraunces",Georgia,serif;font-size:1.7rem;font-weight:600;margin:6px 0 4px}
+.p-meta{color:var(--text-soft);font-size:.95rem}
+.p-bar{display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap;background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:12px 16px;box-shadow:var(--shadow);position:sticky;top:calc(var(--topbar-h));z-index:16}
+.p-timer-wrap{display:flex;align-items:center;gap:10px}
+.p-timer{font-variant-numeric:tabular-nums;font-weight:800;font-size:1.25rem;background:var(--surface-2);border:1px solid var(--border);border-radius:10px;padding:6px 12px;min-width:78px;text-align:center}
+.p-score{display:flex;align-items:center;gap:16px;font-size:14px;font-weight:600;flex-wrap:wrap}
+.p-scorebig{font-size:15px}
+.p-scorebig b{color:var(--brand)}
+.p-done{margin:12px 0;padding:14px 16px;border-radius:12px;font-size:15px}
+.p-done.pass{background:rgba(22,163,74,.14);border:1px solid var(--accent)}
+.p-done.fail{background:rgba(220,38,38,.10);border:1px solid var(--danger)}
+.p-passnote{color:var(--text-soft);font-weight:500}
+.p-section-head{font-family:"Inter",sans-serif;font-weight:800;font-size:1.1rem;margin:24px 0 14px;padding:10px 16px;border-radius:11px;background:var(--brand-soft);color:var(--brand)}
+.p-case{border:1px solid var(--border);border-radius:16px;padding:6px 18px 16px;margin:22px 0;background:var(--surface);box-shadow:var(--shadow)}
+.p-case-head{font-family:"Inter",sans-serif;font-weight:800;font-size:1.05rem;margin:14px 0 6px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.p-case-marks{font-size:.75rem;font-weight:600;color:var(--text-soft);background:var(--surface-2);border:1px solid var(--border);padding:3px 9px;border-radius:99px}
+.p-case-scenario{background:var(--surface-2);border-left:4px solid var(--brand);border-radius:0 12px 12px 0;padding:6px 16px;margin-bottom:12px;font-size:.98rem}
+.p-case .q-card{box-shadow:none;border-color:var(--border)}

@@ -5,6 +5,7 @@
 
   var DATA = window.STUDY_CONTENT || { chapters: [], readme: "" };
   var CH = DATA.chapters;
+  var PAPERS = DATA.papers || [];
   var VIEWS = [
     { key: "notes", label: "Notes", ico: "📖" },
     { key: "flashcards", label: "Flashcards", ico: "🃏" },
@@ -510,6 +511,7 @@
       + '<span class="nav-chap-title">Home &amp; Exam Guide</span></a>';
     html += '<div class="nav-module">Study Tools</div>';
     html += '<a class="nav-tool" data-link="lab" href="#/lab"><span class="nav-chap-num">🔢</span><span class="nav-chap-title">Financial Maths Lab</span></a>';
+    if (PAPERS.length) html += '<a class="nav-tool" data-link="papers" href="#/papers"><span class="nav-chap-num">📑</span><span class="nav-chap-title">Mock Test Papers</span></a>';
     html += '<button class="nav-tool" id="navCalc"><span class="nav-chap-num">🧮</span><span class="nav-chap-title">Financial Calculator</span></button>';
     var lastModule = null;
     CH.forEach(function (c) {
@@ -551,7 +553,9 @@
     document.querySelectorAll(".nav-sub a").forEach(function (a) { a.classList.remove("active"); });
     document.querySelectorAll(".nav-chapter").forEach(function (w) { w.classList.remove("open"); });
     if (!num) {
-      if (location.hash.indexOf("/lab") > -1) { var l = document.querySelector('.nav-tool[data-link="lab"]'); if (l) l.classList.add("active"); }
+      var h = location.hash;
+      if (h.indexOf("/lab") > -1) { var l = document.querySelector('.nav-tool[data-link="lab"]'); if (l) l.classList.add("active"); }
+      else if (h.indexOf("/paper") > -1) { var pp = document.querySelector('.nav-tool[data-link="papers"]'); if (pp) pp.classList.add("active"); }
       else { var home = document.querySelector('.nav-chap-head[href="#/home"]'); if (home) home.classList.add("active"); }
       return;
     }
@@ -569,6 +573,7 @@
     var hero = '<div class="hero"><h1>🎯 NISM Series X-B Study Hub</h1>'
       + '<p>Investment Adviser (Level 2) — notes, flashcards & 2,000+ explained MCQs. Pick a chapter and study at your own pace.</p>'
       + '<div class="hero-cta"><a href="#/lab" class="cta">🔢 Financial Maths Lab</a>'
+      + (PAPERS.length ? '<a href="#/papers" class="cta">📑 Mock Test Papers</a>' : "")
       + '<a href="#/ch/01/notes" class="cta ghost">📖 Start Chapter 1</a></div></div>';
     var cards = '<div class="home-cards">';
     CH.forEach(function (c) {
@@ -809,6 +814,187 @@
     fcState._nav = { next: next, prev: prev, flip: flip };
     show();
   }
+  /* =====================================================================
+     MOCK TEST RUNNER (10 papers, 100 marks, timer + negative marking)
+     ===================================================================== */
+  function paperByNum(num) { for (var i = 0; i < PAPERS.length; i++) if (PAPERS[i].num === num) return PAPERS[i]; return null; }
+  function parsePaper(src) {
+    var title = (src.match(/^#\s+(.*)/) || [])[1] || "Mock Paper";
+    var meta = (src.match(/\*\*(Total:[^*]*)\*\*/) || [])[1] || "";
+    var groups = [];
+    var sections = src.split(/\n(?=##\s)/);
+    sections.forEach(function (sec) {
+      var hm = sec.match(/^##\s+(.*)/); if (!hm) return;
+      var stitle = hm[1].trim();
+      var marks = /2\s*marks?/.test(stitle) ? 2 : 1;
+      if (/###\s/.test(sec)) {
+        // case-based section: split into cases
+        var cases = sec.split(/\n(?=###\s)/);
+        cases.forEach(function (cp) {
+          var cm = cp.match(/^###\s+(.*)/); if (!cm) return;
+          var ctitle = cm[1].trim();
+          var firstQ = cp.search(/\*\*Q[\w-]+\.\*\*/);
+          var scenario = firstQ > -1 ? cp.slice(cp.indexOf("\n", cp.indexOf(cm[0])) + 1, firstQ).trim() : "";
+          var qs = parseBlocks(cp);
+          if (qs.length) groups.push({ kind: "case", title: ctitle, scenario: scenario, marks: marks, questions: qs });
+        });
+      } else {
+        var qs2 = parseBlocks(sec);
+        if (qs2.length) groups.push({ kind: "mcq", title: stitle, marks: marks, questions: qs2 });
+      }
+    });
+    return { title: title, meta: meta, groups: groups };
+  }
+
+  var paperCtx = null, paperTimer = null;
+  function clearPaperTimer() { if (paperTimer) { clearInterval(paperTimer); paperTimer = null; } }
+  function fmtTime(s) { var m = Math.floor(s / 60), ss = s % 60; return (m < 10 ? "0" : "") + m + ":" + (ss < 10 ? "0" : "") + ss; }
+  function paperMaxMarks() { return paperCtx.parsed.groups.reduce(function (a, g) { return a + g.questions.length * g.marks; }, 0); }
+  function paperTotalQ() { return paperCtx.parsed.groups.reduce(function (a, g) { return a + g.questions.length; }, 0); }
+  function paperMarksMap() { var m = {}; paperCtx.parsed.groups.forEach(function (g) { g.questions.forEach(function (q) { m[q.id] = { marks: g.marks, correct: q.correct }; }); }); return m; }
+  function savePaper() { try { localStorage.setItem(paperCtx.qkey, JSON.stringify(paperCtx.saved)); } catch (e) {} }
+  function updatePaperScore() {
+    var map = paperMarksMap(), attempted = 0, correct = 0, score = 0;
+    Object.keys(paperCtx.saved).forEach(function (qid) {
+      if (!map[qid]) return;
+      attempted++;
+      if (paperCtx.saved[qid] === map[qid].correct) { correct++; score += map[qid].marks; }
+      else { score -= 0.25 * map[qid].marks; }
+    });
+    score = Math.round(score * 100) / 100;
+    var max = paperMaxMarks(), total = paperTotalQ();
+    var set = function (id, v) { var e = document.getElementById(id); if (e) e.textContent = v; };
+    set("pAtt", attempted + "/" + total);
+    set("pCorrect", correct);
+    set("pScore", score);
+    set("pMax", max);
+    var fill = document.getElementById("pFill"); if (fill) fill.style.width = (total ? attempted / total * 100 : 0) + "%";
+    var done = document.getElementById("pDone");
+    if (done) {
+      if (attempted === total && total > 0) {
+        clearPaperTimer();
+        var pctv = Math.round(score / max * 100);
+        var passed = pctv >= 60;
+        done.hidden = false;
+        done.className = "p-done " + (passed ? "pass" : "fail");
+        done.innerHTML = "<b>" + (passed ? "✅ PASS" : "❌ Below pass") + "</b> — Score <b>" + score + " / " + max
+          + " (" + pctv + "%)</b> · " + correct + "/" + total + " correct · Time " + fmtTime(paperCtx.elapsed)
+          + ". <span class='p-passnote'>Pass mark is 60%.</span>";
+      } else done.hidden = true;
+    }
+  }
+  function paperCardHtml(q, g, gi) {
+    var opts = "";
+    ["A", "B", "C", "D"].forEach(function (L, i) {
+      opts += '<button class="q-opt" data-i="' + i + '"><span class="q-letter">' + L + '</span><span class="q-otext">' + inlineMd(q.options[i]) + "</span></button>";
+    });
+    return '<div class="q-card" data-sec="' + gi + '" data-qid="' + q.id + '" data-correct="' + q.correct + '">'
+      + '<div class="q-head"><span class="q-num">Q' + q.id + '</span><span class="q-tierlabel mix">' + g.marks + " mark" + (g.marks > 1 ? "s" : "") + "</span></div>"
+      + '<div class="q-text">' + inlineMd(q.q) + "</div>"
+      + '<div class="q-opts">' + opts + "</div>"
+      + '<div class="q-expl markdown-body" hidden>' + md(q.expl) + "</div></div>";
+  }
+  function renderPaper(num) {
+    clearPaperTimer();
+    var p = paperByNum(num);
+    if (!p) { renderPapersHome(); return; }
+    var parsed = parsePaper(p.md);
+    if (!parsed.groups.length) { contentEl.innerHTML = '<div class="markdown-body">' + md(p.md) + "</div>"; return; }
+    var qkey = "nismxb_paper_" + num, saved = {}, elapsed = 0, ekey = "nismxb_paper_time_" + num;
+    try { saved = JSON.parse(localStorage.getItem(qkey)) || {}; } catch (e) {}
+    try { elapsed = parseInt(localStorage.getItem(ekey), 10) || 0; } catch (e) {}
+    paperCtx = { num: num, parsed: parsed, saved: saved, qkey: qkey, ekey: ekey, elapsed: elapsed, running: false };
+
+    var body = '<div class="p-top"><a href="#/papers" class="p-back">← All papers</a>'
+      + '<h1 class="p-title">' + esc(parsed.title) + "</h1>"
+      + '<div class="p-meta">' + esc(parsed.meta) + "</div></div>";
+    body += '<div class="p-bar">'
+      + '<div class="p-timer-wrap"><span class="p-timer" id="pTimer">' + fmtTime(elapsed) + "</span>"
+      + '<button class="calc-btn ghost" id="pStart">▶ Start</button>'
+      + '<button class="calc-btn ghost" id="pReset">↺ Reset</button></div>'
+      + '<div class="p-score"><span>Attempted <b id="pAtt">0</b></span><span>✅ <b id="pCorrect">0</b></span>'
+      + '<span class="p-scorebig">Score <b id="pScore">0</b> / <b id="pMax">0</b></span></div>'
+      + '</div>'
+      + '<div class="q-progress"><div id="pFill" class="q-progress-fill"></div></div>'
+      + '<div id="pDone" class="p-done" hidden></div>'
+      + '<div class="q-tip">💡 This is a numerical/case paper. Tap an option to lock it in — you\'ll see the worked solution instantly. Scoring applies the real <b>25% negative marking</b>. Keep the 🧮 calculator (bottom-right) open.</div>';
+
+    var qhtml = "";
+    parsed.groups.forEach(function (g, gi) {
+      if (g.kind === "mcq") {
+        qhtml += '<div class="p-section-head">' + esc(g.title) + "</div>";
+        g.questions.forEach(function (q) { qhtml += paperCardHtml(q, g, gi); });
+      } else {
+        qhtml += '<div class="p-case"><div class="p-case-head">🧩 ' + esc(g.title) + ' <span class="p-case-marks">5 × ' + g.marks + ' = ' + (5 * g.marks) + ' marks</span></div>'
+          + '<div class="p-case-scenario markdown-body">' + md(g.scenario) + "</div>";
+        g.questions.forEach(function (q) { qhtml += paperCardHtml(q, g, gi); });
+        qhtml += "</div>";
+      }
+    });
+    contentEl.innerHTML = body + '<div id="pList">' + qhtml + "</div>";
+    chapterNavEl.innerHTML = "";
+
+    var list = document.getElementById("pList");
+    Object.keys(saved).forEach(function (qid) { var card = list.querySelector('.q-card[data-qid="' + qid + '"]'); if (card) applyAnswer(card, saved[qid], true); });
+    updatePaperScore();
+    list.addEventListener("click", function (e) {
+      var btn = e.target.closest(".q-opt"); if (!btn) return;
+      var card = btn.closest(".q-card"); if (card.classList.contains("answered")) return;
+      if (!paperCtx.running) startPaperTimer();
+      var i = parseInt(btn.dataset.i, 10);
+      applyAnswer(card, i, false); paperCtx.saved[card.dataset.qid] = i; savePaper(); updatePaperScore();
+    });
+    document.getElementById("pStart").onclick = function () { paperCtx.running ? pausePaperTimer() : startPaperTimer(); };
+    document.getElementById("pReset").onclick = function () {
+      if (confirm("Reset this paper — clear answers and timer?")) {
+        clearPaperTimer(); paperCtx.saved = {}; paperCtx.elapsed = 0; savePaper();
+        try { localStorage.setItem(ekey, "0"); } catch (e) {}
+        renderPaper(num);
+      }
+    };
+    document.title = parsed.title + " — NISM X-B";
+    highlightNav(null);
+    var pl = document.querySelector('.nav-tool[data-link="papers"]'); if (pl) pl.classList.add("active");
+  }
+  function startPaperTimer() {
+    if (!paperCtx || paperCtx.running) return;
+    paperCtx.running = true;
+    var btn = document.getElementById("pStart"); if (btn) btn.textContent = "⏸ Pause";
+    paperTimer = setInterval(function () {
+      paperCtx.elapsed++;
+      var t = document.getElementById("pTimer"); if (t) t.textContent = fmtTime(paperCtx.elapsed);
+      try { localStorage.setItem(paperCtx.ekey, String(paperCtx.elapsed)); } catch (e) {}
+    }, 1000);
+  }
+  function pausePaperTimer() {
+    if (!paperCtx) return; paperCtx.running = false; clearPaperTimer();
+    var btn = document.getElementById("pStart"); if (btn) btn.textContent = "▶ Resume";
+  }
+  function renderPapersHome() {
+    clearPaperTimer();
+    var hero = '<div class="hero" style="background:linear-gradient(135deg,#b45309,#dc2626)"><h1>📑 Mock Test Papers</h1>'
+      + '<p>Ten full 100-mark papers — numerical & case-heavy — to drill the exam questions until they feel easy. Each is auto-scored with the real 25% negative marking and a timer.</p></div>';
+    var cards = '<div class="home-cards">';
+    if (!PAPERS.length) cards += '<p class="markdown-body">Mock papers are being prepared — check back shortly.</p>';
+    PAPERS.forEach(function (p) {
+      var saved = {}; try { saved = JSON.parse(localStorage.getItem("nismxb_paper_" + p.num)) || {}; } catch (e) {}
+      var att = Object.keys(saved).length;
+      var ttl = (p.md.match(/^#\s+(.*)/) || [])[1] || ("Mock Paper " + p.num);
+      cards += '<div class="home-card" data-go="#/paper/' + p.num + '">'
+        + '<div class="hc-num">PAPER ' + p.num + "</div>"
+        + '<div class="hc-title">100 marks · 70 Qs</div>'
+        + '<div class="hc-links"><span class="chip">📝 40 MCQs</span><span class="chip">🧩 6 cases</span>'
+        + (att ? '<span class="chip" style="background:var(--brand-soft);color:var(--brand)">' + att + "/70 done</span>" : "") + "</div></div>";
+    });
+    cards += "</div>";
+    contentEl.innerHTML = hero + cards;
+    contentEl.querySelectorAll("[data-go]").forEach(function (card) { card.addEventListener("click", function () { location.hash = card.getAttribute("data-go"); }); });
+    chapterNavEl.innerHTML = "";
+    highlightNav(null);
+    var pl = document.querySelector('.nav-tool[data-link="papers"]'); if (pl) pl.classList.add("active");
+    document.title = "Mock Test Papers — NISM X-B";
+  }
+
   function renderChapterNav(num) {
     var i = -1; for (var k = 0; k < CH.length; k++) if (CH[k].num === num) { i = k; break; }
     var prev = i > 0 ? CH[i - 1] : null, next = i < CH.length - 1 ? CH[i + 1] : null, h = "";
@@ -821,6 +1007,10 @@
   function route() {
     var hash = location.hash || "#/home";
     window.scrollTo(0, 0); closeSidebar();
+    if (typeof clearPaperTimer === "function") clearPaperTimer();
+    if (/^#\/papers/.test(hash)) { renderPapersHome(); return; }
+    var pm = hash.match(/^#\/paper\/([\w-]+)/);
+    if (pm) { renderPaper(pm[1]); return; }
     if (/^#\/lab/.test(hash)) { renderLab(); return; }
     var m = hash.match(/^#\/ch\/(\d{2})\/(notes|flashcards|questions)/);
     if (m) {

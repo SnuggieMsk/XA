@@ -51,11 +51,18 @@ def main():
             "flashcards": read(f"{d}/flashcards.md"),
             "questions": read(f"{d}/questions.md"),
         })
-    data = {"readme": read("README.md"), "chapters": chapters}
+    # Mock papers (study-guide/mock-papers/paper-01.md …)
+    papers = []
+    mp_dir = BASE / "mock-papers"
+    if mp_dir.exists():
+        for fp in sorted(mp_dir.glob("paper-*.md")):
+            num = fp.stem.split("-")[-1]
+            papers.append({"num": num, "md": fp.read_text(encoding="utf-8")})
+    data = {"readme": read("README.md"), "chapters": chapters, "papers": papers}
     out = "window.STUDY_CONTENT = " + json.dumps(data, ensure_ascii=False) + ";\n"
     (HERE / "content.js").write_text(out, encoding="utf-8")
     total_q = sum(c["questions"].count("\n**Q") for c in chapters)
-    print(f"Wrote content.js: {len(out):,} bytes · {len(chapters)} chapters · ~{total_q} questions")
+    print(f"Wrote content.js: {len(out):,} bytes · {len(chapters)} chapters · ~{total_q} questions · {len(papers)} mock papers")
 
 
 if __name__ == "__main__":
