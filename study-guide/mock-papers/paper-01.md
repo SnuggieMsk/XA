@@ -247,7 +247,7 @@ A) 4.00%  B) 4.24%  C) 3.77%  D) 16.00%
 A) 16.67%  B) 12.25%  C) 11.49%  D) 10.00%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — CAGR = (End ÷ Start)^(1/n) − 1 = (2,00,000 ÷ 1,00,000)^(1/6) − 1 = 2^(0.1667) − 1 = 1.1225 − 1 = 0.1149 = **11.49%**. A) 16.67% is simple-interest thinking (100% ÷ 6). B) 12.25% is the square-root-style error. D) is a guess. Doubling in 6 years implies about 11.5% compounded (consistent with the "Rule of 72": 72 ÷ 6 = 12, close).
+**Correct: B)** — CAGR = (End ÷ Start)^(1/n) − 1 = (2,00,000 ÷ 1,00,000)^(1/6) − 1 = 2^(0.1667) − 1 = 1.1225 − 1 = 0.1225 = **12.25%**. A) 16.67% is simple-interest thinking (100% ÷ 6). C) 11.49% comes from mis-subtracting (using 0.1149 instead of 0.1225). D) is a guess. Doubling in 6 years implies about 12.25% compounded (consistent with the "Rule of 72": 72 ÷ 6 = 12, close).
 </details>
 
 **Q36.** Today's annual expense is ₹6,00,000. With 6% inflation, what will the same expense cost in 10 years (round to nearest ₹)?
@@ -351,24 +351,24 @@ A) ₹5,00,000  B) ₹6,35,000  C) ₹10,00,000  D) ₹7,14,567
 </details>
 
 **Q48.** Using the indexation method, what is the long-term capital gain (after deducting brokerage)?
-A) ₹85,10,822  B) ₹93,05,389  C) ₹1,33,20,000  D) ₹86,90,822
+A) ₹84,10,822  B) ₹93,05,389  C) ₹1,33,20,000  D) ₹86,90,822
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — LTCG = Sale − brokerage − indexed cost − indexed improvement = ₹1,80,00,000 − ₹1,80,000 − ₹86,94,611 − ₹7,14,567 = **₹85,10,822** (approx). B) forgets the indexed improvement. C) ignores all indexation. D) forgets brokerage. Deduct transfer expense and both indexed costs.
+**Correct: A)** — LTCG = Sale − brokerage − indexed cost − indexed improvement = ₹1,80,00,000 − ₹1,80,000 − ₹86,94,611 − ₹7,14,567 = **₹84,10,822** (approx). B) forgets the indexed improvement. C) ignores all indexation. D) forgets brokerage. Deduct transfer expense and both indexed costs.
 </details>
 
 **Q49.** Mr Bhaskar invests ₹50,00,000 in NHAI bonds within 6 months under Section 54EC. By how much does this reduce his taxable LTCG?
-A) ₹0  B) ₹85,10,822  C) ₹20,00,000  D) ₹50,00,000
+A) ₹0  B) ₹84,10,822  C) ₹20,00,000  D) ₹50,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: D)** — Section 54EC exempts the amount invested in NHAI/REC bonds, capped at ₹50,00,000. He invested exactly ₹50,00,000, so exemption = **₹50,00,000**. B) would need the whole gain invested (not allowed beyond ₹50L). C) ₹20L is the gratuity cap. A) is wrong. Taxable LTCG falls to ₹85,10,822 − ₹50,00,000 = ₹35,10,822.
+**Correct: D)** — Section 54EC exempts the amount invested in NHAI/REC bonds, capped at ₹50,00,000. He invested exactly ₹50,00,000, so exemption = **₹50,00,000**. B) would need the whole gain invested (not allowed beyond ₹50L). C) ₹20L is the gratuity cap. A) is wrong. Taxable LTCG falls to ₹84,10,822 − ₹50,00,000 = ₹34,10,822.
 </details>
 
-**Q50.** On the post-54EC taxable LTCG (₹35,10,822) under the indexation method, what is the tax @20% (ignore surcharge/cess)?
-A) ₹7,02,164  B) ₹4,38,853  C) ₹17,02,164  D) ₹3,51,082
+**Q50.** On the post-54EC taxable LTCG (₹34,10,822) under the indexation method, what is the tax @20% (ignore surcharge/cess)?
+A) ₹6,82,164  B) ₹4,26,353  C) ₹16,82,164  D) ₹3,41,082
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Under the old (indexation) method the rate is 20%: ₹35,10,822 × 20% = **₹7,02,164** (approx). B) uses 12.5% (the no-indexation method's rate). C) adds an extra digit. D) uses 10%. For property bought before 23 July 2024, the indexation route taxes the indexed gain at 20% — and the lower of the two methods (20%-with-index vs 12.5%-without) is the final liability.
+**Correct: A)** — Under the old (indexation) method the rate is 20%: ₹34,10,822 × 20% = **₹6,82,164** (approx). B) uses 12.5% (the no-indexation method's rate). C) adds an extra digit. D) uses 10%. For property bought before 23 July 2024, the indexation route taxes the indexed gain at 20% — and the lower of the two methods (20%-with-index vs 12.5%-without) is the final liability.
 </details>
 
 ### Case 3 — Retirement Benefits (Gratuity, EPF, NPS)
