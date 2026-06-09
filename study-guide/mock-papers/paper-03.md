@@ -309,24 +309,24 @@ A) 1.89%  B) 1.96%  C) 14.00%  D) 2.00%
 </details>
 
 **Q42.** The present value (corpus) of Rohan's income stream over 25 years, at 1.89%, beginning-of-year, is closest to:
-A) ₹3,75,00,000  B) ₹3,05,00,000  C) ₹2,99,00,000  D) ₹2,80,00,000
+A) ₹3,75,00,000  B) ₹3,05,00,000  C) ₹3,02,00,000  D) ₹2,80,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Annuity-due PV = PMT × [(1 − (1+r)^−n)/r] × (1+r). With PMT = 15,00,000, r = 0.0189, n = 25: factor (1 − 1.0189^−25)/0.0189 ≈ 19.57; × 1.0189 ≈ 19.94. PV ≈ 15,00,000 × 19.94 ≈ **₹2,99,00,000**. A) ₹3.75 cr is income × 25 (no discounting). B) ₹3.05 cr forgets the due adjustment is already included / slight over. D) ₹2.80 cr understates the factor.
+**Correct: C)** — Annuity-due PV = PMT × [(1 − (1+r)^−n)/r] × (1+r). With PMT = 15,00,000, r = 0.0189, n = 25: ordinary factor (1 − 1.0189^−25)/0.0189 ≈ 19.79; × 1.0189 ≈ 20.16. PV ≈ 15,00,000 × 20.16 ≈ **₹3,02,00,000**. A) ₹3.75 cr is income × 25 (no discounting). B) ₹3.05 cr slightly overstates the factor. D) ₹2.80 cr understates the factor.
 </details>
 
 **Q43.** Adding the home loan to the corpus, the total funds required (before deductions) are closest to:
-A) ₹3,49,00,000  B) ₹3,29,00,000  C) ₹3,79,00,000  D) ₹2,99,00,000
+A) ₹3,52,00,000  B) ₹3,32,00,000  C) ₹3,82,00,000  D) ₹3,02,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Total need = income-replacement corpus + loan outstanding = 2,99,00,000 + 50,00,000 = **₹3,49,00,000**. D) ₹2.99 cr forgets the loan. C) ₹3.79 cr wrongly adds the residence value too (the residence is NOT to be sold, so it is excluded from assets and need not be liquidated). B) ₹3.29 cr uses a ₹30 lakh loan.
+**Correct: A)** — Total need = income-replacement corpus + loan outstanding = 3,02,00,000 + 50,00,000 = **₹3,52,00,000**. D) ₹3.02 cr forgets the loan. C) ₹3.82 cr wrongly adds the residence value too (the residence is NOT to be sold, so it is excluded from assets and need not be liquidated). B) ₹3.32 cr uses a ₹30 lakh loan.
 </details>
 
 **Q44.** Deducting existing cover and investments, Rohan's ADDITIONAL insurance requirement is closest to:
-A) ₹2,09,00,000  B) ₹2,49,00,000  C) ₹1,29,00,000  D) ₹3,49,00,000
+A) ₹2,12,00,000  B) ₹2,52,00,000  C) ₹1,32,00,000  D) ₹3,52,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Additional cover = total need − existing cover − investments = 3,49,00,000 − 1,00,00,000 − 40,00,000 = **₹2,09,00,000**. B) ₹2.49 cr deducts only the existing cover. C) ₹1.29 cr also wrongly subtracts the ₹80 lakh residence (which is not an available asset). D) ₹3.49 cr forgets all deductions. The residence is excluded because the family will keep living in it.
+**Correct: A)** — Additional cover = total need − existing cover − investments = 3,52,00,000 − 1,00,00,000 − 40,00,000 = **₹2,12,00,000**. B) ₹2.52 cr deducts only the existing cover. C) ₹1.32 cr also wrongly subtracts the ₹80 lakh residence (which is not an available asset). D) ₹3.52 cr forgets all deductions. The residence is excluded because the family will keep living in it.
 </details>
 
 **Q45.** Rohan buys ₹2 crore of term cover by taking 2 policies of ₹1 crore each from one insurer rather than a single ₹2 crore policy. The MAIN benefit of splitting is:
@@ -493,14 +493,14 @@ A) ₹14,75,000  B) ₹13,25,000  C) ₹14,00,000  D) ₹13,00,000
 A) ₹1,00,000  B) ₹90,000  C) ₹1,20,000  D) ₹1,40,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — Slab-wise: ₹0–4L nil; ₹4–8L (₹4L) @5% = ₹20,000; ₹8–12L (₹4L) @10% = ₹40,000; ₹12–14L (₹2L) @15% = ₹30,000. Total = 20,000 + 40,000 + 30,000 = **₹1,00,000**. B) ₹90,000 drops part of the 15% slab. C) ₹1.2 lakh over-taxes the top slab. D) ₹1.4 lakh applies a flat rate. Build tax slab by slab.
+**Correct: B)** — Slab-wise: ₹0–4L nil; ₹4–8L (₹4L) @5% = ₹20,000; ₹8–12L (₹4L) @10% = ₹40,000; ₹12–14L (₹2L) @15% = ₹30,000. Total = 20,000 + 40,000 + 30,000 = **₹90,000**. A) ₹1,00,000 over-adds the slabs. C) ₹1.2 lakh over-taxes the top slab. D) ₹1.4 lakh applies a flat rate. Build tax slab by slab.
 </details>
 
 **Q63.** Adding 4% health & education cess, Kavya's total tax liability is:
-A) ₹1,02,000  B) ₹1,00,000  C) ₹1,04,000  D) ₹1,03,000
+A) ₹91,800  B) ₹90,000  C) ₹93,600  D) ₹92,700
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Cess = 4% × 1,00,000 = ₹4,000. Total = 1,00,000 + 4,000 = **₹1,04,000**. A) ₹1,02,000 uses 2% cess. B) ₹1,00,000 forgets cess. D) ₹1,03,000 uses 3%. The cess is always 4% of (tax + surcharge).
+**Correct: C)** — Cess = 4% × 90,000 = ₹3,600. Total = 90,000 + 3,600 = **₹93,600**. A) ₹91,800 uses 2% cess. B) ₹90,000 forgets cess. D) ₹92,700 uses 3%. The cess is always 4% of (tax + surcharge).
 </details>
 
 **Q64.** Why does Kavya NOT get the Section 87A rebate (which makes tax nil) that a colleague earning ₹12,00,000 taxable would get?
