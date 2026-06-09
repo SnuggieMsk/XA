@@ -198,7 +198,7 @@ A) ₹1,50,000  B) ₹2,00,000  C) ₹2,25,000  D) ₹1,75,000
 A) ₹15,625  B) ₹18,750  C) ₹37,500  D) ₹21,875
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — First set off the ₹50,000 LTCL against the ₹3,00,000 LTCG → net LTCG ₹2,50,000. Then apply the ₹1,25,000 exemption → taxable ₹1,25,000. Tax = 12.5% × 1,25,000 = **₹15,625**. Option B skips the loss set-off (12.5% × (3,00,000 − 1,25,000) ÷ ... ). Option C ignores both the loss and exemption (12.5% × 3,00,000). Option D ignores the loss set-off but keeps exemption.
+**Correct: A)** — First set off the ₹50,000 LTCL against the ₹3,00,000 LTCG → net LTCG ₹2,50,000. Then apply the ₹1,25,000 exemption → taxable ₹1,25,000. Tax = 12.5% × 1,25,000 = **₹15,625**. Option B (₹18,750 = 12.5% × 1,50,000) applies a wrong taxable base. Option C ignores both the loss and exemption (12.5% × 3,00,000 = ₹37,500). Option D (₹21,875 = 12.5% × (3,00,000 − 1,25,000)) keeps the exemption but ignores the loss set-off.
 </details>
 
 **Q29.** Loss aversion most directly leads investors to:
@@ -279,10 +279,10 @@ A) ₹37,500  B) ₹60,000  C) ₹90,000  D) ₹30,000
 </details>
 
 **Q40.** A goal needs ₹40,00,000 in 8 years. An investor already has ₹10,00,000 invested at 8% p.a. How much more lump sum must be invested today (also at 8%) to meet the goal? (1.08^8 = 1.85093)
-A) ₹11,61,290  B) ₹30,00,000  C) ₹21,61,290  D) ₹16,21,613
+A) ₹11,61,076  B) ₹30,00,000  C) ₹21,61,076  D) ₹16,21,613
 <details><summary>Answer & Explanation</summary>
 
-**Correct: A)** — The existing ₹10,00,000 grows to 10,00,000 × 1.85093 = ₹18,50,930 in 8 years. Shortfall at maturity = 40,00,000 − 18,50,930 = ₹21,49,070. Present value of that shortfall = 21,49,070 ÷ 1.85093 = **₹11,61,290** (additional lump sum needed today). Equivalently: total PV of goal = 40,00,000 ÷ 1.85093 = ₹21,61,290; minus existing ₹10,00,000 = **₹11,61,290**. Option C is the total PV of the goal (forgets to subtract the existing ₹10 lakh). Option B is the nominal shortfall ignoring growth. Option D miscomputes.
+**Correct: A)** — The existing ₹10,00,000 grows to 10,00,000 × 1.85093 = ₹18,50,930 in 8 years. Shortfall at maturity = 40,00,000 − 18,50,930 = ₹21,49,070. Present value of that shortfall = 21,49,070 ÷ 1.85093 = **₹11,61,076** (additional lump sum needed today). Equivalently: total PV of goal = 40,00,000 ÷ 1.85093 = ₹21,61,076; minus existing ₹10,00,000 = **₹11,61,076**. Option C is the total PV of the goal (forgets to subtract the existing ₹10 lakh). Option B is the nominal shortfall ignoring growth. Option D miscomputes.
 </details>
 
 ## Section B — Case Studies (6 cases × 5 sub-questions × 2 marks = 60 marks)

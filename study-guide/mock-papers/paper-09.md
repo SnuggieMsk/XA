@@ -23,7 +23,7 @@ A) Rs. 1,10,000  B) Rs. 1,06,000  C) Rs. 1,40,000  D) Rs. 1,60,357
 A) 28.0%  B) 19.14%  C) 14.0%  D) 24.0%
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — CAGR smooths growth into one annual rate: **CAGR = (End ÷ Start)^(1/n) − 1**. = (6,00,000 ÷ 2,50,000)^(1/5) − 1 = (2.4)^(0.2) − 1 = 1.19136 − 1 = 0.19136 = **19.14%**. Option C (14%) is the simple average ((2.4 − 1) ÷ 5 = 28% total ÷... ) miscalculation; A (28%) is the total growth divided incorrectly per year ignoring compounding; D is a guess. CAGR answers "what single steady rate would turn 2.5 lakh into 6 lakh in 5 years?"
+**Correct: B)** — CAGR smooths growth into one annual rate: **CAGR = (End ÷ Start)^(1/n) − 1**. = (6,00,000 ÷ 2,50,000)^(1/5) − 1 = (2.4)^(0.2) − 1 = 1.19136 − 1 = 0.19136 = **19.14%**. Option A (28%) is the simple average ((2.4 − 1) ÷ 5 = 1.4 ÷ 5 = 28%), dividing total growth per year while ignoring compounding; C (14%) and D are guesses. CAGR answers "what single steady rate would turn 2.5 lakh into 6 lakh in 5 years?"
 </details>
 
 **Q4.** A portfolio earns a nominal return of 12% in a year when inflation is 6%. What is the real (inflation-adjusted) return?
@@ -111,10 +111,10 @@ A) Rs. 23,00,387  B) Rs. 12,00,000  C) Rs. 18,00,000  D) Rs. 20,00,000
 </details>
 
 **Q16.** Investing Rs. 1,00,000 per year for 15 years at 10%, what is the difference between an annuity-DUE (start of year) and an ordinary annuity (end of year)?
-A) Rs. 3,17,725  B) Rs. 3,17,725 vs 3,49,497 — difference Rs. 31,772  C) Nil  D) Rs. 1,00,000
+A) Rs. 3,17,725  B) Rs. 31,77,248 vs 34,94,973 — difference Rs. 3,17,725  C) Nil  D) Rs. 1,00,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — Annuity due = ordinary annuity × (1 + r), because each deposit gets one extra period of growth. Ordinary FV = 1,00,000 × [(1.10)¹⁵ − 1] ÷ 0.10 = 1,00,000 × 31.77248 = Rs. 31,77,248. Due = 31,77,248 × 1.10 = Rs. 34,94,973. Difference = **Rs. 31,772** (which equals the ordinary FV × 0.10). Option C is wrong because timing matters; A gives only the ordinary figure; D is a guess. Paying at the start of each period always grows the corpus more.
+**Correct: B)** — Annuity due = ordinary annuity × (1 + r), because each deposit gets one extra period of growth. Ordinary FV = 1,00,000 × [(1.10)¹⁵ − 1] ÷ 0.10 = 1,00,000 × 31.77248 = Rs. 31,77,248. Due = 31,77,248 × 1.10 = Rs. 34,94,973. Difference = **Rs. 3,17,725** (which equals the ordinary FV × 0.10). Option C is wrong because timing matters; A gives only the ordinary figure; D is a guess. Paying at the start of each period always grows the corpus more.
 </details>
 
 **Q17.** Mr. E withdraws Rs. 75,000 from his EPF when he still has 30 years to retirement. If EPF earns 8.5% per annum, roughly how much future corpus does he forgo?
