@@ -97,10 +97,10 @@ A) ₹7,15,000  B) ₹6,75,000  C) ₹6,55,000  D) ₹7,01,276
 </details>
 
 **Q14.** A person invests ₹10,000 per month via SIP for 3 years at 12% p.a. (1% per month). Using the future value of an ordinary annuity, what is the approximate corpus?
-A) ₹3,60,000  B) ₹3,90,000  C) ₹4,03,200  D) ₹4,30,389
+A) ₹3,60,000  B) ₹3,90,000  C) ₹4,03,200  D) ₹4,30,769
 <details><summary>Answer & Explanation</summary>
 
-**Correct: D)** — FV of an ordinary annuity = P × [((1+i)^n − 1) ÷ i], where P = ₹10,000, i = 0.01 monthly, n = 36 months. (1.01)^36 = 1.430769, so [(1.430769 − 1) ÷ 0.01] = 43.0769. FV = ₹10,000 × 43.0769 = **₹4,30,389**. Option A is just the sum invested (₹3,60,000) ignoring growth. Options B and C undershoot the compounding. The annuity factor captures monthly compounding.
+**Correct: D)** — FV of an ordinary annuity = P × [((1+i)^n − 1) ÷ i], where P = ₹10,000, i = 0.01 monthly, n = 36 months. (1.01)^36 = 1.430769, so [(1.430769 − 1) ÷ 0.01] = 43.0769. FV = ₹10,000 × 43.0769 = **₹4,30,769**. Option A is just the sum invested (₹3,60,000) ignoring growth. Options B and C undershoot the compounding. The annuity factor captures monthly compounding.
 </details>
 
 **Q15.** A health insurance policy of ₹5,00,000 sum insured has a **10% co-pay** clause. The insured incurs a hospital bill of ₹2,00,000. How much does the insurer pay?
