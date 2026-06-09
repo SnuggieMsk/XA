@@ -6,10 +6,10 @@
 ## Section A — Numerical MCQs (40 questions × 1 mark = 40 marks)
 
 **Q1.** Ravi buys 1,000 listed equity shares at ₹150 (STT paid) on 10-May-2023 and sells all on 20-Jun-2025 at ₹360. This is his only capital gain in FY 2025-26. What is his capital gains tax liability (ignore cess)?
-A) ₹26,250  B) ₹10,937.50  C) ₹42,000  D) ₹21,000
+A) ₹26,250  B) ₹10,625  C) ₹42,000  D) ₹21,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: B)** — These are listed shares with STT, held more than 12 months (May-2023 to Jun-2025 ≈ 25 months), so it is a Long-Term Capital Gain taxed under Section 112A at 12.5% on the gain above the ₹1,25,000 exemption. Gain = (360−150) × 1,000 = ₹2,10,000. Taxable = 2,10,000 − 1,25,000 = ₹85,000. Tax = 12.5% × 85,000 = **₹10,937.50**. Option A (₹26,250) forgets the ₹1.25 lakh exemption (12.5% × 2,10,000). Option C uses 20% STCG rate, wrong because the holding period is over 12 months. Option D (₹21,000) is 10% of the gross gain — the old pre-23-Jul-2024 rate, no longer applicable.
+**Correct: B)** — These are listed shares with STT, held more than 12 months (May-2023 to Jun-2025 ≈ 25 months), so it is a Long-Term Capital Gain taxed under Section 112A at 12.5% on the gain above the ₹1,25,000 exemption. Gain = (360−150) × 1,000 = ₹2,10,000. Taxable = 2,10,000 − 1,25,000 = ₹85,000. Tax = 12.5% × 85,000 = **₹10,625**. Option A (₹26,250) forgets the ₹1.25 lakh exemption (12.5% × 2,10,000). Option C uses 20% STCG rate, wrong because the holding period is over 12 months. Option D (₹21,000) is 10% of the gross gain — the old pre-23-Jul-2024 rate, no longer applicable.
 </details>
 
 **Q2.** Sunita sells an unlisted equity share lot for a gain of ₹4,00,000 after holding it for 30 months (acquired and sold after 23-Jul-2024). What is the LTCG tax (ignore cess and surcharge)?

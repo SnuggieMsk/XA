@@ -6,6 +6,7 @@
   var DATA = window.STUDY_CONTENT || { chapters: [], readme: "" };
   var CH = DATA.chapters;
   var PAPERS = DATA.papers || [];
+  var PRIMER = DATA.primer || "";
   var VIEWS = [
     { key: "notes", label: "Notes", ico: "📖" },
     { key: "flashcards", label: "Flashcards", ico: "🃏" },
@@ -414,7 +415,8 @@
     Object.keys(LAB_TYPES).forEach(function (k) { typeOpts += '<option value="' + k + '">' + LAB_TYPES[k] + "</option>"; });
     contentEl.innerHTML =
       '<div class="hero lab-hero"><h1>🔢 Financial Maths Lab</h1>'
-      + '<p>Unlimited practice for the calculations the exam loves — <b>PV, FV, PMT, CAGR, inflation, real return & retirement corpus</b>. Every answer comes with a full worked solution. Open the 🧮 calculator (bottom-right) to check your working.</p></div>'
+      + '<p>Unlimited practice for the calculations the exam loves — <b>PV, FV, PMT, CAGR, inflation, real return & retirement corpus</b>. Every answer comes with a full worked solution. Open the 🧮 calculator (bottom-right) to check your working.</p>'
+      + (PRIMER ? '<div class="hero-cta"><a href="#/primer" class="cta">📐 New here? Read the PV/FV/PMT primer first</a></div>' : "") + '</div>'
       + '<div class="lab-bar">'
       + '<label class="lab-pick">Practice: <select id="labType">' + typeOpts + '</select></label>'
       + '<div class="lab-scores">'
@@ -510,6 +512,7 @@
     var html = '<a class="nav-chap-head" href="#/home"><span class="nav-chap-num">🏠</span>'
       + '<span class="nav-chap-title">Home &amp; Exam Guide</span></a>';
     html += '<div class="nav-module">Study Tools</div>';
+    if (PRIMER) html += '<a class="nav-tool" data-link="primer" href="#/primer"><span class="nav-chap-num">📐</span><span class="nav-chap-title">Financial Maths Primer</span></a>';
     html += '<a class="nav-tool" data-link="lab" href="#/lab"><span class="nav-chap-num">🔢</span><span class="nav-chap-title">Financial Maths Lab</span></a>';
     if (PAPERS.length) html += '<a class="nav-tool" data-link="papers" href="#/papers"><span class="nav-chap-num">📑</span><span class="nav-chap-title">Mock Test Papers</span></a>';
     html += '<button class="nav-tool" id="navCalc"><span class="nav-chap-num">🧮</span><span class="nav-chap-title">Financial Calculator</span></button>';
@@ -554,7 +557,8 @@
     document.querySelectorAll(".nav-chapter").forEach(function (w) { w.classList.remove("open"); });
     if (!num) {
       var h = location.hash;
-      if (h.indexOf("/lab") > -1) { var l = document.querySelector('.nav-tool[data-link="lab"]'); if (l) l.classList.add("active"); }
+      if (h.indexOf("/primer") > -1) { var pr = document.querySelector('.nav-tool[data-link="primer"]'); if (pr) pr.classList.add("active"); }
+      else if (h.indexOf("/lab") > -1) { var l = document.querySelector('.nav-tool[data-link="lab"]'); if (l) l.classList.add("active"); }
       else if (h.indexOf("/paper") > -1) { var pp = document.querySelector('.nav-tool[data-link="papers"]'); if (pp) pp.classList.add("active"); }
       else { var home = document.querySelector('.nav-chap-head[href="#/home"]'); if (home) home.classList.add("active"); }
       return;
@@ -995,6 +999,17 @@
     document.title = "Mock Test Papers — NISM X-B";
   }
 
+  function renderPrimer() {
+    clearPaperTimer();
+    contentEl.innerHTML = '<div class="markdown-body primer-body">' + md(PRIMER || "Primer not available.") + "</div>"
+      + '<div class="chapter-nav"><a class="prev" href="#/lab"><div class="cn-label">Practice →</div><div class="cn-title">🔢 Financial Maths Lab</div></a>'
+      + '<div class="cn-spacer"></div></div>';
+    chapterNavEl.innerHTML = "";
+    highlightNav(null);
+    var pl = document.querySelector('.nav-tool[data-link="primer"]'); if (pl) pl.classList.add("active");
+    document.title = "Financial Maths Primer — NISM X-B";
+  }
+
   function renderChapterNav(num) {
     var i = -1; for (var k = 0; k < CH.length; k++) if (CH[k].num === num) { i = k; break; }
     var prev = i > 0 ? CH[i - 1] : null, next = i < CH.length - 1 ? CH[i + 1] : null, h = "";
@@ -1008,6 +1023,7 @@
     var hash = location.hash || "#/home";
     window.scrollTo(0, 0); closeSidebar();
     if (typeof clearPaperTimer === "function") clearPaperTimer();
+    if (/^#\/primer/.test(hash)) { renderPrimer(); return; }
     if (/^#\/papers/.test(hash)) { renderPapersHome(); return; }
     var pm = hash.match(/^#\/paper\/([\w-]+)/);
     if (pm) { renderPaper(pm[1]); return; }

@@ -43,10 +43,10 @@ A) Rs. 100  B) Rs. 105  C) Rs. 107  D) Rs. 117
 </details>
 
 **Q5.** The workbook states that Rs. 10,000 per month spent today will become how much per month after 25 years at 7% inflation?
-A) Rs. 25,000  B) Rs. 48,847  C) Rs. 54,724  D) Rs. 81,411
+A) Rs. 25,000  B) Rs. 48,847  C) Rs. 54,274  D) Rs. 81,411
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Future Expense = Present × (1 + inflation)^years = 10,000 × (1.07)^25 ≈ Rs. 54,724/month. This is the exact figure in the workbook.
+**Correct: C)** — Future Expense = Present × (1 + inflation)^years = 10,000 × (1.07)^25 ≈ Rs. 54,274/month. This is the exact figure in the workbook.
 - A) is the original amount roughly, ignoring growth.
 - B) is the Scenario-1 figure for Rs. 9,000 today, not Rs. 10,000.
 - D) is the Scenario-2 figure for Rs. 15,000 today.
@@ -665,11 +665,11 @@ A) Sell all assets  B) Know where all the client's investments are, so the whole
 
 ## 🔴 Tier 3 — Hard: Numerical & Scenario (Q71–Q100)
 
-**Q71.** A client spends Rs. 12,000/month today. At 7% inflation, what will the equivalent monthly expense be in 25 years (use the same factor as the workbook's Rs. 10,000 → Rs. 54,724)?
-A) Rs. 30,000  B) Rs. 54,724  C) Rs. 65,669  D) Rs. 84,000
+**Q71.** A client spends Rs. 12,000/month today. At 7% inflation, what will the equivalent monthly expense be in 25 years (use the same factor as the workbook's Rs. 10,000 → Rs. 54,274)?
+A) Rs. 30,000  B) Rs. 54,274  C) Rs. 65,129  D) Rs. 84,000
 <details><summary>Answer & Explanation</summary>
 
-**Correct: C)** — Future = Present × (1.07)^25. The workbook's factor is 54,724 ÷ 10,000 = 5.4724. So 12,000 × 5.4724 ≈ Rs. 65,669.
+**Correct: C)** — Future = Present × (1.07)^25. The workbook's factor is 54,274 ÷ 10,000 = 5.4274. So 12,000 × 5.4274 ≈ Rs. 65,129.
 - A) ignores inflation growth.
 - B) is the figure for Rs. 10,000, not Rs. 12,000.
 - D) overstates (would imply a factor of 7).
