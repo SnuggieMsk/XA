@@ -493,3 +493,29 @@ body{
 .p-case-marks{font-size:.75rem;font-weight:600;color:var(--text-soft);background:var(--surface-2);border:1px solid var(--border);padding:3px 9px;border-radius:99px}
 .p-case-scenario{background:var(--surface-2);border-left:4px solid var(--brand);border-radius:0 12px 12px 0;padding:6px 16px;margin-bottom:12px;font-size:.98rem}
 .p-case .q-card{box-shadow:none;border-color:var(--border)}
+
+/* ===================================================================
+   EXCEL TVM CALCULATOR PAGE — appended
+   =================================================================== */
+.xl-sheet{background:var(--surface);border:1px solid var(--border);border-radius:16px;box-shadow:var(--shadow);overflow:hidden;margin:0 0 22px}
+.xl-titlebar{background:#107c41;color:#fff;font-weight:800;padding:12px 18px;font-size:1rem;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.xl-titlebar span{font-weight:500;font-size:.78rem;opacity:.9}
+.xl-row{display:grid;grid-template-columns:170px 1fr 72px;gap:0;border-bottom:1px solid var(--border);align-items:stretch}
+.xl-label{padding:13px 16px;font-weight:700;font-size:.92rem;background:var(--surface-2);border-right:1px solid var(--border);display:flex;align-items:center}
+.xl-input{border:none;padding:13px 16px;font-size:1.05rem;font-variant-numeric:tabular-nums;background:var(--surface);color:var(--text);outline:none;min-width:0}
+.xl-input:focus{background:var(--brand-soft)}
+.xl-cpt{border:none;border-left:1px solid var(--border);background:#107c41;color:#fff;font-weight:800;font-size:.85rem;cursor:pointer;transition:.15s}
+.xl-cpt:hover{background:#0b5e30}
+.xl-sheet .calc-mode{padding:12px 16px;margin:0;border-bottom:1px solid var(--border)}
+.xl-out{padding:16px;display:flex;flex-direction:column;gap:8px;background:var(--surface-2)}
+.xl-formula{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.95rem;color:#107c41;background:var(--surface);border:1px dashed var(--border);border-radius:8px;padding:8px 12px;overflow-x:auto;white-space:nowrap}
+[data-theme="dark"] .xl-formula{color:#4ade80}
+.xl-result{font-size:1.55rem;font-weight:800;font-variant-numeric:tabular-nums;color:var(--brand);min-height:1em}
+.xl-result.xl-err{color:var(--danger);font-size:1rem;font-weight:600}
+.xl-sheet .lab-controls{padding:0 16px 16px;margin:0;background:var(--surface-2)}
+.xl-h2{font-family:"Fraunces",Georgia,serif;font-weight:600;font-size:1.35rem;margin:26px 0 6px}
+.xl-preset-group{font-size:.78rem;font-weight:800;letter-spacing:.5px;text-transform:uppercase;color:var(--text-soft);margin:16px 0 8px}
+.xl-presets{display:flex;flex-wrap:wrap;gap:9px}
+.xl-preset{padding:10px 15px;border-radius:99px;border:1px solid var(--border);background:var(--surface);color:var(--text);font-size:.9rem;font-weight:600;cursor:pointer;transition:.15s;text-align:left}
+.xl-preset:hover{border-color:#107c41;color:#107c41;transform:translateY(-1px)}
+@media(max-width:560px){.xl-row{grid-template-columns:120px 1fr 60px}.xl-label{font-size:.8rem;padding:11px 10px}}

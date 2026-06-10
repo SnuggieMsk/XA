@@ -514,7 +514,7 @@
       + '<span class="nav-chap-title">Home &amp; Exam Guide</span></a>';
     html += '<div class="nav-module">Study Tools</div>';
     if (PRIMER) html += '<a class="nav-tool" data-link="primer" href="#/primer"><span class="nav-chap-num">📐</span><span class="nav-chap-title">Financial Maths Primer</span></a>';
-    if (EXCEL) html += '<a class="nav-tool" data-link="excel" href="#/excel"><span class="nav-chap-num">💻</span><span class="nav-chap-title">Excel TVM Guide</span></a>';
+    if (EXCEL) html += '<a class="nav-tool" data-link="excel" href="#/excel"><span class="nav-chap-num">💻</span><span class="nav-chap-title">Excel TVM Calculator</span></a>';
     html += '<a class="nav-tool" data-link="lab" href="#/lab"><span class="nav-chap-num">🔢</span><span class="nav-chap-title">Financial Maths Lab</span></a>';
     if (PAPERS.length) html += '<a class="nav-tool" data-link="papers" href="#/papers"><span class="nav-chap-num">📑</span><span class="nav-chap-title">Mock Test Papers</span></a>';
     html += '<button class="nav-tool" id="navCalc"><span class="nav-chap-num">🧮</span><span class="nav-chap-title">Financial Calculator</span></button>';
@@ -1013,15 +1013,106 @@
     document.title = "Financial Maths Primer — NISM X-B";
   }
 
+  var XL_PRESETS = [
+    { group: "From the practice sheet (the photo)", items: [
+      { label: "₹10,000 today @10% for 15y → FV", vals: { nper: 15, rate: 10, pv: -10000, pmt: 0, fv: "" }, target: "fv" },
+      { label: "₹10,000/yr for 15y @10% → worth today (PV)", vals: { nper: 15, rate: 10, pmt: -10000, fv: 0, pv: "" }, target: "pv" },
+      { label: "₹1L grew to ₹3.45L in 15y → RATE (the #NUM! fix)", vals: { nper: 15, pmt: 0, pv: -100000, fv: 345000, rate: "" }, target: "rate" },
+      { label: "Clear ₹1L @10% over 15y → PMT", vals: { nper: 15, rate: 10, pv: -100000, fv: 0, pmt: "" }, target: "pmt" }
+    ]},
+    { group: "Exam drills", items: [
+      { label: "₹5,000/month SIP @12% p.a., 20 yrs → corpus", vals: { nper: 240, rate: 1, pmt: -5000, pv: 0, fv: "" }, target: "fv" },
+      { label: "Need ₹1 cr in 25y @10% → invest today", vals: { nper: 25, rate: 10, pmt: 0, fv: 10000000, pv: "" }, target: "pv" },
+      { label: "₹50L goal in 15y @9% → save per year", vals: { nper: 15, rate: 9, pv: 0, fv: 5000000, pmt: "" }, target: "pmt" },
+      { label: "₹2L → ₹8L in 12y → CAGR", vals: { nper: 12, pmt: 0, pv: -200000, fv: 800000, rate: "" }, target: "rate" },
+      { label: "₹30L corpus @8%, withdraw ₹3L/yr → lasts how long", vals: { rate: 8, pmt: 300000, pv: -3000000, fv: 0, nper: "" }, target: "nper" }
+    ]}
+  ];
+  function xlVal(id) { var el = document.getElementById("xl_" + id); if (!el || el.value === "") return null; var v = parseFloat(String(el.value).replace(/,/g, "")); return isFinite(v) ? v : null; }
+  function xlSet(id, v) { var el = document.getElementById("xl_" + id); if (el) el.value = (v === "" || v == null) ? "" : v; }
+  function xlFormulaStr(target, n, r, pv, pmt, fv, t) {
+    var R = (r == null ? "rate" : r + "%"), N = (n == null ? "nper" : n), P = (pv == null ? "pv" : pv), M = (pmt == null ? "pmt" : pmt), F = (fv == null ? "fv" : fv);
+    var tail = t ? ", 1" : "";
+    if (target === "fv") return "=FV(" + R + ", " + N + ", " + M + ", " + P + tail + ")";
+    if (target === "pv") return "=PV(" + R + ", " + N + ", " + M + ", " + F + tail + ")";
+    if (target === "pmt") return "=PMT(" + R + ", " + N + ", " + P + ", " + F + tail + ")";
+    if (target === "nper") return "=NPER(" + R + ", " + M + ", " + P + ", " + F + tail + ")";
+    return "=RATE(" + N + ", " + M + ", " + P + ", " + F + tail + ")";
+  }
+  function xlCompute(target) {
+    var n = xlVal("nper"), r = xlVal("rate"), pv = xlVal("pv"), pmt = xlVal("pmt"), fv = xlVal("fv");
+    var t = document.getElementById("xlType").checked ? 1 : 0;
+    var ri = r == null ? null : r / 100, ans, shown;
+    var fEl = document.getElementById("xlFormula"), rEl = document.getElementById("xlResult");
+    try {
+      if (target === "fv") { ans = tvmFV(ri, n, pmt, pv, t); shown = inrDec(ans); xlSet("fv", Math.round(ans * 100) / 100); }
+      else if (target === "pv") { ans = tvmPV(ri, n, pmt, fv, t); shown = inrDec(ans); xlSet("pv", Math.round(ans * 100) / 100); }
+      else if (target === "pmt") { ans = tvmPMT(ri, n, pv, fv, t); shown = inrDec(ans) + " per period"; xlSet("pmt", Math.round(ans * 100) / 100); }
+      else if (target === "nper") { ans = tvmNPER(ri, pmt, pv, fv, t); shown = (Math.round(ans * 100) / 100) + " periods"; xlSet("nper", Math.round(ans * 100) / 100); }
+      else { ans = tvmRATE(n, pmt, pv, fv, t) * 100; shown = pct(ans) + " per period"; xlSet("rate", Math.round(ans * 100) / 100); }
+      if (!isFinite(ans)) throw new Error("nan");
+      fEl.textContent = xlFormulaStr(target, n, r, pv, pmt, fv, t);
+      rEl.innerHTML = shown;
+      rEl.classList.remove("xl-err");
+    } catch (e) {
+      fEl.textContent = xlFormulaStr(target, n, r, pv, pmt, fv, t);
+      rEl.innerHTML = "#NUM! — check the <b>signs</b>: money you pay out must be negative (one of PV/PMT/FV must be opposite-signed).";
+      rEl.classList.add("xl-err");
+    }
+  }
   function renderExcel() {
     clearPaperTimer();
-    contentEl.innerHTML = '<div class="markdown-body primer-body">' + md(EXCEL || "Guide not available.") + "</div>"
-      + '<div class="chapter-nav"><a class="prev" href="#/primer"><div class="cn-label">The formulas behind it</div><div class="cn-title">📐 Financial Maths Primer</div></a>'
-      + '<a class="next" href="#/lab"><div class="cn-label">Practice →</div><div class="cn-title">🔢 Financial Maths Lab</div></a></div>';
-    chapterNavEl.innerHTML = "";
+    var rows = [
+      ["nper", "N — periods", "years (or months)"],
+      ["rate", "Rate % / period", "10 yearly · 1 for 12%/12 monthly"],
+      ["pv", "PV — today", "money out = negative"],
+      ["pmt", "PMT — each period", "SIP/EMI; out = negative"],
+      ["fv", "FV — later", "goal / maturity"]
+    ];
+    var sheet = '<div class="xl-sheet"><div class="xl-titlebar">📗 TVM Worksheet <span>fills & computes like Excel\'s =FV / =PV / =PMT / =RATE / =NPER</span></div>';
+    rows.forEach(function (r) {
+      sheet += '<div class="xl-row"><div class="xl-label">' + r[1] + '</div>'
+        + '<input class="xl-input" id="xl_' + r[0] + '" type="text" inputmode="decimal" placeholder="' + r[2] + '">'
+        + '<button class="xl-cpt" data-xcpt="' + r[0] + '">CPT</button></div>';
+    });
+    sheet += '<label class="calc-mode"><input type="checkbox" id="xlType"> Payments at <b>beginning</b> of period (type = 1, annuity-due)</label>'
+      + '<div class="xl-out"><code class="xl-formula" id="xlFormula">Fill any four → press CPT on the one you want</code><div class="xl-result" id="xlResult"></div></div>'
+      + '<div class="lab-controls"><button class="calc-btn ghost" id="xlClear">Clear all</button></div></div>';
+    var presets = "";
+    XL_PRESETS.forEach(function (g) {
+      presets += '<div class="xl-preset-group">' + esc(g.group) + "</div><div class='xl-presets'>";
+      g.items.forEach(function (p, i) { p._gi = presets.length + ":" + i; });
+      g.items.forEach(function (p) {
+        presets += '<button class="xl-preset" data-xp="' + esc(JSON.stringify({ v: p.vals, t: p.target })).replace(/"/g, "&quot;") + '">' + esc(p.label) + "</button>";
+      });
+      presets += "</div>";
+    });
+    contentEl.innerHTML =
+      '<div class="hero" style="background:linear-gradient(135deg,#107c41,#2f6df6)"><h1>💻 Excel TVM Calculator</h1>'
+      + '<p>The exam machines have Excel — this page behaves exactly like it. Fill any four boxes, press <b>CPT</b> on the fifth, and see the Excel formula you\'d type. Try the one-click presets (including the exact sums from the practice sheet photo).</p></div>'
+      + sheet
+      + '<h2 class="xl-h2">⚡ One-click presets</h2>' + presets
+      + '<details class="lab-formulas"><summary>📖 Read the full one-pager guide (sign rules, error decoder, drills)</summary><div class="markdown-body">' + md(EXCEL) + "</div></details>";
+    contentEl.querySelectorAll("[data-xcpt]").forEach(function (b) { b.addEventListener("click", function () { xlCompute(b.dataset.xcpt); }); });
+    contentEl.querySelectorAll(".xl-preset").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var cfg = JSON.parse(b.getAttribute("data-xp"));
+        ["nper", "rate", "pv", "pmt", "fv"].forEach(function (k) { xlSet(k, cfg.v[k] === undefined ? "" : cfg.v[k]); });
+        document.getElementById("xlType").checked = false;
+        xlCompute(cfg.t);
+        document.querySelector(".xl-sheet").scrollIntoView({ behavior: "smooth", block: "center" });
+      });
+    });
+    document.getElementById("xlClear").addEventListener("click", function () {
+      ["nper", "rate", "pv", "pmt", "fv"].forEach(function (k) { xlSet(k, ""); });
+      document.getElementById("xlFormula").textContent = "Fill any four → press CPT on the one you want";
+      document.getElementById("xlResult").innerHTML = "";
+    });
+    chapterNavEl.innerHTML = '<a class="prev" href="#/primer"><div class="cn-label">The formulas behind it</div><div class="cn-title">📐 Financial Maths Primer</div></a>'
+      + '<a class="next" href="#/lab"><div class="cn-label">Practice →</div><div class="cn-title">🔢 Financial Maths Lab</div></a>';
     highlightNav(null);
     var el = document.querySelector('.nav-tool[data-link="excel"]'); if (el) el.classList.add("active");
-    document.title = "Excel TVM Guide — NISM X-B";
+    document.title = "Excel TVM Calculator — NISM X-B";
   }
 
   function renderChapterNav(num) {
