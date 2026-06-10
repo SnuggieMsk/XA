@@ -59,7 +59,8 @@ def main():
             num = fp.stem.split("-")[-1]
             papers.append({"num": num, "md": fp.read_text(encoding="utf-8")})
     data = {"readme": read("README.md"), "chapters": chapters, "papers": papers,
-            "primer": read("financial-maths-primer.md")}
+            "primer": read("financial-maths-primer.md"),
+            "excel": read("excel-tvm-guide.md")}
     out = "window.STUDY_CONTENT = " + json.dumps(data, ensure_ascii=False) + ";\n"
     (HERE / "content.js").write_text(out, encoding="utf-8")
     total_q = sum(c["questions"].count("\n**Q") for c in chapters)

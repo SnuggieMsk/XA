@@ -7,6 +7,7 @@
   var CH = DATA.chapters;
   var PAPERS = DATA.papers || [];
   var PRIMER = DATA.primer || "";
+  var EXCEL = DATA.excel || "";
   var VIEWS = [
     { key: "notes", label: "Notes", ico: "📖" },
     { key: "flashcards", label: "Flashcards", ico: "🃏" },
@@ -513,6 +514,7 @@
       + '<span class="nav-chap-title">Home &amp; Exam Guide</span></a>';
     html += '<div class="nav-module">Study Tools</div>';
     if (PRIMER) html += '<a class="nav-tool" data-link="primer" href="#/primer"><span class="nav-chap-num">📐</span><span class="nav-chap-title">Financial Maths Primer</span></a>';
+    if (EXCEL) html += '<a class="nav-tool" data-link="excel" href="#/excel"><span class="nav-chap-num">💻</span><span class="nav-chap-title">Excel TVM Guide</span></a>';
     html += '<a class="nav-tool" data-link="lab" href="#/lab"><span class="nav-chap-num">🔢</span><span class="nav-chap-title">Financial Maths Lab</span></a>';
     if (PAPERS.length) html += '<a class="nav-tool" data-link="papers" href="#/papers"><span class="nav-chap-num">📑</span><span class="nav-chap-title">Mock Test Papers</span></a>';
     html += '<button class="nav-tool" id="navCalc"><span class="nav-chap-num">🧮</span><span class="nav-chap-title">Financial Calculator</span></button>';
@@ -558,6 +560,7 @@
     if (!num) {
       var h = location.hash;
       if (h.indexOf("/primer") > -1) { var pr = document.querySelector('.nav-tool[data-link="primer"]'); if (pr) pr.classList.add("active"); }
+      else if (h.indexOf("/excel") > -1) { var ex = document.querySelector('.nav-tool[data-link="excel"]'); if (ex) ex.classList.add("active"); }
       else if (h.indexOf("/lab") > -1) { var l = document.querySelector('.nav-tool[data-link="lab"]'); if (l) l.classList.add("active"); }
       else if (h.indexOf("/paper") > -1) { var pp = document.querySelector('.nav-tool[data-link="papers"]'); if (pp) pp.classList.add("active"); }
       else { var home = document.querySelector('.nav-chap-head[href="#/home"]'); if (home) home.classList.add("active"); }
@@ -1010,6 +1013,17 @@
     document.title = "Financial Maths Primer — NISM X-B";
   }
 
+  function renderExcel() {
+    clearPaperTimer();
+    contentEl.innerHTML = '<div class="markdown-body primer-body">' + md(EXCEL || "Guide not available.") + "</div>"
+      + '<div class="chapter-nav"><a class="prev" href="#/primer"><div class="cn-label">The formulas behind it</div><div class="cn-title">📐 Financial Maths Primer</div></a>'
+      + '<a class="next" href="#/lab"><div class="cn-label">Practice →</div><div class="cn-title">🔢 Financial Maths Lab</div></a></div>';
+    chapterNavEl.innerHTML = "";
+    highlightNav(null);
+    var el = document.querySelector('.nav-tool[data-link="excel"]'); if (el) el.classList.add("active");
+    document.title = "Excel TVM Guide — NISM X-B";
+  }
+
   function renderChapterNav(num) {
     var i = -1; for (var k = 0; k < CH.length; k++) if (CH[k].num === num) { i = k; break; }
     var prev = i > 0 ? CH[i - 1] : null, next = i < CH.length - 1 ? CH[i + 1] : null, h = "";
@@ -1024,6 +1038,7 @@
     window.scrollTo(0, 0); closeSidebar();
     if (typeof clearPaperTimer === "function") clearPaperTimer();
     if (/^#\/primer/.test(hash)) { renderPrimer(); return; }
+    if (/^#\/excel/.test(hash)) { renderExcel(); return; }
     if (/^#\/papers/.test(hash)) { renderPapersHome(); return; }
     var pm = hash.match(/^#\/paper\/([\w-]+)/);
     if (pm) { renderPaper(pm[1]); return; }
