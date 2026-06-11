@@ -1089,7 +1089,8 @@
     });
     contentEl.innerHTML =
       '<div class="hero" style="background:linear-gradient(135deg,#107c41,#2f6df6)"><h1>💻 Excel TVM Calculator</h1>'
-      + '<p>The exam machines have Excel — this page behaves exactly like it. Fill any four boxes, press <b>CPT</b> on the fifth, and see the Excel formula you\'d type. Try the one-click presets (including the exact sums from the practice sheet photo).</p></div>'
+      + '<p>The exam machines have Excel — this page behaves exactly like it. Fill any four boxes, press <b>CPT</b> on the fifth, and see the Excel formula you\'d type. Try the one-click presets (including the exact sums from the practice sheet photo).</p>'
+      + '<div class="hero-cta"><a class="cta" href="nism-tvm-practice.xlsx" download>⬇️ Download the practice workbook (.xlsx)</a></div></div>'
       + sheet
       + '<h2 class="xl-h2">⚡ One-click presets</h2>' + presets
       + '<details class="lab-formulas"><summary>📖 Read the full one-pager guide (sign rules, error decoder, drills)</summary><div class="markdown-body">' + md(EXCEL) + "</div></details>";
